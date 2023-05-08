@@ -1,0 +1,247 @@
+Files to look over
+
+- [ ] 1. eMRD
+- [/] advancedRaceGuide
+    - No metadata; TODO: look into whether this is licensed or not
+- [-] Adventure Area
+    - Seems to contain info about adventures. 
+    - Not part of SRD; most files are empty
+- [-] Affliction
+    - List of poisons; files contain no actual information
+- [ ] Alternative Systems
+- [/] Armor
+    - 1 item
+- [/] Armor and Shield Special Abilities
+    - Contain actual content, though there are some dummy items
+- [/] Armor_Shield
+    - Contains actual content; has stats
+    - Still got some dummy items
+- [-] Armor_Shield Special Ability
+    - N/A; all metadata
+- [/] Artifacts
+    - 31 files with content
+- [-] Campaign Element
+    - All-metadata
+- [/] Cast List
+    - Has actual data; not sure if it's SRD material
+- [-] Class
+    - All metadata
+- [/] Classes
+    - 69 files with data; each seems to have all the class data
+- [/] Clerical Domains
+    - 2 files with data
+- [/] Concept
+    - 6 files with data
+    - Generating a character + Dragon's Claw things
+- [/] Deities
+    - 159 files with content
+- [/] Deity
+    - 8 files with content
+- [/] District
+    - 7 files with content
+- [/] Drow Magic Item
+    - 1 file with content
+- [/] eMRD
+    - 10019 files with content
+- [/] Event List
+    - 123 files with content
+- [/] Feat
+    - 9 files with content
+- [/] Feats
+    - 669 files with content
+- [/] Further Information
+    - 5 files with content
+- [/] General Abilities Article
+    - 324 files with content
+- [/] General Article
+    - 16 files with content
+- [/] General Characters Article
+    - 175 files with content
+- [/] General Dangers Article
+    - 699
+- [/] General Equipment Article
+    - 334
+- [/] General Game Mastering Article
+    - 10
+- [/] General Gameplay Article
+    - 34
+- [/] General Topic
+    - 7 files with content
+- [/] GM Synopsis
+    - 1 file with content
+- [/] Group_ Commerce
+    - 4 file with content
+- [/] Group_ Criminal
+    - 4 files
+- [/] Group_ Ethnic
+    - 4 files
+- [/] Group_ Family
+    - 1 file
+- [/] Group_ Government
+    - 9 files
+- [/] Group List
+    - 82 files with content
+- [/] Group_ Military
+    - 5 files with content
+- [/] Group_ Other
+    - 14 files with content
+- [/] Group_ Religious
+    - 2 files with content
+- [-] Hazard
+    - All-metadata
+- [-] Home.md
+    - Empty file
+- [/] Incident
+    - 1 file with content
+- [/] Individual
+    - 254 files with content
+- [/] Individual (Freeport)
+    - 6 files with content
+- [-] Inhabitant
+    - All-metadata
+- [/] Location
+    - 359 files with content
+- [/] Magic Item
+    - 1 file with content
+- [-] Mechanics Gallery
+    - All-metadata
+- [/] Mechanics Source
+    - 28 files with content
+- [/] Merchant
+    - 16 files with content
+- [/] Multiverse.md
+    - MoC of some sort
+- [-] Mundane Armor_Shield
+    - All-metadata
+- [-] Mundane Item
+    - All-metadata
+- [/] Mundane Weapon
+    - 8 files with content
+- [/] mythicAdventures
+    - 312 files with content
+- [/] Named Equipment
+    - 1 files with content
+- [/] Named Object
+    - 3 files with content
+- [/] Named Vehicle
+    - 1All-metadata
+- [/] npcCodex
+    - 3All-metadata
+- [/] Object Collection
+    - 1 files with content
+- [/] Obsidian
+    - 1 files with content
+- [/] Other List
+    - 22 files with content
+- [/] Place List
+    - 3 files with content
+- [/] Planetary Body
+    - 1 files with content
+- [-] Player Synopsis
+    - All-metadata
+- [-] Plot Hook
+    - All-metadata
+- [-] Plot Idea
+    - All-metadata
+- [/] prestigeClasses
+    - 1All-metadata
+- [/] Quest
+    - 12 files with content
+- [/] Race
+    - 1 files with content
+- [/] Races
+    - 7All-metadata
+- [/] realmworks-admonition.css
+    - 1 files with content
+- [/] realmworks.css
+    - 1 files with content
+- [-] Region_ Celestial
+    - All-metadata
+- [/] Region_ Dimensional
+    - 5 files with content
+- [/] Region_ Geographical
+    - 203 files with content
+- [/] Region_ Political
+    - 32 files with content
+- [/] Region_ Urban
+    - 4All-metadata
+- [/] Relationships
+    - 6 files with content
+- [/] Rings
+    - 53 files with content
+- [/] Rods
+    - 37 files with content
+- [/] Rules
+    - 84 files with content
+- [/] Scene
+    - 45 files with content
+- [/] Settlement
+    - 79 files with content
+- [-] Skill
+    - All-metadata
+- [/] Skills
+    - 25 files with content
+- [/] Special Materials
+    - 16 files with content
+- [/] Specific Armors and Shields
+    - 22 files with content
+- [/] Specific Magic Weapons
+    - 17 files with content
+- [/] Spell
+    - 1 files with content
+- [/] Spells
+    - 4526 files with content
+- [/] Spells by Descriptor
+    - 33 files with content
+- [/] Spells by School
+    - 13 files with content
+- [/] Spells by Subschool
+    - 19 files with content
+- [/] Staves
+    - 21 files with content
+- [/] Storyboard
+    - 64 files with content
+- [-] Story Gallery
+    - All-metadata
+- [/] Storyline
+    - 147 files with content
+- [/] Story Source
+    - 26 files with content
+- [/] Thing List
+    - 36 files with content
+- [/] Time Period
+    - 7 files with content
+- [-] Titled Position
+    - All-metadata
+- [/] Trait_Drawback
+    - 2 files with content
+- [/] Transfer
+    - 29 files with content
+- [-] Trap
+    - All-metadata
+- [/] Trap (Legacy)
+    - 1 files with content
+- [/] ultimateCampaign
+    - 34 files with content
+- [/] ultimateCombat
+    - 174 files with content
+- [/] ultimateEquipment
+    - 43 files with content
+- [/] ultimateMagic
+    - 282 files with content
+- [/] URC Flora
+    - 12 files with content
+- [-] Vehicle
+    - All-metadata
+- [/] Wands
+    - 1 files with content
+- [/] Weapons
+    - 93 files with content
+- [/] Weapon Special Abilities
+    - 62 files with content
+- [-] Weapon Special Ability
+    - All-metadata
+- [/] Wondrous Items
+    - 1016 files with content
+- [/] z_Templates
+    - 2

@@ -1,0 +1,4 @@
+#!/bin/sh
+
+./hasContent.py "$1" | wc -l
+ls -l "$1" | wc -l
