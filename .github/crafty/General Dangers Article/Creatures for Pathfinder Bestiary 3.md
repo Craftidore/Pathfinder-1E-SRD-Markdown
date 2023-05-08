@@ -1,0 +1,445 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Category: "General Dangers Article"
+Tags:
+  - "Category/General-Dangers-Article"
+parent:
+  - "Dangers for Pathfinder Bestiary 3"
+up:
+  - "Dangers for Pathfinder Bestiary 3"
+next:
+  - "General Dangers Articles for Pathfinder Bestiary 3"
+down:
+  - "Adherer (Bestiary 3)"
+  - "Adlet (Bestiary 3)"
+  - "Ahuizotl (Bestiary 3)"
+  - "Akhlut (Bestiary 3)"
+  - "Allip (Bestiary 3)"
+  - "Alraune (Bestiary 3)"
+  - "Animal Lord (Bestiary 3)"
+  - "Annis Hag (Bestiary 3)"
+  - "Ant Lion, Giant (Bestiary 3)"
+  - "Ant Lion, Giant Adult (Bestiary 3)"
+  - "Archon, Harbinger (Bestiary 3)"
+  - "Archon, Legion (Bestiary 3)"
+  - "Ascomoid (Bestiary 3)"
+  - "Atomie (Bestiary 3)"
+  - "Axe Beak (Bestiary 3)"
+  - "Azruverda (Bestiary 3)"
+  - "Baku (Bestiary 3)"
+  - "Bandersnatch (Bestiary 3)"
+  - "Baregara (Bestiary 3)"
+  - "Baykok (Bestiary 3)"
+  - "Berbalang (Bestiary 3)"
+  - "Bhuta (Bestiary 3)"
+  - "Bogeyman (Bestiary 3)"
+  - "Brain Ooze (Bestiary 3)"
+  - "Carbuncle (Bestiary 3)"
+  - "Carnivorous Crystal (Bestiary 3)"
+  - "Caryatid Column (Bestiary 3)"
+  - "Catfolk (Bestiary 3)"
+  - "Caulborn (Bestiary 3)"
+  - "Cecaelia (Bestiary 3)"
+  - "Ceratioidi (Bestiary 3)"
+  - "Cerberi (Bestiary 3)"
+  - "Cerebric Fungus (Bestiary 3)"
+  - "Cold Rider (Bestiary 3)"
+  - "Crab, Shark-Eating (Bestiary 3)"
+  - "Crab, Shipwrecker (Bestiary 3)"
+  - "Cyclops, Great (Bestiary 3)"
+  - "Daemon, Crucidaemon (Bestiary 3)"
+  - "Daemon, Vulnudaemon (Bestiary 3)"
+  - "Deathtrap Ooze (Bestiary 3)"
+  - "Deathweb (Bestiary 3)"
+  - "Demilich (Bestiary 3)"
+  - "Demon, Coloxus (Bestiary 3)"
+  - "Demon, Incubus (Bestiary 3)"
+  - "Demon, Schir (Bestiary 3)"
+  - "Derhii (Bestiary 3)"
+  - "Devil, Contract (Bestiary 3)"
+  - "Dinosaur, Dimetrodon (Bestiary 3)"
+  - "Dinosaur, Iguanodon (Bestiary 3)"
+  - "Dinosaur, Pachycephalosaurus (Bestiary 3)"
+  - "Dinosaur, Spinosaurus (Bestiary 3)"
+  - "Dire Corby (Bestiary 3)"
+  - "Disenchanter (Bestiary 3)"
+  - "Dragon, Faerie (Bestiary 3)"
+  - "Dragonne (Bestiary 3)"
+  - "Drake, Desert (Bestiary 3)"
+  - "Drake, Rift (Bestiary 3)"
+  - "Drake, River (Bestiary 3)"
+  - "Dybbuk (Bestiary 3)"
+  - "Ecorche (Bestiary 3)"
+  - "Eidolon, Unfettered (Bestiary 3)"
+  - "Faun (Bestiary 3)"
+  - "Festrog (Bestiary 3)"
+  - "Fey Creature (Bestiary 3)"
+  - "Flail Snail (Bestiary 3)"
+  - "Flumph (Bestiary 3)"
+  - "Garden Ooze (Bestiary 3)"
+  - "Garuda (Bestiary 3)"
+  - "Ghorazagh (Bestiary 3)"
+  - "Ghul (Bestiary 3)"
+  - "Giant, Ash (Bestiary 3)"
+  - "Giant, Cave (Bestiary 3)"
+  - "Giant, Desert (Bestiary 3)"
+  - "Giant, Jungle (Bestiary 3)"
+  - "Girtablilu (Bestiary 3)"
+  - "Globster (Bestiary 3)"
+  - "Goblin Snake (Bestiary 3)"
+  - "Golem, Bone (Bestiary 3)"
+  - "Golem, Brass (Bestiary 3)"
+  - "Golem, Cannon (Bestiary 3)"
+  - "Golem, Fossil (Bestiary 3)"
+  - "Gorynych (Bestiary 3)"
+  - "Graveknight (Bestiary 3)"
+  - "Graven Guardian (Bestiary 3)"
+  - "Gremlin, Fuath (Bestiary 3)"
+  - "Grodair (Bestiary 3)"
+  - "Grootslang (Bestiary 3)"
+  - "Guecubu (Bestiary 3)"
+  - "Hellwasp Swarm (Bestiary 3)"
+  - "Herd Animal, Antelope (Bestiary 3)"
+  - "Herd Animal, Elk (Bestiary 3)"
+  - "Hodag (Bestiary 3)"
+  - "Hollow Serpent (Bestiary 3)"
+  - "Huecuva (Bestiary 3)"
+  - "Humbaba (Bestiary 3)"
+  - "Hungry Fog (Bestiary 3)"
+  - "Iku-Turso (Bestiary 3)"
+  - "Jackalwere (Bestiary 3)"
+  - "Jellyfish, Death's Head (Bestiary 3)"
+  - "Jellyfish, Sapphire (Bestiary 3)"
+  - "Jorogumo (Bestiary 3)"
+  - "Jubjub Bird (Bestiary 3)"
+  - "Kamadan (Bestiary 3)"
+  - "Kappa (Bestiary 3)"
+  - "Kech (Bestiary 3)"
+  - "Kirin (Bestiary 3)"
+  - "Kongamato (Bestiary 3)"
+  - "Lammasu (Bestiary 3)"
+  - "Lizard, Giant Chameleon (Bestiary 3)"
+  - "Lizard, Giant Gecko (Bestiary 3)"
+  - "Lukwata (Bestiary 3)"
+  - "Maftet (Bestiary 3)"
+  - "Magmin (Bestiary 3)"
+  - "Manananggal (Bestiary 3)"
+  - "Marsupial, Kangaroo (Bestiary 3)"
+  - "Marsupial, Thylacine (Bestiary 3)"
+  - "Megafauna, Archelon (Bestiary 3)"
+  - "Megafauna, Baluchitherium (Bestiary 3)"
+  - "Megafauna, Basilosaurus (Bestiary 3)"
+  - "Megafauna, Megalania (Bestiary 3)"
+  - "Mobogo (Bestiary 3)"
+  - "Moon-Beast (Bestiary 3)"
+  - "Myceloid (Bestiary 3)"
+  - "Naga, Lunar (Bestiary 3)"
+  - "Naga, Royal (Bestiary 3)"
+  - "Naga, Water (Bestiary 3)"
+  - "Nephilim (Bestiary 3)"
+  - "Nixie (Bestiary 3)"
+  - "Norn (Bestiary 3)"
+  - "Nuckelavee (Bestiary 3)"
+  - "Nue (Bestiary 3)"
+  - "Owl, Giant (Bestiary 3)"
+  - "Owl, Great Horned (Bestiary 3)"
+  - "Pale Stranger (Bestiary 3)"
+  - "Parasite, Giant Rot Grub (Bestiary 3)"
+  - "Parasite, Rot Grub Swarm (Bestiary 3)"
+  - "Penanggalen (Bestiary 3)"
+  - "Peri (Bestiary 3)"
+  - "Phantom Fungus (Bestiary 3)"
+  - "Plasma Ooze (Bestiary 3)"
+  - "Popobala (Bestiary 3)"
+  - "Porcupine (Bestiary 3)"
+  - "Porcupine, Giant (Bestiary 3)"
+  - "Pukwudgie (Bestiary 3)"
+  - "Ratfolk (Bestiary 3)"
+  - "Rusalka (Bestiary 3)"
+  - "Sabosan (Bestiary 3)"
+  - "Sagari (Bestiary 3)"
+  - "Sargassum Fiend (Bestiary 3)"
+  - "Sasquatch (Bestiary 3)"
+  - "Scorpion, Deadfall (Bestiary 3)"
+  - "Scorpion, Ghost (Bestiary 3)"
+  - "Sea Anemone, Giant (Bestiary 3)"
+  - "Sea Bonze (Bestiary 3)"
+  - "Sea Serpent, Deep (Bestiary 3)"
+  - "Shadow Mastiff (Bestiary 3)"
+  - "Shae (Bestiary 3)"
+  - "Shedu (Bestiary 3)"
+  - "Shinigami (Bestiary 3)"
+  - "Simurgh (Bestiary 3)"
+  - "Siyokoy (Bestiary 3)"
+  - "Skunk (Bestiary 3)"
+  - "Skunk, Giant (Bestiary 3)"
+  - "Sleipnir (Bestiary 3)"
+  - "Snake Swarm (Bestiary 3)"
+  - "Snake Swarm, Venomous (Bestiary 3)"
+  - "Spider Eater (Bestiary 3)"
+  - "Spider, Giant Crab (Bestiary 3)"
+  - "Spider, Ogre (Bestiary 3)"
+  - "Sprite (Bestiary 3)"
+  - "Stymphalidies (Bestiary 3)"
+  - "Suli (Bestiary 3)"
+  - "Tanuki (Bestiary 3)"
+  - "Taotieh (Bestiary 3)"
+  - "Tatzlwyrm (Bestiary 3)"
+  - "Terra-Cotta Soldier (Bestiary 3)"
+  - "Titan, Hekatonkheires (Bestiary 3)"
+  - "Tojanida (Bestiary 3)"
+  - "Tophet (Bestiary 3)"
+  - "Troll, Jotund (Bestiary 3)"
+  - "Troll, Moss (Bestiary 3)"
+  - "Trollhound (Bestiary 3)"
+  - "Tupilaq (Bestiary 3)"
+  - "Tzitzimitl (Bestiary 3)"
+  - "Valkyrie (Bestiary 3)"
+  - "Vampire, Jiang-Shi (Bestiary 3)"
+  - "Vanara (Bestiary 3)"
+  - "Vishkanya (Bestiary 3)"
+  - "Vodyanoi (Bestiary 3)"
+  - "Voonith (Bestiary 3)"
+  - "Vulture (Bestiary 3)"
+  - "Vulture, Giant (Bestiary 3)"
+  - "Wolf-in-Sheep's-Clothing (Bestiary 3)"
+  - "Yithian (Bestiary 3)"
+  - "Yuki-Onna (Bestiary 3)"
+  - "Zoog (Bestiary 3)"
+  - "Zuvembie (Bestiary 3)"
+  - "Asura (Bestiary 3)"
+  - "Behemoth (Bestiary 3)"
+  - "Clockwork (Bestiary 3)"
+  - "Demodand (Bestiary 3)"
+  - "Div (Bestiary 3)"
+  - "Dragon, Imperial (Bestiary 3)"
+  - "Familiar (Bestiary 3)"
+  - "Foo Creature (Bestiary 3)"
+  - "Kami (Bestiary 3)"
+  - "Kyton (Bestiary 3)"
+  - "Leshy (Bestiary 3)"
+  - "Linnorm (Bestiary 3)"
+  - "Oni (Bestiary 3)"
+  - "Rakshasa (Bestiary 3)"
+  - "Sphinx (Bestiary 3)"
+  - "Thriae (Bestiary 3)"
+RWtopicId: "Topic_10666"
+---
+# Creatures for Pathfinder Bestiary 3
+## Overview
+---
+## Governed Content
+- [[Adherer (Bestiary 3)]]
+- [[Adlet (Bestiary 3)]]
+- [[Ahuizotl (Bestiary 3)]]
+- [[Akhlut (Bestiary 3)]]
+- [[Allip (Bestiary 3)]]
+- [[Alraune (Bestiary 3)]]
+- [[Animal Lord (Bestiary 3)]]
+- [[Annis Hag (Bestiary 3)]]
+- [[Ant Lion, Giant (Bestiary 3)]]
+- [[Ant Lion, Giant Adult (Bestiary 3)]]
+- [[Archon, Harbinger (Bestiary 3)]]
+- [[Archon, Legion (Bestiary 3)]]
+- [[Ascomoid (Bestiary 3)]]
+- [[Asura (Bestiary 3)]]
+- [[Atomie (Bestiary 3)]]
+- [[Axe Beak (Bestiary 3)]]
+- [[Azruverda (Bestiary 3)]]
+- [[Baku (Bestiary 3)]]
+- [[Bandersnatch (Bestiary 3)]]
+- [[Baregara (Bestiary 3)]]
+- [[Baykok (Bestiary 3)]]
+- [[Behemoth (Bestiary 3)]]
+- [[Berbalang (Bestiary 3)]]
+- [[Bhuta (Bestiary 3)]]
+- [[Bogeyman (Bestiary 3)]]
+- [[Brain Ooze (Bestiary 3)]]
+- [[Carbuncle (Bestiary 3)]]
+- [[Carnivorous Crystal (Bestiary 3)]]
+- [[Caryatid Column (Bestiary 3)]]
+- [[Catfolk (Bestiary 3)]]
+- [[Caulborn (Bestiary 3)]]
+- [[Cecaelia (Bestiary 3)]]
+- [[Ceratioidi (Bestiary 3)]]
+- [[Cerberi (Bestiary 3)]]
+- [[Cerebric Fungus (Bestiary 3)]]
+- [[Clockwork (Bestiary 3)]]
+- [[Cold Rider (Bestiary 3)]]
+- [[Crab, Shark-Eating (Bestiary 3)]]
+- [[Crab, Shipwrecker (Bestiary 3)]]
+- [[Cyclops, Great (Bestiary 3)]]
+- [[Daemon, Crucidaemon (Bestiary 3)]]
+- [[Daemon, Vulnudaemon (Bestiary 3)]]
+- [[Deathtrap Ooze (Bestiary 3)]]
+- [[Deathweb (Bestiary 3)]]
+- [[Demilich (Bestiary 3)]]
+- [[Demodand (Bestiary 3)]]
+- [[Demon, Coloxus (Bestiary 3)]]
+- [[Demon, Incubus (Bestiary 3)]]
+- [[Demon, Schir (Bestiary 3)]]
+- [[Derhii (Bestiary 3)]]
+- [[Devil, Contract (Bestiary 3)]]
+- [[Dinosaur, Dimetrodon (Bestiary 3)]]
+- [[Dinosaur, Iguanodon (Bestiary 3)]]
+- [[Dinosaur, Pachycephalosaurus (Bestiary 3)]]
+- [[Dinosaur, Spinosaurus (Bestiary 3)]]
+- [[Dire Corby (Bestiary 3)]]
+- [[Disenchanter (Bestiary 3)]]
+- [[Div (Bestiary 3)]]
+- [[Dragon, Faerie (Bestiary 3)]]
+- [[Dragon, Imperial (Bestiary 3)]]
+- [[Dragonne (Bestiary 3)]]
+- [[Drake, Desert (Bestiary 3)]]
+- [[Drake, Rift (Bestiary 3)]]
+- [[Drake, River (Bestiary 3)]]
+- [[Dybbuk (Bestiary 3)]]
+- [[Ecorche (Bestiary 3)]]
+- [[Eidolon, Unfettered (Bestiary 3)]]
+- [[Familiar (Bestiary 3)]]
+- [[Faun (Bestiary 3)]]
+- [[Festrog (Bestiary 3)]]
+- [[Fey Creature (Bestiary 3)]]
+- [[Flail Snail (Bestiary 3)]]
+- [[Flumph (Bestiary 3)]]
+- [[Foo Creature (Bestiary 3)]]
+- [[Garden Ooze (Bestiary 3)]]
+- [[Garuda (Bestiary 3)]]
+- [[Ghorazagh (Bestiary 3)]]
+- [[Ghul (Bestiary 3)]]
+- [[Giant, Ash (Bestiary 3)]]
+- [[Giant, Cave (Bestiary 3)]]
+- [[Giant, Desert (Bestiary 3)]]
+- [[Giant, Jungle (Bestiary 3)]]
+- [[Girtablilu (Bestiary 3)]]
+- [[Globster (Bestiary 3)]]
+- [[Goblin Snake (Bestiary 3)]]
+- [[Golem, Bone (Bestiary 3)]]
+- [[Golem, Brass (Bestiary 3)]]
+- [[Golem, Cannon (Bestiary 3)]]
+- [[Golem, Fossil (Bestiary 3)]]
+- [[Gorynych (Bestiary 3)]]
+- [[Graveknight (Bestiary 3)]]
+- [[Graven Guardian (Bestiary 3)]]
+- [[Gremlin, Fuath (Bestiary 3)]]
+- [[Grodair (Bestiary 3)]]
+- [[Grootslang (Bestiary 3)]]
+- [[Guecubu (Bestiary 3)]]
+- [[Hellwasp Swarm (Bestiary 3)]]
+- [[Herd Animal, Antelope (Bestiary 3)]]
+- [[Herd Animal, Elk (Bestiary 3)]]
+- [[Hodag (Bestiary 3)]]
+- [[Hollow Serpent (Bestiary 3)]]
+- [[Huecuva (Bestiary 3)]]
+- [[Humbaba (Bestiary 3)]]
+- [[Hungry Fog (Bestiary 3)]]
+- [[Iku-Turso (Bestiary 3)]]
+- [[Jackalwere (Bestiary 3)]]
+- [[Jellyfish, Death's Head (Bestiary 3)]]
+- [[Jellyfish, Sapphire (Bestiary 3)]]
+- [[Jorogumo (Bestiary 3)]]
+- [[Jubjub Bird (Bestiary 3)]]
+- [[Kamadan (Bestiary 3)]]
+- [[Kami (Bestiary 3)]]
+- [[Kappa (Bestiary 3)]]
+- [[Kech (Bestiary 3)]]
+- [[Kirin (Bestiary 3)]]
+- [[Kongamato (Bestiary 3)]]
+- [[Kyton (Bestiary 3)]]
+- [[Lammasu (Bestiary 3)]]
+- [[Leshy (Bestiary 3)]]
+- [[Linnorm (Bestiary 3)]]
+- [[Lizard, Giant Chameleon (Bestiary 3)]]
+- [[Lizard, Giant Gecko (Bestiary 3)]]
+- [[Lukwata (Bestiary 3)]]
+- [[Maftet (Bestiary 3)]]
+- [[Magmin (Bestiary 3)]]
+- [[Manananggal (Bestiary 3)]]
+- [[Marsupial, Kangaroo (Bestiary 3)]]
+- [[Marsupial, Thylacine (Bestiary 3)]]
+- [[Megafauna, Archelon (Bestiary 3)]]
+- [[Megafauna, Baluchitherium (Bestiary 3)]]
+- [[Megafauna, Basilosaurus (Bestiary 3)]]
+- [[Megafauna, Megalania (Bestiary 3)]]
+- [[Mobogo (Bestiary 3)]]
+- [[Moon-Beast (Bestiary 3)]]
+- [[Myceloid (Bestiary 3)]]
+- [[Naga, Lunar (Bestiary 3)]]
+- [[Naga, Royal (Bestiary 3)]]
+- [[Naga, Water (Bestiary 3)]]
+- [[Nephilim (Bestiary 3)]]
+- [[Nixie (Bestiary 3)]]
+- [[Norn (Bestiary 3)]]
+- [[Nuckelavee (Bestiary 3)]]
+- [[Nue (Bestiary 3)]]
+- [[Oni (Bestiary 3)]]
+- [[Owl, Giant (Bestiary 3)]]
+- [[Owl, Great Horned (Bestiary 3)]]
+- [[Pale Stranger (Bestiary 3)]]
+- [[Parasite, Giant Rot Grub (Bestiary 3)]]
+- [[Parasite, Rot Grub Swarm (Bestiary 3)]]
+- [[Penanggalen (Bestiary 3)]]
+- [[Peri (Bestiary 3)]]
+- [[Phantom Fungus (Bestiary 3)]]
+- [[Plasma Ooze (Bestiary 3)]]
+- [[Popobala (Bestiary 3)]]
+- [[Porcupine (Bestiary 3)]]
+- [[Porcupine, Giant (Bestiary 3)]]
+- [[Pukwudgie (Bestiary 3)]]
+- [[Rakshasa (Bestiary 3)]]
+- [[Ratfolk (Bestiary 3)]]
+- [[Rusalka (Bestiary 3)]]
+- [[Sabosan (Bestiary 3)]]
+- [[Sagari (Bestiary 3)]]
+- [[Sargassum Fiend (Bestiary 3)]]
+- [[Sasquatch (Bestiary 3)]]
+- [[Scorpion, Deadfall (Bestiary 3)]]
+- [[Scorpion, Ghost (Bestiary 3)]]
+- [[Sea Anemone, Giant (Bestiary 3)]]
+- [[Sea Bonze (Bestiary 3)]]
+- [[Sea Serpent, Deep (Bestiary 3)]]
+- [[Shadow Mastiff (Bestiary 3)]]
+- [[Shae (Bestiary 3)]]
+- [[Shedu (Bestiary 3)]]
+- [[Shinigami (Bestiary 3)]]
+- [[Simurgh (Bestiary 3)]]
+- [[Siyokoy (Bestiary 3)]]
+- [[Skunk (Bestiary 3)]]
+- [[Skunk, Giant (Bestiary 3)]]
+- [[Sleipnir (Bestiary 3)]]
+- [[Snake Swarm (Bestiary 3)]]
+- [[Snake Swarm, Venomous (Bestiary 3)]]
+- [[Sphinx (Bestiary 3)]]
+- [[Spider Eater (Bestiary 3)]]
+- [[Spider, Giant Crab (Bestiary 3)]]
+- [[Spider, Ogre (Bestiary 3)]]
+- [[Sprite (Bestiary 3)]]
+- [[Stymphalidies (Bestiary 3)]]
+- [[Suli (Bestiary 3)]]
+- [[Tanuki (Bestiary 3)]]
+- [[Taotieh (Bestiary 3)]]
+- [[Tatzlwyrm (Bestiary 3)]]
+- [[Terra-Cotta Soldier (Bestiary 3)]]
+- [[Thriae (Bestiary 3)]]
+- [[Titan, Hekatonkheires (Bestiary 3)]]
+- [[Tojanida (Bestiary 3)]]
+- [[Tophet (Bestiary 3)]]
+- [[Troll, Jotund (Bestiary 3)]]
+- [[Troll, Moss (Bestiary 3)]]
+- [[Trollhound (Bestiary 3)]]
+- [[Tupilaq (Bestiary 3)]]
+- [[Tzitzimitl (Bestiary 3)]]
+- [[Valkyrie (Bestiary 3)]]
+- [[Vampire, Jiang-Shi (Bestiary 3)]]
+- [[Vanara (Bestiary 3)]]
+- [[Vishkanya (Bestiary 3)]]
+- [[Vodyanoi (Bestiary 3)]]
+- [[Voonith (Bestiary 3)]]
+- [[Vulture (Bestiary 3)]]
+- [[Vulture, Giant (Bestiary 3)]]
+- [[Wolf-in-Sheep's-Clothing (Bestiary 3)]]
+- [[Yithian (Bestiary 3)]]
+- [[Yuki-Onna (Bestiary 3)]]
+- [[Zoog (Bestiary 3)]]
+- [[Zuvembie (Bestiary 3)]]
+

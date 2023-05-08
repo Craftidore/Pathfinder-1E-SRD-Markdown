@@ -1,0 +1,22 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Aliases:
+  - "Dog Rider Knight"
+  - "Dog Rider Knights"
+Category: "Creature"
+Prefix: "CR 6"
+Suffix: "NPC Codex"
+Tags:
+  - "Category/Creature"
+parent:
+  - "Paladin"
+up:
+  - "Paladin"
+prev:
+  - "CR 7 - Desert Protector (NPC Codex)"
+next:
+  - "CR 12 - Dragon Smiter (NPC Codex)"
+RWtopicId: "Topic_8532"
+---
+# CR 6 - Dog Rider Knight (NPC Codex)
+## Overview

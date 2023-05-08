@@ -1,0 +1,475 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Category: "Spells"
+Tags:
+  - "Category/Spells"
+parent:
+  - "Spell Descriptions (Spells)"
+up:
+  - "Spell Descriptions (Spells)"
+prev:
+  - "L"
+next:
+  - "N"
+down:
+  - "Mirror Polish (Spell)"
+  - "Molten Orb (Spell)"
+  - "Monkey Fish (Spell)"
+  - "Muffle Sound (Spell)"
+  - "Marks of Forbiddance (Spell)"
+  - "Mask Dweomer (Spell)"
+  - "Memory Lapse (Spell)"
+  - "Moonstruck (Spell)"
+  - "Mind Stasis, Greater (Spell)"
+  - "Megalodon Empowerment (Spell)"
+  - "Magnetism (Spell)"
+  - "Mage Armor, Improved (Spell)"
+  - "Mineralize Warrior (Spell)"
+  - "Magnifying Chime (Spell)"
+  - "Mantle of Calm (Spell)"
+  - "Marching Chant (Spell)"
+  - "Mark of Obvious Ethics (Spell)"
+  - "Mirror Travel (Spell)"
+  - "Mirror Travel, Greater (Spell)"
+  - "Mirror Talk (Spell)"
+  - "Magic Jar (Spell)"
+  - "Mystic Shield (Spell)"
+  - "Mind Fog (Spell)"
+  - "Mage Hand (Spell)"
+  - "Mending (Spell)"
+  - "Message (Spell)"
+  - "Minor Disguise (Spell)"
+  - "Magic Aura (Spell)"
+  - "Magic Mouth (Spell)"
+  - "Minor Image (Spell)"
+  - "Mirror Image (Spell)"
+  - "Misdirection (Spell)"
+  - "Modify Memory (Spell)"
+  - "Mirage Arcana (Spell)"
+  - "Mislead (Spell)"
+  - "Mudslide (Spell)"
+  - "Master's Touch (Spell)"
+  - "Memory Rot (Spell)"
+  - "Mind Poison (Spell)"
+  - "Menacing Tentacles (Spell)"
+  - "Momentary Revelation (Spell)"
+  - "Mind of the Labyrinth (Spell)"
+  - "Mark of the Wild (Spell)"
+  - "Marked Pulse (Spell)"
+  - "Mask Aberrant Dragonmark (Spell)"
+  - "Magecraft (Spell)"
+  - "Metamagic Item (Spell)"
+  - "Mental Pinnacle (Spell)"
+  - "Morality Undone (Spell)"
+  - "Manifest Death (Spell)"
+  - "Manifest Life (Spell)"
+  - "Mass Manifest (Spell)"
+  - "Maddening Scream (Spell)"
+  - "Maddening Whispers (Spell)"
+  - "Maelstrom (Spell)"
+  - "Mage Armor, Greater (Spell)"
+  - "Mage Hand, Greater (Spell)"
+  - "Magic Miasma (Spell)"
+  - "Malevolent Miasma (Spell)"
+  - "Make Manifest (Spell)"
+  - "Make Manifest, Mass (Spell)"
+  - "Mantle of Chaos (Spell)"
+  - "Mantle of Evil (Spell)"
+  - "Mantle of Good (Spell)"
+  - "Mantle of Law (Spell)"
+  - "Mantle of the Icy Soul (Spell)"
+  - "Manyjaws (Spell)"
+  - "Mark of the Hunter (Spell)"
+  - "Mark of the Outcast (Spell)"
+  - "Marked Object (Spell)"
+  - "Master Air (Spell)"
+  - "Master Earth (Spell)"
+  - "Maw of Chaos (Spell)"
+  - "Maw of Stone (Spell)"
+  - "Mechanus Mind (Spell)"
+  - "Mesmerizing Glare (Spell)"
+  - "Metal Melt (Spell)"
+  - "Miasma (Spell)"
+  - "Miasma of Entropy (Spell)"
+  - "Mindless Rage (Spell)"
+  - "Miser's Envy (Spell)"
+  - "Moment of Clarity (Spell)"
+  - "Monstrous Thrall (Spell)"
+  - "Moon Blade (Spell)"
+  - "Moon Bolt (Spell)"
+  - "Moon Lust (Spell)"
+  - "Moon Path (Spell)"
+  - "Moonbeam (Spell)"
+  - "Moonbow (Spell)"
+  - "Moonfire (Spell)"
+  - "Mountain Stance (Spell)"
+  - "Murderous Mist (Spell)"
+  - "Mage Armor, Mass (Spell)"
+  - "Mirror of All Worlds (Spell)"
+  - "Magic Aura, Greater (Spell)"
+  - "Mageship (Spell)"
+  - "Misrepresent Alignment (Spell)"
+  - "Manifest Dragon Heritage (Spell)"
+  - "Manifest Dragon Heritage, Greater (Spell)"
+  - "Mighty Wallop (Spell)"
+  - "Mighty Wallop, Greater (Spell)"
+  - "Mastery of the Sky (Spell)"
+  - "Mantle of the Fiery Spirit (Spell)"
+  - "Mephit Mob (Spell)"
+  - "Mummify (Spell)"
+  - "Maddening Oubliette (Spell)"
+  - "Mage's Decree (Spell)"
+  - "Malevolent Tentacles (Spell)"
+  - "Magical Backlash, Greater (Spell)"
+  - "Mystic Shield, Lesser (Spell)"
+  - "Melee Manager (Spell)"
+  - "Masking Aura (Spell)"
+  - "Martyr's Sacrifice (Spell)"
+  - "Major Creation (Spell)"
+  - "Mage Armor (Spell)"
+  - "Make Whole (Spell)"
+  - "Magic Missile (Spell)"
+  - "Major Image (Spell)"
+  - "Masochism (Spell)"
+  - "Mindrape (Spell)"
+  - "Mirror Sending (Spell)"
+  - "Mantle of the Slime Lord (Spell)"
+  - "Mark of the Unfaithful (Spell)"
+  - "Moonlight (Spell)"
+  - "Magnetism, Greater (Spell)"
+  - "Melt (Spell)"
+  - "Metal Skin (Spell)"
+  - "Minute Form (Spell)"
+  - "Mage Clock (Spell)"
+  - "Mark of Sin (Spell)"
+  - "Master Cavalier (Spell)"
+  - "Metal Fang (Spell)"
+  - "Moral Facade (Spell)"
+  - "Magic Savant (Spell)"
+  - "Mask of the Ideal (Spell)"
+  - "Mysterious Redirection (Spell)"
+  - "Malevolent Whisper (Spell)"
+  - "Mage Burr (Spell)"
+  - "Manifestation of the Deity (Spell)"
+  - "Mimicry (Spell)"
+  - "Magic Fang, Superior (Spell)"
+  - "Magic of the Dragonheart (Spell)"
+  - "Mark of the Enlightened Soul (Spell)"
+  - "Meld Into Mirror (Spell)"
+  - "Mirror Magic (Spell)"
+  - "Magnetic Pulse (Spell)"
+  - "Mind Bond (Spell)"
+  - "Magic Circle Against Evil (Spell)"
+  - "Mindworms (Spell)"
+  - "Memorize Page (Spell)"
+  - "Mindlocked Messenger (Spell)"
+  - "Mirror Hideaway (Spell)"
+  - "Mirror Transport (Spell)"
+  - "Mage's Faithful Hound (Spell)"
+  - "Mage's Lucubration (Spell)"
+  - "Mage's Magnificent Mansion (Spell)"
+  - "Mage's Private Sanctum (Spell)"
+  - "Mage's Sword (Spell)"
+  - "Magic Circle Against Chaos (Spell)"
+  - "Magic Circle Against Good (Spell)"
+  - "Magic Circle Against Law (Spell)"
+  - "Magic Fang (Spell)"
+  - "Magic Fang, Greater (Spell)"
+  - "Magic Stone (Spell)"
+  - "Magic Vestment (Spell)"
+  - "Magic Weapon, Greater (Spell)"
+  - "Mark of Justice (Spell)"
+  - "Maze (Spell)"
+  - "Meld Into Stone (Spell)"
+  - "Meteor Swarm (Spell)"
+  - "Mind Blank (Spell)"
+  - "Miracle (Spell)"
+  - "Mnemonic Enhancer (Spell)"
+  - "Moment of Prescience (Spell)"
+  - "Mount (Spell)"
+  - "Move Earth (Spell)"
+  - "Magical Backlash (Spell)"
+  - "Master Hammer (Spell)"
+  - "Mighty Hammer (Spell)"
+  - "Multidimensional Touch (Spell)"
+  - "Mage's Revenge (Spell)"
+  - "Mage's Disjunction (Spell)"
+  - "Magic Weapon (Spell)"
+  - "Martial Marionette (Spell)"
+  - "Martyr's Bargain (Spell)"
+  - "Music of the Spheres (Spell)"
+  - "Mudball (Spell)"
+  - "Mighty Fist of the Earth (Spell)"
+  - "Magic Shop (Spell)"
+  - "Magic Circle Against Summoning (Spell)"
+  - "Mnemonic Siphon (Spell)"
+  - "Molten Strike (Spell)"
+  - "Manifest Desire (Spell)"
+  - "Manifest Nightmare (Spell)"
+  - "Metamorphose Liquids (Spell)"
+  - "Mantle of Pure Spite (Spell)"
+  - "Master's Lament (Spell)"
+  - "Mailed Might of the Magelords (Spell)"
+  - "Mistsight (Spell)"
+  - "Magic Weapon, Mass Greater (Spell)"
+  - "Magic Weapon, Mass (Spell)"
+  - "Metamagic Scroll (Spell)"
+  - "Mindburn (Spell)"
+  - "Masterwork Transformation (Spell)"
+  - "Meld into Ice (Spell)"
+  - "Mindfrost (Spell)"
+  - "Move Snow and Ice (Spell)"
+  - "Minor Creation (Spell)"
+  - "Make Whole, Greater (Spell)"
+  - "Magician's Workshop (Spell)"
+  - "Maestro's Favor (Spell)"
+  - "Message, Greater (Spell)"
+  - "Mind Stasis, Lesser (Spell)"
+  - "Mind Stasis (Spell)"
+  - "Mage's Magnificent Keep (Spell)"
+  - "Magic Convalescence (Spell)"
+  - "Mana Flux (Spell)"
+  - "Mark of Doom (Spell)"
+  - "Mark of Judgment (Spell)"
+  - "Master's Skillful Touch (Spell)"
+  - "Meteoric Strike (Spell)"
+  - "Mirror Image, Greater (Spell)"
+  - "Mystic Aegis (Spell)"
+  - "Mystic Surge (Spell)"
+  - "Metallic Wings, Lesser (Spell)"
+  - "Metallic Wings (Spell)"
+  - "Metallic Wings, Greater (Spell)"
+RWtopicId: "Topic_15946"
+---
+# M
+## Overview
+---
+## Governed Content
+- [[Maddening Oubliette (Spell)]]
+- [[Maddening Scream (Spell)]]
+- [[Maddening Whispers (Spell)]]
+- [[Maelstrom (Spell)]]
+- [[Maestro's Favor (Spell)]]
+- [[Mage Armor (Spell)]]
+- [[Mage Armor, Greater (Spell)]]
+- [[Mage Armor, Improved (Spell)]]
+- [[Mage Armor, Mass (Spell)]]
+- [[Mage Burr (Spell)]]
+- [[Mage Clock (Spell)]]
+- [[Mage Hand (Spell)]]
+- [[Mage Hand, Greater (Spell)]]
+- [[Magecraft (Spell)]]
+- [[Mage's Decree (Spell)]]
+- [[Mage's Disjunction (Spell)]]
+- [[Mage's Faithful Hound (Spell)]]
+- [[Mage's Lucubration (Spell)]]
+- [[Mage's Magnificent Keep (Spell)]]
+- [[Mage's Magnificent Mansion (Spell)]]
+- [[Mage's Private Sanctum (Spell)]]
+- [[Mage's Revenge (Spell)]]
+- [[Mage's Sword (Spell)]]
+- [[Mageship (Spell)]]
+- [[Magic Aura (Spell)]]
+- [[Magic Aura, Greater (Spell)]]
+- [[Magic Circle Against Chaos (Spell)]]
+- [[Magic Circle Against Evil (Spell)]]
+- [[Magic Circle Against Good (Spell)]]
+- [[Magic Circle Against Law (Spell)]]
+- [[Magic Circle Against Summoning (Spell)]]
+- [[Magic Convalescence (Spell)]]
+- [[Magic Fang (Spell)]]
+- [[Magic Fang, Greater (Spell)]]
+- [[Magic Fang, Superior (Spell)]]
+- [[Magic Jar (Spell)]]
+- [[Magic Miasma (Spell)]]
+- [[Magic Missile (Spell)]]
+- [[Magic Mouth (Spell)]]
+- [[Magic of the Dragonheart (Spell)]]
+- [[Magic Savant (Spell)]]
+- [[Magic Shop (Spell)]]
+- [[Magic Stone (Spell)]]
+- [[Magic Vestment (Spell)]]
+- [[Magic Weapon (Spell)]]
+- [[Magic Weapon, Greater (Spell)]]
+- [[Magic Weapon, Mass (Spell)]]
+- [[Magic Weapon, Mass Greater (Spell)]]
+- [[Magical Backlash (Spell)]]
+- [[Magical Backlash, Greater (Spell)]]
+- [[Magician's Workshop (Spell)]]
+- [[Magnetic Pulse (Spell)]]
+- [[Magnetism (Spell)]]
+- [[Magnetism, Greater (Spell)]]
+- [[Magnifying Chime (Spell)]]
+- [[Mailed Might of the Magelords (Spell)]]
+- [[Major Creation (Spell)]]
+- [[Major Image (Spell)]]
+- [[Make Manifest (Spell)]]
+- [[Make Manifest, Mass (Spell)]]
+- [[Make Whole (Spell)]]
+- [[Make Whole, Greater (Spell)]]
+- [[Malevolent Miasma (Spell)]]
+- [[Malevolent Tentacles (Spell)]]
+- [[Malevolent Whisper (Spell)]]
+- [[Mana Flux (Spell)]]
+- [[Manifest Death (Spell)]]
+- [[Manifest Desire (Spell)]]
+- [[Manifest Dragon Heritage (Spell)]]
+- [[Manifest Dragon Heritage, Greater (Spell)]]
+- [[Manifest Life (Spell)]]
+- [[Manifest Nightmare (Spell)]]
+- [[Manifestation of the Deity (Spell)]]
+- [[Mantle of Calm (Spell)]]
+- [[Mantle of Chaos (Spell)]]
+- [[Mantle of Evil (Spell)]]
+- [[Mantle of Good (Spell)]]
+- [[Mantle of Law (Spell)]]
+- [[Mantle of Pure Spite (Spell)]]
+- [[Mantle of the Fiery Spirit (Spell)]]
+- [[Mantle of the Icy Soul (Spell)]]
+- [[Mantle of the Slime Lord (Spell)]]
+- [[Manyjaws (Spell)]]
+- [[Marching Chant (Spell)]]
+- [[Mark of Doom (Spell)]]
+- [[Mark of Judgment (Spell)]]
+- [[Mark of Justice (Spell)]]
+- [[Mark of Obvious Ethics (Spell)]]
+- [[Mark of Sin (Spell)]]
+- [[Mark of the Enlightened Soul (Spell)]]
+- [[Mark of the Hunter (Spell)]]
+- [[Mark of the Outcast (Spell)]]
+- [[Mark of the Unfaithful (Spell)]]
+- [[Mark of the Wild (Spell)]]
+- [[Marked Object (Spell)]]
+- [[Marked Pulse (Spell)]]
+- [[Marks of Forbiddance (Spell)]]
+- [[Martial Marionette (Spell)]]
+- [[Martyr's Bargain (Spell)]]
+- [[Martyr's Sacrifice (Spell)]]
+- [[Mask Aberrant Dragonmark (Spell)]]
+- [[Mask Dweomer (Spell)]]
+- [[Mask of the Ideal (Spell)]]
+- [[Masking Aura (Spell)]]
+- [[Masochism (Spell)]]
+- [[Mass Manifest (Spell)]]
+- [[Master Air (Spell)]]
+- [[Master Cavalier (Spell)]]
+- [[Master Earth (Spell)]]
+- [[Master Hammer (Spell)]]
+- [[Master's Lament (Spell)]]
+- [[Master's Skillful Touch (Spell)]]
+- [[Master's Touch (Spell)]]
+- [[Masterwork Transformation (Spell)]]
+- [[Mastery of the Sky (Spell)]]
+- [[Maw of Chaos (Spell)]]
+- [[Maw of Stone (Spell)]]
+- [[Maze (Spell)]]
+- [[Mechanus Mind (Spell)]]
+- [[Megalodon Empowerment (Spell)]]
+- [[Meld into Ice (Spell)]]
+- [[Meld Into Mirror (Spell)]]
+- [[Meld Into Stone (Spell)]]
+- [[Melee Manager (Spell)]]
+- [[Melt (Spell)]]
+- [[Memorize Page (Spell)]]
+- [[Memory Lapse (Spell)]]
+- [[Memory Rot (Spell)]]
+- [[Menacing Tentacles (Spell)]]
+- [[Mending (Spell)]]
+- [[Mental Pinnacle (Spell)]]
+- [[Mephit Mob (Spell)]]
+- [[Mesmerizing Glare (Spell)]]
+- [[Message (Spell)]]
+- [[Message, Greater (Spell)]]
+- [[Metal Fang (Spell)]]
+- [[Metal Melt (Spell)]]
+- [[Metal Skin (Spell)]]
+- [[Metallic Wings (Spell)]]
+- [[Metallic Wings, Greater (Spell)]]
+- [[Metallic Wings, Lesser (Spell)]]
+- [[Metamagic Item (Spell)]]
+- [[Metamagic Scroll (Spell)]]
+- [[Metamorphose Liquids (Spell)]]
+- [[Meteor Swarm (Spell)]]
+- [[Meteoric Strike (Spell)]]
+- [[Miasma (Spell)]]
+- [[Miasma of Entropy (Spell)]]
+- [[Mighty Fist of the Earth (Spell)]]
+- [[Mighty Hammer (Spell)]]
+- [[Mighty Wallop (Spell)]]
+- [[Mighty Wallop, Greater (Spell)]]
+- [[Mimicry (Spell)]]
+- [[Mind Blank (Spell)]]
+- [[Mind Bond (Spell)]]
+- [[Mind Fog (Spell)]]
+- [[Mind of the Labyrinth (Spell)]]
+- [[Mind Poison (Spell)]]
+- [[Mind Stasis (Spell)]]
+- [[Mind Stasis, Greater (Spell)]]
+- [[Mind Stasis, Lesser (Spell)]]
+- [[Mindburn (Spell)]]
+- [[Mindfrost (Spell)]]
+- [[Mindless Rage (Spell)]]
+- [[Mindlocked Messenger (Spell)]]
+- [[Mindrape (Spell)]]
+- [[Mindworms (Spell)]]
+- [[Mineralize Warrior (Spell)]]
+- [[Minor Creation (Spell)]]
+- [[Minor Disguise (Spell)]]
+- [[Minor Image (Spell)]]
+- [[Minute Form (Spell)]]
+- [[Miracle (Spell)]]
+- [[Mirage Arcana (Spell)]]
+- [[Mirror Hideaway (Spell)]]
+- [[Mirror Image (Spell)]]
+- [[Mirror Image, Greater (Spell)]]
+- [[Mirror Magic (Spell)]]
+- [[Mirror of All Worlds (Spell)]]
+- [[Mirror Polish (Spell)]]
+- [[Mirror Sending (Spell)]]
+- [[Mirror Talk (Spell)]]
+- [[Mirror Transport (Spell)]]
+- [[Mirror Travel (Spell)]]
+- [[Mirror Travel, Greater (Spell)]]
+- [[Misdirection (Spell)]]
+- [[Miser's Envy (Spell)]]
+- [[Mislead (Spell)]]
+- [[Misrepresent Alignment (Spell)]]
+- [[Mistsight (Spell)]]
+- [[Mnemonic Enhancer (Spell)]]
+- [[Mnemonic Siphon (Spell)]]
+- [[Modify Memory (Spell)]]
+- [[Molten Orb (Spell)]]
+- [[Molten Strike (Spell)]]
+- [[Moment of Clarity (Spell)]]
+- [[Moment of Prescience (Spell)]]
+- [[Momentary Revelation (Spell)]]
+- [[Monkey Fish (Spell)]]
+- [[Monstrous Thrall (Spell)]]
+- [[Moon Blade (Spell)]]
+- [[Moon Bolt (Spell)]]
+- [[Moon Lust (Spell)]]
+- [[Moon Path (Spell)]]
+- [[Moonbeam (Spell)]]
+- [[Moonbow (Spell)]]
+- [[Moonfire (Spell)]]
+- [[Moonlight (Spell)]]
+- [[Moonstruck (Spell)]]
+- [[Moral Facade (Spell)]]
+- [[Morality Undone (Spell)]]
+- [[Mount (Spell)]]
+- [[Mountain Stance (Spell)]]
+- [[Move Earth (Spell)]]
+- [[Move Snow and Ice (Spell)]]
+- [[Mudball (Spell)]]
+- [[Mudslide (Spell)]]
+- [[Muffle Sound (Spell)]]
+- [[Multidimensional Touch (Spell)]]
+- [[Mummify (Spell)]]
+- [[Murderous Mist (Spell)]]
+- [[Music of the Spheres (Spell)]]
+- [[Mysterious Redirection (Spell)]]
+- [[Mystic Aegis (Spell)]]
+- [[Mystic Shield (Spell)]]
+- [[Mystic Shield, Lesser (Spell)]]
+- [[Mystic Surge (Spell)]]
+

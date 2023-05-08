@@ -1,0 +1,26 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Category: "eMRD"
+Tags:
+  - "Category/eMRD"
+parent:
+  - "Rage Powers"
+up:
+  - "Rage Powers"
+prev:
+  - "Draconic Blood, Greater (Su)"
+next:
+  - "Elemental Blood (Su)"
+RWtopicId: "Topic_18712"
+---
+# Draconic Blood, Lesser (Su)
+## Overview
+*Draconic Blood, Lesser (Su)*: While raging, the barbarian gains two claw attacks. These attacks are considered primary attacks and are made at the barbarian’s full base attack bonus. They deal 1d6 points of slashing damage for Medium creatures (1d4 if Small) plus her Strength modifier.
+
+**Source:** Advanced Class Guide, pg. 80
+
+
+---
+## Tags
+#Sources/Advanced-Class-Guide #Rule-System/Pathfinder #Publisher/Paizo #Rule/Core #Rule/Barbarian
+

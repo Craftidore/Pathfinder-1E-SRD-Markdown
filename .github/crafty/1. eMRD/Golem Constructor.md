@@ -1,0 +1,28 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Category: "eMRD"
+Tags:
+  - "Category/eMRD"
+parent:
+  - "Arcane Discoveries"
+up:
+  - "Arcane Discoveries"
+prev:
+  - "Split Slot"
+next:
+  - "Fast Study"
+RWtopicId: "Topic_19057"
+---
+# Golem Constructor
+## Overview
+**Golem Constructor**
+
+You have learned the art and craft of creating a single type of golem (such as stone golems or iron golems). When creating a golem of this type, you count as having the [[Craft Wondrous Item (Feat)|Craft Wondrous Item]], [[Craft Magic Arms and Armor (Feat)|Craft Magic Arms and Armor]], and [[Craft Construct (Feat)|Craft Construct]] feats. You must meet all other construction requirements for the golem as normal. You may select this discovery multiple times. Each time you select this discovery, it applies to a different kind of golem. You must be at least a 9th-level wizard to select this discovery.
+
+**Source:** Ultimate Magic, pg. 86
+
+
+---
+## Tags
+#Rule-System/Pathfinder #Rule/Arcane-Discovery #Sources/Ultimate-Magic #Publisher/Paizo #Rule/Core
+

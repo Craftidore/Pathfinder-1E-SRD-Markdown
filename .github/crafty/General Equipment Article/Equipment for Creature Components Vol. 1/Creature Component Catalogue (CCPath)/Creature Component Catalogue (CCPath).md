@@ -1,0 +1,194 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Aliases:
+  - "Creature Component Catalogue"
+Category: "General Equipment Article"
+Suffix: "CCPath"
+Tags:
+  - "Category/General-Equipment-Article"
+parent:
+  - "Equipment for Creature Components Vol. 1"
+up:
+  - "Equipment for Creature Components Vol. 1"
+next:
+  - "Magical Items for Creature Components Vol. 1 (CCPath)"
+down:
+  - "Aasimar Blood (CCPath)"
+  - "Aboleth Cerebral Fluid (CCPath)"
+  - "Aboleth Mucus (CCPath)"
+  - "Ankheg Saliva (CCPath)"
+  - "Barghest Skin (CCPath)"
+  - "Basilisk Eye (CCPath)"
+  - "Bebilith Saliva (CCPath)"
+  - "Behir Teeth (CCPath)"
+  - "Bullette Armor Plates (CCPath)"
+  - "Chimera Elemental Gland (CCPath)"
+  - "Choker Adrenal Gland (CCPath)"
+  - "Chuul Paralytic Enzyme (CCPath)"
+  - "Cloaker Vocal Chords (CCPath)"
+  - "Cockatrice Feather (CCPath)"
+  - "Couatl Feather (CCPath)"
+  - "Couatl Scale (CCPath)"
+  - "Darkmantle Blood (CCPath)"
+  - "Devourer Cerebral Fluid (CCPath)"
+  - "Dragon Blood (CCPath)"
+  - "Dragon Breath Gland (CCPath)"
+  - "Dragon Scales (CCPath)"
+  - "Dragon Turtle Breath Gland (CCPath)"
+  - "Drider Spinneret Gland (CCPath)"
+  - "Dryad Hair (CCPath)"
+  - "Elemental Essence (CCPath)"
+  - "Ettercap Spinneret Gland (CCPath)"
+  - "Ghost Essence (CCPath)"
+  - "Ghoul Intestines (CCPath)"
+  - "Gibbering Mouther Spittle (CCPath)"
+  - "Girallon Sinew (CCPath)"
+  - "Gorgon Horn (CCPath)"
+  - "Greater Barghest Skin (CCPath)"
+  - "Greater Shadow Essence (CCPath)"
+  - "Hell Hound Blood (CCPath)"
+  - "Hezrou Sweat (CCPath)"
+  - "Hydra Blood (CCPath)"
+  - "Intellect Devourer Brain (CCPath)"
+  - "Invisible Stalker Essence (CCPath)"
+  - "Kraken Ink (CCPath)"
+  - "Kyton Blood (CCPath)"
+  - "Lich Bone Dust (CCPath)"
+  - "Lich Phylactery Shards (CCPath)"
+  - "Linnorm Blood (CCPath)"
+  - "Mephit Essence (CCPath)"
+  - "Mimic Slime (CCPath)"
+  - "Mohrg Saliva (CCPath)"
+  - "Mummy Wrappings (CCPath)"
+  - "Night Hag Heartstone (CCPath)"
+  - "Nightmare Hooves (CCPath)"
+  - "Nymph Hair (CCPath)"
+  - "Ogre Mage Horn (CCPath)"
+  - "Owlbear Feather and Fur (CCPath)"
+  - "Phase Spider Silk (CCPath)"
+  - "Phoenix Ashes (CCPath)"
+  - "Pixie Dust (CCPath)"
+  - "Rakshasa Ichor (CCPath)"
+  - "Remorhaz Heat Gland (CCPath)"
+  - "Rust Monster Antennae (CCPath)"
+  - "Salamander Scales (CCPath)"
+  - "Satyr Pipes (CCPath)"
+  - "Shadow Essence (CCPath)"
+  - "Shocker Lizard Blood (CCPath)"
+  - "Skeletal Champion Bone Dust (CCPath)"
+  - "Skeleton Bone Dust (CCPath)"
+  - "Spectre Esence (CCPath)"
+  - "Sphinx Blood (CCPath)"
+  - "Stirge Proboscis (CCPath)"
+  - "Tiefling Blood (CCPath)"
+  - "Unicorn Horn Powder (CCPath)"
+  - "Vampire Blood (CCPath)"
+  - "Vampire Eye (CCPath)"
+  - "Vargouille Saliva (CCPath)"
+  - "Wight Ichor (CCPath)"
+  - "Will-O'-Wisp Sponge (CCPath)"
+  - "Wraith Essence (CCPath)"
+  - "Wyvern Stinger (CCPath)"
+  - "Xill Egg (CCPath)"
+  - "Xorn Eye (CCPath)"
+  - "Yeth Hound Heart (CCPath)"
+  - "Angel Components (CCPath)"
+  - "Archon Components (CCPath)"
+  - "Azata Components (CCPath)"
+  - "Demon Components (CCPath)"
+  - "Devil Components (CCPath)"
+  - "Genie Components (CCPath)"
+  - "Naga Components (CCPath)"
+RWtopicId: "Topic_2164"
+---
+# Creature Component Catalogue (CCPath)
+## Overview
+---
+## Governed Content
+- [[Aasimar Blood (CCPath)]]
+- [[Aboleth Cerebral Fluid (CCPath)]]
+- [[Aboleth Mucus (CCPath)]]
+- [[Angel Components (CCPath)]]
+- [[Ankheg Saliva (CCPath)]]
+- [[Archon Components (CCPath)]]
+- [[Azata Components (CCPath)]]
+- [[Barghest Skin (CCPath)]]
+- [[Basilisk Eye (CCPath)]]
+- [[Bebilith Saliva (CCPath)]]
+- [[Behir Teeth (CCPath)]]
+- [[Bullette Armor Plates (CCPath)]]
+- [[Chimera Elemental Gland (CCPath)]]
+- [[Choker Adrenal Gland (CCPath)]]
+- [[Chuul Paralytic Enzyme (CCPath)]]
+- [[Cloaker Vocal Chords (CCPath)]]
+- [[Cockatrice Feather (CCPath)]]
+- [[Couatl Feather (CCPath)]]
+- [[Couatl Scale (CCPath)]]
+- [[Darkmantle Blood (CCPath)]]
+- [[Demon Components (CCPath)]]
+- [[Devil Components (CCPath)]]
+- [[Devourer Cerebral Fluid (CCPath)]]
+- [[Dragon Blood (CCPath)]]
+- [[Dragon Breath Gland (CCPath)]]
+- [[Dragon Scales (CCPath)]]
+- [[Dragon Turtle Breath Gland (CCPath)]]
+- [[Drider Spinneret Gland (CCPath)]]
+- [[Dryad Hair (CCPath)]]
+- [[Elemental Essence (CCPath)]]
+- [[Ettercap Spinneret Gland (CCPath)]]
+- [[Genie Components (CCPath)]]
+- [[Ghost Essence (CCPath)]]
+- [[Ghoul Intestines (CCPath)]]
+- [[Gibbering Mouther Spittle (CCPath)]]
+- [[Girallon Sinew (CCPath)]]
+- [[Gorgon Horn (CCPath)]]
+- [[Greater Barghest Skin (CCPath)]]
+- [[Greater Shadow Essence (CCPath)]]
+- [[Hell Hound Blood (CCPath)]]
+- [[Hezrou Sweat (CCPath)]]
+- [[Hydra Blood (CCPath)]]
+- [[Intellect Devourer Brain (CCPath)]]
+- [[Invisible Stalker Essence (CCPath)]]
+- [[Kraken Ink (CCPath)]]
+- [[Kyton Blood (CCPath)]]
+- [[Lich Bone Dust (CCPath)]]
+- [[Lich Phylactery Shards (CCPath)]]
+- [[Linnorm Blood (CCPath)]]
+- [[Mephit Essence (CCPath)]]
+- [[Mimic Slime (CCPath)]]
+- [[Mohrg Saliva (CCPath)]]
+- [[Mummy Wrappings (CCPath)]]
+- [[Naga Components (CCPath)]]
+- [[Night Hag Heartstone (CCPath)]]
+- [[Nightmare Hooves (CCPath)]]
+- [[Nymph Hair (CCPath)]]
+- [[Ogre Mage Horn (CCPath)]]
+- [[Owlbear Feather and Fur (CCPath)]]
+- [[Phase Spider Silk (CCPath)]]
+- [[Phoenix Ashes (CCPath)]]
+- [[Pixie Dust (CCPath)]]
+- [[Rakshasa Ichor (CCPath)]]
+- [[Remorhaz Heat Gland (CCPath)]]
+- [[Rust Monster Antennae (CCPath)]]
+- [[Salamander Scales (CCPath)]]
+- [[Satyr Pipes (CCPath)]]
+- [[Shadow Essence (CCPath)]]
+- [[Shocker Lizard Blood (CCPath)]]
+- [[Skeletal Champion Bone Dust (CCPath)]]
+- [[Skeleton Bone Dust (CCPath)]]
+- [[Spectre Esence (CCPath)]]
+- [[Sphinx Blood (CCPath)]]
+- [[Stirge Proboscis (CCPath)]]
+- [[Tiefling Blood (CCPath)]]
+- [[Unicorn Horn Powder (CCPath)]]
+- [[Vampire Blood (CCPath)]]
+- [[Vampire Eye (CCPath)]]
+- [[Vargouille Saliva (CCPath)]]
+- [[Wight Ichor (CCPath)]]
+- [[Will-O'-Wisp Sponge (CCPath)]]
+- [[Wraith Essence (CCPath)]]
+- [[Wyvern Stinger (CCPath)]]
+- [[Xill Egg (CCPath)]]
+- [[Xorn Eye (CCPath)]]
+- [[Yeth Hound Heart (CCPath)]]
+

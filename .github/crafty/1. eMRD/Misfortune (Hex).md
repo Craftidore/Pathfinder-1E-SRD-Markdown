@@ -1,0 +1,29 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Aliases:
+  - "Misfortune"
+  - "misfortune hex"
+Category: "eMRD"
+Tags:
+  - "Category/eMRD"
+parent:
+  - "Hexes"
+up:
+  - "Hexes"
+prev:
+  - "Evil Eye (Hex)"
+next:
+  - "Ward (Hex)"
+RWtopicId: "Topic_13698"
+---
+# Misfortune (Hex)
+## Overview
+*Misfortune (Su)*: The witch can cause a creature within 30 feet to suffer grave misfortune for 1 round. Anytime the creature makes an ability check, attack roll, saving throw, or skill check, it must roll twice and take the worse result. A Will save negates this hex. At 8th level and 16th level, the duration of this hex is extended by 1 round. This hex affects all rolls the target must make while it lasts. Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day.
+
+**Source:** Advanced Player's Guide, pg. 66
+
+
+---
+## Tags
+#Rule-System/Pathfinder #Rule/OGL #Rule/Hex--Common- #Publisher/Paizo #Rule/Core #Rule/Witch #Sources/Advanced-Player-s-Guide
+

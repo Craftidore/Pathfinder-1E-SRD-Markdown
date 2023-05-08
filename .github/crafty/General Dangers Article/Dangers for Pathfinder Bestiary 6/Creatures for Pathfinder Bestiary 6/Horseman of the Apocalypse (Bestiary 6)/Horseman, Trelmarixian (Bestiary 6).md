@@ -1,0 +1,19 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Aliases:
+  - "Horseman, Trelmarixian"
+  - "Trelmarixian"
+Category: "Creature"
+Suffix: "Bestiary 6"
+Tags:
+  - "Category/Creature"
+parent:
+  - "Horseman of the Apocalypse (Bestiary 6)"
+up:
+  - "Horseman of the Apocalypse (Bestiary 6)"
+prev:
+  - "Horseman, Szuriel (Bestiary 6)"
+RWtopicId: "Topic_1641"
+---
+# Horseman, Trelmarixian (Bestiary 6)
+## Overview

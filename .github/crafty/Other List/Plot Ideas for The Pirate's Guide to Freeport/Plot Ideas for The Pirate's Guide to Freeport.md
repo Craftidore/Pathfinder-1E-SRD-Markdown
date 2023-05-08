@@ -1,0 +1,354 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Category: "Other List"
+Tags:
+  - "Category/Other-List"
+parent:
+  - "Other List"
+up:
+  - "Other List"
+prev:
+  - "Continental Timeline"
+next:
+  - "History of Freeport"
+down:
+  - "Buccaneer's War"
+  - "Bold Statement"
+  - "Protection"
+  - "Party Crashers"
+  - "Short Notice"
+  - "The Replacement"
+  - "Rivals"
+  - "Divine Conflict"
+  - "Caught in the Act"
+  - "Unholy Appetites"
+  - "The Hopper"
+  - "Cutting Corners"
+  - "Wrestling for Control"
+  - "Eye in the Sky"
+  - "Collateral Damage"
+  - "Allies"
+  - "Learning the Ropes"
+  - "Order and Freedom"
+  - "Independent Operators"
+  - "The Effigy"
+  - "Simple Plan"
+  - "Payback"
+  - "Covering Debts"
+  - "Race Against Time"
+  - "Saint Clozet"
+  - "Pining Heroine"
+  - "Freeport Sunset"
+  - "Competitive Business"
+  - "Good Dunking"
+  - "Ghost in the Water"
+  - "Deep Trouble"
+  - "Rival Failures"
+  - "Scandal!"
+  - "Visions and Madness"
+  - "Wrongs of Youth"
+  - "No Exceptions"
+  - "The First Mate"
+  - "Strange Ship in Port"
+  - "Illicit Goods"
+  - "Divisive Elements"
+  - "Competing Interests"
+  - "Protection from Piracy"
+  - "Old Ties"
+  - "Dangerous Games"
+  - "Rumor Mill"
+  - "Distracted Matriarch"
+  - "Concerned Neighbors"
+  - "Recruiters"
+  - "Quest for Knowledge"
+  - "Secular Rivals"
+  - "Curse of the Dead God"
+  - "Dead Flower"
+  - "Unwelcome Attention"
+  - "Jaws of the Beast"
+  - "Unhappy Rivals"
+  - "Accidents"
+  - "Frozen Fish"
+  - "Race Riot"
+  - "Business is Booming"
+  - "Need for a Champion"
+  - "Minion Rats"
+  - "Tunnels and Vice"
+  - "Bleeding Shadows"
+  - "Vice of Dreaming Street"
+  - "Blackmail"
+  - "Murder is Bad for Business"
+  - "Lost Devotion"
+  - "Origins"
+  - "Misjudged Character"
+  - "The Idol"
+  - "Valuable Information"
+  - "Nobleman's Daughter"
+  - "Redfeld's Return"
+  - "Monsters in the Tombs"
+  - "Key Witnesses"
+  - "Simple Job"
+  - "The Grand Ball"
+  - "Hidden Treasures"
+  - "Masks"
+  - "Impetuous Girl"
+  - "Temptation"
+  - "Among Thieves"
+  - "Stone Wall"
+  - "Not Forgotten"
+  - "Desperate Men"
+  - "Denial of Privilege"
+  - "Phantom of the Opera"
+  - "Venue for Intrigue"
+  - "Discretion"
+  - "Murderers with Connections"
+  - "Theft and Blackmail"
+  - "Life Saving Measures"
+  - "Stranglehold"
+  - "Serpent's Blood"
+  - "Security Holes"
+  - "Old Skills Die Hard"
+  - "An Easy Mark"
+  - "Horror in the Plaza"
+  - "Reluctant Investigation"
+  - "Troubleshooting"
+  - "Broken Truce"
+  - "Father's Return"
+  - "Kahve Runners"
+  - "Kafe Revolutionaries"
+  - "Merchant Resistance"
+  - "Gang War"
+  - "Proxy War"
+  - "Debts and Bounties"
+  - "Orphan Girl"
+  - "Family Business"
+  - "Bitter Rivals"
+  - "Death of a Hawker"
+  - "Scurvytown Zombies"
+  - "Unwanted Guests"
+  - "Burnling Swarm"
+  - "Belle's Angel"
+  - "Exotic Guard Animals"
+  - "Lean Pickings"
+  - "Friends or Foes_"
+  - "Underdogs"
+  - "Enemies and Allies"
+  - "Problems of the World"
+  - "Backdoor"
+  - "The Right Tome"
+  - "Academic Dissent"
+  - "Constant Problem"
+  - "Unfortunate Coincidence"
+  - "Nowhere Else To Go"
+  - "Thug Empire"
+  - "Crime Wave"
+  - "Hostages and Fire"
+  - "The Proposal"
+  - "Price of Access"
+  - "Seige of Krom's Throat"
+  - "Hidden Map"
+  - "Balance of Power"
+  - "Influences"
+  - "The Plan"
+  - "Volatile Mixtures"
+  - "Everyone Wants a Cut"
+  - "Dinner and Madness"
+  - "Strike Team"
+  - "Foul Play"
+  - "Witch Hunt"
+  - "Close Call"
+  - "Pressganged!"
+  - "An Offer She Can't Refuse"
+  - "Proof of Loyalty"
+  - "Support and Reprisals"
+  - "Call out the Guard!"
+  - "Strange Bedfellows"
+  - "Cult of Abaddon"
+  - "Grand Tournament"
+  - "Sign in the Heavens"
+  - "The Campaign Begins"
+  - "Hush Money"
+  - "Lesson in Politics"
+  - "Unlikely Allies"
+  - "Conflicting Interests"
+  - "Colleagues"
+  - "Coercion"
+  - "Recent Activities"
+  - "Discrete Inquiry"
+  - "Unwilling Accessories"
+RWtopicId: "Topic_4900"
+---
+# Plot Ideas for The Pirate's Guide to Freeport
+## Overview
+---
+## Governed Content
+- [[Academic Dissent]]
+- [[Accidents]]
+- [[Allies]]
+- [[Among Thieves]]
+- [[An Easy Mark]]
+- [[An Offer She Can't Refuse]]
+- [[Backdoor]]
+- [[Balance of Power]]
+- [[Belle's Angel]]
+- [[Bitter Rivals]]
+- [[Blackmail]]
+- [[Bleeding Shadows]]
+- [[Bold Statement]]
+- [[Broken Truce]]
+- [[Buccaneer's War]]
+- [[Burnling Swarm]]
+- [[Business is Booming]]
+- [[Call out the Guard!]]
+- [[Caught in the Act]]
+- [[Close Call]]
+- [[Coercion]]
+- [[Collateral Damage]]
+- [[Colleagues]]
+- [[Competing Interests]]
+- [[Competitive Business]]
+- [[Concerned Neighbors]]
+- [[Conflicting Interests]]
+- [[Constant Problem]]
+- [[Covering Debts]]
+- [[Crime Wave]]
+- [[Cult of Abaddon]]
+- [[Curse of the Dead God]]
+- [[Cutting Corners]]
+- [[Dangerous Games]]
+- [[Dead Flower]]
+- [[Death of a Hawker]]
+- [[Debts and Bounties]]
+- [[Deep Trouble]]
+- [[Denial of Privilege]]
+- [[Desperate Men]]
+- [[Dinner and Madness]]
+- [[Discrete Inquiry]]
+- [[Discretion]]
+- [[Distracted Matriarch]]
+- [[Divine Conflict]]
+- [[Divisive Elements]]
+- [[Enemies and Allies]]
+- [[Everyone Wants a Cut]]
+- [[Exotic Guard Animals]]
+- [[Eye in the Sky]]
+- [[Family Business]]
+- [[Father's Return]]
+- [[Foul Play]]
+- [[Freeport Sunset]]
+- [[Friends or Foes_|Friends or Foes?]]
+- [[Frozen Fish]]
+- [[Gang War]]
+- [[Ghost in the Water]]
+- [[Good Dunking]]
+- [[Grand Tournament]]
+- [[Hidden Map]]
+- [[Hidden Treasures]]
+- [[Horror in the Plaza]]
+- [[Hostages and Fire]]
+- [[Hush Money]]
+- [[Illicit Goods]]
+- [[Impetuous Girl]]
+- [[Independent Operators]]
+- [[Influences]]
+- [[Jaws of the Beast]]
+- [[Kafe Revolutionaries]]
+- [[Kahve Runners]]
+- [[Key Witnesses]]
+- [[Lean Pickings]]
+- [[Learning the Ropes]]
+- [[Lesson in Politics]]
+- [[Life Saving Measures]]
+- [[Lost Devotion]]
+- [[Masks]]
+- [[Merchant Resistance]]
+- [[Minion Rats]]
+- [[Misjudged Character]]
+- [[Monsters in the Tombs]]
+- [[Murder is Bad for Business]]
+- [[Murderers with Connections]]
+- [[Need for a Champion]]
+- [[No Exceptions]]
+- [[Nobleman's Daughter]]
+- [[Not Forgotten]]
+- [[Nowhere Else To Go]]
+- [[Old Skills Die Hard]]
+- [[Old Ties]]
+- [[Order and Freedom]]
+- [[Origins]]
+- [[Orphan Girl]]
+- [[Party Crashers]]
+- [[Payback]]
+- [[Phantom of the Opera]]
+- [[Pining Heroine]]
+- [[Pressganged!]]
+- [[Price of Access]]
+- [[Problems of the World]]
+- [[Proof of Loyalty]]
+- [[Protection]]
+- [[Protection from Piracy]]
+- [[Proxy War]]
+- [[Quest for Knowledge]]
+- [[Race Against Time]]
+- [[Race Riot]]
+- [[Recent Activities]]
+- [[Recruiters]]
+- [[Redfeld's Return]]
+- [[Reluctant Investigation]]
+- [[Rival Failures]]
+- [[Rivals]]
+- [[Rumor Mill]]
+- [[Saint Clozet]]
+- [[Scandal!]]
+- [[Scurvytown Zombies]]
+- [[Secular Rivals]]
+- [[Security Holes]]
+- [[Seige of Krom's Throat]]
+- [[Serpent's Blood]]
+- [[Short Notice]]
+- [[Sign in the Heavens]]
+- [[Simple Job]]
+- [[Simple Plan]]
+- [[Stone Wall]]
+- [[Strange Bedfellows]]
+- [[Strange Ship in Port]]
+- [[Stranglehold]]
+- [[Strike Team]]
+- [[Support and Reprisals]]
+- [[Temptation]]
+- [[The Campaign Begins]]
+- [[The Effigy]]
+- [[The First Mate]]
+- [[The Grand Ball]]
+- [[The Hopper]]
+- [[The Idol]]
+- [[The Plan]]
+- [[The Proposal]]
+- [[The Replacement]]
+- [[The Right Tome]]
+- [[Theft and Blackmail]]
+- [[Thug Empire]]
+- [[Troubleshooting]]
+- [[Tunnels and Vice]]
+- [[Underdogs]]
+- [[Unfortunate Coincidence]]
+- [[Unhappy Rivals]]
+- [[Unholy Appetites]]
+- [[Unlikely Allies]]
+- [[Unwanted Guests]]
+- [[Unwelcome Attention]]
+- [[Unwilling Accessories]]
+- [[Valuable Information]]
+- [[Venue for Intrigue]]
+- [[Vice of Dreaming Street]]
+- [[Visions and Madness]]
+- [[Volatile Mixtures]]
+- [[Witch Hunt]]
+- [[Wrestling for Control]]
+- [[Wrongs of Youth]]
+
+
+---
+## Tags
+#Source/The-Pirate-s-Guide-to-Freeport
+

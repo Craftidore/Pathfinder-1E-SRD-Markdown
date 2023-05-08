@@ -1,0 +1,233 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Category: "Spells"
+Tags:
+  - "Category/Spells"
+parent:
+  - "Spell Descriptions (Spells)"
+up:
+  - "Spell Descriptions (Spells)"
+prev:
+  - "K"
+next:
+  - "M"
+down:
+  - "Lead Blades (Spell)"
+  - "Life Bubble (Spell)"
+  - "Light Lance (Spell)"
+  - "Lily Pad Stride (Spell)"
+  - "Lockjaw (Spell)"
+  - "Light Step (Spell)"
+  - "Longstrider, Greater (Spell)"
+  - "Locate Creature (Spell)"
+  - "Light (Spell)"
+  - "Lullaby (Spell)"
+  - "Locate Object (Spell)"
+  - "Legend Lore (Spell)"
+  - "Last Breath (Spell)"
+  - "Lay of the Land (Spell)"
+  - "Light of Xymor (Spell)"
+  - "Languor (Spell)"
+  - "Lawful Sword (Spell)"
+  - "Life Bolt (Spell)"
+  - "Life Ward (Spell)"
+  - "Life's Grace (Spell)"
+  - "Light of Lunia (Spell)"
+  - "Light of Mercuria (Spell)"
+  - "Light of Venya (Spell)"
+  - "Lightfoot (Spell)"
+  - "Lightning Ring (Spell)"
+  - "Lionheart (Spell)"
+  - "Lion's Charge (Spell)"
+  - "Lion's Roar (Spell)"
+  - "Listening Coin (Spell)"
+  - "Listening Lorecall (Spell)"
+  - "Lively Step (Spell)"
+  - "Living Prints (Spell)"
+  - "Living Undeath (Spell)"
+  - "Love's Lament (Spell)"
+  - "Low-Light Vision (Spell)"
+  - "Loyal Vassal (Spell)"
+  - "Lucent Lance (Spell)"
+  - "Luminous Gaze (Spell)"
+  - "Land Womb (Spell)"
+  - "Lightning Sphere (Spell)"
+  - "Lay of the Land, Greater (Spell)"
+  - "Locate City (Spell)"
+  - "Lock Gaze (Spell)"
+  - "Local Tremor (Spell)"
+  - "Lunar Veil (Spell)"
+  - "Lifebound (Spell)"
+  - "Lava Missile (Spell)"
+  - "Lava Splash (Spell)"
+  - "Lightning Fog (Spell)"
+  - "Last Resort (Spell)"
+  - "Leeching Lanthorn, Greater (Spell)"
+  - "Life Sense (Spell)"
+  - "Lightsight, Greater (Spell)"
+  - "Lucid Dreamer, Greater (Spell)"
+  - "Levitate (Spell)"
+  - "Liquid Pain (Spell)"
+  - "Lahm's Finger Darts (Spell)"
+  - "Love's Pain (Spell)"
+  - "Locate Node (Spell)"
+  - "Love Bite (Spell)"
+  - "Lightning Blade (Spell)"
+  - "Light of Courage (Spell)"
+  - "Light of Faith (Spell)"
+  - "Light of Purity (Spell)"
+  - "Light of Wisdom (Spell)"
+  - "Lore of the Gods (Spell)"
+  - "Lash of Force (Spell)"
+  - "Lightning Leap (Spell)"
+  - "Lingering Chorus (Spell)"
+  - "Lingering Flames (Spell)"
+  - "Luminous Swarm (Spell)"
+  - "Lucky Streak (Spell)"
+  - "Lord of the Sky (Spell)"
+  - "Lightning Lance (Spell)"
+  - "Lantern Light (Spell)"
+  - "Last Judgment (Spell)"
+  - "Leonal's Roar (Spell)"
+  - "Lastai's Caress (Spell)"
+  - "Luminous Armor (Spell)"
+  - "Luminous Armor, Greater (Spell)"
+  - "Lash of the Kraken (Spell)"
+  - "Life Pact (Spell)"
+  - "Line in the Sand (Spell)"
+  - "Long Arm (Spell)"
+  - "Lightning Bolt (Spell)"
+  - "Liveoak (Spell)"
+  - "Longstrider (Spell)"
+  - "Light of the Earth (Spell)"
+  - "Lion's Form (Spell)"
+  - "Long Grasp (Spell)"
+  - "Limited Wish (Spell)"
+  - "Linebreaker (Spell)"
+  - "Life Channel (Spell)"
+  - "Leap Into Animal (Spell)"
+  - "Leech Undeath (Spell)"
+  - "Lucky Blade (Spell)"
+  - "Lucky Cape (Spell)"
+  - "Linger Before the Afterlife (Spell)"
+  - "Locate Touchstone (Spell)"
+  - "Launch Bolt (Spell)"
+  - "Launch Item (Spell)"
+  - "Legion of Sentinels (Spell)"
+  - "Linked Perception (Spell)"
+  - "Luminous Assassin, Lesser (Spell)"
+  - "Luminous Assassin, Greater (Spell)"
+  - "Luminous Assassin (Spell)"
+RWtopicId: "Topic_16042"
+---
+# L
+## Overview
+---
+## Governed Content
+- [[Lahm's Finger Darts (Spell)]]
+- [[Land Womb (Spell)]]
+- [[Languor (Spell)]]
+- [[Lantern Light (Spell)]]
+- [[Lash of Force (Spell)]]
+- [[Lash of the Kraken (Spell)]]
+- [[Last Breath (Spell)]]
+- [[Last Judgment (Spell)]]
+- [[Last Resort (Spell)]]
+- [[Lastai's Caress (Spell)]]
+- [[Launch Bolt (Spell)]]
+- [[Launch Item (Spell)]]
+- [[Lava Missile (Spell)]]
+- [[Lava Splash (Spell)]]
+- [[Lawful Sword (Spell)]]
+- [[Lay of the Land (Spell)]]
+- [[Lay of the Land, Greater (Spell)]]
+- [[Lead Blades (Spell)]]
+- [[Leap Into Animal (Spell)]]
+- [[Leech Undeath (Spell)]]
+- [[Leeching Lanthorn, Greater (Spell)]]
+- [[Legend Lore (Spell)]]
+- [[Legion of Sentinels (Spell)]]
+- [[Leonal's Roar (Spell)]]
+- [[Levitate (Spell)]]
+- [[Life Bolt (Spell)]]
+- [[Life Bubble (Spell)]]
+- [[Life Channel (Spell)]]
+- [[Life Pact (Spell)]]
+- [[Life Sense (Spell)]]
+- [[Life Ward (Spell)]]
+- [[Lifebound (Spell)]]
+- [[Life's Grace (Spell)]]
+- [[Light (Spell)]]
+- [[Light Lance (Spell)]]
+- [[Light of Courage (Spell)]]
+- [[Light of Faith (Spell)]]
+- [[Light of Lunia (Spell)]]
+- [[Light of Mercuria (Spell)]]
+- [[Light of Purity (Spell)]]
+- [[Light of the Earth (Spell)]]
+- [[Light of Venya (Spell)]]
+- [[Light of Wisdom (Spell)]]
+- [[Light of Xymor (Spell)]]
+- [[Light Step (Spell)]]
+- [[Lightfoot (Spell)]]
+- [[Lightning Blade (Spell)]]
+- [[Lightning Bolt (Spell)]]
+- [[Lightning Fog (Spell)]]
+- [[Lightning Lance (Spell)]]
+- [[Lightning Leap (Spell)]]
+- [[Lightning Ring (Spell)]]
+- [[Lightning Sphere (Spell)]]
+- [[Lightsight, Greater (Spell)]]
+- [[Lily Pad Stride (Spell)]]
+- [[Limited Wish (Spell)]]
+- [[Line in the Sand (Spell)]]
+- [[Linebreaker (Spell)]]
+- [[Linger Before the Afterlife (Spell)]]
+- [[Lingering Chorus (Spell)]]
+- [[Lingering Flames (Spell)]]
+- [[Linked Perception (Spell)]]
+- [[Lionheart (Spell)]]
+- [[Lion's Charge (Spell)]]
+- [[Lion's Form (Spell)]]
+- [[Lion's Roar (Spell)]]
+- [[Liquid Pain (Spell)]]
+- [[Listening Coin (Spell)]]
+- [[Listening Lorecall (Spell)]]
+- [[Lively Step (Spell)]]
+- [[Liveoak (Spell)]]
+- [[Living Prints (Spell)]]
+- [[Living Undeath (Spell)]]
+- [[Local Tremor (Spell)]]
+- [[Locate City (Spell)]]
+- [[Locate Creature (Spell)]]
+- [[Locate Node (Spell)]]
+- [[Locate Object (Spell)]]
+- [[Locate Touchstone (Spell)]]
+- [[Lock Gaze (Spell)]]
+- [[Lockjaw (Spell)]]
+- [[Long Arm (Spell)]]
+- [[Long Grasp (Spell)]]
+- [[Longstrider (Spell)]]
+- [[Longstrider, Greater (Spell)]]
+- [[Lord of the Sky (Spell)]]
+- [[Lore of the Gods (Spell)]]
+- [[Love Bite (Spell)]]
+- [[Love's Lament (Spell)]]
+- [[Love's Pain (Spell)]]
+- [[Low-Light Vision (Spell)]]
+- [[Loyal Vassal (Spell)]]
+- [[Lucent Lance (Spell)]]
+- [[Lucid Dreamer, Greater (Spell)]]
+- [[Lucky Blade (Spell)]]
+- [[Lucky Cape (Spell)]]
+- [[Lucky Streak (Spell)]]
+- [[Lullaby (Spell)]]
+- [[Luminous Armor (Spell)]]
+- [[Luminous Armor, Greater (Spell)]]
+- [[Luminous Assassin (Spell)]]
+- [[Luminous Assassin, Greater (Spell)]]
+- [[Luminous Assassin, Lesser (Spell)]]
+- [[Luminous Gaze (Spell)]]
+- [[Luminous Swarm (Spell)]]
+- [[Lunar Veil (Spell)]]
+

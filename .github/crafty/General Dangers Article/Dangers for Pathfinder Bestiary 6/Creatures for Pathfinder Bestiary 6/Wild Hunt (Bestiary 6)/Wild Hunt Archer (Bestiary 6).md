@@ -1,0 +1,19 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Aliases:
+  - "Wild Hunt Archer"
+  - "Wild Hunt Archers"
+Category: "Creature"
+Suffix: "Bestiary 6"
+Tags:
+  - "Category/Creature"
+parent:
+  - "Wild Hunt (Bestiary 6)"
+up:
+  - "Wild Hunt (Bestiary 6)"
+next:
+  - "Wild Hunt Horse (Bestiary 6)"
+RWtopicId: "Topic_1652"
+---
+# Wild Hunt Archer (Bestiary 6)
+## Overview

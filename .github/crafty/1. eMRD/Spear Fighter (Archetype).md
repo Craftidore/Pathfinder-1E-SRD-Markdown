@@ -1,0 +1,46 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Aliases:
+  - "Spear Fighter"
+Category: "eMRD"
+Tags:
+  - "Category/eMRD"
+parent:
+  - "Fighter Archetypes"
+up:
+  - "Fighter Archetypes"
+RWtopicId: "Topic_410"
+---
+# Spear Fighter (Archetype)
+## Overview
+**Spear Fighter (Fighter)** 
+
+The spear is one of the oldest weapons known to most humanoid races, and no weapon has seen as much use across the different continents of Golarion. One of the oldest spear-fighting styles originates in Vudra, where many martial arts traditions consider the spear to be the ultimate weapon. 
+
+**Class Skills:** A spear fighter adds [[Acrobatics (Skill)|Acrobatics]] to his list of class skills and removes [[Ride (Skill)|Ride]] as a class skill. 
+
+This alters the fighter’s class skills. 
+
+**Armor Proficiency:** A spear fighter is not proficient with heavy armor or tower shields. Instead, he gains [[Dodge (Feat)|Dodge]] as a bonus feat, even if he doesn’t fulfill the prerequisites, but he can’t use this feat while wearing heavy armor or using a shield. 
+
+This alters the fighter’s armor proficiencies. 
+
+**Balanced Stride (Ex):** At 2nd level, the spear fighter gains a +1 bonus on [[Acrobatics (Skill)|Acrobatics]] checks to avoid attacks of opportunity. This bonus increases by 1 for every 4 levels he has beyond 2nd. 
+
+This replaces bravery. 
+
+**Spear Parry (Ex):** At 3rd level, a spear fighter learns to parry his opponents’ attacks with his spear. This functions as a swashbuckler’s opportune parry and riposte deed (*Pathfinder RPG Advanced Class Guide* 57) except as noted below. The spear fighter must use a weapon from the spears weapon group to perform the parry. He doesn’t need panache to parry an attack or to make an attack against a creature whose attack he has parried; instead, he takes a cumulative –4 penalty on all attacks (including further parry attempts) until the end of his next turn. At 7th, 11th, and 15th levels, the penalty decreases by 1. At 19th level, a spear fighter can use spear parry without penalty. 
+
+This replaces armor training 1, 2, 3, and 4, and armor mastery.
+
+**Weapon Training (Ex):** At 5th level, a spear fighter must choose the spears weapon group for the weapon training class feature. 
+
+**Weapon Mastery (Ex):** At 20th level, a spear fighter must choose a weapon from the spears weapon group for his weapon mastery class feature. 
+
+**Source:** Martial Arts Handbook, pg. 12
+
+
+---
+## Tags
+#Rule-System/Pathfinder #Publisher/Paizo #Rule/Core #Rule/Archetype #Rule/OGL #Sources/Magic #Rule/Fighter
+

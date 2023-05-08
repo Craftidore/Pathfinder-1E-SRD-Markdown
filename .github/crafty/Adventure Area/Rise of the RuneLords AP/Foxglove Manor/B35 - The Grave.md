@@ -1,0 +1,26 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Aliases:
+  - "The Grave"
+  - "B35"
+Category: "Scene"
+Prefix: "B35"
+Tags:
+  - "Category/Scene"
+parent:
+  - "Foxglove Manor"
+up:
+  - "Foxglove Manor"
+prev:
+  - "B20 - Storerooms"
+next:
+  - "B30 - The Pit"
+RWtopicId: "Topic_12075"
+---
+# B35 - The Grave
+## Overview
+
+---
+## Tags
+#Story-Scope/RotRL-Ch2-The-Skinsaw-Murders
+

@@ -1,0 +1,365 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Category: "Spells"
+Tags:
+  - "Category/Spells"
+parent:
+  - "Spell Descriptions (Spells)"
+up:
+  - "Spell Descriptions (Spells)"
+prev:
+  - "V"
+next:
+  - "X"
+down:
+  - "Wall of Blindness_Deafness (Spell)"
+  - "Wall of Nausea (Spell)"
+  - "Wave Shield (Spell)"
+  - "Whip of Spiders (Spell)"
+  - "Whip of Centipedes (Spell)"
+  - "Whip of Ants (Spell)"
+  - "Widen Auras (Spell)"
+  - "Wrathful Weapon (Spell)"
+  - "Wrath (Spell)"
+  - "Wail of Doom (Spell)"
+  - "Wall of Good (Spell)"
+  - "Wall of Chaos (Spell)"
+  - "Wall of Evil (Spell)"
+  - "Wall of Law (Spell)"
+  - "Wall of Dispel Magic (Spell)"
+  - "Wall of Gears (Spell)"
+  - "Wall of Gloom (Spell)"
+  - "Wall of Light (Spell)"
+  - "Wall of Greater Dispel Magic (Spell)"
+  - "Wall of Limbs (Spell)"
+  - "War Cry (Spell)"
+  - "Waterspout (Spell)"
+  - "Wave of Grief (Spell)"
+  - "Weapon of Energy (Spell)"
+  - "Weapon of Impact (Spell)"
+  - "Weapon Shift (Spell)"
+  - "Weighed in the Balance (Spell)"
+  - "Whirlwind, Greater (Spell)"
+  - "Wild Runner (Spell)"
+  - "Wind at Back (Spell)"
+  - "Wind Tunnel (Spell)"
+  - "Winged Mount (Spell)"
+  - "Wings of Air (Spell)"
+  - "Wings of Air, Greater (Spell)"
+  - "Wings of the Sea (Spell)"
+  - "Winter's Embrace (Spell)"
+  - "Withering Palm (Spell)"
+  - "Wood Rot (Spell)"
+  - "Wood Wose (Spell)"
+  - "Word of Balance (Spell)"
+  - "Word of Binding (Spell)"
+  - "Wounding Whispers (Spell)"
+  - "Wrack (Spell)"
+  - "Wracking Touch (Spell)"
+  - "Wraithstrike (Spell)"
+  - "Wrathful Castigation (Spell)"
+  - "Winter Chill (Spell)"
+  - "Wake Trailing (Spell)"
+  - "Water to Acid (Spell)"
+  - "Wave Blessing (Spell)"
+  - "Webfoot (Spell)"
+  - "Waterproof (Spell)"
+  - "Watchware (Spell)"
+  - "Water Breathing (Spell)"
+  - "Whispering Wind (Spell)"
+  - "Whispercast (Spell)"
+  - "Whirling Weapon (Spell)"
+  - "Weapon Augmentation, Personal (Spell)"
+  - "Weapon Augmentation, Lesser (Spell)"
+  - "Weapon Augmentation (Spell)"
+  - "Weapon Augmentation, Greater (Spell)"
+  - "Willing Sacrifice (Spell)"
+  - "Whispering Flame (Spell)"
+  - "Worry Free (Spell)"
+  - "Wind Blades (Spell)"
+  - "Wreath of Blades (Spell)"
+  - "Warding Weapon (Spell)"
+  - "Whelm (Spell)"
+  - "Whelm, Mass (Spell)"
+  - "Whelming Blast (Spell)"
+  - "Wrack Earth (Spell)"
+  - "Warp Destiny (Spell)"
+  - "Winding Alleys (Spell)"
+  - "Walk the Mountain's Path (Spell)"
+  - "Wall of Scales (Spell)"
+  - "Wings of Bounding (Spell)"
+  - "Wings of Flurry (Spell)"
+  - "Wings of Swift Flying (Spell)"
+  - "Woodland Veil (Spell)"
+  - "Wall of Magma (Spell)"
+  - "Wall of Salt (Spell)"
+  - "Wall of Sand (Spell)"
+  - "Waste Strider (Spell)"
+  - "Whispering Sand (Spell)"
+  - "Wither (Spell)"
+  - "Whirl of Fangs (Spell)"
+  - "Wall of Pain (Spell)"
+  - "Wall of Deadly Chains, Greater (Spell)"
+  - "Whirling Weapon, Greater (Spell)"
+  - "Whispercast, Greater (Spell)"
+  - "Wraithstrike, Greater (Spell)"
+  - "Water Walk (Spell)"
+  - "Wall of Fire (Spell)"
+  - "Wall of Chains (Spell)"
+  - "Wall of Deadly Chains (Spell)"
+  - "Wall of Eyes (Spell)"
+  - "Wall of Ooze (Spell)"
+  - "Wave of Pain (Spell)"
+  - "Were-Doom (Spell)"
+  - "Whirlwind of Teeth (Spell)"
+  - "Wretched Blight (Spell)"
+  - "Whip of Thorns (Spell)"
+  - "Woodwisp Arrow (Spell)"
+  - "War-Mount (Spell)"
+  - "Weight of Sin (Spell)"
+  - "Wooden Blight (Spell)"
+  - "Wall of Bonespurs (Spell)"
+  - "Water to Poison (Spell)"
+  - "Weapon of the Deity (Spell)"
+  - "Wall of Vermin (Spell)"
+  - "Wand Modulation (Spell)"
+  - "Winged Watcher (Spell)"
+  - "Wingblast (Spell)"
+  - "Wreath of Flames (Spell)"
+  - "Wall of Smoke (Spell)"
+  - "Warding Gems (Spell)"
+  - "Wages of Sin (Spell)"
+  - "Warcry, Lesser (Spell)"
+  - "Wail of the Banshee (Spell)"
+  - "Wall of Ice (Spell)"
+  - "Wall of Stone (Spell)"
+  - "Wall of Thorns (Spell)"
+  - "Warp Wood (Spell)"
+  - "Waves of Exhaustion (Spell)"
+  - "Waves of Fatigue (Spell)"
+  - "Web (Spell)"
+  - "Weird (Spell)"
+  - "Whirlwind (Spell)"
+  - "Wind Walk (Spell)"
+  - "Wind Wall (Spell)"
+  - "Wood Shape (Spell)"
+  - "Word of Recall (Spell)"
+  - "Word of Chaos (Spell)"
+  - "Wall of Force, Lesser (Spell)"
+  - "Water's Blessing (Spell)"
+  - "Waves of Darkness (Spell)"
+  - "Waves of Light (Spell)"
+  - "Wellspring of Soul's Light (Spell)"
+  - "Winged Arrows (Spell)"
+  - "Wolf's Form (Spell)"
+  - "Woven Bolt (Spell)"
+  - "Wyvern's Form (Spell)"
+  - "Wish (Spell)"
+  - "Wall of Force (Spell)"
+  - "Wake of Light (Spell)"
+  - "Wall of Lava (Spell)"
+  - "Wall of Suppression (Spell)"
+  - "Wandering Star Motes (Spell)"
+  - "Ward the Faithful (Spell)"
+  - "Weapon of Awe (Spell)"
+  - "Winds of Vengeance (Spell)"
+  - "World Wave (Spell)"
+  - "Wrathful Mantle (Spell)"
+  - "Weaponwand (Spell)"
+  - "Wall of Ectoplasm (Spell)"
+  - "Watchful Ancestors (Spell)"
+  - "Wind's Favor (Spell)"
+  - "Warning Shout (Spell)"
+  - "Wall of Incarnum (Spell)"
+  - "Wrathful Doom (Spell)"
+  - "Wall of Coldfire (Spell)"
+  - "Waves of Cold (Spell)"
+  - "Whiteout (Spell)"
+  - "Wall of Iron (Spell)"
+  - "Weapon Bless (Spell)"
+  - "When Two Become One (Spell)"
+  - "Whip (Spell)"
+  - "Words of the Kami (Spell)"
+  - "Wings of Cover (Spell)"
+  - "Wingbind, Deadly (Spell)"
+  - "Wingbind (Spell)"
+  - "Warding Hand (Spell)"
+RWtopicId: "Topic_16052"
+---
+# W
+## Overview
+---
+## Governed Content
+- [[Wages of Sin (Spell)]]
+- [[Wail of Doom (Spell)]]
+- [[Wail of the Banshee (Spell)]]
+- [[Wake of Light (Spell)]]
+- [[Wake Trailing (Spell)]]
+- [[Walk the Mountain's Path (Spell)]]
+- [[Wall of Blindness_Deafness (Spell)|Wall of Blindness/Deafness (Spell)]]
+- [[Wall of Bonespurs (Spell)]]
+- [[Wall of Chains (Spell)]]
+- [[Wall of Chaos (Spell)]]
+- [[Wall of Coldfire (Spell)]]
+- [[Wall of Deadly Chains (Spell)]]
+- [[Wall of Deadly Chains, Greater (Spell)]]
+- [[Wall of Dispel Magic (Spell)]]
+- [[Wall of Ectoplasm (Spell)]]
+- [[Wall of Evil (Spell)]]
+- [[Wall of Eyes (Spell)]]
+- [[Wall of Fire (Spell)]]
+- [[Wall of Force (Spell)]]
+- [[Wall of Force, Lesser (Spell)]]
+- [[Wall of Gears (Spell)]]
+- [[Wall of Gloom (Spell)]]
+- [[Wall of Good (Spell)]]
+- [[Wall of Greater Dispel Magic (Spell)]]
+- [[Wall of Ice (Spell)]]
+- [[Wall of Incarnum (Spell)]]
+- [[Wall of Iron (Spell)]]
+- [[Wall of Lava (Spell)]]
+- [[Wall of Law (Spell)]]
+- [[Wall of Light (Spell)]]
+- [[Wall of Limbs (Spell)]]
+- [[Wall of Magma (Spell)]]
+- [[Wall of Nausea (Spell)]]
+- [[Wall of Ooze (Spell)]]
+- [[Wall of Pain (Spell)]]
+- [[Wall of Salt (Spell)]]
+- [[Wall of Sand (Spell)]]
+- [[Wall of Scales (Spell)]]
+- [[Wall of Smoke (Spell)]]
+- [[Wall of Stone (Spell)]]
+- [[Wall of Suppression (Spell)]]
+- [[Wall of Thorns (Spell)]]
+- [[Wall of Vermin (Spell)]]
+- [[Wand Modulation (Spell)]]
+- [[Wandering Star Motes (Spell)]]
+- [[War Cry (Spell)]]
+- [[Warcry, Lesser (Spell)]]
+- [[Ward the Faithful (Spell)]]
+- [[Warding Gems (Spell)]]
+- [[Warding Hand (Spell)]]
+- [[Warding Weapon (Spell)]]
+- [[War-Mount (Spell)]]
+- [[Warning Shout (Spell)]]
+- [[Warp Destiny (Spell)]]
+- [[Warp Wood (Spell)]]
+- [[Waste Strider (Spell)]]
+- [[Watchful Ancestors (Spell)]]
+- [[Watchware (Spell)]]
+- [[Water Breathing (Spell)]]
+- [[Water to Acid (Spell)]]
+- [[Water to Poison (Spell)]]
+- [[Water Walk (Spell)]]
+- [[Waterproof (Spell)]]
+- [[Water's Blessing (Spell)]]
+- [[Waterspout (Spell)]]
+- [[Wave Blessing (Spell)]]
+- [[Wave of Grief (Spell)]]
+- [[Wave of Pain (Spell)]]
+- [[Wave Shield (Spell)]]
+- [[Waves of Cold (Spell)]]
+- [[Waves of Darkness (Spell)]]
+- [[Waves of Exhaustion (Spell)]]
+- [[Waves of Fatigue (Spell)]]
+- [[Waves of Light (Spell)]]
+- [[Weapon Augmentation (Spell)]]
+- [[Weapon Augmentation, Greater (Spell)]]
+- [[Weapon Augmentation, Lesser (Spell)]]
+- [[Weapon Augmentation, Personal (Spell)]]
+- [[Weapon Bless (Spell)]]
+- [[Weapon of Awe (Spell)]]
+- [[Weapon of Energy (Spell)]]
+- [[Weapon of Impact (Spell)]]
+- [[Weapon of the Deity (Spell)]]
+- [[Weapon Shift (Spell)]]
+- [[Weaponwand (Spell)]]
+- [[Web (Spell)]]
+- [[Webfoot (Spell)]]
+- [[Weighed in the Balance (Spell)]]
+- [[Weight of Sin (Spell)]]
+- [[Weird (Spell)]]
+- [[Wellspring of Soul's Light (Spell)]]
+- [[Were-Doom (Spell)]]
+- [[Whelm (Spell)]]
+- [[Whelm, Mass (Spell)]]
+- [[Whelming Blast (Spell)]]
+- [[When Two Become One (Spell)]]
+- [[Whip (Spell)]]
+- [[Whip of Ants (Spell)]]
+- [[Whip of Centipedes (Spell)]]
+- [[Whip of Spiders (Spell)]]
+- [[Whip of Thorns (Spell)]]
+- [[Whirl of Fangs (Spell)]]
+- [[Whirling Weapon (Spell)]]
+- [[Whirling Weapon, Greater (Spell)]]
+- [[Whirlwind (Spell)]]
+- [[Whirlwind of Teeth (Spell)]]
+- [[Whirlwind, Greater (Spell)]]
+- [[Whispercast (Spell)]]
+- [[Whispercast, Greater (Spell)]]
+- [[Whispering Flame (Spell)]]
+- [[Whispering Sand (Spell)]]
+- [[Whispering Wind (Spell)]]
+- [[Whiteout (Spell)]]
+- [[Widen Auras (Spell)]]
+- [[Wild Runner (Spell)]]
+- [[Willing Sacrifice (Spell)]]
+- [[Wind at Back (Spell)]]
+- [[Wind Blades (Spell)]]
+- [[Wind Tunnel (Spell)]]
+- [[Wind Walk (Spell)]]
+- [[Wind Wall (Spell)]]
+- [[Winding Alleys (Spell)]]
+- [[Wind's Favor (Spell)]]
+- [[Winds of Vengeance (Spell)]]
+- [[Wingbind (Spell)]]
+- [[Wingbind, Deadly (Spell)]]
+- [[Wingblast (Spell)]]
+- [[Winged Arrows (Spell)]]
+- [[Winged Mount (Spell)]]
+- [[Winged Watcher (Spell)]]
+- [[Wings of Air (Spell)]]
+- [[Wings of Air, Greater (Spell)]]
+- [[Wings of Bounding (Spell)]]
+- [[Wings of Cover (Spell)]]
+- [[Wings of Flurry (Spell)]]
+- [[Wings of Swift Flying (Spell)]]
+- [[Wings of the Sea (Spell)]]
+- [[Winter Chill (Spell)]]
+- [[Winter's Embrace (Spell)]]
+- [[Wish (Spell)]]
+- [[Wither (Spell)]]
+- [[Withering Palm (Spell)]]
+- [[Wolf's Form (Spell)]]
+- [[Wood Rot (Spell)]]
+- [[Wood Shape (Spell)]]
+- [[Wood Wose (Spell)]]
+- [[Wooden Blight (Spell)]]
+- [[Woodland Veil (Spell)]]
+- [[Woodwisp Arrow (Spell)]]
+- [[Word of Balance (Spell)]]
+- [[Word of Binding (Spell)]]
+- [[Word of Chaos (Spell)]]
+- [[Word of Recall (Spell)]]
+- [[Words of the Kami (Spell)]]
+- [[World Wave (Spell)]]
+- [[Worry Free (Spell)]]
+- [[Wounding Whispers (Spell)]]
+- [[Woven Bolt (Spell)]]
+- [[Wrack (Spell)]]
+- [[Wrack Earth (Spell)]]
+- [[Wracking Touch (Spell)]]
+- [[Wraithstrike (Spell)]]
+- [[Wraithstrike, Greater (Spell)]]
+- [[Wrath (Spell)]]
+- [[Wrathful Castigation (Spell)]]
+- [[Wrathful Doom (Spell)]]
+- [[Wrathful Mantle (Spell)]]
+- [[Wrathful Weapon (Spell)]]
+- [[Wreath of Blades (Spell)]]
+- [[Wreath of Flames (Spell)]]
+- [[Wretched Blight (Spell)]]
+- [[Wyvern's Form (Spell)]]
+

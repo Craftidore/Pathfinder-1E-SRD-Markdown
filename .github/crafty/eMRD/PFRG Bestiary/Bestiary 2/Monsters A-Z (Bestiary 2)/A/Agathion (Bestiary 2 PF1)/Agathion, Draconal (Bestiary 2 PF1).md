@@ -1,0 +1,27 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Aliases:
+  - "Agathion, Draconal"
+  - "Draconal"
+  - "Draconals"
+Category: "Creature"
+Suffix: "Bestiary 2 PF1"
+Tags:
+  - "Category/Creature"
+parent:
+  - "Agathion (Bestiary 2 PF1)"
+up:
+  - "Agathion (Bestiary 2 PF1)"
+prev:
+  - "Agathion, Cetaceal (Bestiary 2 PF1)"
+next:
+  - "Agathion, Leonal (Bestiary 2 PF1)"
+RWtopicId: "Topic_10567"
+---
+# Agathion, Draconal (Bestiary 2 PF1)
+## Overview
+
+---
+## Tags
+#Sources/Bestiary-2 #Rule-System/Pathfinder #Challenge-Rating/CR-20 #Rule/OGL #Publisher/Paizo #Rule/Core #Rule/Creature
+

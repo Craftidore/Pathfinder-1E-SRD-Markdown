@@ -1,0 +1,699 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Category: "Spells"
+Tags:
+  - "Category/Spells"
+parent:
+  - "Spell Descriptions (Spells)"
+up:
+  - "Spell Descriptions (Spells)"
+prev:
+  - "B"
+next:
+  - "E"
+down:
+  - "Death Hail (Spell)"
+  - "Defile Snow and Ice (Spell)"
+  - "Detect Fire (Spell)"
+  - "Dispel Cold (Spell)"
+  - "Dispel Fire (Spell)"
+  - "Damning Darkness (Spell)"
+  - "Defensive Grace (Spell)"
+  - "Dancing Lantern (Spell)"
+  - "Deadly Finale (Spell)"
+  - "Deafening Song Bolt (Spell)"
+  - "Defile Armor (Spell)"
+  - "Deflection (Spell)"
+  - "Delayed Consumption (Spell)"
+  - "Denounce (Spell)"
+  - "Detonate (Spell)"
+  - "Devolution (Spell)"
+  - "Discordant Blast (Spell)"
+  - "Divine Transfer (Spell)"
+  - "Divine Vessel (Spell)"
+  - "Draconic Reservoir (Spell)"
+  - "Dragon's Breath (Spell)"
+  - "Dust of Twilight (Spell)"
+  - "Draconic Malice (Spell)"
+  - "Dark Tide (Spell)"
+  - "Depthsurge (Spell)"
+  - "Doom of the Seas (Spell)"
+  - "Decastave (Spell)"
+  - "Darkvision, Superior (Spell)"
+  - "Deliquescence (Spell)"
+  - "Dweomerdoom (Spell)"
+  - "Deathless (Spell)"
+  - "Damnation Stride"
+  - "Deceptive Redundancy"
+  - "Dweomer Vortex (Spell)"
+  - "Dweomer Vortex, Greater (Spell)"
+  - "Desecrate (Spell)"
+  - "Dream Image (Spell)"
+  - "Dominate Person (Spell)"
+  - "Disintegrate (Spell)"
+  - "Dancing Lights (Spell)"
+  - "Daze (Spell)"
+  - "Detect Crossroads (Spell)"
+  - "Detect Ghost (Spell)"
+  - "Detect Secret Doors (Spell)"
+  - "Disguise Self (Spell)"
+  - "Darkness (Spell)"
+  - "Daze Monster (Spell)"
+  - "Delay Poison (Spell)"
+  - "Daylight (Spell)"
+  - "Deep Slumber (Spell)"
+  - "Displacement (Spell)"
+  - "Dimension Door (Spell)"
+  - "Dream (Spell)"
+  - "Dweomerdisk (Spell)"
+  - "Detect Ship (Spell)"
+  - "Disguise Ship (Spell)"
+  - "Duelward (Spell)"
+  - "Divine Retribution (Spell)"
+  - "Dagger Swarm (Spell)"
+  - "Dagger Swarm, Greater (Spell)"
+  - "Dancing Daggers (Spell)"
+  - "Daggerspell Stance (Spell)"
+  - "Daggerspell Stance, Greater (Spell)"
+  - "Deadly Weapons (Spell)"
+  - "Dead Light (Spell)"
+  - "Death From Above (Spell)"
+  - "Death Is Me (Spell)"
+  - "Delay Image (Spell)"
+  - "Delay Teleportation (Spell)"
+  - "Dancing Dragonmark (Spell)"
+  - "Dragonblood Beast (Spell)"
+  - "Dragonmark Demesne (Spell)"
+  - "Dragonmark Shield (Spell)"
+  - "Dragonmark Symbol (Spell)"
+  - "Dragonmark Whip (Spell)"
+  - "Dragonmark Whip, Greater (Spell)"
+  - "Dragonmarked Weapon (Spell)"
+  - "Dragonmarked Weapon, Greater"
+  - "Diminish Breath Weapon (Spell)"
+  - "Dragon Blight (Spell)"
+  - "Dragonblood Affinity (Spell)"
+  - "Dragonblood Spell-Pact (Spell)"
+  - "Dragoncall (Spell)"
+  - "Dominate Vermin (Spell)"
+  - "Dridershape (Spell)"
+  - "Dweomer of Transference (Spell)"
+  - "Detect Manifest Zone (Spell)"
+  - "Demon Wings (Spell)"
+  - "Demoncall (Spell)"
+  - "Demonflesh (Spell)"
+  - "Despoil (Spell)"
+  - "Denouncement (Spell)"
+  - "Devil's Ego (Spell)"
+  - "Devil's Eye (Spell)"
+  - "Devastating Smite (Spell)"
+  - "Dance of the Unicorn (Spell)"
+  - "Dark Way (Spell)"
+  - "Darkbolt (Spell)"
+  - "Darkvision, Mass (Spell)"
+  - "Dawn (Spell)"
+  - "Dead End (Spell)"
+  - "Deadfall (Spell)"
+  - "Deafening Clang (Spell)"
+  - "Death Armor (Spell)"
+  - "Death Dragon (Spell)"
+  - "Delayed Resurrection (Spell)"
+  - "Death Throes (Spell)"
+  - "Death Ward, Mass (Spell)"
+  - "Decomposition (Spell)"
+  - "Decoy Image (Spell)"
+  - "Deep Breath (Spell)"
+  - "Deeper Darkvision (Spell)"
+  - "Defenestrating Sphere (Spell)"
+  - "Dehydrate (Spell)"
+  - "Deific Vengeance (Spell)"
+  - "Delay Death (Spell)"
+  - "Delusions of Grandeur (Spell)"
+  - "Demonhide (Spell)"
+  - "Desiccating Bubble (Spell)"
+  - "Detect Favored Enemy (Spell)"
+  - "Devil Blight (Spell)"
+  - "Diamondsteel (Spell)"
+  - "Dimension Door, Greater (Spell)"
+  - "Dinosaur Stampede (Spell)"
+  - "Dire Hunger (Spell)"
+  - "Dirge (Spell)"
+  - "Dirge of Discord (Spell)"
+  - "Discern Shapechanger (Spell)"
+  - "Discolor Pool (Spell)"
+  - "Disguise Undead (Spell)"
+  - "Dispel Ward (Spell)"
+  - "Dispelling Breath (Spell)"
+  - "Dispelling Screen (Spell)"
+  - "Dispelling Screen, Greater (Spell)"
+  - "Displacer Form (Spell)"
+  - "Disquietude (Spell)"
+  - "Disrupt Undead, Greater (Spell)"
+  - "Dissonant Chant (Spell)"
+  - "Dissonant Chord (Spell)"
+  - "Distort Speech (Spell)"
+  - "Distract (Spell)"
+  - "Distract Assailant (Spell)"
+  - "Distracting Ray (Spell)"
+  - "Divine Agility (Spell)"
+  - "Divine Insight (Spell)"
+  - "Divine Interdiction (Spell)"
+  - "Divine Protection (Spell)"
+  - "Divine Sacrifice (Spell)"
+  - "Doomtide (Spell)"
+  - "Downdarft (Spell)"
+  - "Dragon Ally, Lesser (Spell)"
+  - "Dragon Ally (Spell)"
+  - "Dragon Ally, Greater (Spell)"
+  - "Dragonskin, Lesser (Spell)"
+  - "Dream Casting (Spell)"
+  - "Dream Sight (Spell)"
+  - "Drown (Spell)"
+  - "Drown, Mass (Spell)"
+  - "Deadly Juggernaut (Spell)"
+  - "Discern Bloodline (Spell)"
+  - "Dominate Living Construct (Spell)"
+  - "Doppelganger Transformation (Spell)"
+  - "Detect Metal and Minerals (Spell)"
+  - "Dust to Dust (Spell)"
+  - "Desert Binding (Spell)"
+  - "Desert Diversion (Spell)"
+  - "Desiccate (Spell)"
+  - "Desiccate, Mass (Spell)"
+  - "Dispel Water (Spell)"
+  - "Dance of a Hundred Cuts (Spell)"
+  - "Dance of a Thousand Cuts (Spell)"
+  - "Darkvision, Greater (Spell)"
+  - "Disguise Caravan (Spell)"
+  - "Dream Lock (Spell)"
+  - "Dream Lock, Mass (Spell)"
+  - "Dream Spirit (Spell)"
+  - "Dispel Fog (Spell)"
+  - "Draconic Might (Spell)"
+  - "Draconic Suppression (Spell)"
+  - "Dungeonsight (Spell)"
+  - "Defending Bone, Greater (Spell)"
+  - "Defending Bone (Spell)"
+  - "Dancing Web (Spell)"
+  - "Diamond Blast (Spell)"
+  - "Distilled Joy (Spell)"
+  - "Divine Inspiration (Spell)"
+  - "Dolorous Motes (Spell)"
+  - "Dragon Cloud (Spell)"
+  - "Detect Poison (Spell)"
+  - "Death Ward (Spell)"
+  - "Detect Scrying (Spell)"
+  - "Detect Magic (Spell)"
+  - "Darkvision (Spell)"
+  - "Detect Thoughts (Spell)"
+  - "Delay Teleportation, Greater (Spell)"
+  - "Delay Teleportation, Lesser (Spell)"
+  - "Determine Causality (Spell)"
+  - "Darkflame Arrow (Spell)"
+  - "Doublestrike Arrow (Spell)"
+  - "Dawn Shroud (Spell)"
+  - "Disk of Solar Vengeance (Spell)"
+  - "Dispel Silence (Spell)"
+  - "Divine Blessing (Spell)"
+  - "Detect Weaponry (Spell)"
+  - "Dancing Blade (Spell)"
+  - "Decapitating Scarf (Spell)"
+  - "Dampen Magic (Spell)"
+  - "Darts of Life (Spell)"
+  - "Deific Bastion (Spell)"
+  - "Divine Presence (Spell)"
+  - "Door of Decay (Spell)"
+  - "Dawn Burst (Spell)"
+  - "Deadly Lahar (Spell)"
+  - "Deadly Sunstroke (Spell)"
+  - "Deafening Blast (Spell)"
+  - "Death's Call (Spell)"
+  - "Deathsight (Spell)"
+  - "Deceptive Facade (Spell)"
+  - "Dimension Jumper (Spell)"
+  - "Dimension Jumper, Greater (Spell)"
+  - "Discordant Malediction (Spell)"
+  - "Doublespeak (Spell)"
+  - "Dreaded Form of the Eye Tyrant (Spell)"
+  - "Disobedience (Spell)"
+  - "Detect Dragonblood (Spell)"
+  - "Dragoneye Rune (Spell)"
+  - "Dragonshape, Least (Spell)"
+  - "Dragonshape, Lesser (Spell)"
+  - "Deep Freeze (Spell)"
+  - "Disjoin (Spell)"
+  - "Deepsong (Spell)"
+  - "Dune Tomb (Spell)"
+  - "Discern Location (Spell)"
+  - "Dimensional Stability (Spell)"
+  - "Disrupt Causality (Spell)"
+  - "Dweomerstrike (Spell)"
+  - "Dweomerstrike, Greater (Spell)"
+  - "Dominate Animal (Spell)"
+  - "Dominate Monster (Spell)"
+  - "Dolorous Blow (Spell)"
+  - "Divine Power Surge (Spell)"
+  - "Dimensional Bounce (Spell)"
+  - "Discern Next of Kin (Spell)"
+  - "Death Knell (Spell)"
+  - "Deathwatch (Spell)"
+  - "Deeper Darkness (Spell)"
+  - "Delayed Blast Fireball (Spell)"
+  - "Demand (Spell)"
+  - "Destruction (Spell)"
+  - "Detect Animals or Plants (Spell)"
+  - "Detect Evil (Spell)"
+  - "Detect Chaos (Spell)"
+  - "Detect Good (Spell)"
+  - "Detect Law (Spell)"
+  - "Detect Snares and Pits (Spell)"
+  - "Detect Undead (Spell)"
+  - "Dictum (Spell)"
+  - "Dimensional Lock (Spell)"
+  - "Diminish Plants (Spell)"
+  - "Discern Lies (Spell)"
+  - "Dismissal (Spell)"
+  - "Dispel Evil (Spell)"
+  - "Dispel Chaos (Spell)"
+  - "Dispel Good (Spell)"
+  - "Dispel Law (Spell)"
+  - "Disrupt Undead (Spell)"
+  - "Disrupting Weapon (Spell)"
+  - "Divination (Spell)"
+  - "Divine Favor (Spell)"
+  - "Divine Power (Spell)"
+  - "Doom (Spell)"
+  - "Dancing Chains (Spell)"
+  - "Darklight (Spell)"
+  - "Dimensional Anchor (Spell)"
+  - "Destruction of the Angel (Spell)"
+  - "Devil's Tower (Spell)"
+  - "Disdain the Divine (Spell)"
+  - "Doorway to Elsewhere (Spell)"
+  - "Dimensional Wormhole (Spell)"
+  - "Dragon's Form (Spell)"
+  - "Duplicate Self (Spell)"
+  - "Dance of Ruin (Spell)"
+  - "Death by Thorns (Spell)"
+  - "Death Grimace (Spell)"
+  - "Devil's Tail (Spell)"
+  - "Devil's Tongue (Spell)"
+  - "Distort Summons (Spell)"
+  - "Distort Weapon (Spell)"
+  - "Dread Word (Spell)"
+  - "Drug Resistance (Spell)"
+  - "Dispel Magic, Greater (Spell)"
+  - "Divine Light (Spell)"
+  - "Death From Below (Spell)"
+  - "Dream, Minor (Spell)"
+  - "Death Candle (Spell)"
+  - "Delay Disease (Spell)"
+  - "Desecrate Battlefield (Spell)"
+  - "Drums of War (Spell)"
+  - "Darklight, Greater (Spell)"
+  - "Detect Taint (Spell)"
+  - "Dream Walk (Spell)"
+  - "Dreaming Puppet (Spell)"
+  - "Devastate Undead (Spell)"
+  - "Detect Aberration (Spell)"
+  - "Detect Dragonmark (Spell)"
+  - "Dimension Leap (Spell)"
+  - "Distracting Shadows (Spell)"
+  - "Detect Incarnum (Spell)"
+  - "Divest Essentia (Spell)"
+  - "Disable Construct (Spell)"
+  - "Disguise Weapon (Spell)"
+  - "Detect Curse (Spell)"
+  - "Dispel Taint (Spell)"
+  - "Death Lock (Spell)"
+  - "Delay Manifestation (Spell)"
+  - "Dispel Possession (Spell)"
+  - "Disrupt Ectoplasm (Spell)"
+  - "Dominate Person or Ghost (Spell)"
+  - "Dispel Magic (Spell)"
+  - "Demon Dirge (Spell)"
+  - "Disrupting Hand (Spell)"
+  - "Dolorous Damage (Spell)"
+  - "Dragonsight (Spell)"
+  - "Dancing Weapon (Spell)"
+  - "Deflect (Spell)"
+  - "Deflect, Lesser (Spell)"
+  - "Deflect, Greater (Spell)"
+  - "Detonation (Spell)"
+  - "Dimension Hop (Spell)"
+  - "Dimension Shuffle (Spell)"
+  - "Dimension Step (Spell)"
+  - "Dispelling Touch (Spell)"
+  - "Divine Retaliation (Spell)"
+  - "Doom Scarabs (Spell)"
+  - "Dragonshape (Spell)"
+  - "Drifts of the Shalm (Spell)"
+  - "Deadman's Contingency (Spell)"
+  - "Death's Favor (Spell)"
+  - "Death's Boon (Spell)"
+RWtopicId: "Topic_16004"
+---
+# D
+## Overview
+---
+## Governed Content
+- [[Dagger Swarm (Spell)]]
+- [[Dagger Swarm, Greater (Spell)]]
+- [[Daggerspell Stance (Spell)]]
+- [[Daggerspell Stance, Greater (Spell)]]
+- [[Damnation Stride]]
+- [[Damning Darkness (Spell)]]
+- [[Dampen Magic (Spell)]]
+- [[Dance of a Hundred Cuts (Spell)]]
+- [[Dance of a Thousand Cuts (Spell)]]
+- [[Dance of Ruin (Spell)]]
+- [[Dance of the Unicorn (Spell)]]
+- [[Dancing Blade (Spell)]]
+- [[Dancing Chains (Spell)]]
+- [[Dancing Daggers (Spell)]]
+- [[Dancing Dragonmark (Spell)]]
+- [[Dancing Lantern (Spell)]]
+- [[Dancing Lights (Spell)]]
+- [[Dancing Weapon (Spell)]]
+- [[Dancing Web (Spell)]]
+- [[Dark Tide (Spell)]]
+- [[Dark Way (Spell)]]
+- [[Darkbolt (Spell)]]
+- [[Darkflame Arrow (Spell)]]
+- [[Darklight (Spell)]]
+- [[Darklight, Greater (Spell)]]
+- [[Darkness (Spell)]]
+- [[Darkvision (Spell)]]
+- [[Darkvision, Greater (Spell)]]
+- [[Darkvision, Mass (Spell)]]
+- [[Darkvision, Superior (Spell)]]
+- [[Darts of Life (Spell)]]
+- [[Dawn (Spell)]]
+- [[Dawn Burst (Spell)]]
+- [[Dawn Shroud (Spell)]]
+- [[Daylight (Spell)]]
+- [[Daze (Spell)]]
+- [[Daze Monster (Spell)]]
+- [[Dead End (Spell)]]
+- [[Dead Light (Spell)]]
+- [[Deadfall (Spell)]]
+- [[Deadly Finale (Spell)]]
+- [[Deadly Juggernaut (Spell)]]
+- [[Deadly Lahar (Spell)]]
+- [[Deadly Sunstroke (Spell)]]
+- [[Deadly Weapons (Spell)]]
+- [[Deadman's Contingency (Spell)]]
+- [[Deafening Blast (Spell)]]
+- [[Deafening Clang (Spell)]]
+- [[Deafening Song Bolt (Spell)]]
+- [[Death Armor (Spell)]]
+- [[Death by Thorns (Spell)]]
+- [[Death Candle (Spell)]]
+- [[Death Dragon (Spell)]]
+- [[Death From Above (Spell)]]
+- [[Death From Below (Spell)]]
+- [[Death Grimace (Spell)]]
+- [[Death Hail (Spell)]]
+- [[Death Is Me (Spell)]]
+- [[Death Knell (Spell)]]
+- [[Death Lock (Spell)]]
+- [[Death Throes (Spell)]]
+- [[Death Ward (Spell)]]
+- [[Death Ward, Mass (Spell)]]
+- [[Deathless (Spell)]]
+- [[Death's Boon (Spell)]]
+- [[Death's Call (Spell)]]
+- [[Death's Favor (Spell)]]
+- [[Deathsight (Spell)]]
+- [[Deathwatch (Spell)]]
+- [[Decapitating Scarf (Spell)]]
+- [[Decastave (Spell)]]
+- [[Deceptive Facade (Spell)]]
+- [[Deceptive Redundancy]]
+- [[Decomposition (Spell)]]
+- [[Decoy Image (Spell)]]
+- [[Deep Breath (Spell)]]
+- [[Deep Freeze (Spell)]]
+- [[Deep Slumber (Spell)]]
+- [[Deeper Darkness (Spell)]]
+- [[Deeper Darkvision (Spell)]]
+- [[Deepsong (Spell)]]
+- [[Defending Bone (Spell)]]
+- [[Defending Bone, Greater (Spell)]]
+- [[Defenestrating Sphere (Spell)]]
+- [[Defensive Grace (Spell)]]
+- [[Defile Armor (Spell)]]
+- [[Defile Snow and Ice (Spell)]]
+- [[Deflect (Spell)]]
+- [[Deflect, Greater (Spell)]]
+- [[Deflect, Lesser (Spell)]]
+- [[Deflection (Spell)]]
+- [[Dehydrate (Spell)]]
+- [[Deific Bastion (Spell)]]
+- [[Deific Vengeance (Spell)]]
+- [[Delay Death (Spell)]]
+- [[Delay Disease (Spell)]]
+- [[Delay Image (Spell)]]
+- [[Delay Manifestation (Spell)]]
+- [[Delay Poison (Spell)]]
+- [[Delay Teleportation (Spell)]]
+- [[Delay Teleportation, Greater (Spell)]]
+- [[Delay Teleportation, Lesser (Spell)]]
+- [[Delayed Blast Fireball (Spell)]]
+- [[Delayed Consumption (Spell)]]
+- [[Delayed Resurrection (Spell)]]
+- [[Deliquescence (Spell)]]
+- [[Delusions of Grandeur (Spell)]]
+- [[Demand (Spell)]]
+- [[Demon Dirge (Spell)]]
+- [[Demon Wings (Spell)]]
+- [[Demoncall (Spell)]]
+- [[Demonflesh (Spell)]]
+- [[Demonhide (Spell)]]
+- [[Denounce (Spell)]]
+- [[Denouncement (Spell)]]
+- [[Depthsurge (Spell)]]
+- [[Desecrate (Spell)]]
+- [[Desecrate Battlefield (Spell)]]
+- [[Desert Binding (Spell)]]
+- [[Desert Diversion (Spell)]]
+- [[Desiccate (Spell)]]
+- [[Desiccate, Mass (Spell)]]
+- [[Desiccating Bubble (Spell)]]
+- [[Despoil (Spell)]]
+- [[Destruction (Spell)]]
+- [[Destruction of the Angel (Spell)]]
+- [[Detect Aberration (Spell)]]
+- [[Detect Animals or Plants (Spell)]]
+- [[Detect Chaos (Spell)]]
+- [[Detect Crossroads (Spell)]]
+- [[Detect Curse (Spell)]]
+- [[Detect Dragonblood (Spell)]]
+- [[Detect Dragonmark (Spell)]]
+- [[Detect Evil (Spell)]]
+- [[Detect Favored Enemy (Spell)]]
+- [[Detect Fire (Spell)]]
+- [[Detect Ghost (Spell)]]
+- [[Detect Good (Spell)]]
+- [[Detect Incarnum (Spell)]]
+- [[Detect Law (Spell)]]
+- [[Detect Magic (Spell)]]
+- [[Detect Manifest Zone (Spell)]]
+- [[Detect Metal and Minerals (Spell)]]
+- [[Detect Poison (Spell)]]
+- [[Detect Scrying (Spell)]]
+- [[Detect Secret Doors (Spell)]]
+- [[Detect Ship (Spell)]]
+- [[Detect Snares and Pits (Spell)]]
+- [[Detect Taint (Spell)]]
+- [[Detect Thoughts (Spell)]]
+- [[Detect Undead (Spell)]]
+- [[Detect Weaponry (Spell)]]
+- [[Determine Causality (Spell)]]
+- [[Detonate (Spell)]]
+- [[Detonation (Spell)]]
+- [[Devastate Undead (Spell)]]
+- [[Devastating Smite (Spell)]]
+- [[Devil Blight (Spell)]]
+- [[Devil's Ego (Spell)]]
+- [[Devil's Eye (Spell)]]
+- [[Devil's Tail (Spell)]]
+- [[Devil's Tongue (Spell)]]
+- [[Devil's Tower (Spell)]]
+- [[Devolution (Spell)]]
+- [[Diamond Blast (Spell)]]
+- [[Diamondsteel (Spell)]]
+- [[Dictum (Spell)]]
+- [[Dimension Door (Spell)]]
+- [[Dimension Door, Greater (Spell)]]
+- [[Dimension Hop (Spell)]]
+- [[Dimension Jumper (Spell)]]
+- [[Dimension Jumper, Greater (Spell)]]
+- [[Dimension Leap (Spell)]]
+- [[Dimension Shuffle (Spell)]]
+- [[Dimension Step (Spell)]]
+- [[Dimensional Anchor (Spell)]]
+- [[Dimensional Bounce (Spell)]]
+- [[Dimensional Lock (Spell)]]
+- [[Dimensional Stability (Spell)]]
+- [[Dimensional Wormhole (Spell)]]
+- [[Diminish Breath Weapon (Spell)]]
+- [[Diminish Plants (Spell)]]
+- [[Dinosaur Stampede (Spell)]]
+- [[Dire Hunger (Spell)]]
+- [[Dirge (Spell)]]
+- [[Dirge of Discord (Spell)]]
+- [[Disable Construct (Spell)]]
+- [[Discern Bloodline (Spell)]]
+- [[Discern Lies (Spell)]]
+- [[Discern Location (Spell)]]
+- [[Discern Next of Kin (Spell)]]
+- [[Discern Shapechanger (Spell)]]
+- [[Discolor Pool (Spell)]]
+- [[Discordant Blast (Spell)]]
+- [[Discordant Malediction (Spell)]]
+- [[Disdain the Divine (Spell)]]
+- [[Disguise Caravan (Spell)]]
+- [[Disguise Self (Spell)]]
+- [[Disguise Ship (Spell)]]
+- [[Disguise Undead (Spell)]]
+- [[Disguise Weapon (Spell)]]
+- [[Disintegrate (Spell)]]
+- [[Disjoin (Spell)]]
+- [[Disk of Solar Vengeance (Spell)]]
+- [[Dismissal (Spell)]]
+- [[Disobedience (Spell)]]
+- [[Dispel Chaos (Spell)]]
+- [[Dispel Cold (Spell)]]
+- [[Dispel Evil (Spell)]]
+- [[Dispel Fire (Spell)]]
+- [[Dispel Fog (Spell)]]
+- [[Dispel Good (Spell)]]
+- [[Dispel Law (Spell)]]
+- [[Dispel Magic (Spell)]]
+- [[Dispel Magic, Greater (Spell)]]
+- [[Dispel Possession (Spell)]]
+- [[Dispel Silence (Spell)]]
+- [[Dispel Taint (Spell)]]
+- [[Dispel Ward (Spell)]]
+- [[Dispel Water (Spell)]]
+- [[Dispelling Breath (Spell)]]
+- [[Dispelling Screen (Spell)]]
+- [[Dispelling Screen, Greater (Spell)]]
+- [[Dispelling Touch (Spell)]]
+- [[Displacement (Spell)]]
+- [[Displacer Form (Spell)]]
+- [[Disquietude (Spell)]]
+- [[Disrupt Causality (Spell)]]
+- [[Disrupt Ectoplasm (Spell)]]
+- [[Disrupt Undead (Spell)]]
+- [[Disrupt Undead, Greater (Spell)]]
+- [[Disrupting Hand (Spell)]]
+- [[Disrupting Weapon (Spell)]]
+- [[Dissonant Chant (Spell)]]
+- [[Dissonant Chord (Spell)]]
+- [[Distilled Joy (Spell)]]
+- [[Distort Speech (Spell)]]
+- [[Distort Summons (Spell)]]
+- [[Distort Weapon (Spell)]]
+- [[Distract (Spell)]]
+- [[Distract Assailant (Spell)]]
+- [[Distracting Ray (Spell)]]
+- [[Distracting Shadows (Spell)]]
+- [[Divest Essentia (Spell)]]
+- [[Divination (Spell)]]
+- [[Divine Agility (Spell)]]
+- [[Divine Blessing (Spell)]]
+- [[Divine Favor (Spell)]]
+- [[Divine Insight (Spell)]]
+- [[Divine Inspiration (Spell)]]
+- [[Divine Interdiction (Spell)]]
+- [[Divine Light (Spell)]]
+- [[Divine Power (Spell)]]
+- [[Divine Power Surge (Spell)]]
+- [[Divine Presence (Spell)]]
+- [[Divine Protection (Spell)]]
+- [[Divine Retaliation (Spell)]]
+- [[Divine Retribution (Spell)]]
+- [[Divine Sacrifice (Spell)]]
+- [[Divine Transfer (Spell)]]
+- [[Divine Vessel (Spell)]]
+- [[Dolorous Blow (Spell)]]
+- [[Dolorous Damage (Spell)]]
+- [[Dolorous Motes (Spell)]]
+- [[Dominate Animal (Spell)]]
+- [[Dominate Living Construct (Spell)]]
+- [[Dominate Monster (Spell)]]
+- [[Dominate Person (Spell)]]
+- [[Dominate Person or Ghost (Spell)]]
+- [[Dominate Vermin (Spell)]]
+- [[Doom (Spell)]]
+- [[Doom of the Seas (Spell)]]
+- [[Doom Scarabs (Spell)]]
+- [[Doomtide (Spell)]]
+- [[Door of Decay (Spell)]]
+- [[Doorway to Elsewhere (Spell)]]
+- [[Doppelganger Transformation (Spell)]]
+- [[Doublespeak (Spell)]]
+- [[Doublestrike Arrow (Spell)]]
+- [[Downdarft (Spell)]]
+- [[Draconic Malice (Spell)]]
+- [[Draconic Might (Spell)]]
+- [[Draconic Reservoir (Spell)]]
+- [[Draconic Suppression (Spell)]]
+- [[Dragon Ally (Spell)]]
+- [[Dragon Ally, Greater (Spell)]]
+- [[Dragon Ally, Lesser (Spell)]]
+- [[Dragon Blight (Spell)]]
+- [[Dragon Cloud (Spell)]]
+- [[Dragonblood Affinity (Spell)]]
+- [[Dragonblood Beast (Spell)]]
+- [[Dragonblood Spell-Pact (Spell)]]
+- [[Dragoncall (Spell)]]
+- [[Dragoneye Rune (Spell)]]
+- [[Dragonmark Demesne (Spell)]]
+- [[Dragonmark Shield (Spell)]]
+- [[Dragonmark Symbol (Spell)]]
+- [[Dragonmark Whip (Spell)]]
+- [[Dragonmark Whip, Greater (Spell)]]
+- [[Dragonmarked Weapon (Spell)]]
+- [[Dragonmarked Weapon, Greater]]
+- [[Dragon's Breath (Spell)]]
+- [[Dragon's Form (Spell)]]
+- [[Dragonshape (Spell)]]
+- [[Dragonshape, Least (Spell)]]
+- [[Dragonshape, Lesser (Spell)]]
+- [[Dragonsight (Spell)]]
+- [[Dragonskin, Lesser (Spell)]]
+- [[Dread Word (Spell)]]
+- [[Dreaded Form of the Eye Tyrant (Spell)]]
+- [[Dream (Spell)]]
+- [[Dream Casting (Spell)]]
+- [[Dream Image (Spell)]]
+- [[Dream Lock (Spell)]]
+- [[Dream Lock, Mass (Spell)]]
+- [[Dream Sight (Spell)]]
+- [[Dream Spirit (Spell)]]
+- [[Dream Walk (Spell)]]
+- [[Dream, Minor (Spell)]]
+- [[Dreaming Puppet (Spell)]]
+- [[Dridershape (Spell)]]
+- [[Drifts of the Shalm (Spell)]]
+- [[Drown (Spell)]]
+- [[Drown, Mass (Spell)]]
+- [[Drug Resistance (Spell)]]
+- [[Drums of War (Spell)]]
+- [[Duelward (Spell)]]
+- [[Dune Tomb (Spell)]]
+- [[Dungeonsight (Spell)]]
+- [[Duplicate Self (Spell)]]
+- [[Dust of Twilight (Spell)]]
+- [[Dust to Dust (Spell)]]
+- [[Dweomer of Transference (Spell)]]
+- [[Dweomer Vortex (Spell)]]
+- [[Dweomer Vortex, Greater (Spell)]]
+- [[Dweomerdisk (Spell)]]
+- [[Dweomerdoom (Spell)]]
+- [[Dweomerstrike (Spell)]]
+- [[Dweomerstrike, Greater (Spell)]]
+

@@ -1,0 +1,463 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Category: "General Dangers Article"
+Tags:
+  - "Category/General-Dangers-Article"
+parent:
+  - "Dangers for Pathfinder Bestiary 4"
+up:
+  - "Dangers for Pathfinder Bestiary 4"
+next:
+  - "General Dangers Articles for Pathfinder Bestiary 4"
+down:
+  - "Abaia (Bestiary 4)"
+  - "Almiraj (Bestiary 4)"
+  - "Alpluachra (Bestiary 4)"
+  - "Ankou (Bestiary 4)"
+  - "Aoandon (Bestiary 4)"
+  - "Apocalypse Locust (Bestiary 4)"
+  - "Argus (Bestiary 4)"
+  - "Astral Leviathan (Bestiary 4)"
+  - "Bakekujira (Bestiary 4)"
+  - "Barometz (Bestiary 4)"
+  - "Beheaded (Bestiary 4)"
+  - "Bhole (Bestiary 4)"
+  - "Blood Hag (Bestiary 4)"
+  - "Bodythief (Bestiary 4)"
+  - "Boilborn (Bestiary 4)"
+  - "Brethedan (Bestiary 4)"
+  - "Broken Soul (Bestiary 4)"
+  - "Buggane (Bestiary 4)"
+  - "Cephalophore (Bestiary 4)"
+  - "Chaneque (Bestiary 4)"
+  - "Changeling (Bestiary 4)"
+  - "Clockwork Dragon (Bestiary 4)"
+  - "Clockwork Mage (Bestiary 4)"
+  - "Clockwork Steed (Bestiary 4)"
+  - "Colour Out of Space (Bestiary 4)"
+  - "Comozant Wyrd (Bestiary 4)"
+  - "Contemplative (Bestiary 4)"
+  - "Dark Caller (Bestiary 4)"
+  - "Dark Dancer (Bestiary 4)"
+  - "Death Dog (Bestiary 4)"
+  - "Devil, Drowning (Bestiary 4)"
+  - "Devil, Host (Bestiary 4)"
+  - "Devil, Nemesis (Bestiary 4)"
+  - "Devilbound Creature (Bestiary 4)"
+  - "Dinosaur, Dimorphodon (Bestiary 4)"
+  - "Dinosaur, Diplodocus (Bestiary 4)"
+  - "Dinosaur, Styracosaurus (Bestiary 4)"
+  - "Dinosaur, Velociraptor (Bestiary 4)"
+  - "Divine Guardian (Bestiary 4)"
+  - "Dorvae (Bestiary 4)"
+  - "Dossenus (Bestiary 4)"
+  - "Drakainia (Bestiary 4)"
+  - "Drake, Lava (Bestiary 4)"
+  - "Drake, Mist (Bestiary 4)"
+  - "Drake, Shadow (Bestiary 4)"
+  - "Drake, Spire (Bestiary 4)"
+  - "Ectoplasmic Creature (Bestiary 4)"
+  - "Einherji (Bestiary 4)"
+  - "Elder Thing (Bestiary 4)"
+  - "Elohim (Bestiary 4)"
+  - "Erlking (Bestiary 4)"
+  - "Fachen (Bestiary 4)"
+  - "Festering Spirit (Bestiary 4)"
+  - "Flea, Giant (Bestiary 4)"
+  - "Flea, Mammoth (Bestiary 4)"
+  - "Fleshdreg (Bestiary 4)"
+  - "Flying Polyp (Bestiary 4)"
+  - "Fossegrim (Bestiary 4)"
+  - "Freezing Flow (Bestiary 4)"
+  - "Fungal Creature (Bestiary 4)"
+  - "Gaki (Bestiary 4)"
+  - "Gallowdead (Bestiary 4)"
+  - "Galvo (Bestiary 4)"
+  - "Gashadokuro (Bestiary 4)"
+  - "Gathlain (Bestiary 4)"
+  - "Gearghost (Bestiary 4)"
+  - "Geist (Bestiary 4)"
+  - "Gholdako (Bestiary 4)"
+  - "Giant, Cliff (Bestiary 4)"
+  - "Giant, Ocean (Bestiary 4)"
+  - "Giant, River (Bestiary 4)"
+  - "Giant, Slag (Bestiary 4)"
+  - "Golem, Blood (Bestiary 4)"
+  - "Golem, Coral (Bestiary 4)"
+  - "Golem, Junk (Bestiary 4)"
+  - "Golem, Wax (Bestiary 4)"
+  - "Graeae (Bestiary 4)"
+  - "Gremlin, Grimple (Bestiary 4)"
+  - "Gremlin, Haniver (Bestiary 4)"
+  - "Gremlin, Monaciello (Bestiary 4)"
+  - "Grendel (Bestiary 4)"
+  - "Guardian Dragon (Bestiary 4)"
+  - "Hamadryad (Bestiary 4)"
+  - "Harionago (Bestiary 4)"
+  - "Herd Animal, Giraffe (Bestiary 4)"
+  - "Herd Animal, Stag (Bestiary 4)"
+  - "Huldra (Bestiary 4)"
+  - "Hungry Flesh (Bestiary 4)"
+  - "Hyakume (Bestiary 4)"
+  - "Hypnalis (Bestiary 4)"
+  - "Ijiraq (Bestiary 4)"
+  - "Immortal Ichor (Bestiary 4)"
+  - "Incutilis (Bestiary 4)"
+  - "Irminsul (Bestiary 4)"
+  - "Isitoq (Bestiary 4)"
+  - "Jack-o'-Lantern (Bestiary 4)"
+  - "Jinmenju (Bestiary 4)"
+  - "Juggernaut (Bestiary 4)"
+  - "Julunggali (Bestiary 4)"
+  - "Kapre (Bestiary 4)"
+  - "Karkinoi (Bestiary 4)"
+  - "Kasatha (Bestiary 4)"
+  - "Kitsune (Bestiary 4)"
+  - "Kyton, Ostiarius (Bestiary 4)"
+  - "Kyton, Sacristan (Bestiary 4)"
+  - "Lampad (Bestiary 4)"
+  - "Leaf Ray (Bestiary 4)"
+  - "Leanan Sidhe (Bestiary 4)"
+  - "Living Topiary (Bestiary 4)"
+  - "Living Wall (Bestiary 4)"
+  - "Locust, Giant (Bestiary 4)"
+  - "Lorelei (Bestiary 4)"
+  - "Lunarma (Bestiary 4)"
+  - "Lycanthrope, Werebat (Bestiary 4)"
+  - "Lycanthrope, Werecrocodile (Bestiary 4)"
+  - "Lycanthrope, Wereshark (Bestiary 4)"
+  - "Maenad (Bestiary 4)"
+  - "Manitou (Bestiary 4)"
+  - "Mi-Go (Bestiary 4)"
+  - "Mindslaver Mold (Bestiary 4)"
+  - "Mudlord (Bestiary 4)"
+  - "Mummified Creature (Bestiary 4)"
+  - "Myrmecoleon (Bestiary 4)"
+  - "Nagaji (Bestiary 4)"
+  - "Necrocraft (Bestiary 4)"
+  - "Nependis (Bestiary 4)"
+  - "Nightgaunt (Bestiary 4)"
+  - "Nightmare Creature (Bestiary 4)"
+  - "Ningyo (Bestiary 4)"
+  - "Nycar (Bestiary 4)"
+  - "Oceanid (Bestiary 4)"
+  - "Oma (Bestiary 4)"
+  - "Owb (Bestiary 4)"
+  - "Pard (Bestiary 4)"
+  - "Peluda (Bestiary 4)"
+  - "Pickled Punk (Bestiary 4)"
+  - "Pipefox (Bestiary 4)"
+  - "Pooka (Bestiary 4)"
+  - "Qallupilluk (Bestiary 4)"
+  - "Rat King (Bestiary 4)"
+  - "Ratling (Bestiary 4)"
+  - "Rokurokubi (Bestiary 4)"
+  - "Rukh (Bestiary 4)"
+  - "Saguaroi (Bestiary 4)"
+  - "Samsaran (Bestiary 4)"
+  - "Sayona (Bestiary 4)"
+  - "Scorpion, Giant Emperor (Bestiary 4)"
+  - "Scorpion, Greensting (Bestiary 4)"
+  - "Sea Cat (Bestiary 4)"
+  - "Seahorse, Giant (Bestiary 4)"
+  - "Seahorse, Killer (Bestiary 4)"
+  - "Seaweed Siren (Bestiary 4)"
+  - "Selkie (Bestiary 4)"
+  - "Seps (Bestiary 4)"
+  - "Seps, Juvenile (Bestiary 4)"
+  - "Shadow Creature (Bestiary 4)"
+  - "Shard Slag (Bestiary 4)"
+  - "Shark, Bull (Bestiary 4)"
+  - "Shark, Great White (Bestiary 4)"
+  - "Shobhad (Bestiary 4)"
+  - "Shredskin (Bestiary 4)"
+  - "Shriezyx (Bestiary 4)"
+  - "Shulsaga (Bestiary 4)"
+  - "Skinstitch (Bestiary 4)"
+  - "Snallygaster (Bestiary 4)"
+  - "Soulbound Mannequin (Bestiary 4)"
+  - "Soulbound Shell (Bestiary 4)"
+  - "Soulsliver (Bestiary 4)"
+  - "Spawn of Yog-Sothoth (Bestiary 4)"
+  - "Spider, Goliath (Bestiary 4)"
+  - "Spider, Scarlet (Bestiary 4)"
+  - "Spring-Heeled Jack (Bestiary 4)"
+  - "Star-Spawn of Cthulhu (Bestiary 4)"
+  - "Svartalfar (Bestiary 4)"
+  - "Swan Maiden (Bestiary 4)"
+  - "Swan, Trumpeter (Bestiary 4)"
+  - "Taniniver (Bestiary 4)"
+  - "Tiberolith (Bestiary 4)"
+  - "Tikbalang (Bestiary 4)"
+  - "Titan, Fomorian (Bestiary 4)"
+  - "Tooth Fairy (Bestiary 4)"
+  - "Tortoise, Giant (Bestiary 4)"
+  - "Tortoise, Immense (Bestiary 4)"
+  - "Trox (Bestiary 4)"
+  - "Tunche (Bestiary 4)"
+  - "Tyrant Jelly (Bestiary 4)"
+  - "Udaeus (Bestiary 4)"
+  - "Vampire, Nosferatu (Bestiary 4)"
+  - "Vouivre (Bestiary 4)"
+  - "Walrus (Bestiary 4)"
+  - "Walrus, Emperor (Bestiary 4)"
+  - "Warsworn (Bestiary 4)"
+  - "Water Strider, Giant (Bestiary 4)"
+  - "Water Strider, Nymph (Bestiary 4)"
+  - "Wayang (Bestiary 4)"
+  - "Weasel, Dire (Bestiary 4)"
+  - "Weasel, Giant (Bestiary 4)"
+  - "Weedwhip (Bestiary 4)"
+  - "Wickerman (Bestiary 4)"
+  - "Wikkawak (Bestiary 4)"
+  - "Winter Hag (Bestiary 4)"
+  - "Wyrwood (Bestiary 4)"
+  - "Wyvaran (Bestiary 4)"
+  - "Xanthos (Bestiary 4)"
+  - "Xenopterid (Bestiary 4)"
+  - "Yaoguai (Bestiary 4)"
+  - "Ypotryll (Bestiary 4)"
+  - "Zombie Lord (Bestiary 4)"
+  - "Zomok (Bestiary 4)"
+  - "Colossus (Bestiary 4)"
+  - "Demon Lord (Bestiary 4)"
+  - "Dragon, Outer (Bestiary 4)"
+  - "Empyreal Lord (Bestiary 4)"
+  - "Familiar (Bestiary 4)"
+  - "Fleshwarp (Bestiary 4)"
+  - "Formian (Bestiary 4)"
+  - "Great Old One"
+  - "Kaiju (Bestiary 4)"
+  - "Lurking Ray (Bestiary 4)"
+  - "Phantom Armor (Bestiary 4)"
+  - "Psychopomp (Bestiary 4)"
+  - "Locust Swarm (Bestiary 4)"
+RWtopicId: "Topic_8031"
+---
+# Creatures for Pathfinder Bestiary 4
+## Overview
+---
+## Governed Content
+- [[Abaia (Bestiary 4)]]
+- [[Almiraj (Bestiary 4)]]
+- [[Alpluachra (Bestiary 4)]]
+- [[Ankou (Bestiary 4)]]
+- [[Aoandon (Bestiary 4)]]
+- [[Apocalypse Locust (Bestiary 4)]]
+- [[Argus (Bestiary 4)]]
+- [[Astral Leviathan (Bestiary 4)]]
+- [[Bakekujira (Bestiary 4)]]
+- [[Barometz (Bestiary 4)]]
+- [[Beheaded (Bestiary 4)]]
+- [[Bhole (Bestiary 4)]]
+- [[Blood Hag (Bestiary 4)]]
+- [[Bodythief (Bestiary 4)]]
+- [[Boilborn (Bestiary 4)]]
+- [[Brethedan (Bestiary 4)]]
+- [[Broken Soul (Bestiary 4)]]
+- [[Buggane (Bestiary 4)]]
+- [[Cephalophore (Bestiary 4)]]
+- [[Chaneque (Bestiary 4)]]
+- [[Changeling (Bestiary 4)]]
+- [[Clockwork Dragon (Bestiary 4)]]
+- [[Clockwork Mage (Bestiary 4)]]
+- [[Clockwork Steed (Bestiary 4)]]
+- [[Colossus (Bestiary 4)]]
+- [[Colour Out of Space (Bestiary 4)]]
+- [[Comozant Wyrd (Bestiary 4)]]
+- [[Contemplative (Bestiary 4)]]
+- [[Dark Caller (Bestiary 4)]]
+- [[Dark Dancer (Bestiary 4)]]
+- [[Death Dog (Bestiary 4)]]
+- [[Demon Lord (Bestiary 4)]]
+- [[Devil, Drowning (Bestiary 4)]]
+- [[Devil, Host (Bestiary 4)]]
+- [[Devil, Nemesis (Bestiary 4)]]
+- [[Devilbound Creature (Bestiary 4)]]
+- [[Dinosaur, Dimorphodon (Bestiary 4)]]
+- [[Dinosaur, Diplodocus (Bestiary 4)]]
+- [[Dinosaur, Styracosaurus (Bestiary 4)]]
+- [[Dinosaur, Velociraptor (Bestiary 4)]]
+- [[Divine Guardian (Bestiary 4)]]
+- [[Dorvae (Bestiary 4)]]
+- [[Dossenus (Bestiary 4)]]
+- [[Dragon, Outer (Bestiary 4)]]
+- [[Drakainia (Bestiary 4)]]
+- [[Drake, Lava (Bestiary 4)]]
+- [[Drake, Mist (Bestiary 4)]]
+- [[Drake, Shadow (Bestiary 4)]]
+- [[Drake, Spire (Bestiary 4)]]
+- [[Ectoplasmic Creature (Bestiary 4)]]
+- [[Einherji (Bestiary 4)]]
+- [[Elder Thing (Bestiary 4)]]
+- [[Elohim (Bestiary 4)]]
+- [[Empyreal Lord (Bestiary 4)]]
+- [[Erlking (Bestiary 4)]]
+- [[Fachen (Bestiary 4)]]
+- [[Familiar (Bestiary 4)]]
+- [[Festering Spirit (Bestiary 4)]]
+- [[Flea, Giant (Bestiary 4)]]
+- [[Flea, Mammoth (Bestiary 4)]]
+- [[Fleshdreg (Bestiary 4)]]
+- [[Fleshwarp (Bestiary 4)]]
+- [[Flying Polyp (Bestiary 4)]]
+- [[Formian (Bestiary 4)]]
+- [[Fossegrim (Bestiary 4)]]
+- [[Freezing Flow (Bestiary 4)]]
+- [[Fungal Creature (Bestiary 4)]]
+- [[Gaki (Bestiary 4)]]
+- [[Gallowdead (Bestiary 4)]]
+- [[Galvo (Bestiary 4)]]
+- [[Gashadokuro (Bestiary 4)]]
+- [[Gathlain (Bestiary 4)]]
+- [[Gearghost (Bestiary 4)]]
+- [[Geist (Bestiary 4)]]
+- [[Gholdako (Bestiary 4)]]
+- [[Giant, Cliff (Bestiary 4)]]
+- [[Giant, Ocean (Bestiary 4)]]
+- [[Giant, River (Bestiary 4)]]
+- [[Giant, Slag (Bestiary 4)]]
+- [[Golem, Blood (Bestiary 4)]]
+- [[Golem, Coral (Bestiary 4)]]
+- [[Golem, Junk (Bestiary 4)]]
+- [[Golem, Wax (Bestiary 4)]]
+- [[Graeae (Bestiary 4)]]
+- [[Great Old One]]
+- [[Gremlin, Grimple (Bestiary 4)]]
+- [[Gremlin, Haniver (Bestiary 4)]]
+- [[Gremlin, Monaciello (Bestiary 4)]]
+- [[Grendel (Bestiary 4)]]
+- [[Guardian Dragon (Bestiary 4)]]
+- [[Hamadryad (Bestiary 4)]]
+- [[Harionago (Bestiary 4)]]
+- [[Herd Animal, Giraffe (Bestiary 4)]]
+- [[Herd Animal, Stag (Bestiary 4)]]
+- [[Huldra (Bestiary 4)]]
+- [[Hungry Flesh (Bestiary 4)]]
+- [[Hyakume (Bestiary 4)]]
+- [[Hypnalis (Bestiary 4)]]
+- [[Ijiraq (Bestiary 4)]]
+- [[Immortal Ichor (Bestiary 4)]]
+- [[Incutilis (Bestiary 4)]]
+- [[Irminsul (Bestiary 4)]]
+- [[Isitoq (Bestiary 4)]]
+- [[Jack-o'-Lantern (Bestiary 4)]]
+- [[Jinmenju (Bestiary 4)]]
+- [[Juggernaut (Bestiary 4)]]
+- [[Julunggali (Bestiary 4)]]
+- [[Kaiju (Bestiary 4)]]
+- [[Kapre (Bestiary 4)]]
+- [[Karkinoi (Bestiary 4)]]
+- [[Kasatha (Bestiary 4)]]
+- [[Kitsune (Bestiary 4)]]
+- [[Kyton, Ostiarius (Bestiary 4)]]
+- [[Kyton, Sacristan (Bestiary 4)]]
+- [[Lampad (Bestiary 4)]]
+- [[Leaf Ray (Bestiary 4)]]
+- [[Leanan Sidhe (Bestiary 4)]]
+- [[Living Topiary (Bestiary 4)]]
+- [[Living Wall (Bestiary 4)]]
+- [[Locust Swarm (Bestiary 4)]]
+- [[Locust, Giant (Bestiary 4)]]
+- [[Lorelei (Bestiary 4)]]
+- [[Lunarma (Bestiary 4)]]
+- [[Lurking Ray (Bestiary 4)]]
+- [[Lycanthrope, Werebat (Bestiary 4)]]
+- [[Lycanthrope, Werecrocodile (Bestiary 4)]]
+- [[Lycanthrope, Wereshark (Bestiary 4)]]
+- [[Maenad (Bestiary 4)]]
+- [[Manitou (Bestiary 4)]]
+- [[Mi-Go (Bestiary 4)]]
+- [[Mindslaver Mold (Bestiary 4)]]
+- [[Mudlord (Bestiary 4)]]
+- [[Mummified Creature (Bestiary 4)]]
+- [[Myrmecoleon (Bestiary 4)]]
+- [[Nagaji (Bestiary 4)]]
+- [[Necrocraft (Bestiary 4)]]
+- [[Nependis (Bestiary 4)]]
+- [[Nightgaunt (Bestiary 4)]]
+- [[Nightmare Creature (Bestiary 4)]]
+- [[Ningyo (Bestiary 4)]]
+- [[Nycar (Bestiary 4)]]
+- [[Oceanid (Bestiary 4)]]
+- [[Oma (Bestiary 4)]]
+- [[Owb (Bestiary 4)]]
+- [[Pard (Bestiary 4)]]
+- [[Peluda (Bestiary 4)]]
+- [[Phantom Armor (Bestiary 4)]]
+- [[Pickled Punk (Bestiary 4)]]
+- [[Pipefox (Bestiary 4)]]
+- [[Pooka (Bestiary 4)]]
+- [[Psychopomp (Bestiary 4)]]
+- [[Qallupilluk (Bestiary 4)]]
+- [[Rat King (Bestiary 4)]]
+- [[Ratling (Bestiary 4)]]
+- [[Rokurokubi (Bestiary 4)]]
+- [[Rukh (Bestiary 4)]]
+- [[Saguaroi (Bestiary 4)]]
+- [[Samsaran (Bestiary 4)]]
+- [[Sayona (Bestiary 4)]]
+- [[Scorpion, Giant Emperor (Bestiary 4)]]
+- [[Scorpion, Greensting (Bestiary 4)]]
+- [[Sea Cat (Bestiary 4)]]
+- [[Seahorse, Giant (Bestiary 4)]]
+- [[Seahorse, Killer (Bestiary 4)]]
+- [[Seaweed Siren (Bestiary 4)]]
+- [[Selkie (Bestiary 4)]]
+- [[Seps (Bestiary 4)]]
+- [[Seps, Juvenile (Bestiary 4)]]
+- [[Shadow Creature (Bestiary 4)]]
+- [[Shard Slag (Bestiary 4)]]
+- [[Shark, Bull (Bestiary 4)]]
+- [[Shark, Great White (Bestiary 4)]]
+- [[Shobhad (Bestiary 4)]]
+- [[Shredskin (Bestiary 4)]]
+- [[Shriezyx (Bestiary 4)]]
+- [[Shulsaga (Bestiary 4)]]
+- [[Skinstitch (Bestiary 4)]]
+- [[Snallygaster (Bestiary 4)]]
+- [[Soulbound Mannequin (Bestiary 4)]]
+- [[Soulbound Shell (Bestiary 4)]]
+- [[Soulsliver (Bestiary 4)]]
+- [[Spawn of Yog-Sothoth (Bestiary 4)]]
+- [[Spider, Goliath (Bestiary 4)]]
+- [[Spider, Scarlet (Bestiary 4)]]
+- [[Spring-Heeled Jack (Bestiary 4)]]
+- [[Star-Spawn of Cthulhu (Bestiary 4)]]
+- [[Svartalfar (Bestiary 4)]]
+- [[Swan Maiden (Bestiary 4)]]
+- [[Swan, Trumpeter (Bestiary 4)]]
+- [[Taniniver (Bestiary 4)]]
+- [[Tiberolith (Bestiary 4)]]
+- [[Tikbalang (Bestiary 4)]]
+- [[Titan, Fomorian (Bestiary 4)]]
+- [[Tooth Fairy (Bestiary 4)]]
+- [[Tortoise, Giant (Bestiary 4)]]
+- [[Tortoise, Immense (Bestiary 4)]]
+- [[Trox (Bestiary 4)]]
+- [[Tunche (Bestiary 4)]]
+- [[Tyrant Jelly (Bestiary 4)]]
+- [[Udaeus (Bestiary 4)]]
+- [[Vampire, Nosferatu (Bestiary 4)]]
+- [[Vouivre (Bestiary 4)]]
+- [[Walrus (Bestiary 4)]]
+- [[Walrus, Emperor (Bestiary 4)]]
+- [[Warsworn (Bestiary 4)]]
+- [[Water Strider, Giant (Bestiary 4)]]
+- [[Water Strider, Nymph (Bestiary 4)]]
+- [[Wayang (Bestiary 4)]]
+- [[Weasel, Dire (Bestiary 4)]]
+- [[Weasel, Giant (Bestiary 4)]]
+- [[Weedwhip (Bestiary 4)]]
+- [[Wickerman (Bestiary 4)]]
+- [[Wikkawak (Bestiary 4)]]
+- [[Winter Hag (Bestiary 4)]]
+- [[Wyrwood (Bestiary 4)]]
+- [[Wyvaran (Bestiary 4)]]
+- [[Xanthos (Bestiary 4)]]
+- [[Xenopterid (Bestiary 4)]]
+- [[Yaoguai (Bestiary 4)]]
+- [[Ypotryll (Bestiary 4)]]
+- [[Zombie Lord (Bestiary 4)]]
+- [[Zomok (Bestiary 4)]]
+

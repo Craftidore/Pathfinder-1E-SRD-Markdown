@@ -1,0 +1,135 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Category: "Spells"
+Tags:
+  - "Category/Spells"
+parent:
+  - "Spell Descriptions (Spells)"
+up:
+  - "Spell Descriptions (Spells)"
+prev:
+  - "M"
+next:
+  - "O"
+down:
+  - "Nauseating Dart (Spell)"
+  - "Nauseating Trail (Spell)"
+  - "Nap Stack (Spell)"
+  - "Natural Rhythm (Spell)"
+  - "Nature's Exile (Spell)"
+  - "Negate Aroma (Spell)"
+  - "Neutralize Poison (Spell)"
+  - "Nightmare (Spell)"
+  - "Nature's Wrath (Spell)"
+  - "Negative Energy Wave (Spell)"
+  - "Nerveskitter (Spell)"
+  - "Nature's Avatar (Spell)"
+  - "Nature's Balance (Spell)"
+  - "Nature's Favor (Spell)"
+  - "Nature's Rampart (Spell)"
+  - "Naturewatch (Spell)"
+  - "Nauseating Breath (Spell)"
+  - "Net of Shadows (Spell)"
+  - "Nightmare Lullaby (Spell)"
+  - "Nightshield (Spell)"
+  - "Nightstalker's Transformation (Spell)"
+  - "Nimbus of Light (Spell)"
+  - "Nixie's Grace (Spell)"
+  - "Natural Weapon Augmentation (Spell)"
+  - "Natural Weapon Augmentation, Greater (Spell)"
+  - "Natural Weapon Augmentation, Lesser (Spell)"
+  - "Natural Weapon Augmentation, Personal (Spell)"
+  - "No Fly Zone (Spell)"
+  - "Negative Energy Aura (Spell)"
+  - "Nondetection (Spell)"
+  - "Nether Trail (Spell)"
+  - "No Light (Spell)"
+  - "Necrotic Skull Bomb (Spell)"
+  - "Node Door (Spell)"
+  - "Node Genesis (Spell)"
+  - "Node Lock (Spell)"
+  - "Near Horizon (Spell)"
+  - "Necrotic Curse (Spell)"
+  - "Nightmare Terrain (Spell)"
+  - "Nonesuch Spell (Spell)"
+  - "Nonesuch Spell, Greater (Spell)"
+  - "Nine Lives (Spell)"
+  - "Necrotic Awareness (Spell)"
+  - "Necrotic Bloat (Spell)"
+  - "Necrotic Burst (Spell)"
+  - "Necrotic Cyst (Spell)"
+  - "Necrotic Domination (Spell)"
+  - "Necrotic Empowerment (Spell)"
+  - "Necrotic Eruption (Spell)"
+  - "Necrotic Scrying (Spell)"
+  - "Necrotic Tumor (Spell)"
+  - "Necrotic Termination (Spell)"
+  - "Night's Caress (Spell)"
+  - "Night's Mantle (Spell)"
+  - "Nature's Purity (Spell)"
+  - "Nar Fiendbond (Spell)"
+  - "Numbing Sphere (Spell)"
+RWtopicId: "Topic_15947"
+---
+# N
+## Overview
+---
+## Governed Content
+- [[Nap Stack (Spell)]]
+- [[Nar Fiendbond (Spell)]]
+- [[Natural Rhythm (Spell)]]
+- [[Natural Weapon Augmentation (Spell)]]
+- [[Natural Weapon Augmentation, Greater (Spell)]]
+- [[Natural Weapon Augmentation, Lesser (Spell)]]
+- [[Natural Weapon Augmentation, Personal (Spell)]]
+- [[Nature's Avatar (Spell)]]
+- [[Nature's Balance (Spell)]]
+- [[Nature's Exile (Spell)]]
+- [[Nature's Favor (Spell)]]
+- [[Nature's Purity (Spell)]]
+- [[Nature's Rampart (Spell)]]
+- [[Nature's Wrath (Spell)]]
+- [[Naturewatch (Spell)]]
+- [[Nauseating Breath (Spell)]]
+- [[Nauseating Dart (Spell)]]
+- [[Nauseating Trail (Spell)]]
+- [[Near Horizon (Spell)]]
+- [[Necrotic Awareness (Spell)]]
+- [[Necrotic Bloat (Spell)]]
+- [[Necrotic Burst (Spell)]]
+- [[Necrotic Curse (Spell)]]
+- [[Necrotic Cyst (Spell)]]
+- [[Necrotic Domination (Spell)]]
+- [[Necrotic Empowerment (Spell)]]
+- [[Necrotic Eruption (Spell)]]
+- [[Necrotic Scrying (Spell)]]
+- [[Necrotic Skull Bomb (Spell)]]
+- [[Necrotic Termination (Spell)]]
+- [[Necrotic Tumor (Spell)]]
+- [[Negate Aroma (Spell)]]
+- [[Negative Energy Aura (Spell)]]
+- [[Negative Energy Wave (Spell)]]
+- [[Nerveskitter (Spell)]]
+- [[Net of Shadows (Spell)]]
+- [[Nether Trail (Spell)]]
+- [[Neutralize Poison (Spell)]]
+- [[Nightmare (Spell)]]
+- [[Nightmare Lullaby (Spell)]]
+- [[Nightmare Terrain (Spell)]]
+- [[Night's Caress (Spell)]]
+- [[Night's Mantle (Spell)]]
+- [[Nightshield (Spell)]]
+- [[Nightstalker's Transformation (Spell)]]
+- [[Nimbus of Light (Spell)]]
+- [[Nine Lives (Spell)]]
+- [[Nixie's Grace (Spell)]]
+- [[No Fly Zone (Spell)]]
+- [[No Light (Spell)]]
+- [[Node Door (Spell)]]
+- [[Node Genesis (Spell)]]
+- [[Node Lock (Spell)]]
+- [[Nondetection (Spell)]]
+- [[Nonesuch Spell (Spell)]]
+- [[Nonesuch Spell, Greater (Spell)]]
+- [[Numbing Sphere (Spell)]]
+

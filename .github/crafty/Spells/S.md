@@ -1,0 +1,1399 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Category: "Spells"
+Tags:
+  - "Category/Spells"
+parent:
+  - "Spell Descriptions (Spells)"
+up:
+  - "Spell Descriptions (Spells)"
+prev:
+  - "R"
+next:
+  - "U"
+down:
+  - "Sense Spirit Magic (Spell)"
+  - "Shield Companion (Spell)"
+  - "Shield of Fortification (Spell)"
+  - "Shield of Fortification, Greater (Spell)"
+  - "Sickening Entanglement (Spell)"
+  - "Silver Darts (Spell)"
+  - "Slowing Mud (Spell)"
+  - "Sonic Form (Spell)"
+  - "Sonic Scream (Spell)"
+  - "Speak with Haunt (Spell)"
+  - "Stench of Prey (Spell)"
+  - "Stone Discus (Spell)"
+  - "Stricken Heart (Spell)"
+  - "Sunder Breaker (Spell)"
+  - "Sundering Shards (Spell)"
+  - "Symbol of Laughter (Spell)"
+  - "Spirit Call (Spell)"
+  - "Share Senses (Spell)"
+  - "Sacred Bond (Spell)"
+  - "Sacrificial Oath (Spell)"
+  - "Saddle Surge (Spell)"
+  - "Sanctify Armor (Spell)"
+  - "Saving Finale (Spell)"
+  - "Scent Trail (Spell)"
+  - "Screech (Spell)"
+  - "Seamantle (Spell)"
+  - "Seek Thoughts (Spell)"
+  - "Secluded Grimoire (Spell)"
+  - "Secret Workshop (Spell)"
+  - "Share Language (Spell)"
+  - "Shifting Sand (Spell)"
+  - "Shared Wrath (Spell)"
+  - "Sift (Spell)"
+  - "Sirocco (Spell)"
+  - "Sleepwalk (Spell)"
+  - "Snake Staff (Spell)"
+  - "Solid Note (Spell)"
+  - "Spark (Spell)"
+  - "Spiked Pit (Spell)"
+  - "Spiritual Ally (Spell)"
+  - "Spite (Spell)"
+  - "Stay the Hand (Spell)"
+  - "Stone Call (Spell)"
+  - "Stone Fist (Spell)"
+  - "Sacred Haven (Spell)"
+  - "Safe Clearing (Spell)"
+  - "Safety (Spell)"
+  - "Saltray (Spell)"
+  - "Sanctuary, Mass (Spell)"
+  - "Sandblast, Lesser (Spell)"
+  - "Sarcophagus of Stone (Spell)"
+  - "Scale Weakening (Spell)"
+  - "Scorch (Spell)"
+  - "Scourge (Spell)"
+  - "Scramble Portal (Spell)"
+  - "Seal Portal (Spell)"
+  - "Seek Eternal Rest (Spell)"
+  - "Sense Heretic (Spell)"
+  - "Sensory Deprivation, Lesser (Spell)"
+  - "Serene Visage (Spell)"
+  - "Shadow Binding (Spell)"
+  - "Shadow Cache (Spell)"
+  - "Shadow Shape (Spell)"
+  - "Shadow Landscape (Spell)"
+  - "Shadow Phase (Spell)"
+  - "Shadow Mask (Spell)"
+  - "Shadow Radiance (Spell)"
+  - "Shadow Spray (Spell)"
+  - "Shadow Well (Spell)"
+  - "Shadowblast (Spell)"
+  - "Snowshoes (Spell)"
+  - "Snowshoes, Mass (Spell)"
+  - "Solipsism (Spell)"
+  - "Sonic Blast (Spell)"
+  - "Sonic Rumble (Spell)"
+  - "Sonic Snap (Spell)"
+  - "Sonic Weapon (Spell)"
+  - "Sonic Whip (Spell)"
+  - "Sonorous Hum (Spell)"
+  - "Sound Lance (Spell)"
+  - "Spawn Screen (Spell)"
+  - "Speak to Allies (Spell)"
+  - "Spectral Weapon (Spell)"
+  - "Spellmantle (Spell)"
+  - "Spell Immunity, Lesser (Spell)"
+  - "Spider Curse (Spell)"
+  - "Spider Plague (Spell)"
+  - "Spider Poison (Spell)"
+  - "Spider Shapes (Spell)"
+  - "Spiderskin (Spell)"
+  - "Spikes (Spell)"
+  - "Spirit Worm (Spell)"
+  - "Spiritjaws (Spell)"
+  - "Spiritual Chariot (Spell)"
+  - "Spiritwall (Spell)"
+  - "Splinterbolt (Spell)"
+  - "Spontaneous Search (Spell)"
+  - "Stabilize, Greater (Spell)"
+  - "Stalking Brand (Spell)"
+  - "Stalwart Pact (Spell)"
+  - "Starvation (Spell)"
+  - "Soul Stasis, Lesser (Spell)"
+  - "Soul Stasis (Spell)"
+  - "Stick (Spell)"
+  - "Sticky Fingers (Spell)"
+  - "Sticky Saddle (Spell)"
+  - "Sting Ray (Spell)"
+  - "Stolen Breath (Spell)"
+  - "Stone Body (Spell)"
+  - "Stone Shape, Greater (Spell)"
+  - "Stone Shatter (Spell)"
+  - "Stone Sphere (Spell)"
+  - "Stone Spiders (Spell)"
+  - "Stonehold (Spell)"
+  - "Stony Grasp (Spell)"
+  - "Storm of Elemental Fury (Spell)"
+  - "Storm Tower (Spell)"
+  - "Stormrage (Spell)"
+  - "Strategic Charge (Spell)"
+  - "Strength of Stone (Spell)"
+  - "Stun Ray (Spell)"
+  - "Stunning Breath (Spell)"
+  - "Stunning Breath, Greater (Spell)"
+  - "Submerge Ship (Spell)"
+  - "Subvert Planar Essence (Spell)"
+  - "Sudden Stalagmite (Spell)"
+  - "Summon Babau Demon (Spell)"
+  - "Summon Bearded Devil (Spell)"
+  - "Summon Backpack, Greater (Spell)"
+  - "Summon Bralani Eladrin (Spell)"
+  - "Summon Elemental Monolith (Spell)"
+  - "Summon Elementite Swarm (Spell)"
+  - "Summon Elysian Thrush (Spell)"
+  - "Summon Greater Elemental (Spell)"
+  - "Summon Hound Archon (Spell)"
+  - "Suppress Breath Weapon (Spell)"
+  - "Suppress Glyph (Spell)"
+  - "Surefoot (Spell)"
+  - "Surefooted Stride (Spell)"
+  - "Surefooted Stride, Mass (Spell)"
+  - "Suspended Silence (Spell)"
+  - "Swamp Lung (Spell)"
+  - "Swamp Stride (Spell)"
+  - "Swim (Spell)"
+  - "Swim, Mass (Spell)"
+  - "Sword of Darkness (Spell)"
+  - "Sword of Deception (Spell)"
+  - "Symphonic Nightmare (Spell)"
+  - "Synostodweomer (Spell)"
+  - "Scales of the Sealord (Spell)"
+  - "Siren's Call (Spell)"
+  - "Steed of the Seas (Spell)"
+  - "Stormwalk (Spell)"
+  - "Snowball, Lesser (Spell)"
+  - "Soul Scour (Spell)"
+  - "Stone Metamorphosis (Spell)"
+  - "Stone Metamorphosis, Greater (Spell)"
+  - "Soultheft (Spell)"
+  - "Shaking Hand (Spell)"
+  - "Silver Lance (Spell)"
+  - "Sever Legacy (Spell)"
+  - "Suppress Legacy (Spell)"
+  - "Shard Storm (Spell)"
+  - "Share Husk (Spell)"
+  - "Sharptooth (Spell)"
+  - "Shatterfloor (Spell)"
+  - "Sheltered Vitality (Spell)"
+  - "Shield of Warding (Spell)"
+  - "Shieldbearer (Spell)"
+  - "Shifting Paths (Spell)"
+  - "Shock and Awe (Spell)"
+  - "Shroud of Flame (Spell)"
+  - "Shroud of Undeath (Spell)"
+  - "Sign (Spell)"
+  - "Sign of Sealing (Spell)"
+  - "Sign of Sealing, Greater (Spell)"
+  - "Silent Portal (Spell)"
+  - "Silverbeard (Spell)"
+  - "Sink (Spell)"
+  - "Skeletal Guard (Spell)"
+  - "Sirine's Grace (Spell)"
+  - "Skull Watch (Spell)"
+  - "Slapping Hand (Spell)"
+  - "Slashing Darkness (Spell)"
+  - "Slide (Spell)"
+  - "Slide, Greater (Spell)"
+  - "Slow Burn (Spell)"
+  - "Smell of Fear (Spell)"
+  - "Snakebite (Spell)"
+  - "Sniper's Eye (Spell)"
+  - "Sniper's Shot (Spell)"
+  - "Snowball Swarm (Spell)"
+  - "Shrink Item, Greater (Spell)"
+  - "Spellcasting Contract, Lesser (Spell)"
+  - "Spellcasting Contract (Spell)"
+  - "Spellcasting Contract, Greater (Spell)"
+  - "Secret Chest (Spell)"
+  - "Shadow Tentacle, Lesser (Spell)"
+  - "Spell Immunity (Spell)"
+  - "Shadow Tentacle (Spell)"
+  - "Steal Life (Spell)"
+  - "Spell Phylactery (Spell)"
+  - "Suspension (Spell)"
+  - "Spectral Hand (Spell)"
+  - "Seeker's Chant (Spell)"
+  - "Sharing the Ancient Lore (Spell)"
+  - "Summon Instrument (Spell)"
+  - "Sleep (Spell)"
+  - "Summon Monster I (Spell)"
+  - "Shatter (Spell)"
+  - "Sound Burst (Spell)"
+  - "Summon Monster II (Spell)"
+  - "Summon Swarm (Spell)"
+  - "Scrying (Spell)"
+  - "Sculpt Sound (Spell)"
+  - "Secret Page (Spell)"
+  - "Sepia Snake Sigil (Spell)"
+  - "Slow (Spell)"
+  - "Speak with Animals (Spell)"
+  - "Summon Monster III (Spell)"
+  - "Summon Monster IV (Spell)"
+  - "Secure Shelter (Spell)"
+  - "Shadow Conjuration (Spell)"
+  - "Shout (Spell)"
+  - "Speak with Plants (Spell)"
+  - "Scrying, Greater (Spell)"
+  - "Shout, Greater (Spell)"
+  - "Summon Monster VI (Spell)"
+  - "Sympathetic Vibration (Spell)"
+  - "Seeming (Spell)"
+  - "Shadow Evocation (Spell)"
+  - "Shadow Walk (Spell)"
+  - "Song of Discord (Spell)"
+  - "Suggestion, Mass (Spell)"
+  - "Scholar's Touch (Spell)"
+  - "Sandform (Spell)"
+  - "Stormrunner's Ward (Spell)"
+  - "Snake's Swiftness (Spell)"
+  - "Snake's Swiftness, Mass (Spell)"
+  - "Speechlink (Spell)"
+  - "Spell Engine (Spell)"
+  - "Spell Enhancer (Spell)"
+  - "Spell Flower (Spell)"
+  - "Spell Matrix (Spell)"
+  - "Spell Matrix, Greater (Spell)"
+  - "Spell Matrix, Lesser (Spell)"
+  - "Steeldance (Spell)"
+  - "Sonic Shield (Spell)"
+  - "Spellcaster's Bane (Spell)"
+  - "Siphon (Spell)"
+  - "Subdue Aura (Spell)"
+  - "Spell Fangs (Spell)"
+  - "Spell Haven (Spell)"
+  - "Summon Living Dragonmark (Spell)"
+  - "Summon Marked Homunculus (Spell)"
+  - "Strength of the True Form (Spell)"
+  - "Scattergloom (Spell)"
+  - "Shadow of the Dark Queen"
+  - "Spectral Dragon (Spell)"
+  - "Steelsting (Spell)"
+  - "Shadow Double (Spell)"
+  - "Shadow Shroud (Spell)"
+  - "Snuff the Light (Spell)"
+  - "Spider Form (Spell)"
+  - "Spider Form, Greater (Spell)"
+  - "Spider Form, Lesser (Spell)"
+  - "Strike Construct (Spell)"
+  - "Shield of Faith, Mass (Spell)"
+  - "Skill Enhancement (Spell)"
+  - "Spell Storing Item (Spell)"
+  - "Spirit Steed (Spell)"
+  - "Stone Construct (Spell)"
+  - "Suppress Requirement (Spell)"
+  - "Stiffen (Spell)"
+  - "Summon Warforged Champion (Spell)"
+  - "Shun the Dark Chaos (Spell)"
+  - "Slime Wave (Spell)"
+  - "Soul Link (Spell)"
+  - "Skunk Scent (Spell)"
+  - "Smite of Sacred Fire (Spell)"
+  - "Soldiers of Sanctity (Spell)"
+  - "Stand Firm (Spell)"
+  - "Sudden Aegis (Spell)"
+  - "Swift Ready (Spell)"
+  - "Shadow Barbs (Spell)"
+  - "Spontaneous Immolation (Spell)"
+  - "Strengthen Skeleton (Spell)"
+  - "Speechlink, Greater (Spell)"
+  - "Sealed Sending (Spell)"
+  - "Shadow Portal (Spell)"
+  - "Shroud of Darkness (Spell)"
+  - "Siphon Magic (Spell)"
+  - "Spark of Life (Spell)"
+  - "Spell Absorption (Spell)"
+  - "Strong Jaw (Spell)"
+  - "Symbol of Revelation (Spell)"
+  - "Symbol of Scrying (Spell)"
+  - "Symbol of Sealing (Spell)"
+  - "Spawn Wererats (Spell)"
+  - "Simulacrum, Greater (Spell)"
+  - "Servant Horde (Spell)"
+  - "Scattering Trap (Spell)"
+  - "Seeking Ray (Spell)"
+  - "Share Talents (Spell)"
+  - "Slashing Dispel (Spell)"
+  - "Stand (Spell)"
+  - "Stay the Hand, Lesser (Spell)"
+  - "Stifle Spell (Spell)"
+  - "Stifle Spell, Greater (Spell)"
+  - "Stretch Weapon (Spell)"
+  - "Sure Strike (Spell)"
+  - "Summon Ship (Spell)"
+  - "Shadow Guardians (Spell)"
+  - "Skyline Runner (Spell)"
+  - "Scorpion Tail (Spell)"
+  - "Shifter Prowess (Spell)"
+  - "Shadow Canopy (Spell)"
+  - "Shape Metal (Spell)"
+  - "Spore Cloak (Spell)"
+  - "Stone Hands (Spell)"
+  - "Sticky Floor (Spell)"
+  - "Summon Aspect of Bahamut"
+  - "Spell Gauge (Spell)"
+  - "Spell Scourge (Spell)"
+  - "Symbol of Dispelling (Spell)"
+  - "Summon Devoted Roc (Spell)"
+  - "Summon Dire Hawk (Spell)"
+  - "Sandstorm (Spell)"
+  - "Scalding Mud (Spell)"
+  - "Scimitar of Sand (Spell)"
+  - "Searing Exposure (Spell)"
+  - "Skin of the Cactus (Spell)"
+  - "Sleep Mote (Spell)"
+  - "Slipsand (Spell)"
+  - "Soul of the Waste (Spell)"
+  - "Storm Mote (Spell)"
+  - "Summon Desert Ally I (Spell)"
+  - "Sunstroke (Spell)"
+  - "Symbol of Thirst (Spell)"
+  - "Spectral Touch (Spell)"
+  - "Summon Desert Ally II (Spell)"
+  - "Summon Desert Ally IV (Spell)"
+  - "Summon Desert Ally III (Spell)"
+  - "Summon Desert Ally VII (Spell)"
+  - "Summon Desert Ally VIII (Spell)"
+  - "Summon Desert Ally IX (Spell)"
+  - "Summon Desert Ally VI (Spell)"
+  - "Summon Desert Ally V (Spell)"
+  - "Stored Lightning Bolt (Spell)"
+  - "Stone Storm (Spell)"
+  - "Stunwave (Spell)"
+  - "Sea Legs (Spell)"
+  - "Shuffle (Spell)"
+  - "Sparkles (Spell)"
+  - "Sticks and Stones (Spell)"
+  - "Stone Trap (Spell)"
+  - "Stonefire (Spell)"
+  - "Streamers (Spell)"
+  - "Sun Bolt (Spell)"
+  - "Soul Blast (Spell)"
+  - "Scentless, Greater (Spell)"
+  - "Sense of the Dragon, Greater (Spell)"
+  - "Shadow Fangs, Greater (Spell)"
+  - "Shadow Space (Spell)"
+  - "Shield Against the Balanced (Spell)"
+  - "Shield Against the Contrary (Spell)"
+  - "Shield Against the Dark (Spell)"
+  - "Shield Against the Focused (Spell)"
+  - "Siphon, Greater (Spell)"
+  - "Smoke Conduit (Spell)"
+  - "Soul Drain (Spell)"
+  - "Soul Drain, Greater (Spell)"
+  - "Soul Drain, Lesser (Spell)"
+  - "Soul Drain, Mass (Spell)"
+  - "Spell Gauge, Greater (Spell)"
+  - "Spirit Fog (Spell)"
+  - "Stoneskin, Greater (Spell)"
+  - "Stolen Breath, Greater (Spell)"
+  - "Shield (Spell)"
+  - "See Invisibility (Spell)"
+  - "Spell Resistance (Spell)"
+  - "Spider Climb (Spell)"
+  - "Symbol of Death (Spell)"
+  - "Symbol of Fear (Spell)"
+  - "Symbol of Insanity (Spell)"
+  - "Symbol of Pain (Spell)"
+  - "Symbol of Sleep (Spell)"
+  - "Symbol of Stunning (Spell)"
+  - "Symbol of Weakness (Spell)"
+  - "Sympathy (Spell)"
+  - "Scrivener's Chant (Spell)"
+  - "Scrying Cage (Spell)"
+  - "Silent Image (Spell)"
+  - "Sacrificial Skill (Spell)"
+  - "Sadism (Spell)"
+  - "Sap Strength (Spell)"
+  - "Seething Eyebane (Spell)"
+  - "Serpents of Theggeron (Spell)"
+  - "Shriveling (Spell)"
+  - "Slash Tongue (Spell)"
+  - "Slow Consumption (Spell)"
+  - "Snare Astral Traveler (Spell)"
+  - "Song of Festering Death (Spell)"
+  - "Sorrow (Spell)"
+  - "Soul Shackles (Spell)"
+  - "Soul's Treasure Lost (Spell)"
+  - "Spider Hand (Spell)"
+  - "Spider Legs (Spell)"
+  - "Spores of the Vrock (Spell)"
+  - "Spread of Savagery (Spell)"
+  - "Stop Heart (Spell)"
+  - "Stunning Screech (Spell)"
+  - "Stupor (Spell)"
+  - "Suspend Disease (Spell)"
+  - "Scourge of Force (Spell)"
+  - "Serpent Arrow (Spell)"
+  - "Shadow Arrow (Spell)"
+  - "Shadow Snare (Spell)"
+  - "Slime Hurl (Spell)"
+  - "Spellslayer Arrow (Spell)"
+  - "Spellsong, Lesser (Spell)"
+  - "Shard Blessing Aura (Spell)"
+  - "Silver Dragonmail (Spell)"
+  - "Skin of the Steel Dragon (Spell)"
+  - "Spellsong (Spell)"
+  - "Spiderbind (Spell)"
+  - "Starburst (Spell)"
+  - "Stars of Spell Loss (Spell)"
+  - "Stars of Cold Force (Spell)"
+  - "Stormvoice (Spell)"
+  - "Spacious Carriage (Spell)"
+  - "Secret Weapon (Spell)"
+  - "Summon Pest Swarm (Spell)"
+  - "Scales of the Lizard (Spell)"
+  - "Secret Signs (Spell)"
+  - "Sacred Item (Spell)"
+  - "Seed of Life (Spell)"
+  - "Soul Ward (Spell)"
+  - "Spiritual Advisor (Spell)"
+  - "Spiritual Guardian (Spell)"
+  - "Substitute Domain (Spell)"
+  - "Summon Holy Symbol (Spell)"
+  - "Surge of Fortune (Spell)"
+  - "Smoke Ladder (Spell)"
+  - "Snake Darts (Spell)"
+  - "Spirit Binding, Lesser (Spell)"
+  - "Spirit Binding (Spell)"
+  - "Spirit Binding, Greater (Spell)"
+  - "Spirit Needle (Spell)"
+  - "Spirit Self (Spell)"
+  - "Steam Breath (Spell)"
+  - "Summoning Wind (Spell)"
+  - "Scorching Blood (Spell)"
+  - "Slumber Arrows (Spell)"
+  - "Suppressing Field (Spell)"
+  - "Seed of Undeath (Spell)"
+  - "Seed of Undeath, Greater (Spell)"
+  - "Shape of the Hellspawned Stalker (Spell)"
+  - "Smoky Confinement (Spell)"
+  - "Steal Summoning (Spell)"
+  - "Storm of Fire and Ice (Spell)"
+  - "Storm of Needles (Spell)"
+  - "Summon Component (Spell)"
+  - "Summon Weapon (Spell)"
+  - "Scry Location (Spell)"
+  - "Smoke Stairs (Spell)"
+  - "Spell Theft (Spell)"
+  - "Spore Field (Spell)"
+  - "Spymaster's Coin (Spell)"
+  - "Spell Vulnerability, Greater (Spell)"
+  - "Soul of Anarchy (Spell)"
+  - "Soul of Light (Spell)"
+  - "Soul of Order (Spell)"
+  - "Soul of Shadow (Spell)"
+  - "Share Animal's Mind (Spell)"
+  - "Shocking Spark (Spell)"
+  - "Spark Shield (Spell)"
+  - "Spirit Walk (Spell)"
+  - "Stone Shards (Spell)"
+  - "Storm Wall (Spell)"
+  - "Skyhurling (Spell)"
+  - "Skyrift (Spell)"
+  - "Storm Prison (Spell)"
+  - "Shadowy Grappler (Spell)"
+  - "Standing Wave (Spell)"
+  - "Sacred Guardian (Spell)"
+  - "Sanctify the Wicked (Spell)"
+  - "Secure Corpse (Spell)"
+  - "Shield of the Archons (Spell)"
+  - "Silvered Claws (Spell)"
+  - "Silvered Weapon (Spell)"
+  - "Smite Heretic (Spell)"
+  - "Spear of Valarian (Spell)"
+  - "Spread of Contentment (Spell)"
+  - "Starmantle (Spell)"
+  - "Storm of Shards (Spell)"
+  - "Sicken Evil (Spell)"
+  - "Sublime Revelry (Spell)"
+  - "Sunmantle (Spell)"
+  - "Sustain (Spell)"
+  - "Sword of Conscience (Spell)"
+  - "Silent Table (Spell)"
+  - "Spellcrash, Lesser (Spell)"
+  - "Spellcrash (Spell)"
+  - "Spellcrash, Greater (Spell)"
+  - "Stunning Barrier (Spell)"
+  - "Stunning Barrier, Greater (Spell)"
+  - "Sending (Spell)"
+  - "Sanctuary (Spell)"
+  - "Scare (Spell)"
+  - "Scintillating Pattern (Spell)"
+  - "Scorching Ray (Spell)"
+  - "Screen (Spell)"
+  - "Searing Light (Spell)"
+  - "Sequester (Spell)"
+  - "Shades (Spell)"
+  - "Shadow Conjuration, Greater (Spell)"
+  - "Shadow Evocation, Greater (Spell)"
+  - "Shambler (Spell)"
+  - "Shield of Faith (Spell)"
+  - "Shield of Law (Spell)"
+  - "Shield Other (Spell)"
+  - "Shapechange (Spell)"
+  - "Shillelagh (Spell)"
+  - "Shrink Item (Spell)"
+  - "Shocking Grasp (Spell)"
+  - "Simulacrum Bond, Lesser (Spell)"
+  - "Slay Living (Spell)"
+  - "Sleet Storm (Spell)"
+  - "Snare (Spell)"
+  - "Soften Earth and Stone (Spell)"
+  - "Symbol of Persuasion (Spell)"
+  - "Soul Bind (Spell)"
+  - "Speak with Dead (Spell)"
+  - "Spell Immunity, Greater (Spell)"
+  - "Spell Resistance, Greater (Spell)"
+  - "Spellstaff (Spell)"
+  - "Spike Growth (Spell)"
+  - "Spike Stones (Spell)"
+  - "Spiritual Weapon (Spell)"
+  - "Stabilize (Spell)"
+  - "Statue (Spell)"
+  - "Stinking Cloud (Spell)"
+  - "Stoneskin (Spell)"
+  - "Stone Tell (Spell)"
+  - "Stone to Flesh (Spell)"
+  - "Storm of Vengeance (Spell)"
+  - "Summon Monster VII (Spell)"
+  - "Summon Monster VIII (Spell)"
+  - "Summon Monster IX (Spell)"
+  - "Summon Nature's Ally I (Spell)"
+  - "Summon Nature's Ally II (Spell)"
+  - "Summon Nature's Ally III (Spell)"
+  - "Summon Nature's Ally IV (Spell)"
+  - "Summon Nature's Ally V (Spell)"
+  - "Summon Nature's Ally VI (Spell)"
+  - "Summon Nature's Ally VII (Spell)"
+  - "Summon Nature's Ally VIII (Spell)"
+  - "Summon Nature's Ally IX (Spell)"
+  - "Sunbeam (Spell)"
+  - "Sunburst (Spell)"
+  - "Symbol of Spell Loss (Spell)"
+  - "Shark's Form (Spell)"
+  - "Shield of Light (Spell)"
+  - "Shifting Sanctum (Spell)"
+  - "Shrapnel Globe (Spell)"
+  - "Slay Illusion (Spell)"
+  - "Slip Between Sight (Spell)"
+  - "Spellmaster (Spell)"
+  - "Spidershape (Spell)"
+  - "Spirit of Triumph (Spell)"
+  - "Stabilize Soul (Spell)"
+  - "Stalwart Soul (Spell)"
+  - "Stand Against the Tide (Spell)"
+  - "Sunfire Tomb (Spell)"
+  - "Suppress Lesser (Spell)"
+  - "Shared Blessing (Spell)"
+  - "Strength to Strike (Spell)"
+  - "Spellscatter (Spell)"
+  - "Summon Monster V (Spell)"
+  - "Source of Knowledge (Spell)"
+  - "Summon Firearm (Spell)"
+  - "Stone Shape (Spell)"
+  - "Summon Golem (Spell)"
+  - "Simulacrum (Spell)"
+  - "Spellbane (Spell)"
+  - "Spellbook Protection (Spell)"
+  - "Spellbook Protection, Greater (Spell)"
+  - "Shining Cord (Spell)"
+  - "Song of Healing (Spell)"
+  - "Spell Absorption, Greater (Spell)"
+  - "Spellscar (Spell)"
+  - "Suppress Primal Magic (Spell)"
+  - "Savage Maw (Spell)"
+  - "Sacred Space (Spell)"
+  - "Scribe's Binding (Spell)"
+  - "Steal Breath (Spell)"
+  - "Spawn Ward (Spell)"
+  - "Shadowy Haven (Spell)"
+  - "Scorching Ash Form (Spell)"
+  - "Sentry Skull (Spell)"
+  - "Stone Shield (Spell)"
+  - "Summon Merchant I (Spell)"
+  - "Summon Merchant IV (Spell)"
+  - "Summon Merchant III (Spell)"
+  - "Summon Merchant II (Spell)"
+  - "Shipgate (Spell)"
+  - "Stormbolts (Spell)"
+  - "Stumble Gap (Spell)"
+  - "Stunning Finale (Spell)"
+  - "Suffocation (Spell)"
+  - "Suffocation, Mass (Spell)"
+  - "Summon Eidolon (Spell)"
+  - "Swarm Skin (Spell)"
+  - "Sherem Transformation (Spell)"
+  - "Song of the Calling (Spell)"
+  - "Spittle Spray (Spell)"
+  - "Shrieking Blast (Spell)"
+  - "Spiritual Cavalry (Spell)"
+  - "Spiritual Charger (Spell)"
+  - "Status, Greater (Spell)"
+  - "Summon Undead I (Spell)"
+  - "Summon Undead II (Spell)"
+  - "Summon Undead III (Spell)"
+  - "Summon Undead IV (Spell)"
+  - "Summon Undead V (Spell)"
+  - "Stasis Clone (Spell)"
+  - "Stone Walk (Spell)"
+  - "Sapphire Screen of Shielding (Spell)"
+  - "Sandblast, Greater (Spell)"
+  - "Spell Shift (Spell)"
+  - "Storm Shield (Spell)"
+  - "Sun Scepter (Spell)"
+  - "Scalding Touch (Spell)"
+  - "Scry Trap (Spell)"
+  - "Semblance of Life (Spell)"
+  - "Sense Weakness (Spell)"
+  - "Shared Healing (Spell)"
+  - "Slaying Arrow (Spell)"
+  - "Speaking Stones (Spell)"
+  - "Spell Snare (Spell)"
+  - "Spell Snare, Greater (Spell)"
+  - "Storm Touch (Spell)"
+  - "Suffer the Flesh (Spell)"
+  - "Suppress Dragonmark (Spell)"
+  - "Scintillating Sphere (Spell)"
+  - "Spectral Stag (Spell)"
+  - "Speed Swim (Spell)"
+  - "Soul Blight (Spell)"
+  - "Soul Boon (Spell)"
+  - "Soulbanned Zone (Spell)"
+  - "Soulbleed (Spell)"
+  - "Soulmeld Blessing (Spell)"
+  - "Soulmeld Disjunction (Spell)"
+  - "Suppress Magic (Spell)"
+  - "Summon Clockwork Mender Swarm (Spell)"
+  - "Spirit Ally, Lesser (Spell)"
+  - "Spirit Ally, Greater (Spell)"
+  - "Spirit Ally (Spell)"
+  - "Shivering Touch (Spell)"
+  - "Shivering Touch, Lesser (Spell)"
+  - "Snow Walk (Spell)"
+  - "Snow Wave (Spell)"
+  - "Snowdrift (Spell)"
+  - "Snowsight (Spell)"
+  - "Snowsong (Spell)"
+  - "Summon Giants (Spell)"
+  - "Suppress Flame (Spell)"
+  - "Solid Fog (Spell)"
+  - "Suggestion (Spell)"
+  - "Silence (Spell)"
+  - "Spell Turning (Spell)"
+  - "Shadow Projection (Spell)"
+  - "Status (Spell)"
+  - "Slipstream (Spell)"
+  - "Secret Vault (Spell)"
+  - "Substitution (Spell)"
+  - "Status, Superior (Spell)"
+  - "Soul Stasis, Greater (Spell)"
+  - "Spell Vulnerability (Spell)"
+  - "Spectral Hand, Greater (Spell)"
+  - "Sentinel's Watch (Spell)"
+  - "Striking Fist (Spell)"
+  - "Sense of the Dragon (Spell)"
+  - "Speechreader's Sight (Spell)"
+  - "Scent (Spell)"
+  - "Scintillating Scales (Spell)"
+  - "Sea Eyes (Spell)"
+  - "Sphere of Ultimate Destruction (Spell)"
+RWtopicId: "Topic_15952"
+---
+# S
+## Overview
+---
+## Governed Content
+- [[Sacred Bond (Spell)]]
+- [[Sacred Guardian (Spell)]]
+- [[Sacred Haven (Spell)]]
+- [[Sacred Item (Spell)]]
+- [[Sacred Space (Spell)]]
+- [[Sacrificial Oath (Spell)]]
+- [[Sacrificial Skill (Spell)]]
+- [[Saddle Surge (Spell)]]
+- [[Sadism (Spell)]]
+- [[Safe Clearing (Spell)]]
+- [[Safety (Spell)]]
+- [[Saltray (Spell)]]
+- [[Sanctify Armor (Spell)]]
+- [[Sanctify the Wicked (Spell)]]
+- [[Sanctuary (Spell)]]
+- [[Sanctuary, Mass (Spell)]]
+- [[Sandblast, Greater (Spell)]]
+- [[Sandblast, Lesser (Spell)]]
+- [[Sandform (Spell)]]
+- [[Sandstorm (Spell)]]
+- [[Sap Strength (Spell)]]
+- [[Sapphire Screen of Shielding (Spell)]]
+- [[Sarcophagus of Stone (Spell)]]
+- [[Savage Maw (Spell)]]
+- [[Saving Finale (Spell)]]
+- [[Scalding Mud (Spell)]]
+- [[Scalding Touch (Spell)]]
+- [[Scale Weakening (Spell)]]
+- [[Scales of the Lizard (Spell)]]
+- [[Scales of the Sealord (Spell)]]
+- [[Scare (Spell)]]
+- [[Scattergloom (Spell)]]
+- [[Scattering Trap (Spell)]]
+- [[Scent (Spell)]]
+- [[Scent Trail (Spell)]]
+- [[Scentless, Greater (Spell)]]
+- [[Scholar's Touch (Spell)]]
+- [[Scimitar of Sand (Spell)]]
+- [[Scintillating Pattern (Spell)]]
+- [[Scintillating Scales (Spell)]]
+- [[Scintillating Sphere (Spell)]]
+- [[Scorch (Spell)]]
+- [[Scorching Ash Form (Spell)]]
+- [[Scorching Blood (Spell)]]
+- [[Scorching Ray (Spell)]]
+- [[Scorpion Tail (Spell)]]
+- [[Scourge (Spell)]]
+- [[Scourge of Force (Spell)]]
+- [[Scramble Portal (Spell)]]
+- [[Screech (Spell)]]
+- [[Screen (Spell)]]
+- [[Scribe's Binding (Spell)]]
+- [[Scrivener's Chant (Spell)]]
+- [[Scry Location (Spell)]]
+- [[Scry Trap (Spell)]]
+- [[Scrying (Spell)]]
+- [[Scrying Cage (Spell)]]
+- [[Scrying, Greater (Spell)]]
+- [[Sculpt Sound (Spell)]]
+- [[Sea Eyes (Spell)]]
+- [[Sea Legs (Spell)]]
+- [[Seal Portal (Spell)]]
+- [[Sealed Sending (Spell)]]
+- [[Seamantle (Spell)]]
+- [[Searing Exposure (Spell)]]
+- [[Searing Light (Spell)]]
+- [[Secluded Grimoire (Spell)]]
+- [[Secret Chest (Spell)]]
+- [[Secret Page (Spell)]]
+- [[Secret Signs (Spell)]]
+- [[Secret Vault (Spell)]]
+- [[Secret Weapon (Spell)]]
+- [[Secret Workshop (Spell)]]
+- [[Secure Corpse (Spell)]]
+- [[Secure Shelter (Spell)]]
+- [[See Invisibility (Spell)]]
+- [[Seed of Life (Spell)]]
+- [[Seed of Undeath (Spell)]]
+- [[Seed of Undeath, Greater (Spell)]]
+- [[Seek Eternal Rest (Spell)]]
+- [[Seek Thoughts (Spell)]]
+- [[Seeker's Chant (Spell)]]
+- [[Seeking Ray (Spell)]]
+- [[Seeming (Spell)]]
+- [[Seething Eyebane (Spell)]]
+- [[Semblance of Life (Spell)]]
+- [[Sending (Spell)]]
+- [[Sense Heretic (Spell)]]
+- [[Sense of the Dragon (Spell)]]
+- [[Sense of the Dragon, Greater (Spell)]]
+- [[Sense Spirit Magic (Spell)]]
+- [[Sense Weakness (Spell)]]
+- [[Sensory Deprivation, Lesser (Spell)]]
+- [[Sentinel's Watch (Spell)]]
+- [[Sentry Skull (Spell)]]
+- [[Sepia Snake Sigil (Spell)]]
+- [[Sequester (Spell)]]
+- [[Serene Visage (Spell)]]
+- [[Serpent Arrow (Spell)]]
+- [[Serpents of Theggeron (Spell)]]
+- [[Servant Horde (Spell)]]
+- [[Sever Legacy (Spell)]]
+- [[Shades (Spell)]]
+- [[Shadow Arrow (Spell)]]
+- [[Shadow Barbs (Spell)]]
+- [[Shadow Binding (Spell)]]
+- [[Shadow Cache (Spell)]]
+- [[Shadow Canopy (Spell)]]
+- [[Shadow Conjuration (Spell)]]
+- [[Shadow Conjuration, Greater (Spell)]]
+- [[Shadow Double (Spell)]]
+- [[Shadow Evocation (Spell)]]
+- [[Shadow Evocation, Greater (Spell)]]
+- [[Shadow Fangs, Greater (Spell)]]
+- [[Shadow Guardians (Spell)]]
+- [[Shadow Landscape (Spell)]]
+- [[Shadow Mask (Spell)]]
+- [[Shadow of the Dark Queen]]
+- [[Shadow Phase (Spell)]]
+- [[Shadow Portal (Spell)]]
+- [[Shadow Projection (Spell)]]
+- [[Shadow Radiance (Spell)]]
+- [[Shadow Shape (Spell)]]
+- [[Shadow Shroud (Spell)]]
+- [[Shadow Snare (Spell)]]
+- [[Shadow Space (Spell)]]
+- [[Shadow Spray (Spell)]]
+- [[Shadow Tentacle (Spell)]]
+- [[Shadow Tentacle, Lesser (Spell)]]
+- [[Shadow Walk (Spell)]]
+- [[Shadow Well (Spell)]]
+- [[Shadowblast (Spell)]]
+- [[Shadowy Grappler (Spell)]]
+- [[Shadowy Haven (Spell)]]
+- [[Shaking Hand (Spell)]]
+- [[Shambler (Spell)]]
+- [[Shape Metal (Spell)]]
+- [[Shape of the Hellspawned Stalker (Spell)]]
+- [[Shapechange (Spell)]]
+- [[Shard Blessing Aura (Spell)]]
+- [[Shard Storm (Spell)]]
+- [[Share Animal's Mind (Spell)]]
+- [[Share Husk (Spell)]]
+- [[Share Language (Spell)]]
+- [[Share Senses (Spell)]]
+- [[Share Talents (Spell)]]
+- [[Shared Blessing (Spell)]]
+- [[Shared Healing (Spell)]]
+- [[Shared Wrath (Spell)]]
+- [[Sharing the Ancient Lore (Spell)]]
+- [[Shark's Form (Spell)]]
+- [[Sharptooth (Spell)]]
+- [[Shatter (Spell)]]
+- [[Shatterfloor (Spell)]]
+- [[Sheltered Vitality (Spell)]]
+- [[Sherem Transformation (Spell)]]
+- [[Shield (Spell)]]
+- [[Shield Against the Balanced (Spell)]]
+- [[Shield Against the Contrary (Spell)]]
+- [[Shield Against the Dark (Spell)]]
+- [[Shield Against the Focused (Spell)]]
+- [[Shield Companion (Spell)]]
+- [[Shield of Faith (Spell)]]
+- [[Shield of Faith, Mass (Spell)]]
+- [[Shield of Fortification (Spell)]]
+- [[Shield of Fortification, Greater (Spell)]]
+- [[Shield of Law (Spell)]]
+- [[Shield of Light (Spell)]]
+- [[Shield of the Archons (Spell)]]
+- [[Shield of Warding (Spell)]]
+- [[Shield Other (Spell)]]
+- [[Shieldbearer (Spell)]]
+- [[Shifter Prowess (Spell)]]
+- [[Shifting Paths (Spell)]]
+- [[Shifting Sanctum (Spell)]]
+- [[Shifting Sand (Spell)]]
+- [[Shillelagh (Spell)]]
+- [[Shining Cord (Spell)]]
+- [[Shipgate (Spell)]]
+- [[Shivering Touch (Spell)]]
+- [[Shivering Touch, Lesser (Spell)]]
+- [[Shock and Awe (Spell)]]
+- [[Shocking Grasp (Spell)]]
+- [[Shocking Spark (Spell)]]
+- [[Shout (Spell)]]
+- [[Shout, Greater (Spell)]]
+- [[Shrapnel Globe (Spell)]]
+- [[Shrieking Blast (Spell)]]
+- [[Shrink Item (Spell)]]
+- [[Shrink Item, Greater (Spell)]]
+- [[Shriveling (Spell)]]
+- [[Shroud of Darkness (Spell)]]
+- [[Shroud of Flame (Spell)]]
+- [[Shroud of Undeath (Spell)]]
+- [[Shuffle (Spell)]]
+- [[Shun the Dark Chaos (Spell)]]
+- [[Sicken Evil (Spell)]]
+- [[Sickening Entanglement (Spell)]]
+- [[Sift (Spell)]]
+- [[Sign (Spell)]]
+- [[Sign of Sealing (Spell)]]
+- [[Sign of Sealing, Greater (Spell)]]
+- [[Silence (Spell)]]
+- [[Silent Image (Spell)]]
+- [[Silent Portal (Spell)]]
+- [[Silent Table (Spell)]]
+- [[Silver Darts (Spell)]]
+- [[Silver Dragonmail (Spell)]]
+- [[Silver Lance (Spell)]]
+- [[Silverbeard (Spell)]]
+- [[Silvered Claws (Spell)]]
+- [[Silvered Weapon (Spell)]]
+- [[Simulacrum (Spell)]]
+- [[Simulacrum Bond, Lesser (Spell)]]
+- [[Simulacrum, Greater (Spell)]]
+- [[Sink (Spell)]]
+- [[Siphon (Spell)]]
+- [[Siphon Magic (Spell)]]
+- [[Siphon, Greater (Spell)]]
+- [[Siren's Call (Spell)]]
+- [[Sirine's Grace (Spell)]]
+- [[Sirocco (Spell)]]
+- [[Skeletal Guard (Spell)]]
+- [[Skill Enhancement (Spell)]]
+- [[Skin of the Cactus (Spell)]]
+- [[Skin of the Steel Dragon (Spell)]]
+- [[Skull Watch (Spell)]]
+- [[Skunk Scent (Spell)]]
+- [[Skyhurling (Spell)]]
+- [[Skyline Runner (Spell)]]
+- [[Skyrift (Spell)]]
+- [[Slapping Hand (Spell)]]
+- [[Slash Tongue (Spell)]]
+- [[Slashing Darkness (Spell)]]
+- [[Slashing Dispel (Spell)]]
+- [[Slay Illusion (Spell)]]
+- [[Slay Living (Spell)]]
+- [[Slaying Arrow (Spell)]]
+- [[Sleep (Spell)]]
+- [[Sleep Mote (Spell)]]
+- [[Sleepwalk (Spell)]]
+- [[Sleet Storm (Spell)]]
+- [[Slide (Spell)]]
+- [[Slide, Greater (Spell)]]
+- [[Slime Hurl (Spell)]]
+- [[Slime Wave (Spell)]]
+- [[Slip Between Sight (Spell)]]
+- [[Slipsand (Spell)]]
+- [[Slipstream (Spell)]]
+- [[Slow (Spell)]]
+- [[Slow Burn (Spell)]]
+- [[Slow Consumption (Spell)]]
+- [[Slowing Mud (Spell)]]
+- [[Slumber Arrows (Spell)]]
+- [[Smell of Fear (Spell)]]
+- [[Smite Heretic (Spell)]]
+- [[Smite of Sacred Fire (Spell)]]
+- [[Smoke Conduit (Spell)]]
+- [[Smoke Ladder (Spell)]]
+- [[Smoke Stairs (Spell)]]
+- [[Smoky Confinement (Spell)]]
+- [[Snake Darts (Spell)]]
+- [[Snake Staff (Spell)]]
+- [[Snakebite (Spell)]]
+- [[Snake's Swiftness (Spell)]]
+- [[Snake's Swiftness, Mass (Spell)]]
+- [[Snare (Spell)]]
+- [[Snare Astral Traveler (Spell)]]
+- [[Sniper's Eye (Spell)]]
+- [[Sniper's Shot (Spell)]]
+- [[Snow Walk (Spell)]]
+- [[Snow Wave (Spell)]]
+- [[Snowball Swarm (Spell)]]
+- [[Snowball, Lesser (Spell)]]
+- [[Snowdrift (Spell)]]
+- [[Snowshoes (Spell)]]
+- [[Snowshoes, Mass (Spell)]]
+- [[Snowsight (Spell)]]
+- [[Snowsong (Spell)]]
+- [[Snuff the Light (Spell)]]
+- [[Soften Earth and Stone (Spell)]]
+- [[Soldiers of Sanctity (Spell)]]
+- [[Solid Fog (Spell)]]
+- [[Solid Note (Spell)]]
+- [[Solipsism (Spell)]]
+- [[Song of Discord (Spell)]]
+- [[Song of Festering Death (Spell)]]
+- [[Song of Healing (Spell)]]
+- [[Song of the Calling (Spell)]]
+- [[Sonic Blast (Spell)]]
+- [[Sonic Form (Spell)]]
+- [[Sonic Rumble (Spell)]]
+- [[Sonic Scream (Spell)]]
+- [[Sonic Shield (Spell)]]
+- [[Sonic Snap (Spell)]]
+- [[Sonic Weapon (Spell)]]
+- [[Sonic Whip (Spell)]]
+- [[Sonorous Hum (Spell)]]
+- [[Sorrow (Spell)]]
+- [[Soul Bind (Spell)]]
+- [[Soul Blast (Spell)]]
+- [[Soul Blight (Spell)]]
+- [[Soul Boon (Spell)]]
+- [[Soul Drain (Spell)]]
+- [[Soul Drain, Greater (Spell)]]
+- [[Soul Drain, Lesser (Spell)]]
+- [[Soul Drain, Mass (Spell)]]
+- [[Soul Link (Spell)]]
+- [[Soul of Anarchy (Spell)]]
+- [[Soul of Light (Spell)]]
+- [[Soul of Order (Spell)]]
+- [[Soul of Shadow (Spell)]]
+- [[Soul of the Waste (Spell)]]
+- [[Soul Scour (Spell)]]
+- [[Soul Shackles (Spell)]]
+- [[Soul Stasis (Spell)]]
+- [[Soul Stasis, Greater (Spell)]]
+- [[Soul Stasis, Lesser (Spell)]]
+- [[Soul Ward (Spell)]]
+- [[Soulbanned Zone (Spell)]]
+- [[Soulbleed (Spell)]]
+- [[Soulmeld Blessing (Spell)]]
+- [[Soulmeld Disjunction (Spell)]]
+- [[Soul's Treasure Lost (Spell)]]
+- [[Soultheft (Spell)]]
+- [[Sound Burst (Spell)]]
+- [[Sound Lance (Spell)]]
+- [[Source of Knowledge (Spell)]]
+- [[Spacious Carriage (Spell)]]
+- [[Spark (Spell)]]
+- [[Spark of Life (Spell)]]
+- [[Spark Shield (Spell)]]
+- [[Sparkles (Spell)]]
+- [[Spawn Screen (Spell)]]
+- [[Spawn Ward (Spell)]]
+- [[Spawn Wererats (Spell)]]
+- [[Speak to Allies (Spell)]]
+- [[Speak with Animals (Spell)]]
+- [[Speak with Dead (Spell)]]
+- [[Speak with Haunt (Spell)]]
+- [[Speak with Plants (Spell)]]
+- [[Speaking Stones (Spell)]]
+- [[Spear of Valarian (Spell)]]
+- [[Spectral Dragon (Spell)]]
+- [[Spectral Hand (Spell)]]
+- [[Spectral Hand, Greater (Spell)]]
+- [[Spectral Stag (Spell)]]
+- [[Spectral Touch (Spell)]]
+- [[Spectral Weapon (Spell)]]
+- [[Speechlink (Spell)]]
+- [[Speechlink, Greater (Spell)]]
+- [[Speechreader's Sight (Spell)]]
+- [[Speed Swim (Spell)]]
+- [[Spell Absorption (Spell)]]
+- [[Spell Absorption, Greater (Spell)]]
+- [[Spell Engine (Spell)]]
+- [[Spell Enhancer (Spell)]]
+- [[Spell Fangs (Spell)]]
+- [[Spell Flower (Spell)]]
+- [[Spell Gauge (Spell)]]
+- [[Spell Gauge, Greater (Spell)]]
+- [[Spell Haven (Spell)]]
+- [[Spell Immunity (Spell)]]
+- [[Spell Immunity, Greater (Spell)]]
+- [[Spell Immunity, Lesser (Spell)]]
+- [[Spell Matrix (Spell)]]
+- [[Spell Matrix, Greater (Spell)]]
+- [[Spell Matrix, Lesser (Spell)]]
+- [[Spell Phylactery (Spell)]]
+- [[Spell Resistance (Spell)]]
+- [[Spell Resistance, Greater (Spell)]]
+- [[Spell Scourge (Spell)]]
+- [[Spell Shift (Spell)]]
+- [[Spell Snare (Spell)]]
+- [[Spell Snare, Greater (Spell)]]
+- [[Spell Storing Item (Spell)]]
+- [[Spell Theft (Spell)]]
+- [[Spell Turning (Spell)]]
+- [[Spell Vulnerability (Spell)]]
+- [[Spell Vulnerability, Greater (Spell)]]
+- [[Spellbane (Spell)]]
+- [[Spellbook Protection (Spell)]]
+- [[Spellbook Protection, Greater (Spell)]]
+- [[Spellcaster's Bane (Spell)]]
+- [[Spellcasting Contract (Spell)]]
+- [[Spellcasting Contract, Greater (Spell)]]
+- [[Spellcasting Contract, Lesser (Spell)]]
+- [[Spellcrash (Spell)]]
+- [[Spellcrash, Greater (Spell)]]
+- [[Spellcrash, Lesser (Spell)]]
+- [[Spellmantle (Spell)]]
+- [[Spellmaster (Spell)]]
+- [[Spellscar (Spell)]]
+- [[Spellscatter (Spell)]]
+- [[Spellslayer Arrow (Spell)]]
+- [[Spellsong (Spell)]]
+- [[Spellsong, Lesser (Spell)]]
+- [[Spellstaff (Spell)]]
+- [[Sphere of Ultimate Destruction (Spell)]]
+- [[Spider Climb (Spell)]]
+- [[Spider Curse (Spell)]]
+- [[Spider Form (Spell)]]
+- [[Spider Form, Greater (Spell)]]
+- [[Spider Form, Lesser (Spell)]]
+- [[Spider Hand (Spell)]]
+- [[Spider Legs (Spell)]]
+- [[Spider Plague (Spell)]]
+- [[Spider Poison (Spell)]]
+- [[Spider Shapes (Spell)]]
+- [[Spiderbind (Spell)]]
+- [[Spidershape (Spell)]]
+- [[Spiderskin (Spell)]]
+- [[Spike Growth (Spell)]]
+- [[Spike Stones (Spell)]]
+- [[Spiked Pit (Spell)]]
+- [[Spikes (Spell)]]
+- [[Spirit Ally (Spell)]]
+- [[Spirit Ally, Greater (Spell)]]
+- [[Spirit Ally, Lesser (Spell)]]
+- [[Spirit Binding (Spell)]]
+- [[Spirit Binding, Greater (Spell)]]
+- [[Spirit Binding, Lesser (Spell)]]
+- [[Spirit Call (Spell)]]
+- [[Spirit Fog (Spell)]]
+- [[Spirit Needle (Spell)]]
+- [[Spirit of Triumph (Spell)]]
+- [[Spirit Self (Spell)]]
+- [[Spirit Steed (Spell)]]
+- [[Spirit Walk (Spell)]]
+- [[Spirit Worm (Spell)]]
+- [[Spiritjaws (Spell)]]
+- [[Spiritual Advisor (Spell)]]
+- [[Spiritual Ally (Spell)]]
+- [[Spiritual Cavalry (Spell)]]
+- [[Spiritual Charger (Spell)]]
+- [[Spiritual Chariot (Spell)]]
+- [[Spiritual Guardian (Spell)]]
+- [[Spiritual Weapon (Spell)]]
+- [[Spiritwall (Spell)]]
+- [[Spite (Spell)]]
+- [[Spittle Spray (Spell)]]
+- [[Splinterbolt (Spell)]]
+- [[Spontaneous Immolation (Spell)]]
+- [[Spontaneous Search (Spell)]]
+- [[Spore Cloak (Spell)]]
+- [[Spore Field (Spell)]]
+- [[Spores of the Vrock (Spell)]]
+- [[Spread of Contentment (Spell)]]
+- [[Spread of Savagery (Spell)]]
+- [[Spymaster's Coin (Spell)]]
+- [[Stabilize (Spell)]]
+- [[Stabilize Soul (Spell)]]
+- [[Stabilize, Greater (Spell)]]
+- [[Stalking Brand (Spell)]]
+- [[Stalwart Pact (Spell)]]
+- [[Stalwart Soul (Spell)]]
+- [[Stand (Spell)]]
+- [[Stand Against the Tide (Spell)]]
+- [[Stand Firm (Spell)]]
+- [[Standing Wave (Spell)]]
+- [[Starburst (Spell)]]
+- [[Starmantle (Spell)]]
+- [[Stars of Cold Force (Spell)]]
+- [[Stars of Spell Loss (Spell)]]
+- [[Starvation (Spell)]]
+- [[Stasis Clone (Spell)]]
+- [[Statue (Spell)]]
+- [[Status (Spell)]]
+- [[Status, Greater (Spell)]]
+- [[Status, Superior (Spell)]]
+- [[Stay the Hand (Spell)]]
+- [[Stay the Hand, Lesser (Spell)]]
+- [[Steal Breath (Spell)]]
+- [[Steal Life (Spell)]]
+- [[Steal Summoning (Spell)]]
+- [[Steam Breath (Spell)]]
+- [[Steed of the Seas (Spell)]]
+- [[Steeldance (Spell)]]
+- [[Steelsting (Spell)]]
+- [[Stench of Prey (Spell)]]
+- [[Stick (Spell)]]
+- [[Sticks and Stones (Spell)]]
+- [[Sticky Fingers (Spell)]]
+- [[Sticky Floor (Spell)]]
+- [[Sticky Saddle (Spell)]]
+- [[Stiffen (Spell)]]
+- [[Stifle Spell (Spell)]]
+- [[Stifle Spell, Greater (Spell)]]
+- [[Sting Ray (Spell)]]
+- [[Stinking Cloud (Spell)]]
+- [[Stolen Breath (Spell)]]
+- [[Stolen Breath, Greater (Spell)]]
+- [[Stone Body (Spell)]]
+- [[Stone Call (Spell)]]
+- [[Stone Construct (Spell)]]
+- [[Stone Discus (Spell)]]
+- [[Stone Fist (Spell)]]
+- [[Stone Hands (Spell)]]
+- [[Stone Metamorphosis (Spell)]]
+- [[Stone Metamorphosis, Greater (Spell)]]
+- [[Stone Shape (Spell)]]
+- [[Stone Shape, Greater (Spell)]]
+- [[Stone Shards (Spell)]]
+- [[Stone Shatter (Spell)]]
+- [[Stone Shield (Spell)]]
+- [[Stone Sphere (Spell)]]
+- [[Stone Spiders (Spell)]]
+- [[Stone Storm (Spell)]]
+- [[Stone Tell (Spell)]]
+- [[Stone to Flesh (Spell)]]
+- [[Stone Trap (Spell)]]
+- [[Stone Walk (Spell)]]
+- [[Stonefire (Spell)]]
+- [[Stonehold (Spell)]]
+- [[Stoneskin (Spell)]]
+- [[Stoneskin, Greater (Spell)]]
+- [[Stony Grasp (Spell)]]
+- [[Stop Heart (Spell)]]
+- [[Stored Lightning Bolt (Spell)]]
+- [[Storm Mote (Spell)]]
+- [[Storm of Elemental Fury (Spell)]]
+- [[Storm of Fire and Ice (Spell)]]
+- [[Storm of Needles (Spell)]]
+- [[Storm of Shards (Spell)]]
+- [[Storm of Vengeance (Spell)]]
+- [[Storm Prison (Spell)]]
+- [[Storm Shield (Spell)]]
+- [[Storm Touch (Spell)]]
+- [[Storm Tower (Spell)]]
+- [[Storm Wall (Spell)]]
+- [[Stormbolts (Spell)]]
+- [[Stormrage (Spell)]]
+- [[Stormrunner's Ward (Spell)]]
+- [[Stormvoice (Spell)]]
+- [[Stormwalk (Spell)]]
+- [[Strategic Charge (Spell)]]
+- [[Streamers (Spell)]]
+- [[Strength of Stone (Spell)]]
+- [[Strength of the True Form (Spell)]]
+- [[Strength to Strike (Spell)]]
+- [[Strengthen Skeleton (Spell)]]
+- [[Stretch Weapon (Spell)]]
+- [[Stricken Heart (Spell)]]
+- [[Strike Construct (Spell)]]
+- [[Striking Fist (Spell)]]
+- [[Strong Jaw (Spell)]]
+- [[Stumble Gap (Spell)]]
+- [[Stun Ray (Spell)]]
+- [[Stunning Barrier (Spell)]]
+- [[Stunning Barrier, Greater (Spell)]]
+- [[Stunning Breath (Spell)]]
+- [[Stunning Breath, Greater (Spell)]]
+- [[Stunning Finale (Spell)]]
+- [[Stunning Screech (Spell)]]
+- [[Stunwave (Spell)]]
+- [[Stupor (Spell)]]
+- [[Subdue Aura (Spell)]]
+- [[Sublime Revelry (Spell)]]
+- [[Submerge Ship (Spell)]]
+- [[Substitute Domain (Spell)]]
+- [[Substitution (Spell)]]
+- [[Subvert Planar Essence (Spell)]]
+- [[Sudden Aegis (Spell)]]
+- [[Sudden Stalagmite (Spell)]]
+- [[Suffer the Flesh (Spell)]]
+- [[Suffocation (Spell)]]
+- [[Suffocation, Mass (Spell)]]
+- [[Suggestion (Spell)]]
+- [[Suggestion, Mass (Spell)]]
+- [[Summon Aspect of Bahamut]]
+- [[Summon Babau Demon (Spell)]]
+- [[Summon Backpack, Greater (Spell)]]
+- [[Summon Bearded Devil (Spell)]]
+- [[Summon Bralani Eladrin (Spell)]]
+- [[Summon Clockwork Mender Swarm (Spell)]]
+- [[Summon Component (Spell)]]
+- [[Summon Desert Ally I (Spell)]]
+- [[Summon Desert Ally II (Spell)]]
+- [[Summon Desert Ally III (Spell)]]
+- [[Summon Desert Ally IV (Spell)]]
+- [[Summon Desert Ally IX (Spell)]]
+- [[Summon Desert Ally V (Spell)]]
+- [[Summon Desert Ally VI (Spell)]]
+- [[Summon Desert Ally VII (Spell)]]
+- [[Summon Desert Ally VIII (Spell)]]
+- [[Summon Devoted Roc (Spell)]]
+- [[Summon Dire Hawk (Spell)]]
+- [[Summon Eidolon (Spell)]]
+- [[Summon Elemental Monolith (Spell)]]
+- [[Summon Elementite Swarm (Spell)]]
+- [[Summon Elysian Thrush (Spell)]]
+- [[Summon Firearm (Spell)]]
+- [[Summon Giants (Spell)]]
+- [[Summon Golem (Spell)]]
+- [[Summon Greater Elemental (Spell)]]
+- [[Summon Holy Symbol (Spell)]]
+- [[Summon Hound Archon (Spell)]]
+- [[Summon Instrument (Spell)]]
+- [[Summon Living Dragonmark (Spell)]]
+- [[Summon Marked Homunculus (Spell)]]
+- [[Summon Merchant I (Spell)]]
+- [[Summon Merchant II (Spell)]]
+- [[Summon Merchant III (Spell)]]
+- [[Summon Merchant IV (Spell)]]
+- [[Summon Monster I (Spell)]]
+- [[Summon Monster II (Spell)]]
+- [[Summon Monster III (Spell)]]
+- [[Summon Monster IV (Spell)]]
+- [[Summon Monster IX (Spell)]]
+- [[Summon Monster V (Spell)]]
+- [[Summon Monster VI (Spell)]]
+- [[Summon Monster VII (Spell)]]
+- [[Summon Monster VIII (Spell)]]
+- [[Summon Nature's Ally I (Spell)]]
+- [[Summon Nature's Ally II (Spell)]]
+- [[Summon Nature's Ally III (Spell)]]
+- [[Summon Nature's Ally IV (Spell)]]
+- [[Summon Nature's Ally IX (Spell)]]
+- [[Summon Nature's Ally V (Spell)]]
+- [[Summon Nature's Ally VI (Spell)]]
+- [[Summon Nature's Ally VII (Spell)]]
+- [[Summon Nature's Ally VIII (Spell)]]
+- [[Summon Pest Swarm (Spell)]]
+- [[Summon Ship (Spell)]]
+- [[Summon Swarm (Spell)]]
+- [[Summon Undead I (Spell)]]
+- [[Summon Undead II (Spell)]]
+- [[Summon Undead III (Spell)]]
+- [[Summon Undead IV (Spell)]]
+- [[Summon Undead V (Spell)]]
+- [[Summon Warforged Champion (Spell)]]
+- [[Summon Weapon (Spell)]]
+- [[Summoning Wind (Spell)]]
+- [[Sun Bolt (Spell)]]
+- [[Sun Scepter (Spell)]]
+- [[Sunbeam (Spell)]]
+- [[Sunburst (Spell)]]
+- [[Sunder Breaker (Spell)]]
+- [[Sundering Shards (Spell)]]
+- [[Sunfire Tomb (Spell)]]
+- [[Sunmantle (Spell)]]
+- [[Sunstroke (Spell)]]
+- [[Suppress Breath Weapon (Spell)]]
+- [[Suppress Dragonmark (Spell)]]
+- [[Suppress Flame (Spell)]]
+- [[Suppress Glyph (Spell)]]
+- [[Suppress Legacy (Spell)]]
+- [[Suppress Lesser (Spell)]]
+- [[Suppress Magic (Spell)]]
+- [[Suppress Primal Magic (Spell)]]
+- [[Suppress Requirement (Spell)]]
+- [[Suppressing Field (Spell)]]
+- [[Sure Strike (Spell)]]
+- [[Surefoot (Spell)]]
+- [[Surefooted Stride (Spell)]]
+- [[Surefooted Stride, Mass (Spell)]]
+- [[Surge of Fortune (Spell)]]
+- [[Suspend Disease (Spell)]]
+- [[Suspended Silence (Spell)]]
+- [[Suspension (Spell)]]
+- [[Sustain (Spell)]]
+- [[Swamp Lung (Spell)]]
+- [[Swamp Stride (Spell)]]
+- [[Swarm Skin (Spell)]]
+- [[Swift Ready (Spell)]]
+- [[Swim (Spell)]]
+- [[Swim, Mass (Spell)]]
+- [[Sword of Conscience (Spell)]]
+- [[Sword of Darkness (Spell)]]
+- [[Sword of Deception (Spell)]]
+- [[Symbol of Death (Spell)]]
+- [[Symbol of Dispelling (Spell)]]
+- [[Symbol of Fear (Spell)]]
+- [[Symbol of Insanity (Spell)]]
+- [[Symbol of Laughter (Spell)]]
+- [[Symbol of Pain (Spell)]]
+- [[Symbol of Persuasion (Spell)]]
+- [[Symbol of Revelation (Spell)]]
+- [[Symbol of Scrying (Spell)]]
+- [[Symbol of Sealing (Spell)]]
+- [[Symbol of Sleep (Spell)]]
+- [[Symbol of Spell Loss (Spell)]]
+- [[Symbol of Stunning (Spell)]]
+- [[Symbol of Thirst (Spell)]]
+- [[Symbol of Weakness (Spell)]]
+- [[Sympathetic Vibration (Spell)]]
+- [[Sympathy (Spell)]]
+- [[Symphonic Nightmare (Spell)]]
+- [[Synostodweomer (Spell)]]
+

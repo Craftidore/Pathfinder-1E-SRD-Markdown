@@ -1,0 +1,29 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Aliases:
+  - "Harsk"
+Category: "General Dangers Article"
+Tags:
+  - "Category/General-Dangers-Article"
+parent:
+  - "Ch4 - Iconic Characters"
+up:
+  - "Ch4 - Iconic Characters"
+prev:
+  - "Paladin - Seelah"
+next:
+  - "Rogue - Merisiel"
+down:
+  - "CR 1 - Harsk (NPC Codex)"
+  - "CR 12 - Harsk (NPC Codex)"
+  - "CR 7 - Harsk (NPC Codex)"
+RWtopicId: "Topic_8661"
+---
+# Ranger - Harsk
+## Overview
+---
+## Governed Content
+- [[CR 1 - Harsk (NPC Codex)]]
+- [[CR 7 - Harsk (NPC Codex)]]
+- [[CR 12 - Harsk (NPC Codex)]]
+

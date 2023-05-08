@@ -1,0 +1,481 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Category: "Spells"
+Tags:
+  - "Category/Spells"
+parent:
+  - "Spell Descriptions (Spells)"
+up:
+  - "Spell Descriptions (Spells)"
+prev:
+  - "O"
+next:
+  - "Q"
+down:
+  - "Path of Glory (Spell)"
+  - "Path of Glory, Greater (Spell)"
+  - "Persistent Vigor (Spell)"
+  - "Phantom Blood (Spell)"
+  - "Planeslayer's Call (Spell)"
+  - "Polymorph Familiar (Spell)"
+  - "Phantom Hunt (Spell)"
+  - "Pain Strike (Spell)"
+  - "Pain Strike, Mass (Spell)"
+  - "Paladin's Sacrifice (Spell)"
+  - "Perceive Cues (Spell)"
+  - "Phantasmal Revenge (Spell)"
+  - "Phantasmal Web (Spell)"
+  - "Pied Piping (Spell)"
+  - "Pillar of Life (Spell)"
+  - "Planar Adaptation (Spell)"
+  - "Planar Adaptation, Mass (Spell)"
+  - "Pox Pustules (Spell)"
+  - "Protective Spirit (Spell)"
+  - "Purging Finale (Spell)"
+  - "Purified Calling (Spell)"
+  - "Putrefy Food and Drink (Spell)"
+  - "Phantom Carriage (Spell)"
+  - "Plant Strike (Spell)"
+  - "Pressure Sphere (Spell)"
+  - "Portal Barricade (Spell)"
+  - "Portal Stabilization (Spell)"
+  - "Portal-to-Portal Redirect (Spell)"
+  - "Portal Reformat (Spell)"
+  - "Portal View (Spell)"
+  - "Prestidigitation (Spell)"
+  - "Pyrotechnics (Spell)"
+  - "Phantom Steed (Spell)"
+  - "Permanent Image (Spell)"
+  - "Programmed Image (Spell)"
+  - "Project Image (Spell)"
+  - "Persistent Image (Spell)"
+  - "Permeable Form (Spell)"
+  - "Planar Navigation (Spell)"
+  - "Phantasmal Assailants (Spell)"
+  - "Planar Bubble (Spell)"
+  - "Pacification (Spell)"
+  - "Platinum Ray (Spell)"
+  - "Pebble Wind (Spell)"
+  - "Power Surge (Spell)"
+  - "Phantasmal Injury (Spell)"
+  - "Phantasmal Wasting (Spell)"
+  - "Psychic Turmoil (Spell)"
+  - "Psychic Turmoil, Greater (Spell)"
+  - "Pox (Spell)"
+  - "Predator's Cry (Spell)"
+  - "Protective Interposition (Spell)"
+  - "Polymorph, Adaptive (Spell)"
+  - "Positive Energy Protection (Spell)"
+  - "Pugwampi's Grace (Spell)"
+  - "Panacea (Spell)"
+  - "Pavilion of Grandeur (Spell)"
+  - "Perinarch (Spell)"
+  - "Perinarch, Planar (Spell)"
+  - "Persistent Blade (Spell)"
+  - "Phantasmal Decoy (Spell)"
+  - "Phantasmal Disorientation (Spell)"
+  - "Phantasmal Thief (Spell)"
+  - "Phantom Bear (Spell)"
+  - "Phantom Foe (Spell)"
+  - "Phantom Stag (Spell)"
+  - "Plague of Rats (Spell)"
+  - "Planar Exchange, Lesser (Spell)"
+  - "Planar Exchange (Spell)"
+  - "Planar Exchange, Greater (Spell)"
+  - "Planar Tolerance (Spell)"
+  - "Plant Body (Spell)"
+  - "Poison Thorns (Spell)"
+  - "Poison Vines (Spell)"
+  - "Portal Alarm (Spell)"
+  - "Portal Alarm, Improved"
+  - "Phantom Wolf (Spell)"
+  - "Portal Beacon (Spell)"
+  - "Positive Energy Aura (Spell)"
+  - "Primal Form (Spell)"
+  - "Prismatic Eye (Spell)"
+  - "Prismatic Ray (Spell)"
+  - "Programmed Amnesia (Spell)"
+  - "Protection from Negative Energy (Spell)"
+  - "Protection from Positive Energy (Spell)"
+  - "Puppeteer (Spell)"
+  - "Protege (Spell)"
+  - "Planar Refuge (Spell)"
+  - "Piercing Shriek, Greater (Spell)"
+  - "Prolonged Lapse of Reason (Spell)"
+  - "Personal Aura (Spell)"
+  - "Pulse of Hate (Spell)"
+  - "Power Craft, Greater (Spell)"
+  - "Phantom Guardians (Spell)"
+  - "Proud Arrogance (Spell)"
+  - "Perfect Instincts (Spell)"
+  - "Peaceful Serenity of Io (Spell)"
+  - "Power Word Deafen (Spell)"
+  - "Power Word Disable (Spell)"
+  - "Power Word Distract (Spell)"
+  - "Power Word Fatigue (Spell)"
+  - "Power Word Maladroit (Spell)"
+  - "Power Word Nauseate (Spell)"
+  - "Power Word Pain (Spell)"
+  - "Power Word Petrify (Spell)"
+  - "Power Word Sicken (Spell)"
+  - "Power Word Weaken (Spell)"
+  - "Planar Bastion (Spell)"
+  - "Parboil (Spell)"
+  - "Parching Touch (Spell)"
+  - "Protection from Dessication (Spell)"
+  - "Phantom Driver (Spell)"
+  - "Protection from Winged Flyers (Spell)"
+  - "Power Craft (Spell)"
+  - "Phantom Wagon (Spell)"
+  - "Possible Weapon, Greater (Spell)"
+  - "Prolonged Lapse of Reason"
+  - "Passwall (Spell)"
+  - "Protection from Arrows (Spell)"
+  - "Phantom Chariot (Spell)"
+  - "Pestilence (Spell)"
+  - "Plague of Nightmares (Spell)"
+  - "Power Leech (Spell)"
+  - "Preserve Organ (Spell)"
+  - "Psychic Poison (Spell)"
+  - "Pocket Cave (Spell)"
+  - "Portal Well (Spell)"
+  - "Peacebond (Spell)"
+  - "Pain (Spell)"
+  - "Poison Needles (Spell)"
+  - "Protection from Charm (Spell)"
+  - "Phantom Charge (Spell)"
+  - "Profane Item (Spell)"
+  - "Painful Echoes (Spell)"
+  - "Pall of Twilight (Spell)"
+  - "Phantasmal Strangler (Spell)"
+  - "Prickling Torment (Spell)"
+  - "Prismatic Aura (Spell)"
+  - "Prismatic Bow (Spell)"
+  - "Prismatic Deluge (Spell)"
+  - "Phantom Threat (Spell)"
+  - "Polymorph, Superior (Spell)"
+  - "Passage of the Shifting Sands (Spell)"
+  - "Path of Frost (Spell)"
+  - "Primal Hunter (Spell)"
+  - "Primal Instinct (Spell)"
+  - "Primal Senses (Spell)"
+  - "Primal Speed (Spell)"
+  - "Portal (Spell)"
+  - "Perfect Light (Spell)"
+  - "Pyre (Spell)"
+  - "Path of the Exalted (Spell)"
+  - "Perfect Summons (Spell)"
+  - "Phieran's Resolve (Spell)"
+  - "Phoenix Fire (Spell)"
+  - "Pierce Disguise (Spell)"
+  - "Pass Without Trace (Spell)"
+  - "Phantasmal Killer (Spell)"
+  - "Phantom Trap (Spell)"
+  - "Phase Door (Spell)"
+  - "Planar Ally, Lesser (Spell)"
+  - "Planar Ally (Spell)"
+  - "Planar Ally, Greater (Spell)"
+  - "Planar Binding, Greater (Spell)"
+  - "Planar Binding (Spell)"
+  - "Plant Growth (Spell)"
+  - "Plant Shape I (Spell)"
+  - "Plant Shape II (Spell)"
+  - "Plant Shape III (Spell)"
+  - "Poison (Spell)"
+  - "Polar Ray (Spell)"
+  - "Polymorph, Greater (Spell)"
+  - "Polymorph Any Object (Spell)"
+  - "Power Word Blind (Spell)"
+  - "Power Word Kill (Spell)"
+  - "Power Word Stun (Spell)"
+  - "Prayer (Spell)"
+  - "Prying Eyes (Spell)"
+  - "Prying Eyes, Greater (Spell)"
+  - "Produce Flame (Spell)"
+  - "Protection From Evil (Spell)"
+  - "Protection From Chaos (Spell)"
+  - "Protection From Energy (Spell)"
+  - "Protection From Good (Spell)"
+  - "Protection From Law (Spell)"
+  - "Protection From Spells (Spell)"
+  - "Purify Food and Drink (Spell)"
+  - "Peaceful Weapon (Spell)"
+  - "Perfect Ward (Spell)"
+  - "Phantom Foil (Spell)"
+  - "Plunge Deep to the Core (Spell)"
+  - "Precise Vision (Spell)"
+  - "Primal Release (Spell)"
+  - "Private Conversation (Spell)"
+  - "Prohibit Kind (Spell)"
+  - "Protective Shell (Spell)"
+  - "Punitive Telepathy (Spell)"
+  - "Phantom Object, Major (Spell)"
+  - "Phantom Object, Minor (Spell)"
+  - "Paragon Surge (Spell)"
+  - "Painless Death (Spell)"
+  - "Persuade to Manifest (Spell)"
+  - "Pleasant Visage (Spell)"
+  - "Preserve Ectoplasm (Spell)"
+  - "Proper State (Spell)"
+  - "Protection from Possession (Spell)"
+  - "Pact of Return (Spell)"
+  - "Plague of Undead (Spell)"
+  - "Pronouncement of Fate (Spell)"
+  - "Phantom Plow (Spell)"
+  - "Pending Potion (Spell)"
+  - "Protection from Incarnum (Spell)"
+  - "Planar Binding, Least (Spell)"
+  - "Planar Binding, Minor (Spell)"
+  - "Pass through Ice (Spell)"
+  - "Polymorph (Spell)"
+  - "Planar Binding, Lesser (Spell)"
+  - "Permanency (Spell)"
+  - "Plane Shift (Spell)"
+  - "Prismatic Spray (Spell)"
+  - "Prismatic Sphere (Spell)"
+  - "Prismatic Wall (Spell)"
+  - "Phantom Worker (Spell)"
+  - "Plane Shift, Greater (Spell)"
+  - "Precipitate Breach (Spell)"
+  - "Precipitate Complete Breach (Spell)"
+  - "Price of Loyalty (Spell)"
+  - "Phantom Battle (Spell)"
+  - "Plague (Spell)"
+  - "Prismatic Mist (Spell)"
+RWtopicId: "Topic_16046"
+---
+# P
+## Overview
+---
+## Governed Content
+- [[Pacification (Spell)]]
+- [[Pact of Return (Spell)]]
+- [[Pain (Spell)]]
+- [[Pain Strike (Spell)]]
+- [[Pain Strike, Mass (Spell)]]
+- [[Painful Echoes (Spell)]]
+- [[Painless Death (Spell)]]
+- [[Paladin's Sacrifice (Spell)]]
+- [[Pall of Twilight (Spell)]]
+- [[Panacea (Spell)]]
+- [[Paragon Surge (Spell)]]
+- [[Parboil (Spell)]]
+- [[Parching Touch (Spell)]]
+- [[Pass through Ice (Spell)]]
+- [[Pass Without Trace (Spell)]]
+- [[Passage of the Shifting Sands (Spell)]]
+- [[Passwall (Spell)]]
+- [[Path of Frost (Spell)]]
+- [[Path of Glory (Spell)]]
+- [[Path of Glory, Greater (Spell)]]
+- [[Path of the Exalted (Spell)]]
+- [[Pavilion of Grandeur (Spell)]]
+- [[Peacebond (Spell)]]
+- [[Peaceful Serenity of Io (Spell)]]
+- [[Peaceful Weapon (Spell)]]
+- [[Pebble Wind (Spell)]]
+- [[Pending Potion (Spell)]]
+- [[Perceive Cues (Spell)]]
+- [[Perfect Instincts (Spell)]]
+- [[Perfect Light (Spell)]]
+- [[Perfect Summons (Spell)]]
+- [[Perfect Ward (Spell)]]
+- [[Perinarch (Spell)]]
+- [[Perinarch, Planar (Spell)]]
+- [[Permanency (Spell)]]
+- [[Permanent Image (Spell)]]
+- [[Permeable Form (Spell)]]
+- [[Persistent Blade (Spell)]]
+- [[Persistent Image (Spell)]]
+- [[Persistent Vigor (Spell)]]
+- [[Personal Aura (Spell)]]
+- [[Persuade to Manifest (Spell)]]
+- [[Pestilence (Spell)]]
+- [[Phantasmal Assailants (Spell)]]
+- [[Phantasmal Decoy (Spell)]]
+- [[Phantasmal Disorientation (Spell)]]
+- [[Phantasmal Injury (Spell)]]
+- [[Phantasmal Killer (Spell)]]
+- [[Phantasmal Revenge (Spell)]]
+- [[Phantasmal Strangler (Spell)]]
+- [[Phantasmal Thief (Spell)]]
+- [[Phantasmal Wasting (Spell)]]
+- [[Phantasmal Web (Spell)]]
+- [[Phantom Battle (Spell)]]
+- [[Phantom Bear (Spell)]]
+- [[Phantom Blood (Spell)]]
+- [[Phantom Carriage (Spell)]]
+- [[Phantom Charge (Spell)]]
+- [[Phantom Chariot (Spell)]]
+- [[Phantom Driver (Spell)]]
+- [[Phantom Foe (Spell)]]
+- [[Phantom Foil (Spell)]]
+- [[Phantom Guardians (Spell)]]
+- [[Phantom Hunt (Spell)]]
+- [[Phantom Object, Major (Spell)]]
+- [[Phantom Object, Minor (Spell)]]
+- [[Phantom Plow (Spell)]]
+- [[Phantom Stag (Spell)]]
+- [[Phantom Steed (Spell)]]
+- [[Phantom Threat (Spell)]]
+- [[Phantom Trap (Spell)]]
+- [[Phantom Wagon (Spell)]]
+- [[Phantom Wolf (Spell)]]
+- [[Phantom Worker (Spell)]]
+- [[Phase Door (Spell)]]
+- [[Phieran's Resolve (Spell)]]
+- [[Phoenix Fire (Spell)]]
+- [[Pied Piping (Spell)]]
+- [[Pierce Disguise (Spell)]]
+- [[Piercing Shriek, Greater (Spell)]]
+- [[Pillar of Life (Spell)]]
+- [[Plague (Spell)]]
+- [[Plague of Nightmares (Spell)]]
+- [[Plague of Rats (Spell)]]
+- [[Plague of Undead (Spell)]]
+- [[Planar Adaptation (Spell)]]
+- [[Planar Adaptation, Mass (Spell)]]
+- [[Planar Ally (Spell)]]
+- [[Planar Ally, Greater (Spell)]]
+- [[Planar Ally, Lesser (Spell)]]
+- [[Planar Bastion (Spell)]]
+- [[Planar Binding (Spell)]]
+- [[Planar Binding, Greater (Spell)]]
+- [[Planar Binding, Least (Spell)]]
+- [[Planar Binding, Lesser (Spell)]]
+- [[Planar Binding, Minor (Spell)]]
+- [[Planar Bubble (Spell)]]
+- [[Planar Exchange (Spell)]]
+- [[Planar Exchange, Greater (Spell)]]
+- [[Planar Exchange, Lesser (Spell)]]
+- [[Planar Navigation (Spell)]]
+- [[Planar Refuge (Spell)]]
+- [[Planar Tolerance (Spell)]]
+- [[Plane Shift (Spell)]]
+- [[Plane Shift, Greater (Spell)]]
+- [[Planeslayer's Call (Spell)]]
+- [[Plant Body (Spell)]]
+- [[Plant Growth (Spell)]]
+- [[Plant Shape I (Spell)]]
+- [[Plant Shape II (Spell)]]
+- [[Plant Shape III (Spell)]]
+- [[Plant Strike (Spell)]]
+- [[Platinum Ray (Spell)]]
+- [[Pleasant Visage (Spell)]]
+- [[Plunge Deep to the Core (Spell)]]
+- [[Pocket Cave (Spell)]]
+- [[Poison (Spell)]]
+- [[Poison Needles (Spell)]]
+- [[Poison Thorns (Spell)]]
+- [[Poison Vines (Spell)]]
+- [[Polar Ray (Spell)]]
+- [[Polymorph (Spell)]]
+- [[Polymorph Any Object (Spell)]]
+- [[Polymorph Familiar (Spell)]]
+- [[Polymorph, Adaptive (Spell)]]
+- [[Polymorph, Greater (Spell)]]
+- [[Polymorph, Superior (Spell)]]
+- [[Portal (Spell)]]
+- [[Portal Alarm (Spell)]]
+- [[Portal Alarm, Improved]]
+- [[Portal Barricade (Spell)]]
+- [[Portal Beacon (Spell)]]
+- [[Portal Reformat (Spell)]]
+- [[Portal Stabilization (Spell)]]
+- [[Portal View (Spell)]]
+- [[Portal Well (Spell)]]
+- [[Portal-to-Portal Redirect (Spell)]]
+- [[Positive Energy Aura (Spell)]]
+- [[Positive Energy Protection (Spell)]]
+- [[Possible Weapon, Greater (Spell)]]
+- [[Power Craft (Spell)]]
+- [[Power Craft, Greater (Spell)]]
+- [[Power Leech (Spell)]]
+- [[Power Surge (Spell)]]
+- [[Power Word Blind (Spell)]]
+- [[Power Word Deafen (Spell)]]
+- [[Power Word Disable (Spell)]]
+- [[Power Word Distract (Spell)]]
+- [[Power Word Fatigue (Spell)]]
+- [[Power Word Kill (Spell)]]
+- [[Power Word Maladroit (Spell)]]
+- [[Power Word Nauseate (Spell)]]
+- [[Power Word Pain (Spell)]]
+- [[Power Word Petrify (Spell)]]
+- [[Power Word Sicken (Spell)]]
+- [[Power Word Stun (Spell)]]
+- [[Power Word Weaken (Spell)]]
+- [[Pox (Spell)]]
+- [[Pox Pustules (Spell)]]
+- [[Prayer (Spell)]]
+- [[Precipitate Breach (Spell)]]
+- [[Precipitate Complete Breach (Spell)]]
+- [[Precise Vision (Spell)]]
+- [[Predator's Cry (Spell)]]
+- [[Preserve Ectoplasm (Spell)]]
+- [[Preserve Organ (Spell)]]
+- [[Pressure Sphere (Spell)]]
+- [[Prestidigitation (Spell)]]
+- [[Price of Loyalty (Spell)]]
+- [[Prickling Torment (Spell)]]
+- [[Primal Form (Spell)]]
+- [[Primal Hunter (Spell)]]
+- [[Primal Instinct (Spell)]]
+- [[Primal Release (Spell)]]
+- [[Primal Senses (Spell)]]
+- [[Primal Speed (Spell)]]
+- [[Prismatic Aura (Spell)]]
+- [[Prismatic Bow (Spell)]]
+- [[Prismatic Deluge (Spell)]]
+- [[Prismatic Eye (Spell)]]
+- [[Prismatic Mist (Spell)]]
+- [[Prismatic Ray (Spell)]]
+- [[Prismatic Sphere (Spell)]]
+- [[Prismatic Spray (Spell)]]
+- [[Prismatic Wall (Spell)]]
+- [[Private Conversation (Spell)]]
+- [[Produce Flame (Spell)]]
+- [[Profane Item (Spell)]]
+- [[Programmed Amnesia (Spell)]]
+- [[Programmed Image (Spell)]]
+- [[Prohibit Kind (Spell)]]
+- [[Project Image (Spell)]]
+- [[Prolonged Lapse of Reason]]
+- [[Prolonged Lapse of Reason (Spell)]]
+- [[Pronouncement of Fate (Spell)]]
+- [[Proper State (Spell)]]
+- [[Protection from Arrows (Spell)]]
+- [[Protection From Chaos (Spell)]]
+- [[Protection from Charm (Spell)]]
+- [[Protection from Dessication (Spell)]]
+- [[Protection From Energy (Spell)]]
+- [[Protection From Evil (Spell)]]
+- [[Protection From Good (Spell)]]
+- [[Protection from Incarnum (Spell)]]
+- [[Protection From Law (Spell)]]
+- [[Protection from Negative Energy (Spell)]]
+- [[Protection from Positive Energy (Spell)]]
+- [[Protection from Possession (Spell)]]
+- [[Protection From Spells (Spell)]]
+- [[Protection from Winged Flyers (Spell)]]
+- [[Protective Interposition (Spell)]]
+- [[Protective Shell (Spell)]]
+- [[Protective Spirit (Spell)]]
+- [[Protege (Spell)]]
+- [[Proud Arrogance (Spell)]]
+- [[Prying Eyes (Spell)]]
+- [[Prying Eyes, Greater (Spell)]]
+- [[Psychic Poison (Spell)]]
+- [[Psychic Turmoil (Spell)]]
+- [[Psychic Turmoil, Greater (Spell)]]
+- [[Pugwampi's Grace (Spell)]]
+- [[Pulse of Hate (Spell)]]
+- [[Punitive Telepathy (Spell)]]
+- [[Puppeteer (Spell)]]
+- [[Purging Finale (Spell)]]
+- [[Purified Calling (Spell)]]
+- [[Purify Food and Drink (Spell)]]
+- [[Putrefy Food and Drink (Spell)]]
+- [[Pyre (Spell)]]
+- [[Pyrotechnics (Spell)]]
+

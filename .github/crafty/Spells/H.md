@@ -1,0 +1,353 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Category: "Spells"
+Tags:
+  - "Category/Spells"
+parent:
+  - "Spell Descriptions (Spells)"
+up:
+  - "Spell Descriptions (Spells)"
+prev:
+  - "G"
+next:
+  - "I"
+down:
+  - "Heroic Finale (Spell)"
+  - "Hero's Defiance (Spell)"
+  - "Hidden Speech (Spell)"
+  - "Hide Campsite (Spell)"
+  - "Holy Whisper (Spell)"
+  - "Honeyed Tongue (Spell)"
+  - "Hungry Pit (Spell)"
+  - "Hunter's Eye (Spell)"
+  - "Hunter's Howl (Spell)"
+  - "Hydraulic Push (Spell)"
+  - "Hydraulic Torrent (Spell)"
+  - "Heart of the Metal (Spell)"
+  - "Heightened Awareness (Spell)"
+  - "Hex Glyph (Spell)"
+  - "Hex Glyph, Greater (Spell)"
+  - "Heightened Reflexes (Spell)"
+  - "Hex Vulnerability (Spell)"
+  - "Holy Ice Weapon (Spell)"
+  - "Hide from Undead (Spell)"
+  - "Hypnotism (Spell)"
+  - "Heroism (Spell)"
+  - "Hold Monster (Spell)"
+  - "Heroes' Feast (Spell)"
+  - "Heroism, Greater (Spell)"
+  - "Heal (Spell)"
+  - "Hide from Dragons (Spell)"
+  - "Halt Deathless (Spell)"
+  - "Hero's Blade (Spell)"
+  - "Hellfire (Spell)"
+  - "Hellfire Storm (Spell)"
+  - "Holy Fire (Spell)"
+  - "Hail of Stone (Spell)"
+  - "Hailstones (Spell)"
+  - "Hamatula Barbs (Spell)"
+  - "Hand of Divinity (Spell)"
+  - "Hand of the Faithful (Spell)"
+  - "Harmonic Chorus (Spell)"
+  - "Haste, Swift (Spell)"
+  - "Haunting Tune (Spell)"
+  - "Hawkeye (Spell)"
+  - "Heal Animal Companion (Spell)"
+  - "Healing Lorecall (Spell)"
+  - "Healing Sting (Spell)"
+  - "Healthful Rest (Spell)"
+  - "Healing Touch (Spell)"
+  - "Heart of Stone (Spell)"
+  - "Heart Ripper (Spell)"
+  - "Heartfire (Spell)"
+  - "Heat Drain (Spell)"
+  - "Heatstroke (Spell)"
+  - "Heavenly Host (Spell)"
+  - "Hellish Horde (Spell)"
+  - "Herald's Call (Spell)"
+  - "Heroics (Spell)"
+  - "Hide From Dragons, Greater (Spell)"
+  - "Hide the Path (Spell)"
+  - "Hindsight, Greater (Spell)"
+  - "Hiss of Sleep (Spell)"
+  - "Holy Mount (Spell)"
+  - "Holy Spurs (Spell)"
+  - "Holy Star (Spell)"
+  - "Holy Storm (Spell)"
+  - "Holy Transformation, Lesser (Spell)"
+  - "Holy Transformation (Spell)"
+  - "Horrible Taste (Spell)"
+  - "Howling Chain (Spell)"
+  - "Hungry Gizzard (Spell)"
+  - "Hunters of Hades (Spell)"
+  - "Hurl (Spell)"
+  - "Hymn of Praise (Spell)"
+  - "Hypothermia (Spell)"
+  - "Hammer of Mending (Spell)"
+  - "Hostile Juxtaposition (Spell)"
+  - "Hellmouth Lash (Spell)"
+  - "Humanoid Essence (Spell)"
+  - "Humanoid Essence, Greater (Spell)"
+  - "Humanoid Essence, Lesser (Spell)"
+  - "Harmonize (Spell)"
+  - "Harmonize, Greater (Spell)"
+  - "Hoard Life (Spell)"
+  - "Haboob (Spell)"
+  - "Halo of Sand (Spell)"
+  - "Hydrate (Spell)"
+  - "Hungry Darkness (Spell)"
+  - "Hidden Lodge (Spell)"
+  - "Hidden Caravan (Spell)"
+  - "Hoard Gullet, Greater (Spell)"
+  - "Handfang (Spell)"
+  - "Hunter's Mercy, Greater (Spell)"
+  - "Hunter's Mercy (Spell)"
+  - "Hardening, Greater (Spell)"
+  - "Hold Metal (Spell)"
+  - "Hold Wood (Spell)"
+  - "Hemoarmor (Spell)"
+  - "Hold Person (Spell)"
+  - "Hallucinatory Terrain (Spell)"
+  - "Holy Fire Shield (Spell)"
+  - "Healing Circle (Spell)"
+  - "Heart of Air (Spell)"
+  - "Heart of Earth (Spell)"
+  - "Heart of Fire (Spell)"
+  - "Heart of Water (Spell)"
+  - "Hood of the Cobra (Spell)"
+  - "Horrid Sickness (Spell)"
+  - "Harmonic Void (Spell)"
+  - "Healer's Vision (Spell)"
+  - "Hound of Doom (Spell)"
+  - "Haze of Smoldering Stone (Spell)"
+  - "Hoard Gullet (Spell)"
+  - "Holy Retribution (Spell)"
+  - "Healing Surf (Spell)"
+  - "Hammer of Righteousness (Spell)"
+  - "Heart's Ease (Spell)"
+  - "Heavenly Lightning (Spell)"
+  - "Heavenly Lightning Storm (Spell)"
+  - "Heaven's Trumpet (Spell)"
+  - "Hallow (Spell)"
+  - "Halt Undead (Spell)"
+  - "Harm (Spell)"
+  - "Heal, Mass (Spell)"
+  - "Heal Mount (Spell)"
+  - "Heat Metal (Spell)"
+  - "Helping Hand (Spell)"
+  - "Hide From Animals (Spell)"
+  - "Hideous Laughter (Spell)"
+  - "Hold Animal (Spell)"
+  - "Hold Monster, Mass (Spell)"
+  - "Hold Person, Mass (Spell)"
+  - "Hold Portal (Spell)"
+  - "Holy Aura (Spell)"
+  - "Holy Smite (Spell)"
+  - "Holy Sword (Spell)"
+  - "Holy Word (Spell)"
+  - "Horrid Wilting (Spell)"
+  - "Hypnotic Pattern (Spell)"
+  - "Halo of Protection (Spell)"
+  - "Halo of Shelter (Spell)"
+  - "Harassing Weapon (Spell)"
+  - "Holy Shout (Spell)"
+  - "Heartache (Spell)"
+  - "Heartclutch (Spell)"
+  - "Hell's Power (Spell)"
+  - "Hunter's Lore (Spell)"
+  - "Half-Blood Extraction (Spell)"
+  - "Healing Warmth (Spell)"
+  - "Hide in the Dark (Spell)"
+  - "Hail of Ectoplasm (Spell)"
+  - "Hold Person or Ghost (Spell)"
+  - "Hurtling Stone (Spell)"
+  - "Harm, Greater (Spell)"
+  - "Harm, Mass (Spell)"
+  - "Homunculus Shield (Spell)"
+  - "Haunt Shift (Spell)"
+  - "Hearty Heave (Spell)"
+  - "Hidden Ward (Spell)"
+  - "Horse's Nose (Spell)"
+  - "Heartfreeze (Spell)"
+  - "Heat Leech (Spell)"
+  - "Hibernal Healing (Spell)"
+  - "Hibernate, Greater (Spell)"
+  - "Haste (Spell)"
+  - "Hardening (Spell)"
+  - "Helpful Hand (Spell)"
+  - "Halt (Spell)"
+  - "Healing Spirit (Spell)"
+  - "Hesitate (Spell)"
+RWtopicId: "Topic_15924"
+---
+# H
+## Overview
+---
+## Governed Content
+- [[Haboob (Spell)]]
+- [[Hail of Ectoplasm (Spell)]]
+- [[Hail of Stone (Spell)]]
+- [[Hailstones (Spell)]]
+- [[Half-Blood Extraction (Spell)]]
+- [[Hallow (Spell)]]
+- [[Hallucinatory Terrain (Spell)]]
+- [[Halo of Protection (Spell)]]
+- [[Halo of Sand (Spell)]]
+- [[Halo of Shelter (Spell)]]
+- [[Halt (Spell)]]
+- [[Halt Deathless (Spell)]]
+- [[Halt Undead (Spell)]]
+- [[Hamatula Barbs (Spell)]]
+- [[Hammer of Mending (Spell)]]
+- [[Hammer of Righteousness (Spell)]]
+- [[Hand of Divinity (Spell)]]
+- [[Hand of the Faithful (Spell)]]
+- [[Handfang (Spell)]]
+- [[Harassing Weapon (Spell)]]
+- [[Hardening (Spell)]]
+- [[Hardening, Greater (Spell)]]
+- [[Harm (Spell)]]
+- [[Harm, Greater (Spell)]]
+- [[Harm, Mass (Spell)]]
+- [[Harmonic Chorus (Spell)]]
+- [[Harmonic Void (Spell)]]
+- [[Harmonize (Spell)]]
+- [[Harmonize, Greater (Spell)]]
+- [[Haste (Spell)]]
+- [[Haste, Swift (Spell)]]
+- [[Haunt Shift (Spell)]]
+- [[Haunting Tune (Spell)]]
+- [[Hawkeye (Spell)]]
+- [[Haze of Smoldering Stone (Spell)]]
+- [[Heal (Spell)]]
+- [[Heal Animal Companion (Spell)]]
+- [[Heal Mount (Spell)]]
+- [[Heal, Mass (Spell)]]
+- [[Healer's Vision (Spell)]]
+- [[Healing Circle (Spell)]]
+- [[Healing Lorecall (Spell)]]
+- [[Healing Spirit (Spell)]]
+- [[Healing Sting (Spell)]]
+- [[Healing Surf (Spell)]]
+- [[Healing Touch (Spell)]]
+- [[Healing Warmth (Spell)]]
+- [[Healthful Rest (Spell)]]
+- [[Heart of Air (Spell)]]
+- [[Heart of Earth (Spell)]]
+- [[Heart of Fire (Spell)]]
+- [[Heart of Stone (Spell)]]
+- [[Heart of the Metal (Spell)]]
+- [[Heart of Water (Spell)]]
+- [[Heart Ripper (Spell)]]
+- [[Heartache (Spell)]]
+- [[Heartclutch (Spell)]]
+- [[Heartfire (Spell)]]
+- [[Heartfreeze (Spell)]]
+- [[Heart's Ease (Spell)]]
+- [[Hearty Heave (Spell)]]
+- [[Heat Drain (Spell)]]
+- [[Heat Leech (Spell)]]
+- [[Heat Metal (Spell)]]
+- [[Heatstroke (Spell)]]
+- [[Heavenly Host (Spell)]]
+- [[Heavenly Lightning (Spell)]]
+- [[Heavenly Lightning Storm (Spell)]]
+- [[Heaven's Trumpet (Spell)]]
+- [[Heightened Awareness (Spell)]]
+- [[Heightened Reflexes (Spell)]]
+- [[Hellfire (Spell)]]
+- [[Hellfire Storm (Spell)]]
+- [[Hellish Horde (Spell)]]
+- [[Hellmouth Lash (Spell)]]
+- [[Hell's Power (Spell)]]
+- [[Helpful Hand (Spell)]]
+- [[Helping Hand (Spell)]]
+- [[Hemoarmor (Spell)]]
+- [[Herald's Call (Spell)]]
+- [[Heroes' Feast (Spell)]]
+- [[Heroic Finale (Spell)]]
+- [[Heroics (Spell)]]
+- [[Heroism (Spell)]]
+- [[Heroism, Greater (Spell)]]
+- [[Hero's Blade (Spell)]]
+- [[Hero's Defiance (Spell)]]
+- [[Hesitate (Spell)]]
+- [[Hex Glyph (Spell)]]
+- [[Hex Glyph, Greater (Spell)]]
+- [[Hex Vulnerability (Spell)]]
+- [[Hibernal Healing (Spell)]]
+- [[Hibernate, Greater (Spell)]]
+- [[Hidden Caravan (Spell)]]
+- [[Hidden Lodge (Spell)]]
+- [[Hidden Speech (Spell)]]
+- [[Hidden Ward (Spell)]]
+- [[Hide Campsite (Spell)]]
+- [[Hide From Animals (Spell)]]
+- [[Hide from Dragons (Spell)]]
+- [[Hide From Dragons, Greater (Spell)]]
+- [[Hide from Undead (Spell)]]
+- [[Hide in the Dark (Spell)]]
+- [[Hide the Path (Spell)]]
+- [[Hideous Laughter (Spell)]]
+- [[Hindsight, Greater (Spell)]]
+- [[Hiss of Sleep (Spell)]]
+- [[Hoard Gullet (Spell)]]
+- [[Hoard Gullet, Greater (Spell)]]
+- [[Hoard Life (Spell)]]
+- [[Hold Animal (Spell)]]
+- [[Hold Metal (Spell)]]
+- [[Hold Monster (Spell)]]
+- [[Hold Monster, Mass (Spell)]]
+- [[Hold Person (Spell)]]
+- [[Hold Person or Ghost (Spell)]]
+- [[Hold Person, Mass (Spell)]]
+- [[Hold Portal (Spell)]]
+- [[Hold Wood (Spell)]]
+- [[Holy Aura (Spell)]]
+- [[Holy Fire (Spell)]]
+- [[Holy Fire Shield (Spell)]]
+- [[Holy Ice Weapon (Spell)]]
+- [[Holy Mount (Spell)]]
+- [[Holy Retribution (Spell)]]
+- [[Holy Shout (Spell)]]
+- [[Holy Smite (Spell)]]
+- [[Holy Spurs (Spell)]]
+- [[Holy Star (Spell)]]
+- [[Holy Storm (Spell)]]
+- [[Holy Sword (Spell)]]
+- [[Holy Transformation (Spell)]]
+- [[Holy Transformation, Lesser (Spell)]]
+- [[Holy Whisper (Spell)]]
+- [[Holy Word (Spell)]]
+- [[Homunculus Shield (Spell)]]
+- [[Honeyed Tongue (Spell)]]
+- [[Hood of the Cobra (Spell)]]
+- [[Horrible Taste (Spell)]]
+- [[Horrid Sickness (Spell)]]
+- [[Horrid Wilting (Spell)]]
+- [[Horse's Nose (Spell)]]
+- [[Hostile Juxtaposition (Spell)]]
+- [[Hound of Doom (Spell)]]
+- [[Howling Chain (Spell)]]
+- [[Humanoid Essence (Spell)]]
+- [[Humanoid Essence, Greater (Spell)]]
+- [[Humanoid Essence, Lesser (Spell)]]
+- [[Hungry Darkness (Spell)]]
+- [[Hungry Gizzard (Spell)]]
+- [[Hungry Pit (Spell)]]
+- [[Hunter's Eye (Spell)]]
+- [[Hunter's Howl (Spell)]]
+- [[Hunter's Lore (Spell)]]
+- [[Hunter's Mercy (Spell)]]
+- [[Hunter's Mercy, Greater (Spell)]]
+- [[Hunters of Hades (Spell)]]
+- [[Hurl (Spell)]]
+- [[Hurtling Stone (Spell)]]
+- [[Hydrate (Spell)]]
+- [[Hydraulic Push (Spell)]]
+- [[Hydraulic Torrent (Spell)]]
+- [[Hymn of Praise (Spell)]]
+- [[Hypnotic Pattern (Spell)]]
+- [[Hypnotism (Spell)]]
+- [[Hypothermia (Spell)]]
+

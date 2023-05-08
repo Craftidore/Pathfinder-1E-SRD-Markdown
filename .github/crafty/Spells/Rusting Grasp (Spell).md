@@ -1,0 +1,54 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Aliases:
+  - "Rusting Grasp"
+Category: "Spells"
+Tags:
+  - "Category/Spells"
+parent:
+  - "R"
+up:
+  - "R"
+prev:
+  - "Rope Trick (Spell)"
+next:
+  - "Righteous Might (Spell)"
+RWtopicId: "Topic_16404"
+---
+# Rusting Grasp (Spell)
+## Overview
+[[Transmutation Spells|Transmutation]]
+
+**Level:** [[4th Level Druid Spells|Druid 4]]
+
+**BoXM:** [[BoXM 8th-Level Druid Spells List|Druid 8]]
+
+**Casting Time:** 1 standard action
+
+**Components:** V, S, DF
+
+**Range:** Touch
+
+**Target:** One nonmagical ferrous object (or the volume of the object within 3 ft. of the touched point) or one ferrous creature
+
+**Duration:** See text
+
+**Saving Throw:** None
+
+**Spell Resistance:** No
+
+**Source:** PF Core Rulebook, pg. 335
+
+Any iron or iron alloy item you touch crumbles into rust. If the item is so large that it cannot fit within a 3-foot radius, a 3-foot-radius volume of the metal is rusted and destroyed. Magic items made of metal are immune to this spell.
+
+You may employ *rusting grasp* in combat with a successful melee touch attack. *Rusting grasp* used in this way instantaneously destroys 1d6 points of AC gained from metal armor (to the maximum amount of protection the armor offers) through corrosion.
+
+Weapons in use by an opponent targeted by the spell are more difficult to grasp. You must succeed on a melee touch attack against the weapon. A metal weapon that is hit is destroyed. Striking at an opponent’s weapon provokes an attack of opportunity. Also, you must touch the weapon and not the other way around.
+
+Against a ferrous creature, *rusting grasp* instantaneously deals 3d6 points of damage + 1 per caster level (maximum +15) per successful attack. The spell lasts for 1 round per level, and you can make one melee touch attack per round.
+
+
+---
+## Tags
+#Spell-Resistance/No #Rule-System/Pathfinder #Spell-Level/Druid-4 #Saving-Throws/None #Spell-Range/Touch #Spell-School/Transmutation #Rule/OGL #Spell-Rarity/Common #Sources/PF-Core-Rulebook #Rule/Spell #Rule/Core #Publisher/Paizo
+

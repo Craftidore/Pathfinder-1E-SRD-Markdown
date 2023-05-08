@@ -1,0 +1,669 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Category: "Spells"
+Tags:
+  - "Category/Spells"
+parent:
+  - "Spell Descriptions (Spells)"
+up:
+  - "Spell Descriptions (Spells)"
+prev:
+  - "C"
+next:
+  - "D"
+down:
+  - "Banner (Spell)"
+  - "Blood Salvation (Spell)"
+  - "Ball Lightning (Spell)"
+  - "Banish Seeming (Spell)"
+  - "Bard's Escape (Spell)"
+  - "Beguiling Gift (Spell)"
+  - "Bestow Grace (Spell)"
+  - "Blaze of Glory (Spell)"
+  - "Blessing of Courage and Life (Spell)"
+  - "Blessing of Fervor (Spell)"
+  - "Bomber's Eye (Spell)"
+  - "Borrow Fortune (Spell)"
+  - "Borrow Skill (Spell)"
+  - "Bow Spirit (Spell)"
+  - "Brand (Spell)"
+  - "Brand, Greater (Spell)"
+  - "Break (Spell)"
+  - "Brilliant Inspiration (Spell)"
+  - "Bristle (Spell)"
+  - "Burning Gaze (Spell)"
+  - "Burst Bonds (Spell)"
+  - "Body Stasis (Spell)"
+  - "Body Stasis, Lesser (Spell)"
+  - "Body Stasis, Greater (Spell)"
+  - "Blackwater Taint (Spell)"
+  - "Blackwater Tentacle (Spell)"
+  - "Bladebane (Spell)"
+  - "Baleful Bolt (Spell)"
+  - "Binding Chain of Fate (Spell)"
+  - "Blacksphere (Spell)"
+  - "Baleful Teleport (Spell)"
+  - "Billowing Skirt (Spell)"
+  - "Battering Blast (Spell)"
+  - "Blade of Light (Spell)"
+  - "Burning Sands"
+  - "Brand of Conformity (Spell)"
+  - "Brand of Hobbling (Spell)"
+  - "Brand of Tracking (Spell)"
+  - "Brightest Light"
+  - "Bone Flense"
+  - "Blood Tentacles"
+  - "Bleed for Your Master (Spell)"
+  - "Bestow Wound, Greater (Spell)"
+  - "Bestow Wound (Spell)"
+  - "Bless Thrower (Spell)"
+  - "Bless Thrower, Greater (Spell)"
+  - "Blood Fog (Spell)"
+  - "Brain Burrow Other (Spell)"
+  - "Bull's Might (Spell)"
+  - "Buoyant Lifting (Spell)"
+  - "Blur (Spell)"
+  - "Break Enchantment (Spell)"
+  - "Battlemagic Perception (Spell)"
+  - "Black Tentacles (Spell)"
+  - "Blackfire (Spell)"
+  - "Banish Dragonmark (Spell)"
+  - "Blunt Natural Weapons (Spell)"
+  - "Bebilith Blessing (Spell)"
+  - "Beckoning Call (Spell)"
+  - "Befoul (Spell)"
+  - "Binding Snow (Spell)"
+  - "Blizzard (Spell)"
+  - "Blood Snow (Spell)"
+  - "Boreal Wind (Spell)"
+  - "Brumal Stiffening (Spell)"
+  - "Backbiter (Spell)"
+  - "Backlash (Spell)"
+  - "Balancing Lorecall (Spell)"
+  - "Baleful Transposition (Spell)"
+  - "Balor Nimbus (Spell)"
+  - "Bands of Steel (Spell)"
+  - "Barghest's Feast (Spell)"
+  - "Battering Ram (Spell)"
+  - "Beast Claws (Spell)"
+  - "Beastland Ferocity (Spell)"
+  - "Beget Bogun (Spell)"
+  - "Benign Transposition (Spell)"
+  - "Binding Winds (Spell)"
+  - "Bite of the King (Spell)"
+  - "Bite of the Werebear (Spell)"
+  - "Bite of the Wereboar (Spell)"
+  - "Bite of the Wererat (Spell)"
+  - "Bite of the Weretiger (Spell)"
+  - "Bite of the Werewolf (Spell)"
+  - "Black Blade of Disaster (Spell)"
+  - "Blade of Pain and Fear (Spell)"
+  - "Blade Storm (Spell)"
+  - "Blade Thirst (Spell)"
+  - "Blades of Fire (Spell)"
+  - "Bladeweave (Spell)"
+  - "Blast of Flame (Spell)"
+  - "Blast of Force (Spell)"
+  - "Bless Weapon, Swift (Spell)"
+  - "Blessed Aim (Spell)"
+  - "Blessing of Bahamut (Spell)"
+  - "Blinding Breath (Spell)"
+  - "Blinding Spittle (Spell)"
+  - "Blink, Greater (Spell)"
+  - "Blistering Radiance (Spell)"
+  - "Blood Frenzy (Spell)"
+  - "Blood Sirocco (Spell)"
+  - "Blood to Water (Spell)"
+  - "Blood Wind (Spell)"
+  - "Bloodstar (Spell)"
+  - "Bodak's Glare (Spell)"
+  - "Body Blades (Spell)"
+  - "Body Harmonic (Spell)"
+  - "Body of the Sun (Spell)"
+  - "Body of War (Spell)"
+  - "Bolt of Glory (Spell)"
+  - "Bombardment (Spell)"
+  - "Bonefiddle (Spell)"
+  - "Bottle of Smoke (Spell)"
+  - "Brain Spider (Spell)"
+  - "Brambles (Spell)"
+  - "Branch to Branch (Spell)"
+  - "Breath Flare (Spell)"
+  - "Breath of the Jungle (Spell)"
+  - "Breath Weapon Admixture (Spell)"
+  - "Breath Weapon Substitution (Spell)"
+  - "Briar Web (Spell)"
+  - "Brilliant Aura (Spell)"
+  - "Brilliant Blade (Spell)"
+  - "Buoyant Lifting, Lesser (Spell)"
+  - "Burning Blood (Spell)"
+  - "Burning Sword (Spell)"
+  - "Burrow, Mass (Spell)"
+  - "Battle Hymn (Spell)"
+  - "Black Sand (Spell)"
+  - "Blast of Sand (Spell)"
+  - "Body Blaze (Spell)"
+  - "Bladed Dash (Spell)"
+  - "Bladed Dash, Greater (Spell)"
+  - "Blood Biography (Spell)"
+  - "Brittleskin (Spell)"
+  - "Blessing of the Salamander (Spell)"
+  - "Bloodhound (Spell)"
+  - "Bloody Claws (Spell)"
+  - "Babau Slime (Spell)"
+  - "Bastion of Good (Spell)"
+  - "Blessed Sight (Spell)"
+  - "Blinding Beauty (Spell)"
+  - "Blinding Glory (Spell)"
+  - "Brilliant Emanation (Spell)"
+  - "Boisterous Laugh (Spell)"
+  - "Bleed (Spell)"
+  - "Bless (Spell)"
+  - "Barkskin (Spell)"
+  - "Blind Seer's Madness (Spell)"
+  - "Blessed Halo (Spell)"
+  - "Blessed Chance (Spell)"
+  - "Blazing Chariot (Spell)"
+  - "Baneweapon (Spell)"
+  - "Blaze of Valor (Spell)"
+  - "Bind Guardian (Spell)"
+  - "Black Well (Spell)"
+  - "Blade of My Brother (Spell)"
+  - "Black Hand (Spell)"
+  - "Beard Sponge (Spell)"
+  - "Black Dust (Spell)"
+  - "Black Dog Curse (Spell)"
+  - "Bitter Chains (Spell)"
+  - "Binding Oath (Spell)"
+  - "Battleward (Spell)"
+  - "Bestial Lure (Spell)"
+  - "Beguiling Stars (Spell)"
+  - "Ballista of Force (Spell)"
+  - "Barnacle Armor (Spell)"
+  - "Beguiling Bauble (Spell)"
+  - "Battlemight (Spell)"
+  - "Battle Plan (Spell)"
+  - "Baleful Conjunction (Spell)"
+  - "Blind Spot (Spell)"
+  - "Broken Mind (Spell)"
+  - "Bright Errantry (Spell)"
+  - "Breathlessness (Spell)"
+  - "Breath of Veles (Spell)"
+  - "Breath of the Dead (Spell)"
+  - "Breaching Sphere (Spell)"
+  - "Brand, Enhanced (Spell)"
+  - "Boulder Toss (Spell)"
+  - "Bonesmasher (Spell)"
+  - "Boneshatter (Spell)"
+  - "Bones of the Earth (Spell)"
+  - "Blood Tide (Spell)"
+  - "Bone Swarm (Spell)"
+  - "Bone Shards, Greater (Spell)"
+  - "Bone Shards (Spell)"
+  - "Blood Tide, Greater (Spell)"
+  - "Bone Machine (Spell)"
+  - "Blood and Steel (Spell)"
+  - "Bolster Spirits (Spell)"
+  - "Bloodshot (Spell)"
+  - "Blood Spoor (Spell)"
+  - "Blood Lure (Spell)"
+  - "Bold Errantry (Spell)"
+  - "Blinding Scales (Spell)"
+  - "Blindflies (Spell)"
+  - "Bestow Planar Infusion III (Spell)"
+  - "Bestow Planar Infusion II (Spell)"
+  - "Bestow Planar Infusion I (Spell)"
+  - "Blend with Surroundings (Spell)"
+  - "Blood Money (Spell)"
+  - "Blood Transcription (Spell)"
+  - "Bouncy Body (Spell)"
+  - "Burrowing Boost (Spell)"
+  - "Burning Monkey Swarm (Spell)"
+  - "Bulwark of Blades (Spell)"
+  - "Buoyant (Spell)"
+  - "Brittling (Spell)"
+  - "Bear's Endurance (Spell)"
+  - "Beast Shape II (Spell)"
+  - "Beast Shape III (Spell)"
+  - "Battle Line (Spell)"
+  - "Bedevil (Spell)"
+  - "Bloodfreeze Arrow (Spell)"
+  - "Bloodspear (Spell)"
+  - "Brilliant Energy Arrow (Spell)"
+  - "Benign Projection (Spell)"
+  - "Body Outside Body (Spell)"
+  - "Benediction (Spell)"
+  - "Bewildering Mischance (Spell)"
+  - "Bewildering Substitution (Spell)"
+  - "Bewildering Visions (Spell)"
+  - "Bleed, Greater (Spell)"
+  - "Body Ward (Spell)"
+  - "Bolster Aura (Spell)"
+  - "Battlecry (Spell)"
+  - "Blackrot (Spell)"
+  - "Bloodletting (Spell)"
+  - "Bothersome Babble (Spell)"
+  - "Blockade (Spell)"
+  - "Burst of Glacial Wrath (Spell)"
+  - "Bifrost Bridge (Spell)"
+  - "Baleful Polymorph (Spell)"
+  - "Bane (Spell)"
+  - "Banishment (Spell)"
+  - "Bear's Endurance, Mass (Spell)"
+  - "Beast Shape I (Spell)"
+  - "Beast Shape IV (Spell)"
+  - "Bestow Curse (Spell)"
+  - "Binding (Spell)"
+  - "Blade Barrier (Spell)"
+  - "Blasphemy (Spell)"
+  - "Bless Water (Spell)"
+  - "Bless Weapon (Spell)"
+  - "Blight (Spell)"
+  - "Breath of Life (Spell)"
+  - "Bull's Strength (Spell)"
+  - "Bull's Strength, Mass (Spell)"
+  - "Black Bag (Spell)"
+  - "Bodak Birth (Spell)"
+  - "Boneblade (Spell)"
+  - "Boneblast (Spell)"
+  - "Burning Hands (Spell)"
+  - "Behir's Form (Spell)"
+  - "Bind Item (Spell)"
+  - "Blast of Castigation (Spell)"
+  - "Blazing Light (Spell)"
+  - "Brilliant Energy Weapon (Spell)"
+  - "Banshee Blast (Spell)"
+  - "Barrow Haze (Spell)"
+  - "Beastspeak (Spell)"
+  - "Bestow Auras (Spell)"
+  - "Blade Lash (Spell)"
+  - "Blazing Rainbow (Spell)"
+  - "Blessed Fist (Spell)"
+  - "Bloatbomb (Spell)"
+  - "Blood Armor (Spell)"
+  - "Blood Sentinel (Spell)"
+  - "Blurred Movement (Spell)"
+  - "Body Capacitance (Spell)"
+  - "Bullet Ward (Spell)"
+  - "Buoyancy (Spell)"
+  - "Blink (Spell)"
+  - "Blindness_Deafness (Spell)"
+  - "Baneful Casting, Greater (Spell)"
+  - "Barbed Defense, Greater (Spell)"
+  - "Battle Ready, Greater (Spell)"
+  - "Bear's Stamina (Spell)"
+  - "Blast Barrier (Spell)"
+  - "Bloody Arrows (Spell)"
+  - "Blend (Spell)"
+  - "Battle Trance (Spell)"
+  - "Blessing of Luck and Resolve (Spell)"
+  - "Blessing of Luck and Resolve, Mass (Spell)"
+  - "Bestow Insight (Spell)"
+  - "Blackmark (Spell)"
+  - "Blinding Ray (Spell)"
+  - "Blood Blaze (Spell)"
+  - "Blood Scent (Spell)"
+  - "Binding Earth (Spell)"
+  - "Binding Earth, Mass (Spell)"
+  - "Battlefield Fortification (Spell)"
+  - "Battlefield Illumination (Spell)"
+  - "Blaze of Light (Spell)"
+  - "Boiling Oil (Spell)"
+  - "Billet (Spell)"
+  - "Backblast (Spell)"
+  - "Bloodbriars (Spell)"
+  - "Blast Rod (Spell)"
+  - "Blackstaff (Spell)"
+  - "Blood Armor, Greater (Spell)"
+  - "Buzzing Bee (Spell)"
+  - "Blood of Fire (Spell)"
+  - "Bo of Water (Spell)"
+  - "Black Lungs (Spell)"
+  - "Blessing of the Snake Mother (Spell)"
+  - "Bonerattle (Spell)"
+  - "Bottomless Hate (Spell)"
+  - "Belker Claws (Spell)"
+  - "Baleful Blink (Spell)"
+  - "Black Karma Curse (Spell)"
+  - "Blade of Blood (Spell)"
+  - "Blade Brothers (Spell)"
+  - "Blindsense (Spell)"
+  - "Blindsight (Spell)"
+  - "Blindsight, Greater (Spell)"
+  - "Bleakness (Spell)"
+  - "Blessing of the Righteous (Spell)"
+  - "Blinding Color Surge (Spell)"
+  - "Blood Creepers (Spell)"
+  - "Bright Worms (Spell)"
+  - "Burning Rage (Spell)"
+RWtopicId: "Topic_15995"
+---
+# B
+## Overview
+---
+## Governed Content
+- [[Babau Slime (Spell)]]
+- [[Backbiter (Spell)]]
+- [[Backblast (Spell)]]
+- [[Backlash (Spell)]]
+- [[Balancing Lorecall (Spell)]]
+- [[Baleful Blink (Spell)]]
+- [[Baleful Bolt (Spell)]]
+- [[Baleful Conjunction (Spell)]]
+- [[Baleful Polymorph (Spell)]]
+- [[Baleful Teleport (Spell)]]
+- [[Baleful Transposition (Spell)]]
+- [[Ball Lightning (Spell)]]
+- [[Ballista of Force (Spell)]]
+- [[Balor Nimbus (Spell)]]
+- [[Bands of Steel (Spell)]]
+- [[Bane (Spell)]]
+- [[Baneful Casting, Greater (Spell)]]
+- [[Baneweapon (Spell)]]
+- [[Banish Dragonmark (Spell)]]
+- [[Banish Seeming (Spell)]]
+- [[Banishment (Spell)]]
+- [[Banner (Spell)]]
+- [[Banshee Blast (Spell)]]
+- [[Barbed Defense, Greater (Spell)]]
+- [[Bard's Escape (Spell)]]
+- [[Barghest's Feast (Spell)]]
+- [[Barkskin (Spell)]]
+- [[Barnacle Armor (Spell)]]
+- [[Barrow Haze (Spell)]]
+- [[Bastion of Good (Spell)]]
+- [[Battering Blast (Spell)]]
+- [[Battering Ram (Spell)]]
+- [[Battle Hymn (Spell)]]
+- [[Battle Line (Spell)]]
+- [[Battle Plan (Spell)]]
+- [[Battle Ready, Greater (Spell)]]
+- [[Battle Trance (Spell)]]
+- [[Battlecry (Spell)]]
+- [[Battlefield Fortification (Spell)]]
+- [[Battlefield Illumination (Spell)]]
+- [[Battlemagic Perception (Spell)]]
+- [[Battlemight (Spell)]]
+- [[Battleward (Spell)]]
+- [[Beard Sponge (Spell)]]
+- [[Bear's Endurance (Spell)]]
+- [[Bear's Endurance, Mass (Spell)]]
+- [[Bear's Stamina (Spell)]]
+- [[Beast Claws (Spell)]]
+- [[Beast Shape I (Spell)]]
+- [[Beast Shape II (Spell)]]
+- [[Beast Shape III (Spell)]]
+- [[Beast Shape IV (Spell)]]
+- [[Beastland Ferocity (Spell)]]
+- [[Beastspeak (Spell)]]
+- [[Bebilith Blessing (Spell)]]
+- [[Beckoning Call (Spell)]]
+- [[Bedevil (Spell)]]
+- [[Befoul (Spell)]]
+- [[Beget Bogun (Spell)]]
+- [[Beguiling Bauble (Spell)]]
+- [[Beguiling Gift (Spell)]]
+- [[Beguiling Stars (Spell)]]
+- [[Behir's Form (Spell)]]
+- [[Belker Claws (Spell)]]
+- [[Benediction (Spell)]]
+- [[Benign Projection (Spell)]]
+- [[Benign Transposition (Spell)]]
+- [[Bestial Lure (Spell)]]
+- [[Bestow Auras (Spell)]]
+- [[Bestow Curse (Spell)]]
+- [[Bestow Grace (Spell)]]
+- [[Bestow Insight (Spell)]]
+- [[Bestow Planar Infusion I (Spell)]]
+- [[Bestow Planar Infusion II (Spell)]]
+- [[Bestow Planar Infusion III (Spell)]]
+- [[Bestow Wound (Spell)]]
+- [[Bestow Wound, Greater (Spell)]]
+- [[Bewildering Mischance (Spell)]]
+- [[Bewildering Substitution (Spell)]]
+- [[Bewildering Visions (Spell)]]
+- [[Bifrost Bridge (Spell)]]
+- [[Billet (Spell)]]
+- [[Billowing Skirt (Spell)]]
+- [[Bind Guardian (Spell)]]
+- [[Bind Item (Spell)]]
+- [[Binding (Spell)]]
+- [[Binding Chain of Fate (Spell)]]
+- [[Binding Earth (Spell)]]
+- [[Binding Earth, Mass (Spell)]]
+- [[Binding Oath (Spell)]]
+- [[Binding Snow (Spell)]]
+- [[Binding Winds (Spell)]]
+- [[Bite of the King (Spell)]]
+- [[Bite of the Werebear (Spell)]]
+- [[Bite of the Wereboar (Spell)]]
+- [[Bite of the Wererat (Spell)]]
+- [[Bite of the Weretiger (Spell)]]
+- [[Bite of the Werewolf (Spell)]]
+- [[Bitter Chains (Spell)]]
+- [[Black Bag (Spell)]]
+- [[Black Blade of Disaster (Spell)]]
+- [[Black Dog Curse (Spell)]]
+- [[Black Dust (Spell)]]
+- [[Black Hand (Spell)]]
+- [[Black Karma Curse (Spell)]]
+- [[Black Lungs (Spell)]]
+- [[Black Sand (Spell)]]
+- [[Black Tentacles (Spell)]]
+- [[Black Well (Spell)]]
+- [[Blackfire (Spell)]]
+- [[Blackmark (Spell)]]
+- [[Blackrot (Spell)]]
+- [[Blacksphere (Spell)]]
+- [[Blackstaff (Spell)]]
+- [[Blackwater Taint (Spell)]]
+- [[Blackwater Tentacle (Spell)]]
+- [[Blade Barrier (Spell)]]
+- [[Blade Brothers (Spell)]]
+- [[Blade Lash (Spell)]]
+- [[Blade of Blood (Spell)]]
+- [[Blade of Light (Spell)]]
+- [[Blade of My Brother (Spell)]]
+- [[Blade of Pain and Fear (Spell)]]
+- [[Blade Storm (Spell)]]
+- [[Blade Thirst (Spell)]]
+- [[Bladebane (Spell)]]
+- [[Bladed Dash (Spell)]]
+- [[Bladed Dash, Greater (Spell)]]
+- [[Blades of Fire (Spell)]]
+- [[Bladeweave (Spell)]]
+- [[Blasphemy (Spell)]]
+- [[Blast Barrier (Spell)]]
+- [[Blast of Castigation (Spell)]]
+- [[Blast of Flame (Spell)]]
+- [[Blast of Force (Spell)]]
+- [[Blast of Sand (Spell)]]
+- [[Blast Rod (Spell)]]
+- [[Blaze of Glory (Spell)]]
+- [[Blaze of Light (Spell)]]
+- [[Blaze of Valor (Spell)]]
+- [[Blazing Chariot (Spell)]]
+- [[Blazing Light (Spell)]]
+- [[Blazing Rainbow (Spell)]]
+- [[Bleakness (Spell)]]
+- [[Bleed (Spell)]]
+- [[Bleed for Your Master (Spell)]]
+- [[Bleed, Greater (Spell)]]
+- [[Blend (Spell)]]
+- [[Blend with Surroundings (Spell)]]
+- [[Bless (Spell)]]
+- [[Bless Thrower (Spell)]]
+- [[Bless Thrower, Greater (Spell)]]
+- [[Bless Water (Spell)]]
+- [[Bless Weapon (Spell)]]
+- [[Bless Weapon, Swift (Spell)]]
+- [[Blessed Aim (Spell)]]
+- [[Blessed Chance (Spell)]]
+- [[Blessed Fist (Spell)]]
+- [[Blessed Halo (Spell)]]
+- [[Blessed Sight (Spell)]]
+- [[Blessing of Bahamut (Spell)]]
+- [[Blessing of Courage and Life (Spell)]]
+- [[Blessing of Fervor (Spell)]]
+- [[Blessing of Luck and Resolve (Spell)]]
+- [[Blessing of Luck and Resolve, Mass (Spell)]]
+- [[Blessing of the Righteous (Spell)]]
+- [[Blessing of the Salamander (Spell)]]
+- [[Blessing of the Snake Mother (Spell)]]
+- [[Blight (Spell)]]
+- [[Blind Seer's Madness (Spell)]]
+- [[Blind Spot (Spell)]]
+- [[Blindflies (Spell)]]
+- [[Blinding Beauty (Spell)]]
+- [[Blinding Breath (Spell)]]
+- [[Blinding Color Surge (Spell)]]
+- [[Blinding Glory (Spell)]]
+- [[Blinding Ray (Spell)]]
+- [[Blinding Scales (Spell)]]
+- [[Blinding Spittle (Spell)]]
+- [[Blindness_Deafness (Spell)|Blindness/Deafness (Spell)]]
+- [[Blindsense (Spell)]]
+- [[Blindsight (Spell)]]
+- [[Blindsight, Greater (Spell)]]
+- [[Blink (Spell)]]
+- [[Blink, Greater (Spell)]]
+- [[Blistering Radiance (Spell)]]
+- [[Blizzard (Spell)]]
+- [[Bloatbomb (Spell)]]
+- [[Blockade (Spell)]]
+- [[Blood and Steel (Spell)]]
+- [[Blood Armor (Spell)]]
+- [[Blood Armor, Greater (Spell)]]
+- [[Blood Biography (Spell)]]
+- [[Blood Blaze (Spell)]]
+- [[Blood Creepers (Spell)]]
+- [[Blood Fog (Spell)]]
+- [[Blood Frenzy (Spell)]]
+- [[Blood Lure (Spell)]]
+- [[Blood Money (Spell)]]
+- [[Blood of Fire (Spell)]]
+- [[Blood Salvation (Spell)]]
+- [[Blood Scent (Spell)]]
+- [[Blood Sentinel (Spell)]]
+- [[Blood Sirocco (Spell)]]
+- [[Blood Snow (Spell)]]
+- [[Blood Spoor (Spell)]]
+- [[Blood Tentacles]]
+- [[Blood Tide (Spell)]]
+- [[Blood Tide, Greater (Spell)]]
+- [[Blood to Water (Spell)]]
+- [[Blood Transcription (Spell)]]
+- [[Blood Wind (Spell)]]
+- [[Bloodbriars (Spell)]]
+- [[Bloodfreeze Arrow (Spell)]]
+- [[Bloodhound (Spell)]]
+- [[Bloodletting (Spell)]]
+- [[Bloodshot (Spell)]]
+- [[Bloodspear (Spell)]]
+- [[Bloodstar (Spell)]]
+- [[Bloody Arrows (Spell)]]
+- [[Bloody Claws (Spell)]]
+- [[Blunt Natural Weapons (Spell)]]
+- [[Blur (Spell)]]
+- [[Blurred Movement (Spell)]]
+- [[Bo of Water (Spell)]]
+- [[Bodak Birth (Spell)]]
+- [[Bodak's Glare (Spell)]]
+- [[Body Blades (Spell)]]
+- [[Body Blaze (Spell)]]
+- [[Body Capacitance (Spell)]]
+- [[Body Harmonic (Spell)]]
+- [[Body of the Sun (Spell)]]
+- [[Body of War (Spell)]]
+- [[Body Outside Body (Spell)]]
+- [[Body Stasis (Spell)]]
+- [[Body Stasis, Greater (Spell)]]
+- [[Body Stasis, Lesser (Spell)]]
+- [[Body Ward (Spell)]]
+- [[Boiling Oil (Spell)]]
+- [[Boisterous Laugh (Spell)]]
+- [[Bold Errantry (Spell)]]
+- [[Bolster Aura (Spell)]]
+- [[Bolster Spirits (Spell)]]
+- [[Bolt of Glory (Spell)]]
+- [[Bombardment (Spell)]]
+- [[Bomber's Eye (Spell)]]
+- [[Bone Flense]]
+- [[Bone Machine (Spell)]]
+- [[Bone Shards (Spell)]]
+- [[Bone Shards, Greater (Spell)]]
+- [[Bone Swarm (Spell)]]
+- [[Boneblade (Spell)]]
+- [[Boneblast (Spell)]]
+- [[Bonefiddle (Spell)]]
+- [[Bonerattle (Spell)]]
+- [[Bones of the Earth (Spell)]]
+- [[Boneshatter (Spell)]]
+- [[Bonesmasher (Spell)]]
+- [[Boreal Wind (Spell)]]
+- [[Borrow Fortune (Spell)]]
+- [[Borrow Skill (Spell)]]
+- [[Bothersome Babble (Spell)]]
+- [[Bottle of Smoke (Spell)]]
+- [[Bottomless Hate (Spell)]]
+- [[Boulder Toss (Spell)]]
+- [[Bouncy Body (Spell)]]
+- [[Bow Spirit (Spell)]]
+- [[Brain Burrow Other (Spell)]]
+- [[Brain Spider (Spell)]]
+- [[Brambles (Spell)]]
+- [[Branch to Branch (Spell)]]
+- [[Brand (Spell)]]
+- [[Brand of Conformity (Spell)]]
+- [[Brand of Hobbling (Spell)]]
+- [[Brand of Tracking (Spell)]]
+- [[Brand, Enhanced (Spell)]]
+- [[Brand, Greater (Spell)]]
+- [[Breaching Sphere (Spell)]]
+- [[Break (Spell)]]
+- [[Break Enchantment (Spell)]]
+- [[Breath Flare (Spell)]]
+- [[Breath of Life (Spell)]]
+- [[Breath of the Dead (Spell)]]
+- [[Breath of the Jungle (Spell)]]
+- [[Breath of Veles (Spell)]]
+- [[Breath Weapon Admixture (Spell)]]
+- [[Breath Weapon Substitution (Spell)]]
+- [[Breathlessness (Spell)]]
+- [[Briar Web (Spell)]]
+- [[Bright Errantry (Spell)]]
+- [[Bright Worms (Spell)]]
+- [[Brightest Light]]
+- [[Brilliant Aura (Spell)]]
+- [[Brilliant Blade (Spell)]]
+- [[Brilliant Emanation (Spell)]]
+- [[Brilliant Energy Arrow (Spell)]]
+- [[Brilliant Energy Weapon (Spell)]]
+- [[Brilliant Inspiration (Spell)]]
+- [[Bristle (Spell)]]
+- [[Brittleskin (Spell)]]
+- [[Brittling (Spell)]]
+- [[Broken Mind (Spell)]]
+- [[Brumal Stiffening (Spell)]]
+- [[Bullet Ward (Spell)]]
+- [[Bull's Might (Spell)]]
+- [[Bull's Strength (Spell)]]
+- [[Bull's Strength, Mass (Spell)]]
+- [[Bulwark of Blades (Spell)]]
+- [[Buoyancy (Spell)]]
+- [[Buoyant (Spell)]]
+- [[Buoyant Lifting (Spell)]]
+- [[Buoyant Lifting, Lesser (Spell)]]
+- [[Burning Blood (Spell)]]
+- [[Burning Gaze (Spell)]]
+- [[Burning Hands (Spell)]]
+- [[Burning Monkey Swarm (Spell)]]
+- [[Burning Rage (Spell)]]
+- [[Burning Sands]]
+- [[Burning Sword (Spell)]]
+- [[Burrow, Mass (Spell)]]
+- [[Burrowing Boost (Spell)]]
+- [[Burst Bonds (Spell)]]
+- [[Burst of Glacial Wrath (Spell)]]
+- [[Buzzing Bee (Spell)]]
+

@@ -1,0 +1,674 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Category: "Spells"
+Tags:
+  - "Category/Spells"
+parent:
+  - "Spell Descriptions (Spells)"
+up:
+  - "Spell Descriptions (Spells)"
+next:
+  - "C"
+down:
+  - "Alicorn Lance (Spell)"
+  - "Amanuensis (Spell)"
+  - "Acid Maw (Spell)"
+  - "Arcane Disruption (Spell)"
+  - "Allfood (Spell)"
+  - "Alter Winds (Spell)"
+  - "Amplify Elixir (Spell)"
+  - "Ant Haul (Spell)"
+  - "Aqueous Orb (Spell)"
+  - "Aspect of the Bear (Spell)"
+  - "Aspect of the Falcon (Spell)"
+  - "Aspect of the Stag (Spell)"
+  - "Aspect of the Wolf"
+  - "Aura of Greater Courage (Spell)"
+  - "Arachnaform (Spell)"
+  - "Animate Tattoo (Spell)"
+  - "Anchor (Spell)"
+  - "Aboleth Curse (Spell)"
+  - "Airy Water (Spell)"
+  - "Abolish Shadows (Spell)"
+  - "Animate Dread Warrior (Spell)"
+  - "Allied Cloak (Spell)"
+  - "Aldori Alacrity (Spell)"
+  - "Absorb Rune II (Spell)"
+  - "Absorb Rune III (Spell)"
+  - "Absorb Rune I (Spell)"
+  - "Ablative Barrier (Spell)"
+  - "Ablative Sphere (Spell)"
+  - "Aboleth's Lung (Spell)"
+  - "Absorb Toxicity (Spell)"
+  - "Absorbing Inhalation (Spell)"
+  - "Alter Fortune (Spell)"
+  - "Abstemiousness (Spell)"
+  - "Arcane Seal (Spell)"
+  - "Aiming at the Target (Spell)"
+  - "Absorb Weapon (Spell)"
+  - "Absorption (Spell)"
+  - "Animate Rope (Spell)"
+  - "Animal Messenger (Spell)"
+  - "Animate Objects (Spell)"
+  - "Absorbing Touch (Spell)"
+  - "Abundant Ammunition (Spell)"
+  - "Accelerate Poison (Spell)"
+  - "Acid Pit (Spell)"
+  - "Acidic Spray (Spell)"
+  - "Arcane Spellsurge (Spell)"
+  - "Adamantine Wings (Spell)"
+  - "Acute Senses (Spell)"
+  - "Adjuring Step (Spell)"
+  - "Abate Dracorage (Spell)"
+  - "Antidragon Aura, Greater (Spell)"
+  - "Armored Vermin (Spell)"
+  - "Armor Enhancement (Spell)"
+  - "Armor Enhancement, Greater (Spell)"
+  - "Armor Enhancement, Lesser (Spell)"
+  - "Alibi (Spell)"
+  - "Alliance Undone (Spell)"
+  - "Abyssal Frenzy (Spell)"
+  - "Abyssal Frenzy, Mass (Spell)"
+  - "Abyssal Rift (Spell)"
+  - "Algid Enhancement (Spell)"
+  - "Arctic Haze (Spell)"
+  - "Aura of Cold, Lesser (Spell)"
+  - "Aura of Cold, Greater (Spell)"
+  - "Arcane Lock, Greater (Spell)"
+  - "Anticipate Teleportation, Greater (Spell)"
+  - "Animate City (Spell)"
+  - "Aspect of the Werebeast (Spell)"
+  - "Arcane Seal, Greater (Spell)"
+  - "Aerial Summoning Dance (Spell)"
+  - "Antifire Sphere (Spell)"
+  - "Ashen Union (Spell)"
+  - "Ashstar (Spell)"
+  - "Awaken Sand (Spell)"
+  - "Alchemical Allocation (Spell)"
+  - "Arcane Maul (Spell)"
+  - "Ability Rip (Spell)"
+  - "Align Fang (Spell)"
+  - "Air Breathing (Spell)"
+  - "Aid, Mass (Spell)"
+  - "Acid Storm (Spell)"
+  - "Amplify (Spell)"
+  - "Amorphous Form (Spell)"
+  - "Align Weapon, Mass (Spell)"
+  - "Align Fang, Mass (Spell)"
+  - "Anger of the Noonday Sun (Spell)"
+  - "Angelskin (Spell)"
+  - "Anarchic Water (Spell)"
+  - "Anarchic Storm (Spell)"
+  - "Analyze Portal (Spell)"
+  - "Anticold Sphere (Spell)"
+  - "Animate Wood (Spell)"
+  - "Animate Snow (Spell)"
+  - "Animate Fire (Spell)"
+  - "Animate Breath (Spell)"
+  - "Arc of Lightning (Spell)"
+  - "Appraising Touch (Spell)"
+  - "Anyspell, Greater (Spell)"
+  - "Anyspell (Spell)"
+  - "Antimagic Ray (Spell)"
+  - "Antidragon Aura (Spell)"
+  - "Augment Familiar (Spell)"
+  - "Attune Form (Spell)"
+  - "Astral Hospice (Spell)"
+  - "Aspect of the Earth Hunter (Spell)"
+  - "Arrow of Bone (Spell)"
+  - "Arrow Mind (Spell)"
+  - "Aura Against Flame (Spell)"
+  - "Aura of Vitality (Spell)"
+  - "Aura of Terror (Spell)"
+  - "Aura of Glory (Spell)"
+  - "Aura of Evasion (Spell)"
+  - "Awaken, Mass (Spell)"
+  - "Avasculate (Spell)"
+  - "Avascular Mass (Spell)"
+  - "Axiomatic Water (Spell)"
+  - "Axiomatic Storm (Spell)"
+  - "Awaken Undead (Spell)"
+  - "Awaken Sin (Spell)"
+  - "Augment Object (Spell)"
+  - "Arcane Lock, Improved (Spell)"
+  - "Abeyance (Spell)"
+  - "Animal Shapes (Spell)"
+  - "Animal Trance (Spell)"
+  - "Animate Dead (Spell)"
+  - "Animate Plants (Spell)"
+  - "Alarm, Greater (Spell)"
+  - "Assay Spell Resistance (Spell)"
+  - "Antilife Shell (Spell)"
+  - "Antipathy (Spell)"
+  - "Antiplant Shell (Spell)"
+  - "Arcane Eye (Spell)"
+  - "Arcane Lock (Spell)"
+  - "Arcane Mark (Spell)"
+  - "Arcane Sight, Greater (Spell)"
+  - "Astral Projection (Spell)"
+  - "Atonement (Spell)"
+  - "Augury (Spell)"
+  - "Awaken (Spell)"
+  - "Aegis (Spell)"
+  - "Adelian Torchbearers (Spell)"
+  - "Acoustic Dampening (Spell)"
+  - "Acidic Grease (Spell)"
+  - "Abyssal Globule (Spell)"
+  - "Aberrant Essence (Spell)"
+  - "Animate Cloth (Spell)"
+  - "Animal Contagion (Spell)"
+  - "Anger of Many Faces (Spell)"
+  - "Angelic Seal, Greater (Spell)"
+  - "Angelic Seal (Spell)"
+  - "Analyze Device, Greater (Spell)"
+  - "Analyze Device (Spell)"
+  - "Amplify Ley Field (Spell)"
+  - "Altered Consciousness (Spell)"
+  - "Agonizing Sphere (Spell)"
+  - "Animate Construct I (Spell)"
+  - "Animate Construct II (Spell)"
+  - "Animate Construct III (Spell)"
+  - "Animate Construct IV (Spell)"
+  - "Animate Construct V (Spell)"
+  - "Animate Construct VI (Spell)"
+  - "Animate Construct VII (Spell)"
+  - "Animate Construct VIII (Spell)"
+  - "Animate Construct IX (Spell)"
+  - "Astrological Charting (Spell)"
+  - "Aspect of the Four Winds (Spell)"
+  - "Aspect of the Dolphin (Spell)"
+  - "Aspect of the Demon (Spell)"
+  - "Asaraf's Carapace (Spell)"
+  - "As You Were (Spell)"
+  - "Arrow of the Animal Spirit (Spell)"
+  - "Archway of Ants (Spell)"
+  - "Arcane Siphon (Spell)"
+  - "Armored Shell (Spell)"
+  - "Armor of the Mountains (Spell)"
+  - "Animate Glyphs (Spell)"
+  - "Arcane Bulwark (Spell)"
+  - "Anomalous Object (Spell)"
+  - "Animate Dead, Improved (Spell)"
+  - "Animate Water (Spell)"
+  - "Animate Living Skeleton (Spell)"
+  - "Animate Ghoul (Spell)"
+  - "Animate Dead I (Spell)"
+  - "Animate Dead II (Spell)"
+  - "Animate Dead III (Spell)"
+  - "Animate Dead IV (Spell)"
+  - "Animate Dead V (Spell)"
+  - "Animate Dead VI (Spell)"
+  - "Animate Dead VII (Spell)"
+  - "Animate Dead VIII (Spell)"
+  - "Animate Dead IX (Spell)"
+  - "Ant Haul, Communal (Spell)"
+  - "Aspect of the Ram (Spell)"
+  - "Awaken the Deep Magic (Spell)"
+  - "Awaken Tome (Spell)"
+  - "Axe Storm (Spell)"
+  - "Avenge the Pain (Spell)"
+  - "Aberrate (Spell)"
+  - "Align Weapon (Spell)"
+  - "Alter Self (Spell)"
+  - "Analyze Dweomer (Spell)"
+  - "Animal Growth (Spell)"
+  - "Arcane Augmentation (Spell)"
+  - "Arcane Augmentation, Greater (Spell)"
+  - "Arcane Augmentation, Lesser (Spell)"
+  - "Anathema, Greater (Spell)"
+  - "Arrowsplit (Spell)"
+  - "Animate With the Spirit (Spell)"
+  - "Animate Infectious Zombie (Spell)"
+  - "Apparition (Spell)"
+  - "Aligned Aura (Spell)"
+  - "Accuracy (Spell)"
+  - "Allied Footsteps (Spell)"
+  - "Animate Weapon (Spell)"
+  - "Arboreal Transformation (Spell)"
+  - "Arcane Fusion (Spell)"
+  - "Arcane Fusion, Greater (Spell)"
+  - "Arcane Turmoil (Spell)"
+  - "Aspect of the Icy Hunter (Spell)"
+  - "Attentive Alarm (Spell)"
+  - "Arcane Conversion (Spell)"
+  - "Animate Instrument (Spell)"
+  - "Aquatic Escape (Spell)"
+  - "Armor Lock (Spell)"
+  - "Assassin's Darkness (Spell)"
+  - "Adoration of the Frightful (Spell)"
+  - "Aspect of the Chromatic Dragon (Spell)"
+  - "Aspect of the Platinum Dragon (Spell)"
+  - "Avalanche of Devastation (Spell)"
+  - "Affliction (Spell)"
+  - "Amber Sarcophagus (Spell)"
+  - "Armageddon (Spell)"
+  - "Aspect of the Deity, Lesser (Spell)"
+  - "Aspect of the Deity (Spell)"
+  - "Aspect of the Deity, Greater (Spell)"
+  - "Axiomatic Creature (Spell)"
+  - "Abyssal Army (Spell)"
+  - "Accelerated Movement (Spell)"
+  - "Acid Breath (Spell)"
+  - "Animal Aspect (Spell)"
+  - "Absorb Mind (Spell)"
+  - "Absorb Strength (Spell)"
+  - "Abyssal Might (Spell)"
+  - "Addiction (Spell)"
+  - "Alert Bebilith (Spell)"
+  - "Angry Ache (Spell)"
+  - "Apocalypse from the Sky (Spell)"
+  - "Awaken Ooze (Spell)"
+  - "Anonymous Interaction (Spell)"
+  - "Aeonian Lantern (Spell)"
+  - "Anticipated Attack (Spell)"
+  - "Angel's Redoubt (Spell)"
+  - "Arcana Form (Spell)"
+  - "Armor Contingency (Spell)"
+  - "Arrow Deflection (Spell)"
+  - "Arrow Redirection (Spell)"
+  - "Arrow Reflection (Spell)"
+  - "Aspect of the Divine (Spell)"
+  - "Adhesive Blood (Spell)"
+  - "Adhesive Spittle (Spell)"
+  - "Adjustable Disguise (Spell)"
+  - "Adjustable Polymorph (Spell)"
+  - "Aggressive Thundercloud (Spell)"
+  - "Aggressive Thundercloud, Greater (Spell)"
+  - "Air Geyser (Spell)"
+  - "Air Step (Spell)"
+  - "Align Weapon, Communal (Spell)"
+  - "Alter Musical Instrument (Spell)"
+  - "Anchored Step (Spell)"
+  - "Animal Purpose Training (Spell)"
+  - "Anti-Incorporeal Shell (Spell)"
+  - "Aura Sight (Spell)"
+  - "A Moment Ago (Spell)"
+  - "Arcane Engine (Spell)"
+  - "Arcane Healing, Greater (Spell)"
+  - "Aspect of the Iron Knight, Greater (Spell)"
+  - "Aspect of the Iron Knight (Spell)"
+  - "Assassin's Senses, Greater (Spell)"
+  - "Augmenting Wall (Spell)"
+  - "Ancestral Regression (Spell)"
+  - "Agonizing Rebuke (Spell)"
+  - "Alchemical Tinkering (Spell)"
+  - "Air Bubble (Spell)"
+  - "Absolute Command (Spell)"
+  - "Aerial Dispatch (Spell)"
+  - "Acid Rain (Spell)"
+  - "Aerial Alarm (Spell)"
+  - "Attuned Alarm (Spell)"
+  - "Animate Legion (Spell)"
+  - "Animate Siege Weapon (Spell)"
+  - "Airboat (Spell)"
+  - "Analyze Balance (Spell)"
+  - "Arms of Plenty (Spell)"
+  - "Aura of the Sun (Spell)"
+  - "Amethyst Aura (Spell)"
+  - "Ablative Armor (Spell)"
+  - "Adamantine Weapon (Spell)"
+  - "Ancient Knowledge (Spell)"
+  - "Antimagic Aura (Spell)"
+  - "Adept Spirit (Spell)"
+  - "Adept Spirit, Mass (Spell)"
+  - "Animal Spirit (Spell)"
+  - "Animal Spirit, Mass (Spell)"
+  - "Avoid Planar Effects (Spell)"
+  - "Advice (Spell)"
+  - "Ancestral Vengeance (Spell)"
+  - "Anti-Ectoplasm Shell (Spell)"
+  - "Acid Arrow (Spell)"
+  - "Acid Fog (Spell)"
+  - "Acid Splash (Spell)"
+  - "Aid (Spell)"
+  - "Air Walk (Spell)"
+  - "Antimagic Field (Spell)"
+  - "Alarm (Spell)"
+  - "Arcane Sensitivity (Spell)"
+  - "Arcane Sight (Spell)"
+  - "Arrow Eruption (Spell)"
+  - "Analyze Touchstone (Spell)"
+  - "Arcane Cannon (Spell)"
+  - "Animalistic Power (Spell)"
+  - "Animalistic Power, Mass (Spell)"
+  - "As the Frost (Spell)"
+  - "Aerial Alacrity (Spell)"
+  - "Arcane Feedback (Spell)"
+  - "Anticipate Teleportation (Spell)"
+RWtopicId: "Topic_15896"
+---
+# A
+## Overview
+---
+## Governed Content
+- [[A Moment Ago (Spell)]]
+- [[Abate Dracorage (Spell)]]
+- [[Aberrant Essence (Spell)]]
+- [[Aberrate (Spell)]]
+- [[Abeyance (Spell)]]
+- [[Ability Rip (Spell)]]
+- [[Ablative Armor (Spell)]]
+- [[Ablative Barrier (Spell)]]
+- [[Ablative Sphere (Spell)]]
+- [[Aboleth Curse (Spell)]]
+- [[Aboleth's Lung (Spell)]]
+- [[Abolish Shadows (Spell)]]
+- [[Absolute Command (Spell)]]
+- [[Absorb Mind (Spell)]]
+- [[Absorb Rune I (Spell)]]
+- [[Absorb Rune II (Spell)]]
+- [[Absorb Rune III (Spell)]]
+- [[Absorb Strength (Spell)]]
+- [[Absorb Toxicity (Spell)]]
+- [[Absorb Weapon (Spell)]]
+- [[Absorbing Inhalation (Spell)]]
+- [[Absorbing Touch (Spell)]]
+- [[Absorption (Spell)]]
+- [[Abstemiousness (Spell)]]
+- [[Abundant Ammunition (Spell)]]
+- [[Abyssal Army (Spell)]]
+- [[Abyssal Frenzy (Spell)]]
+- [[Abyssal Frenzy, Mass (Spell)]]
+- [[Abyssal Globule (Spell)]]
+- [[Abyssal Might (Spell)]]
+- [[Abyssal Rift (Spell)]]
+- [[Accelerate Poison (Spell)]]
+- [[Accelerated Movement (Spell)]]
+- [[Accuracy (Spell)]]
+- [[Acid Arrow (Spell)]]
+- [[Acid Breath (Spell)]]
+- [[Acid Fog (Spell)]]
+- [[Acid Maw (Spell)]]
+- [[Acid Pit (Spell)]]
+- [[Acid Rain (Spell)]]
+- [[Acid Splash (Spell)]]
+- [[Acid Storm (Spell)]]
+- [[Acidic Grease (Spell)]]
+- [[Acidic Spray (Spell)]]
+- [[Acoustic Dampening (Spell)]]
+- [[Acute Senses (Spell)]]
+- [[Adamantine Weapon (Spell)]]
+- [[Adamantine Wings (Spell)]]
+- [[Addiction (Spell)]]
+- [[Adelian Torchbearers (Spell)]]
+- [[Adept Spirit (Spell)]]
+- [[Adept Spirit, Mass (Spell)]]
+- [[Adhesive Blood (Spell)]]
+- [[Adhesive Spittle (Spell)]]
+- [[Adjuring Step (Spell)]]
+- [[Adjustable Disguise (Spell)]]
+- [[Adjustable Polymorph (Spell)]]
+- [[Adoration of the Frightful (Spell)]]
+- [[Advice (Spell)]]
+- [[Aegis (Spell)]]
+- [[Aeonian Lantern (Spell)]]
+- [[Aerial Alacrity (Spell)]]
+- [[Aerial Alarm (Spell)]]
+- [[Aerial Dispatch (Spell)]]
+- [[Aerial Summoning Dance (Spell)]]
+- [[Affliction (Spell)]]
+- [[Aggressive Thundercloud (Spell)]]
+- [[Aggressive Thundercloud, Greater (Spell)]]
+- [[Agonizing Rebuke (Spell)]]
+- [[Agonizing Sphere (Spell)]]
+- [[Aid (Spell)]]
+- [[Aid, Mass (Spell)]]
+- [[Aiming at the Target (Spell)]]
+- [[Air Breathing (Spell)]]
+- [[Air Bubble (Spell)]]
+- [[Air Geyser (Spell)]]
+- [[Air Step (Spell)]]
+- [[Air Walk (Spell)]]
+- [[Airboat (Spell)]]
+- [[Airy Water (Spell)]]
+- [[Alarm (Spell)]]
+- [[Alarm, Greater (Spell)]]
+- [[Alchemical Allocation (Spell)]]
+- [[Alchemical Tinkering (Spell)]]
+- [[Aldori Alacrity (Spell)]]
+- [[Alert Bebilith (Spell)]]
+- [[Algid Enhancement (Spell)]]
+- [[Alibi (Spell)]]
+- [[Alicorn Lance (Spell)]]
+- [[Align Fang (Spell)]]
+- [[Align Fang, Mass (Spell)]]
+- [[Align Weapon (Spell)]]
+- [[Align Weapon, Communal (Spell)]]
+- [[Align Weapon, Mass (Spell)]]
+- [[Aligned Aura (Spell)]]
+- [[Allfood (Spell)]]
+- [[Alliance Undone (Spell)]]
+- [[Allied Cloak (Spell)]]
+- [[Allied Footsteps (Spell)]]
+- [[Alter Fortune (Spell)]]
+- [[Alter Musical Instrument (Spell)]]
+- [[Alter Self (Spell)]]
+- [[Alter Winds (Spell)]]
+- [[Altered Consciousness (Spell)]]
+- [[Amanuensis (Spell)]]
+- [[Amber Sarcophagus (Spell)]]
+- [[Amethyst Aura (Spell)]]
+- [[Amorphous Form (Spell)]]
+- [[Amplify (Spell)]]
+- [[Amplify Elixir (Spell)]]
+- [[Amplify Ley Field (Spell)]]
+- [[Analyze Balance (Spell)]]
+- [[Analyze Device (Spell)]]
+- [[Analyze Device, Greater (Spell)]]
+- [[Analyze Dweomer (Spell)]]
+- [[Analyze Portal (Spell)]]
+- [[Analyze Touchstone (Spell)]]
+- [[Anarchic Storm (Spell)]]
+- [[Anarchic Water (Spell)]]
+- [[Anathema, Greater (Spell)]]
+- [[Ancestral Regression (Spell)]]
+- [[Ancestral Vengeance (Spell)]]
+- [[Anchor (Spell)]]
+- [[Anchored Step (Spell)]]
+- [[Ancient Knowledge (Spell)]]
+- [[Angelic Seal (Spell)]]
+- [[Angelic Seal, Greater (Spell)]]
+- [[Angel's Redoubt (Spell)]]
+- [[Angelskin (Spell)]]
+- [[Anger of Many Faces (Spell)]]
+- [[Anger of the Noonday Sun (Spell)]]
+- [[Angry Ache (Spell)]]
+- [[Animal Aspect (Spell)]]
+- [[Animal Contagion (Spell)]]
+- [[Animal Growth (Spell)]]
+- [[Animal Messenger (Spell)]]
+- [[Animal Purpose Training (Spell)]]
+- [[Animal Shapes (Spell)]]
+- [[Animal Spirit (Spell)]]
+- [[Animal Spirit, Mass (Spell)]]
+- [[Animal Trance (Spell)]]
+- [[Animalistic Power (Spell)]]
+- [[Animalistic Power, Mass (Spell)]]
+- [[Animate Breath (Spell)]]
+- [[Animate City (Spell)]]
+- [[Animate Cloth (Spell)]]
+- [[Animate Construct I (Spell)]]
+- [[Animate Construct II (Spell)]]
+- [[Animate Construct III (Spell)]]
+- [[Animate Construct IV (Spell)]]
+- [[Animate Construct IX (Spell)]]
+- [[Animate Construct V (Spell)]]
+- [[Animate Construct VI (Spell)]]
+- [[Animate Construct VII (Spell)]]
+- [[Animate Construct VIII (Spell)]]
+- [[Animate Dead (Spell)]]
+- [[Animate Dead I (Spell)]]
+- [[Animate Dead II (Spell)]]
+- [[Animate Dead III (Spell)]]
+- [[Animate Dead IV (Spell)]]
+- [[Animate Dead IX (Spell)]]
+- [[Animate Dead V (Spell)]]
+- [[Animate Dead VI (Spell)]]
+- [[Animate Dead VII (Spell)]]
+- [[Animate Dead VIII (Spell)]]
+- [[Animate Dead, Improved (Spell)]]
+- [[Animate Dread Warrior (Spell)]]
+- [[Animate Fire (Spell)]]
+- [[Animate Ghoul (Spell)]]
+- [[Animate Glyphs (Spell)]]
+- [[Animate Infectious Zombie (Spell)]]
+- [[Animate Instrument (Spell)]]
+- [[Animate Legion (Spell)]]
+- [[Animate Living Skeleton (Spell)]]
+- [[Animate Objects (Spell)]]
+- [[Animate Plants (Spell)]]
+- [[Animate Rope (Spell)]]
+- [[Animate Siege Weapon (Spell)]]
+- [[Animate Snow (Spell)]]
+- [[Animate Tattoo (Spell)]]
+- [[Animate Water (Spell)]]
+- [[Animate Weapon (Spell)]]
+- [[Animate With the Spirit (Spell)]]
+- [[Animate Wood (Spell)]]
+- [[Anomalous Object (Spell)]]
+- [[Anonymous Interaction (Spell)]]
+- [[Ant Haul (Spell)]]
+- [[Ant Haul, Communal (Spell)]]
+- [[Anticipate Teleportation (Spell)]]
+- [[Anticipate Teleportation, Greater (Spell)]]
+- [[Anticipated Attack (Spell)]]
+- [[Anticold Sphere (Spell)]]
+- [[Antidragon Aura (Spell)]]
+- [[Antidragon Aura, Greater (Spell)]]
+- [[Anti-Ectoplasm Shell (Spell)]]
+- [[Antifire Sphere (Spell)]]
+- [[Anti-Incorporeal Shell (Spell)]]
+- [[Antilife Shell (Spell)]]
+- [[Antimagic Aura (Spell)]]
+- [[Antimagic Field (Spell)]]
+- [[Antimagic Ray (Spell)]]
+- [[Antipathy (Spell)]]
+- [[Antiplant Shell (Spell)]]
+- [[Anyspell (Spell)]]
+- [[Anyspell, Greater (Spell)]]
+- [[Apocalypse from the Sky (Spell)]]
+- [[Apparition (Spell)]]
+- [[Appraising Touch (Spell)]]
+- [[Aquatic Escape (Spell)]]
+- [[Aqueous Orb (Spell)]]
+- [[Arachnaform (Spell)]]
+- [[Arboreal Transformation (Spell)]]
+- [[Arc of Lightning (Spell)]]
+- [[Arcana Form (Spell)]]
+- [[Arcane Augmentation (Spell)]]
+- [[Arcane Augmentation, Greater (Spell)]]
+- [[Arcane Augmentation, Lesser (Spell)]]
+- [[Arcane Bulwark (Spell)]]
+- [[Arcane Cannon (Spell)]]
+- [[Arcane Conversion (Spell)]]
+- [[Arcane Disruption (Spell)]]
+- [[Arcane Engine (Spell)]]
+- [[Arcane Eye (Spell)]]
+- [[Arcane Feedback (Spell)]]
+- [[Arcane Fusion (Spell)]]
+- [[Arcane Fusion, Greater (Spell)]]
+- [[Arcane Healing, Greater (Spell)]]
+- [[Arcane Lock (Spell)]]
+- [[Arcane Lock, Greater (Spell)]]
+- [[Arcane Lock, Improved (Spell)]]
+- [[Arcane Mark (Spell)]]
+- [[Arcane Maul (Spell)]]
+- [[Arcane Seal (Spell)]]
+- [[Arcane Seal, Greater (Spell)]]
+- [[Arcane Sensitivity (Spell)]]
+- [[Arcane Sight (Spell)]]
+- [[Arcane Sight, Greater (Spell)]]
+- [[Arcane Siphon (Spell)]]
+- [[Arcane Spellsurge (Spell)]]
+- [[Arcane Turmoil (Spell)]]
+- [[Archway of Ants (Spell)]]
+- [[Arctic Haze (Spell)]]
+- [[Armageddon (Spell)]]
+- [[Armor Contingency (Spell)]]
+- [[Armor Enhancement (Spell)]]
+- [[Armor Enhancement, Greater (Spell)]]
+- [[Armor Enhancement, Lesser (Spell)]]
+- [[Armor Lock (Spell)]]
+- [[Armor of the Mountains (Spell)]]
+- [[Armored Shell (Spell)]]
+- [[Armored Vermin (Spell)]]
+- [[Arms of Plenty (Spell)]]
+- [[Arrow Deflection (Spell)]]
+- [[Arrow Eruption (Spell)]]
+- [[Arrow Mind (Spell)]]
+- [[Arrow of Bone (Spell)]]
+- [[Arrow of the Animal Spirit (Spell)]]
+- [[Arrow Redirection (Spell)]]
+- [[Arrow Reflection (Spell)]]
+- [[Arrowsplit (Spell)]]
+- [[As the Frost (Spell)]]
+- [[As You Were (Spell)]]
+- [[Asaraf's Carapace (Spell)]]
+- [[Ashen Union (Spell)]]
+- [[Ashstar (Spell)]]
+- [[Aspect of the Bear (Spell)]]
+- [[Aspect of the Chromatic Dragon (Spell)]]
+- [[Aspect of the Deity (Spell)]]
+- [[Aspect of the Deity, Greater (Spell)]]
+- [[Aspect of the Deity, Lesser (Spell)]]
+- [[Aspect of the Demon (Spell)]]
+- [[Aspect of the Divine (Spell)]]
+- [[Aspect of the Dolphin (Spell)]]
+- [[Aspect of the Earth Hunter (Spell)]]
+- [[Aspect of the Falcon (Spell)]]
+- [[Aspect of the Four Winds (Spell)]]
+- [[Aspect of the Icy Hunter (Spell)]]
+- [[Aspect of the Iron Knight (Spell)]]
+- [[Aspect of the Iron Knight, Greater (Spell)]]
+- [[Aspect of the Platinum Dragon (Spell)]]
+- [[Aspect of the Ram (Spell)]]
+- [[Aspect of the Stag (Spell)]]
+- [[Aspect of the Werebeast (Spell)]]
+- [[Aspect of the Wolf]]
+- [[Assassin's Darkness (Spell)]]
+- [[Assassin's Senses, Greater (Spell)]]
+- [[Assay Spell Resistance (Spell)]]
+- [[Astral Hospice (Spell)]]
+- [[Astral Projection (Spell)]]
+- [[Astrological Charting (Spell)]]
+- [[Atonement (Spell)]]
+- [[Attentive Alarm (Spell)]]
+- [[Attune Form (Spell)]]
+- [[Attuned Alarm (Spell)]]
+- [[Augment Familiar (Spell)]]
+- [[Augment Object (Spell)]]
+- [[Augmenting Wall (Spell)]]
+- [[Augury (Spell)]]
+- [[Aura Against Flame (Spell)]]
+- [[Aura of Cold, Greater (Spell)]]
+- [[Aura of Cold, Lesser (Spell)]]
+- [[Aura of Evasion (Spell)]]
+- [[Aura of Glory (Spell)]]
+- [[Aura of Greater Courage (Spell)]]
+- [[Aura of Terror (Spell)]]
+- [[Aura of the Sun (Spell)]]
+- [[Aura of Vitality (Spell)]]
+- [[Aura Sight (Spell)]]
+- [[Avalanche of Devastation (Spell)]]
+- [[Avascular Mass (Spell)]]
+- [[Avasculate (Spell)]]
+- [[Avenge the Pain (Spell)]]
+- [[Avoid Planar Effects (Spell)]]
+- [[Awaken (Spell)]]
+- [[Awaken Ooze (Spell)]]
+- [[Awaken Sand (Spell)]]
+- [[Awaken Sin (Spell)]]
+- [[Awaken the Deep Magic (Spell)]]
+- [[Awaken Tome (Spell)]]
+- [[Awaken Undead (Spell)]]
+- [[Awaken, Mass (Spell)]]
+- [[Axe Storm (Spell)]]
+- [[Axiomatic Creature (Spell)]]
+- [[Axiomatic Storm (Spell)]]
+- [[Axiomatic Water (Spell)]]
+
+
+---
+## Tags
+#Rule-System/Pathfinder
+

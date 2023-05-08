@@ -1,0 +1,34 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Category: "eMRD"
+Tags:
+  - "Category/eMRD"
+parent:
+  - "Elemental Arcane Schools"
+up:
+  - "Elemental Arcane Schools"
+prev:
+  - "Air School"
+next:
+  - "Fire School"
+RWtopicId: "Topic_14904"
+---
+# Earth School
+## Overview
+**Earth School**
+
+The earth elementalist draws power from the stone around him, shaping it, shattering it, and bending it to his will. He can use it to defend himself or cause it to rise up and crush his foes.
+
+*Earth Supremacy (Su):* You gain a +2 enhancement bonus to your CMD to resist bull rush, pull, push, reposition, trip, and overrun attempts as long as you are touching the ground. This bonus increases by +1 for every five wizard levels you possess. In addition, you gain a +1 insight bonus on melee attack and damage rolls whenever both you and your foe are touching the ground. At 20th level, earth and stone do not block the line of effect of your spells, although they do still block your line of sight.
+
+*Acid Cloud (Su):* As a standard action, you can create a 5-foot-radius cloud of acid vapor within 30 feet that lasts for 1 round. This cloud deals 1d6 points of acid damage + 1 point for every two wizard levels you possess to all creatures in the cloud and sickens them for 1 round. A successful Fortitude save negates the sickened effect and halves the damage. The DC of this save is equal to 10 + 1/2 your wizard level + your Intelligence modifier. Creatures that begin their turn inside the cloud can move out that turn without penalty, but those that enter the cloud are affected. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.
+
+*Earth Glide (Su):* At 8th level, you gain the ability to move through earth, dirt, and stone for a number of rounds per day equal to your wizard level. You cannot move through worked earth or stone; only natural substances can be traversed. If your total duration expires before you exit the earth, you are f lung back to the point where you entered the stone, take 4d6 points of damage, and are stunned for 1 round. Your burrowing does not leave a hole, nor does it give any sign of your presence (although you can be detected by creatures with tremorsense). These rounds do not need to be consecutive.
+
+**Source:** Advanced Player's Guide (Paizo), pg. 142
+
+
+---
+## Tags
+#Sources/Advanced-Player-s-Guide #Rule-System/Pathfinder #Rule/OGL #Rule/Core #Publisher/Paizo #Rule/Wizard
+

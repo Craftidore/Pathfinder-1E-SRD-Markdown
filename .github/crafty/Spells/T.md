@@ -1,0 +1,365 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Category: "Spells"
+Tags:
+  - "Category/Spells"
+parent:
+  - "Spell Descriptions (Spells)"
+up:
+  - "Spell Descriptions (Spells)"
+prev:
+  - "Z"
+down:
+  - "Thorn Javelin (Spell)"
+  - "Thunderstomp (Spell)"
+  - "Thorny Entanglement (Spell)"
+  - "Thunderstomp, Greater (Spell)"
+  - "Time Shudder (Spell)"
+  - "Twilight Haze (Spell)"
+  - "Tireless (Spell)"
+  - "Treasure Disk (Spell)"
+  - "Tactical Precision (Spell)"
+  - "Targeting Ray (Spell)"
+  - "Telepathic Bond, Lesser (Spell)"
+  - "Thornskin (Spell)"
+  - "Thunderhead (Spell)"
+  - "Thunderlance (Spell)"
+  - "Thunderous Roar (Spell)"
+  - "Tiger's Tooth (Spell)"
+  - "Tortoise Shell (Spell)"
+  - "Towering Oak (Spell)"
+  - "Train Animal (Spell)"
+  - "Transcribe Symbol (Spell)"
+  - "Transfix (Spell)"
+  - "True Skill (Spell)"
+  - "Translocation Trick (Spell)"
+  - "Transmute Rock to Lava (Spell)"
+  - "Traveler's Mount (Spell)"
+  - "Treasure Scent, Greater (Spell)"
+  - "Tremor (Spell)"
+  - "Triadspell (Spell)"
+  - "True Creation (Spell)"
+  - "True Domination (Spell)"
+  - "Tunnel Swallow (Spell)"
+  - "Tern's Persistence (Spell)"
+  - "Thalassemia (Spell)"
+  - "Tojanida Sight (Spell)"
+  - "Transformation of the Deeps (Spell)"
+  - "Turbidity (Spell)"
+  - "Teleport Cage (Spell)"
+  - "Triple Strike (Spell)"
+  - "Toothed Tentacle (Spell)"
+  - "Turn Anathema (Spell)"
+  - "Touch of Chaos (Spell)"
+  - "Taunt Dragon (Spell)"
+  - "Threesteel (Spell)"
+  - "Total Repair (Spell)"
+  - "Toughen Construct (Spell)"
+  - "Treacherous Weapon (Spell)"
+  - "Transmute Coinage to Gem (Spell)"
+  - "Thunder Field (Spell)"
+  - "Toxic Weapon (Spell)"
+  - "Trollshape (Spell)"
+  - "Truthtelling (Spell)"
+  - "Touch of Jorasco (Spell)"
+  - "True Seeing, Mass (Spell)"
+  - "Teleport Lair (Spell)"
+  - "Tail Slap (Spell)"
+  - "Tail Sweep (Spell)"
+  - "Tormenting Thirst (Spell)"
+  - "Transmute Sand to Glass (Spell)"
+  - "Transmute Sand to Stone (Spell)"
+  - "Transmute Stone to Sand (Spell)"
+  - "Treacherous Teleport (Spell)"
+  - "Trait Removal (Spell)"
+  - "Tidal Wave (Spell)"
+  - "Teleport Transfer (Spell)"
+  - "Transmute Metal to Wood (Spell)"
+  - "Temporal Eye (Spell)"
+  - "Temporal Aging (Spell)"
+  - "Temporal Displacement (Spell)"
+  - "Temporal Fold (Spell)"
+  - "Temporal Vortex (Spell)"
+  - "Temporal Vortex, Greater (Spell)"
+  - "Thief Ward, Greater (Spell)"
+  - "Transferred Learning, Greater (Spell)"
+  - "True Oneness (Spell)"
+  - "Telekinetic Sphere (Spell)"
+  - "Telepathic Bond (Spell)"
+  - "Teleport, Greater (Spell)"
+  - "Thousand Needles (Spell)"
+  - "Tongue of Baalzebul (Spell)"
+  - "Tongue Serpents (Spell)"
+  - "Tongue Tendrils (Spell)"
+  - "Touch of Juiblex (Spell)"
+  - "Thunderstroke (Spell)"
+  - "Touch of Restoration (Spell)"
+  - "Terra Cotta Warrior (Spell)"
+  - "Terra Cotta Lion (Spell)"
+  - "Trusted Bloodhound (Spell)"
+  - "Tactical Teleportation (Spell)"
+  - "Tenacious Dispelling (Spell)"
+  - "Torrent of Tears (Spell)"
+  - "Touch of the Graveborn (Spell)"
+  - "Touch of Vecna (Spell)"
+  - "Touch of Years (Spell)"
+  - "Towering Thunderhead (Spell)"
+  - "Toxic Tongue (Spell)"
+  - "Transcend Mortality (Spell)"
+  - "True Casting (Spell)"
+  - "Touch of the Blackened Soul (Spell)"
+  - "Trance of the Verdant Domain (Spell)"
+  - "Talons (Spell)"
+  - "Transmute Rock to Sickstone"
+  - "Telekinesis (Spell)"
+  - "Telepathy Block (Spell)"
+  - "Telepathy Tap (Spell)"
+  - "Tomb of Light (Spell)"
+  - "Touch of Adamantine (Spell)"
+  - "Twilight Luck (Spell)"
+  - "Triggered Suggestion (Spell)"
+  - "Teleport Through Time (Spell)"
+  - "Time Conduit (Spell)"
+  - "Teleport Object (Spell)"
+  - "Teleportation Circle (Spell)"
+  - "Temporal Stasis (Spell)"
+  - "Time Stop (Spell)"
+  - "Touch of Fatigue (Spell)"
+  - "Touch of Idiocy (Spell)"
+  - "Transformation (Spell)"
+  - "Transmute Rock to Mud (Spell)"
+  - "Transport via Plants (Spell)"
+  - "Trap the Soul (Spell)"
+  - "Tree Shape (Spell)"
+  - "Tree Stride (Spell)"
+  - "True Resurrection (Spell)"
+  - "True Strike (Spell)"
+  - "Transmute Mud to Rock (Spell)"
+  - "Teleport Trace, Greater (Spell)"
+  - "Touch of the Gods (Spell)"
+  - "Troll's Form (Spell)"
+  - "True Telekinesis (Spell)"
+  - "Threefold Aspect (Spell)"
+  - "Thundering Drums (Spell)"
+  - "Timely Inspiration (Spell)"
+  - "Tireless Pursuit (Spell)"
+  - "Tireless Pursuers (Spell)"
+  - "Touch of Gracelessness (Spell)"
+  - "Touch of the Sea (Spell)"
+  - "Transmogrify (Spell)"
+  - "Transmute Potion to Poison (Spell)"
+  - "Treasure Stitching (Spell)"
+  - "True Form (Spell)"
+  - "Tsunami (Spell)"
+  - "Twilight Knife (Spell)"
+  - "Twin Form (Spell)"
+  - "Two Minds (Spell)"
+  - "True Light (Spell)"
+  - "Transfer Tattoo (Spell)"
+  - "Telekinetic Volley (Spell)"
+  - "Toilsome Chant (Spell)"
+  - "Thorn Body (Spell)"
+  - "Transference (Spell)"
+  - "Trip Vine (Spell)"
+  - "Tyche's Touch (Spell)"
+  - "Thunderclap (Spell)"
+  - "Tiny Igloo (Spell)"
+  - "Thaw (Spell)"
+  - "Thin Air (Spell)"
+  - "Tiny Hut (Spell)"
+  - "Tongues (Spell)"
+  - "Teleport (Spell)"
+  - "True Seeing (Spell)"
+  - "Tetsubo of Earth (Spell)"
+  - "Tomb of Jade (Spell)"
+  - "Trance (Spell)"
+  - "Touchstone Lightning (Spell)"
+  - "Teleport Ship (Spell)"
+  - "Torc of the Pharaoh (Spell)"
+  - "Torc of the Pharaoh, Greater (Spell)"
+  - "Tattoo Potion (Spell)"
+  - "Tripping Hand (Spell)"
+  - "Tremorsense (Spell)"
+  - "Teleport Trap (Spell)"
+  - "Threshold Barrier (Spell)"
+  - "Temporary Resurrection (Spell)"
+RWtopicId: "Topic_16018"
+---
+# T
+## Overview
+---
+## Governed Content
+- [[Tactical Precision (Spell)]]
+- [[Tactical Teleportation (Spell)]]
+- [[Tail Slap (Spell)]]
+- [[Tail Sweep (Spell)]]
+- [[Talons (Spell)]]
+- [[Targeting Ray (Spell)]]
+- [[Tattoo Potion (Spell)]]
+- [[Taunt Dragon (Spell)]]
+- [[Telekinesis (Spell)]]
+- [[Telekinetic Sphere (Spell)]]
+- [[Telekinetic Volley (Spell)]]
+- [[Telepathic Bond (Spell)]]
+- [[Telepathic Bond, Lesser (Spell)]]
+- [[Telepathy Block (Spell)]]
+- [[Telepathy Tap (Spell)]]
+- [[Teleport (Spell)]]
+- [[Teleport Cage (Spell)]]
+- [[Teleport Lair (Spell)]]
+- [[Teleport Object (Spell)]]
+- [[Teleport Ship (Spell)]]
+- [[Teleport Through Time (Spell)]]
+- [[Teleport Trace, Greater (Spell)]]
+- [[Teleport Transfer (Spell)]]
+- [[Teleport Trap (Spell)]]
+- [[Teleport, Greater (Spell)]]
+- [[Teleportation Circle (Spell)]]
+- [[Temporal Aging (Spell)]]
+- [[Temporal Displacement (Spell)]]
+- [[Temporal Eye (Spell)]]
+- [[Temporal Fold (Spell)]]
+- [[Temporal Stasis (Spell)]]
+- [[Temporal Vortex (Spell)]]
+- [[Temporal Vortex, Greater (Spell)]]
+- [[Temporary Resurrection (Spell)]]
+- [[Tenacious Dispelling (Spell)]]
+- [[Tern's Persistence (Spell)]]
+- [[Terra Cotta Lion (Spell)]]
+- [[Terra Cotta Warrior (Spell)]]
+- [[Tetsubo of Earth (Spell)]]
+- [[Thalassemia (Spell)]]
+- [[Thaw (Spell)]]
+- [[Thief Ward, Greater (Spell)]]
+- [[Thin Air (Spell)]]
+- [[Thorn Body (Spell)]]
+- [[Thorn Javelin (Spell)]]
+- [[Thornskin (Spell)]]
+- [[Thorny Entanglement (Spell)]]
+- [[Thousand Needles (Spell)]]
+- [[Threefold Aspect (Spell)]]
+- [[Threesteel (Spell)]]
+- [[Threshold Barrier (Spell)]]
+- [[Thunder Field (Spell)]]
+- [[Thunderclap (Spell)]]
+- [[Thunderhead (Spell)]]
+- [[Thundering Drums (Spell)]]
+- [[Thunderlance (Spell)]]
+- [[Thunderous Roar (Spell)]]
+- [[Thunderstomp (Spell)]]
+- [[Thunderstomp, Greater (Spell)]]
+- [[Thunderstroke (Spell)]]
+- [[Tidal Wave (Spell)]]
+- [[Tiger's Tooth (Spell)]]
+- [[Time Conduit (Spell)]]
+- [[Time Shudder (Spell)]]
+- [[Time Stop (Spell)]]
+- [[Timely Inspiration (Spell)]]
+- [[Tiny Hut (Spell)]]
+- [[Tiny Igloo (Spell)]]
+- [[Tireless (Spell)]]
+- [[Tireless Pursuers (Spell)]]
+- [[Tireless Pursuit (Spell)]]
+- [[Toilsome Chant (Spell)]]
+- [[Tojanida Sight (Spell)]]
+- [[Tomb of Jade (Spell)]]
+- [[Tomb of Light (Spell)]]
+- [[Tongue of Baalzebul (Spell)]]
+- [[Tongue Serpents (Spell)]]
+- [[Tongue Tendrils (Spell)]]
+- [[Tongues (Spell)]]
+- [[Toothed Tentacle (Spell)]]
+- [[Torc of the Pharaoh (Spell)]]
+- [[Torc of the Pharaoh, Greater (Spell)]]
+- [[Tormenting Thirst (Spell)]]
+- [[Torrent of Tears (Spell)]]
+- [[Tortoise Shell (Spell)]]
+- [[Total Repair (Spell)]]
+- [[Touch of Adamantine (Spell)]]
+- [[Touch of Chaos (Spell)]]
+- [[Touch of Fatigue (Spell)]]
+- [[Touch of Gracelessness (Spell)]]
+- [[Touch of Idiocy (Spell)]]
+- [[Touch of Jorasco (Spell)]]
+- [[Touch of Juiblex (Spell)]]
+- [[Touch of Restoration (Spell)]]
+- [[Touch of the Blackened Soul (Spell)]]
+- [[Touch of the Gods (Spell)]]
+- [[Touch of the Graveborn (Spell)]]
+- [[Touch of the Sea (Spell)]]
+- [[Touch of Vecna (Spell)]]
+- [[Touch of Years (Spell)]]
+- [[Touchstone Lightning (Spell)]]
+- [[Toughen Construct (Spell)]]
+- [[Towering Oak (Spell)]]
+- [[Towering Thunderhead (Spell)]]
+- [[Toxic Tongue (Spell)]]
+- [[Toxic Weapon (Spell)]]
+- [[Train Animal (Spell)]]
+- [[Trait Removal (Spell)]]
+- [[Trance (Spell)]]
+- [[Trance of the Verdant Domain (Spell)]]
+- [[Transcend Mortality (Spell)]]
+- [[Transcribe Symbol (Spell)]]
+- [[Transfer Tattoo (Spell)]]
+- [[Transference (Spell)]]
+- [[Transferred Learning, Greater (Spell)]]
+- [[Transfix (Spell)]]
+- [[Transformation (Spell)]]
+- [[Transformation of the Deeps (Spell)]]
+- [[Translocation Trick (Spell)]]
+- [[Transmogrify (Spell)]]
+- [[Transmute Coinage to Gem (Spell)]]
+- [[Transmute Metal to Wood (Spell)]]
+- [[Transmute Mud to Rock (Spell)]]
+- [[Transmute Potion to Poison (Spell)]]
+- [[Transmute Rock to Lava (Spell)]]
+- [[Transmute Rock to Mud (Spell)]]
+- [[Transmute Rock to Sickstone]]
+- [[Transmute Sand to Glass (Spell)]]
+- [[Transmute Sand to Stone (Spell)]]
+- [[Transmute Stone to Sand (Spell)]]
+- [[Transport via Plants (Spell)]]
+- [[Trap the Soul (Spell)]]
+- [[Traveler's Mount (Spell)]]
+- [[Treacherous Teleport (Spell)]]
+- [[Treacherous Weapon (Spell)]]
+- [[Treasure Disk (Spell)]]
+- [[Treasure Scent, Greater (Spell)]]
+- [[Treasure Stitching (Spell)]]
+- [[Tree Shape (Spell)]]
+- [[Tree Stride (Spell)]]
+- [[Tremor (Spell)]]
+- [[Tremorsense (Spell)]]
+- [[Triadspell (Spell)]]
+- [[Triggered Suggestion (Spell)]]
+- [[Trip Vine (Spell)]]
+- [[Triple Strike (Spell)]]
+- [[Tripping Hand (Spell)]]
+- [[Troll's Form (Spell)]]
+- [[Trollshape (Spell)]]
+- [[True Casting (Spell)]]
+- [[True Creation (Spell)]]
+- [[True Domination (Spell)]]
+- [[True Form (Spell)]]
+- [[True Light (Spell)]]
+- [[True Oneness (Spell)]]
+- [[True Resurrection (Spell)]]
+- [[True Seeing (Spell)]]
+- [[True Seeing, Mass (Spell)]]
+- [[True Skill (Spell)]]
+- [[True Strike (Spell)]]
+- [[True Telekinesis (Spell)]]
+- [[Trusted Bloodhound (Spell)]]
+- [[Truthtelling (Spell)]]
+- [[Tsunami (Spell)]]
+- [[Tunnel Swallow (Spell)]]
+- [[Turbidity (Spell)]]
+- [[Turn Anathema (Spell)]]
+- [[Twilight Haze (Spell)]]
+- [[Twilight Knife (Spell)]]
+- [[Twilight Luck (Spell)]]
+- [[Twin Form (Spell)]]
+- [[Two Minds (Spell)]]
+- [[Tyche's Touch (Spell)]]
+

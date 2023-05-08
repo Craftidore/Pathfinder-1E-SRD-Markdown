@@ -1,0 +1,34 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Aliases:
+  - "Superstitious"
+Category: "eMRD"
+Tags:
+  - "Category/eMRD"
+parent:
+  - "Barbarian Archetypes"
+up:
+  - "Barbarian Archetypes"
+prev:
+  - "Savage Barbarian (Archetype)"
+next:
+  - "Totem Warrior (Archetype)"
+RWtopicId: "Topic_18592"
+---
+# Superstitious (Archetype)
+## Overview
+Many barbarians distrust magic. While most just shy away from magic, others focus their rage on users of such foul arts. These barbarians are naturally distrusting, and develop keen senses to protect them from harm. A superstitious barbarian has the following class features.
+
+**Sixth Sense (Ex)**: At 3rd level, the superstitious barbarian gains a +1 bonus on initiative and a +1 insight bonus to AC during surprise rounds. This bonus increases by +1 for every three levels after 3rd. This ability replaces trap sense.
+
+**Keen Senses (Ex)**: At 7th level, the superstitious barbarian gains low-light vision (triple normal vision range in dim light if she already has low-light vision). At 10th level, she gains darkvision 60 feet (or adds 60 feet to the range of any darkvision already possessed). At 13th level, she gains scent. At 16th level, she gains blindsense 30 feet. At 19th level, she gains blindsight 30 feet. This ability replaces damage reduction.
+
+**Rage Powers**: The following rage powers complement the superstitious archetype: clear mind\*, disruptive, roused anger\*, spellbreaker, superstition\*, and witch hunter.
+
+**Source:** Advanced Player's Guide, pg. 79
+
+
+---
+## Tags
+#Sources/Advanced-Player-s-Guide #Rule-System/Pathfinder #Publisher/Paizo #Rule/Core #Rule/Archetype #Rule/Barbarian
+

@@ -1,0 +1,487 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Category: "Spells"
+Tags:
+  - "Category/Spells"
+parent:
+  - "Spell Descriptions (Spells)"
+up:
+  - "Spell Descriptions (Spells)"
+prev:
+  - "E"
+next:
+  - "G"
+down:
+  - "Favor of Yathaghera (Spell)"
+  - "Fimbulwinter (Spell)"
+  - "Flash-Freeze (Spell)"
+  - "Flesh to Ice (Spell)"
+  - "Float (Spell)"
+  - "Float, Greater (Spell)"
+  - "Fortify Cold Creatures (Spell)"
+  - "Freeze Armor (Spell)"
+  - "Freezing Glance (Spell)"
+  - "Frost Weapon (Spell)"
+  - "Frostbite (Spell)"
+  - "Frostburn (Spell)"
+  - "Frostburn, Lesser (Spell)"
+  - "Frostburn, Mass (Spell)"
+  - "Frostfell (Spell)"
+  - "Frostfell Slide (Spell)"
+  - "Feast of Ashes (Spell)"
+  - "Feather Step (Spell)"
+  - "Feather Step, Mass (Spell)"
+  - "Fester (Spell)"
+  - "Fester, Mass (Spell)"
+  - "Fiery Body (Spell)"
+  - "Fire Breath (Spell)"
+  - "Fire of Entanglement (Spell)"
+  - "Fire of Judgment (Spell)"
+  - "Fire of Vengeance (Spell)"
+  - "Fire Snake (Spell)"
+  - "Firebrand (Spell)"
+  - "Firefall (Spell)"
+  - "Flames of the Faithful (Spell)"
+  - "Fluid Form (Spell)"
+  - "Flare Burst (Spell)"
+  - "Fly, Mass (Spell)"
+  - "Foe to Friend (Spell)"
+  - "Follow Aura (Spell)"
+  - "Fool's Forbiddance (Spell)"
+  - "Forced Repentance (Spell)"
+  - "Frozen Note (Spell)"
+  - "Fire Fountain (Spell)"
+  - "Favorable Wind (Spell)"
+  - "Flowsight (Spell)"
+  - "Force Orb (Spell)"
+  - "Fetch I (Spell)"
+  - "Fetch II (Spell)"
+  - "Fetch III (Spell)"
+  - "Fetch IV (Spell)"
+  - "Fetch V (Spell)"
+  - "Fetch VI (Spell)"
+  - "Fire Breath, Lesser (Spell)"
+  - "Fairy Ring Retreat (Spell)"
+  - "Familiar Double (Spell)"
+  - "Flaming Sphere, Greater (Spell)"
+  - "Flexible Fury (Spell)"
+  - "Focused Scrutiny (Spell)"
+  - "Font of Spirit Magic (Spell)"
+  - "Formlock (Spell)"
+  - "Finding the Center (Spell)"
+  - "Feeblemind (Spell)"
+  - "Fleeting Fame (Spell)"
+  - "Fox's Cunning (Spell)"
+  - "Fear (Spell)"
+  - "Find the Path (Spell)"
+  - "Fox's Cunning, Mass (Spell)"
+  - "False Vision (Spell)"
+  - "Fearsome Grapple (Spell)"
+  - "Flaying Tendrils (Spell)"
+  - "Fortify Dragonmark (Spell)"
+  - "Feast of Champions (Spell)"
+  - "Friendly Fire (Spell)"
+  - "Fiendish Clarity (Spell)"
+  - "Flamebound Symbol (Spell)"
+  - "Flamebound Weapon (Spell)"
+  - "Fracturing Weapon (Spell)"
+  - "Faith Healing (Spell)"
+  - "False Gravity (Spell)"
+  - "Familiar Pocket (Spell)"
+  - "Fangs of the Vampire King (Spell)"
+  - "Fantastic Machine (Spell)"
+  - "Fantastic Machine, Greater (Spell)"
+  - "Favor of the Martyr (Spell)"
+  - "Favorable Sacrifice (Spell)"
+  - "Field of Ghouls (Spell)"
+  - "Field of Icy Razors (Spell)"
+  - "Fiendform (Spell)"
+  - "Fierce Pride of the Beastlands (Spell)"
+  - "Find the Gap (Spell)"
+  - "Find Temple (Spell)"
+  - "Fire Shield, Mass (Spell)"
+  - "Fire Shuriken (Spell)"
+  - "Fire Spiders (Spell)"
+  - "Fire Stride (Spell)"
+  - "Fire Wings (Spell)"
+  - "Firefont (Spell)"
+  - "Fireburst (Spell)"
+  - "Fireburst, Greater (Spell)"
+  - "Fireward (Spell)"
+  - "Fist of Stone (Spell)"
+  - "Flame Dagger (Spell)"
+  - "Flame of Faith (Spell)"
+  - "Flame Whips (Spell)"
+  - "Flashburst (Spell)"
+  - "Flensing (Spell)"
+  - "Fleshshiver (Spell)"
+  - "Flight of the Dragon (Spell)"
+  - "Floating Disk, Greater (Spell)"
+  - "Fly, Swift (Spell)"
+  - "Foebane (Spell)"
+  - "Fires of Purity (Spell)"
+  - "Force Chest (Spell)"
+  - "Force Claw (Spell)"
+  - "Force Ladder (Spell)"
+  - "Force Missiles (Spell)"
+  - "Forceward (Spell)"
+  - "Forcewave (Spell)"
+  - "Forestfold (Spell)"
+  - "Fortify Familiar (Spell)"
+  - "Fortunate Fate (Spell)"
+  - "Foundation of Stone (Spell)"
+  - "Freezing Ray (Spell)"
+  - "Freezing Fog, Greater (Spell)"
+  - "Frost Breath (Spell)"
+  - "Fugue (Spell)"
+  - "Fuse Arms (Spell)"
+  - "Friendly Face (Spell)"
+  - "Force Shapechange (Spell)"
+  - "Furnace Within (Spell)"
+  - "Flashflood (Spell)"
+  - "Flaywind Burst (Spell)"
+  - "Flesh to Salt (Spell)"
+  - "Flesh to Salt, Mass (Spell)"
+  - "Freedom of Breath (Spell)"
+  - "Fuse Sand (Spell)"
+  - "Fell the Greatest Foe (Spell)"
+  - "Fleshbound (Spell)"
+  - "Flexform (Spell)"
+  - "Fortify Metal or Stone (Spell)"
+  - "Fang Trap (Spell)"
+  - "Force Hammer (Spell)"
+  - "Fiery Tentacles (Spell)"
+  - "Fiery Furnace (Spell)"
+  - "Fiery Vision (Spell)"
+  - "Flying Carpet (Spell)"
+  - "Flurry of Arrows (Spell)"
+  - "Fell Curse (Spell)"
+  - "Faerinaal's Hymn (Spell)"
+  - "Freedom of Movement (Spell)"
+  - "Feather Fall (Spell)"
+  - "Fleeting Fortune (Spell)"
+  - "False Peacebond (Spell)"
+  - "Fiery Eyes (Spell)"
+  - "Fire Breath, Greater (Spell)"
+  - "Footsteps of the Divine (Spell)"
+  - "Forest Child (Spell)"
+  - "Forest Eyes (Spell)"
+  - "Forest Voice (Spell)"
+  - "False Lie (Spell)"
+  - "Familiar Refuge (Spell)"
+  - "Fever Dream (Spell)"
+  - "Finger of Agony (Spell)"
+  - "Fire and Brimstone (Spell)"
+  - "Form of the Threefold Beast (Spell)"
+  - "Fatal Flame (Spell)"
+  - "Ferocity of Sanguine Rage (Spell)"
+  - "Firestride Exhalation (Spell)"
+  - "Form of the Desert Hunter (Spell)"
+  - "Freedom (Spell)"
+  - "Fire Dance (Spell)"
+  - "False Gravity, Greater (Spell)"
+  - "Flank Shield, Greater (Spell)"
+  - "Force Bolt (Spell)"
+  - "Force Portal, Greater (Spell)"
+  - "Fly Like an Arrow (Spell)"
+  - "Feast on Fear (Spell)"
+  - "Fabricate (Spell)"
+  - "Faerie Fire (Spell)"
+  - "False Life (Spell)"
+  - "Finger of Death (Spell)"
+  - "Fire Shield (Spell)"
+  - "Fire Seeds (Spell)"
+  - "Fire Storm (Spell)"
+  - "Fire Trap (Spell)"
+  - "Flame Arrow (Spell)"
+  - "Flame Blade (Spell)"
+  - "Flame Strike (Spell)"
+  - "Flaming Sphere (Spell)"
+  - "Flare (Spell)"
+  - "Flesh to Stone (Spell)"
+  - "Floating Disk (Spell)"
+  - "Fog Cloud (Spell)"
+  - "Forbiddance (Spell)"
+  - "Forcecage (Spell)"
+  - "Forceful Hand (Spell)"
+  - "Foresight (Spell)"
+  - "Form of the Dragon I (Spell)"
+  - "Form of the Dragon II (Spell)"
+  - "Form of the Dragon III (Spell)"
+  - "Freezing Sphere (Spell)"
+  - "Forced Interrogation (Spell)"
+  - "Force Lash (Spell)"
+  - "Force Lash, Greater (Spell)"
+  - "Fey Storage (Spell)"
+  - "Fiendish Horde (Spell)"
+  - "Fires of Hell (Spell)"
+  - "Fist of the Elemental Lord (Spell)"
+  - "Freezing Claw (Spell)"
+  - "Fourfold Ostracism (Spell)"
+  - "False Sending (Spell)"
+  - "Fiendish Quickening (Spell)"
+  - "Flesh Armor (Spell)"
+  - "Flesh Ripper (Spell)"
+  - "Forbidden Speech (Spell)"
+  - "Fireball (Spell)"
+  - "Find Traps (Spell)"
+  - "Fleshcurdle (Spell)"
+  - "Forceful Strike (Spell)"
+  - "Forgetful Slumber (Spell)"
+  - "Fearsome Duplicate (Spell)"
+  - "Fire Trail (Spell)"
+  - "Firestream (Spell)"
+  - "Fury of the Sun (Spell)"
+  - "Flash Fire (Spell)"
+  - "Familial Geas (Spell)"
+  - "Fire in the Blood (Spell)"
+  - "Frequent Jaunt (Spell)"
+  - "Force Alignment Change (Spell)"
+  - "Fatigue (Spell)"
+  - "Fold Steel (Spell)"
+  - "Forced Incorporeality (Spell)"
+  - "Forced Manifestation (Spell)"
+  - "Fly (Spell)"
+  - "Focus Touchstone Energy (Spell)"
+  - "Field of Resistance (Spell)"
+  - "Friend to Foe (Spell)"
+RWtopicId: "Topic_15922"
+---
+# F
+## Overview
+---
+## Governed Content
+- [[Fabricate (Spell)]]
+- [[Faerie Fire (Spell)]]
+- [[Faerinaal's Hymn (Spell)]]
+- [[Fairy Ring Retreat (Spell)]]
+- [[Faith Healing (Spell)]]
+- [[False Gravity (Spell)]]
+- [[False Gravity, Greater (Spell)]]
+- [[False Lie (Spell)]]
+- [[False Life (Spell)]]
+- [[False Peacebond (Spell)]]
+- [[False Sending (Spell)]]
+- [[False Vision (Spell)]]
+- [[Familial Geas (Spell)]]
+- [[Familiar Double (Spell)]]
+- [[Familiar Pocket (Spell)]]
+- [[Familiar Refuge (Spell)]]
+- [[Fang Trap (Spell)]]
+- [[Fangs of the Vampire King (Spell)]]
+- [[Fantastic Machine (Spell)]]
+- [[Fantastic Machine, Greater (Spell)]]
+- [[Fatal Flame (Spell)]]
+- [[Fatigue (Spell)]]
+- [[Favor of the Martyr (Spell)]]
+- [[Favor of Yathaghera (Spell)]]
+- [[Favorable Sacrifice (Spell)]]
+- [[Favorable Wind (Spell)]]
+- [[Fear (Spell)]]
+- [[Fearsome Duplicate (Spell)]]
+- [[Fearsome Grapple (Spell)]]
+- [[Feast of Ashes (Spell)]]
+- [[Feast of Champions (Spell)]]
+- [[Feast on Fear (Spell)]]
+- [[Feather Fall (Spell)]]
+- [[Feather Step (Spell)]]
+- [[Feather Step, Mass (Spell)]]
+- [[Feeblemind (Spell)]]
+- [[Fell Curse (Spell)]]
+- [[Fell the Greatest Foe (Spell)]]
+- [[Ferocity of Sanguine Rage (Spell)]]
+- [[Fester (Spell)]]
+- [[Fester, Mass (Spell)]]
+- [[Fetch I (Spell)]]
+- [[Fetch II (Spell)]]
+- [[Fetch III (Spell)]]
+- [[Fetch IV (Spell)]]
+- [[Fetch V (Spell)]]
+- [[Fetch VI (Spell)]]
+- [[Fever Dream (Spell)]]
+- [[Fey Storage (Spell)]]
+- [[Field of Ghouls (Spell)]]
+- [[Field of Icy Razors (Spell)]]
+- [[Field of Resistance (Spell)]]
+- [[Fiendform (Spell)]]
+- [[Fiendish Clarity (Spell)]]
+- [[Fiendish Horde (Spell)]]
+- [[Fiendish Quickening (Spell)]]
+- [[Fierce Pride of the Beastlands (Spell)]]
+- [[Fiery Body (Spell)]]
+- [[Fiery Eyes (Spell)]]
+- [[Fiery Furnace (Spell)]]
+- [[Fiery Tentacles (Spell)]]
+- [[Fiery Vision (Spell)]]
+- [[Fimbulwinter (Spell)]]
+- [[Find Temple (Spell)]]
+- [[Find the Gap (Spell)]]
+- [[Find the Path (Spell)]]
+- [[Find Traps (Spell)]]
+- [[Finding the Center (Spell)]]
+- [[Finger of Agony (Spell)]]
+- [[Finger of Death (Spell)]]
+- [[Fire and Brimstone (Spell)]]
+- [[Fire Breath (Spell)]]
+- [[Fire Breath, Greater (Spell)]]
+- [[Fire Breath, Lesser (Spell)]]
+- [[Fire Dance (Spell)]]
+- [[Fire Fountain (Spell)]]
+- [[Fire in the Blood (Spell)]]
+- [[Fire of Entanglement (Spell)]]
+- [[Fire of Judgment (Spell)]]
+- [[Fire of Vengeance (Spell)]]
+- [[Fire Seeds (Spell)]]
+- [[Fire Shield (Spell)]]
+- [[Fire Shield, Mass (Spell)]]
+- [[Fire Shuriken (Spell)]]
+- [[Fire Snake (Spell)]]
+- [[Fire Spiders (Spell)]]
+- [[Fire Storm (Spell)]]
+- [[Fire Stride (Spell)]]
+- [[Fire Trail (Spell)]]
+- [[Fire Trap (Spell)]]
+- [[Fire Wings (Spell)]]
+- [[Fireball (Spell)]]
+- [[Firebrand (Spell)]]
+- [[Fireburst (Spell)]]
+- [[Fireburst, Greater (Spell)]]
+- [[Firefall (Spell)]]
+- [[Firefont (Spell)]]
+- [[Fires of Hell (Spell)]]
+- [[Fires of Purity (Spell)]]
+- [[Firestream (Spell)]]
+- [[Firestride Exhalation (Spell)]]
+- [[Fireward (Spell)]]
+- [[Fist of Stone (Spell)]]
+- [[Fist of the Elemental Lord (Spell)]]
+- [[Flame Arrow (Spell)]]
+- [[Flame Blade (Spell)]]
+- [[Flame Dagger (Spell)]]
+- [[Flame of Faith (Spell)]]
+- [[Flame Strike (Spell)]]
+- [[Flame Whips (Spell)]]
+- [[Flamebound Symbol (Spell)]]
+- [[Flamebound Weapon (Spell)]]
+- [[Flames of the Faithful (Spell)]]
+- [[Flaming Sphere (Spell)]]
+- [[Flaming Sphere, Greater (Spell)]]
+- [[Flank Shield, Greater (Spell)]]
+- [[Flare (Spell)]]
+- [[Flare Burst (Spell)]]
+- [[Flash Fire (Spell)]]
+- [[Flashburst (Spell)]]
+- [[Flashflood (Spell)]]
+- [[Flash-Freeze (Spell)]]
+- [[Flaying Tendrils (Spell)]]
+- [[Flaywind Burst (Spell)]]
+- [[Fleeting Fame (Spell)]]
+- [[Fleeting Fortune (Spell)]]
+- [[Flensing (Spell)]]
+- [[Flesh Armor (Spell)]]
+- [[Flesh Ripper (Spell)]]
+- [[Flesh to Ice (Spell)]]
+- [[Flesh to Salt (Spell)]]
+- [[Flesh to Salt, Mass (Spell)]]
+- [[Flesh to Stone (Spell)]]
+- [[Fleshbound (Spell)]]
+- [[Fleshcurdle (Spell)]]
+- [[Fleshshiver (Spell)]]
+- [[Flexform (Spell)]]
+- [[Flexible Fury (Spell)]]
+- [[Flight of the Dragon (Spell)]]
+- [[Float (Spell)]]
+- [[Float, Greater (Spell)]]
+- [[Floating Disk (Spell)]]
+- [[Floating Disk, Greater (Spell)]]
+- [[Flowsight (Spell)]]
+- [[Fluid Form (Spell)]]
+- [[Flurry of Arrows (Spell)]]
+- [[Fly (Spell)]]
+- [[Fly Like an Arrow (Spell)]]
+- [[Fly, Mass (Spell)]]
+- [[Fly, Swift (Spell)]]
+- [[Flying Carpet (Spell)]]
+- [[Focus Touchstone Energy (Spell)]]
+- [[Focused Scrutiny (Spell)]]
+- [[Foe to Friend (Spell)]]
+- [[Foebane (Spell)]]
+- [[Fog Cloud (Spell)]]
+- [[Fold Steel (Spell)]]
+- [[Follow Aura (Spell)]]
+- [[Font of Spirit Magic (Spell)]]
+- [[Fool's Forbiddance (Spell)]]
+- [[Footsteps of the Divine (Spell)]]
+- [[Forbiddance (Spell)]]
+- [[Forbidden Speech (Spell)]]
+- [[Force Alignment Change (Spell)]]
+- [[Force Bolt (Spell)]]
+- [[Force Chest (Spell)]]
+- [[Force Claw (Spell)]]
+- [[Force Hammer (Spell)]]
+- [[Force Ladder (Spell)]]
+- [[Force Lash (Spell)]]
+- [[Force Lash, Greater (Spell)]]
+- [[Force Missiles (Spell)]]
+- [[Force Orb (Spell)]]
+- [[Force Portal, Greater (Spell)]]
+- [[Force Shapechange (Spell)]]
+- [[Forcecage (Spell)]]
+- [[Forced Incorporeality (Spell)]]
+- [[Forced Interrogation (Spell)]]
+- [[Forced Manifestation (Spell)]]
+- [[Forced Repentance (Spell)]]
+- [[Forceful Hand (Spell)]]
+- [[Forceful Strike (Spell)]]
+- [[Forceward (Spell)]]
+- [[Forcewave (Spell)]]
+- [[Foresight (Spell)]]
+- [[Forest Child (Spell)]]
+- [[Forest Eyes (Spell)]]
+- [[Forest Voice (Spell)]]
+- [[Forestfold (Spell)]]
+- [[Forgetful Slumber (Spell)]]
+- [[Form of the Desert Hunter (Spell)]]
+- [[Form of the Dragon I (Spell)]]
+- [[Form of the Dragon II (Spell)]]
+- [[Form of the Dragon III (Spell)]]
+- [[Form of the Threefold Beast (Spell)]]
+- [[Formlock (Spell)]]
+- [[Fortify Cold Creatures (Spell)]]
+- [[Fortify Dragonmark (Spell)]]
+- [[Fortify Familiar (Spell)]]
+- [[Fortify Metal or Stone (Spell)]]
+- [[Fortunate Fate (Spell)]]
+- [[Foundation of Stone (Spell)]]
+- [[Fourfold Ostracism (Spell)]]
+- [[Fox's Cunning (Spell)]]
+- [[Fox's Cunning, Mass (Spell)]]
+- [[Fracturing Weapon (Spell)]]
+- [[Freedom (Spell)]]
+- [[Freedom of Breath (Spell)]]
+- [[Freedom of Movement (Spell)]]
+- [[Freeze Armor (Spell)]]
+- [[Freezing Claw (Spell)]]
+- [[Freezing Fog, Greater (Spell)]]
+- [[Freezing Glance (Spell)]]
+- [[Freezing Ray (Spell)]]
+- [[Freezing Sphere (Spell)]]
+- [[Frequent Jaunt (Spell)]]
+- [[Friend to Foe (Spell)]]
+- [[Friendly Face (Spell)]]
+- [[Friendly Fire (Spell)]]
+- [[Frost Breath (Spell)]]
+- [[Frost Weapon (Spell)]]
+- [[Frostbite (Spell)]]
+- [[Frostburn (Spell)]]
+- [[Frostburn, Lesser (Spell)]]
+- [[Frostburn, Mass (Spell)]]
+- [[Frostfell (Spell)]]
+- [[Frostfell Slide (Spell)]]
+- [[Frozen Note (Spell)]]
+- [[Fugue (Spell)]]
+- [[Furnace Within (Spell)]]
+- [[Fury of the Sun (Spell)]]
+- [[Fuse Arms (Spell)]]
+- [[Fuse Sand (Spell)]]
+

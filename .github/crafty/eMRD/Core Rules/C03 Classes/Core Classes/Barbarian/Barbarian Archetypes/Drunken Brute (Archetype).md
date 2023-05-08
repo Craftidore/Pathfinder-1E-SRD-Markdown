@@ -1,0 +1,33 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Aliases:
+  - "Drunken Brute"
+Category: "eMRD"
+Suffix: "Archetype"
+Tags:
+  - "Category/eMRD"
+parent:
+  - "Barbarian Archetypes"
+up:
+  - "Barbarian Archetypes"
+prev:
+  - "Brutal Pugilist (Archetype)"
+next:
+  - "Elemental Kin (Archetype)"
+RWtopicId: "Topic_18683"
+---
+# Drunken Brute (Archetype)
+## Overview
+Barbarians are known for their ability to consume potent drink, but drunken brutes turn drinking into a combat tactic, using the potent liquor to fuel their rage and grant them additional powers. A drunken brute has the following class feature.
+
+**Raging Drunk (Ex)**: While raging, the drunken brute can drink a potion, or a tankard of ale or similar quantity of alcohol, as a move action that does not provoke attacks of opportunity. A potion has its normal effect, while an alcoholic drink allows the barbarian to maintain her rage that round without expending a round of rage for the day (instead of the alcohol’s normal effects). For each alcoholic drink consumed while raging, the barbarian is nauseated for 1 round when her rage expires, in addition the normal fatigue that follows a rage. Tireless rage does not negate this nauseated condition but the internal fortitude rage power does. This ability replaces fast movement.
+
+**Rage Powers**: The following rage powers complement the drunken brute archetype: boasting taunt, good for what ails you, internal fortitude\*, liquid courage, moment of clarity\*, roaring drunk, and staggering drunk.
+
+**Source:** Advanced Player's Guide, pg. 78
+
+
+---
+## Tags
+#Sources/Advanced-Player-s-Guide #Rule-System/Pathfinder #Publisher/Paizo #Rule/Core #Rule/Archetype #Rule/Barbarian
+

@@ -1,0 +1,54 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Aliases:
+  - "Transport via Plants"
+Category: "Spells"
+Tags:
+  - "Category/Spells"
+parent:
+  - "T"
+up:
+  - "T"
+prev:
+  - "Transmute Rock to Mud (Spell)"
+next:
+  - "Trap the Soul (Spell)"
+RWtopicId: "Topic_16482"
+---
+# Transport via Plants (Spell)
+## Overview
+[[Conjuration Spells|Conjuration]] ([[Teleportation Spells|teleportation]])
+
+**Level:** [[6th Level Druid Spells|Druid 6]]
+
+**BoXM:** [[BoXM 12th-Level Druid Spells List|Druid 12]]
+
+**Casting Time:** 1 standard action
+
+**Components:** V, S
+
+**Range:** Unlimited
+
+**Target:** You and touched objects or other touched willing creatures
+
+**Duration:** 1 round
+
+**Saving Throw:** None
+
+**Spell Resistance:** No
+
+**Source:** PF Core Rulebook, pg. 361
+
+You can enter any normal plant (equal to your size or larger) and pass any distance to a plant of the same kind in a single round, regardless of the distance separating the two. The plants must be alive. The destination plant need not be familiar to you. If you are uncertain of the location of a particular kind of destination plant, you need merely designate direction and distance and the *transport via plants* spell moves you as close as possible to the desired location. If a particular destination plant is desired but the plant is not living, the spell fails and you are ejected from the entry plant.
+
+You can bring along objects as long as their weight doesn’t exceed your maximum load. You may also bring one additional willing Medium or smaller creature (carrying gear or objects up to its maximum load) or its equivalent per three caster levels. Use the following equivalents to determine the maximum number of larger creatures you can bring along: a Large creature counts as two Medium creatures, a Huge creature counts as four Medium creatures, and so forth. All creatures to be transported by the spell must be in physical contact with one another, and at least one of those creatures must be in contact with you.
+
+You can’t use this spell to travel through plant creatures.
+
+The destruction of an occupied plant slays you and any creatures you have brought along, and ejects the bodies and all carried objects from it.
+
+
+---
+## Tags
+#Spell-Resistance/No #Rule-System/Pathfinder #Spell-School/Conjuration #Spell-Level/Druid-6 #Saving-Throws/None #Spell-Subschool/Teleportation #Spell-Range/Unlimited #Rule/OGL #Sources/PF-Core-Rulebook #Rule/Spell #Rule/Core #Publisher/Paizo #Spell-Rarity/Common
+
