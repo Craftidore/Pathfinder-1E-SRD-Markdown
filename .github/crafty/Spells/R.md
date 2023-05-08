@@ -1,0 +1,467 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Category: "Spells"
+Tags:
+  - "Category/Spells"
+parent:
+  - "Spell Descriptions (Spells)"
+up:
+  - "Spell Descriptions (Spells)"
+prev:
+  - "Q"
+next:
+  - "S"
+down:
+  - "Refine Improvised Weapon (Spell)"
+  - "Repair Undead (Spell)"
+  - "Repair Undead, Mass (Spell)"
+  - "River Whip (Spell)"
+  - "Rally Point (Spell)"
+  - "Rampart (Spell)"
+  - "Rebuke (Spell)"
+  - "Rejuvenate Eidolon, Lesser (Spell)"
+  - "Rejuvenate Eidolon (Spell)"
+  - "Rejuvenate Eidolon, Greater (Spell)"
+  - "Residual Tracking (Spell)"
+  - "Resounding Blow (Spell)"
+  - "Rest Eternal (Spell)"
+  - "Resurgent Transformation (Spell)"
+  - "Retribution (Spell)"
+  - "Reviving Finale (Spell)"
+  - "Righteous Vigor (Spell)"
+  - "River of Wind (Spell)"
+  - "Rapture of the Deep (Spell)"
+  - "Roar of the Waves (Spell)"
+  - "Revitalize Legacy, Least (Spell)"
+  - "Revitalize Legacy, Lesser (Spell)"
+  - "Revitalize Legacy, Greater (Spell)"
+  - "Renovation (Spell)"
+  - "Resist Dweomer (Spell)"
+  - "Resistance (Spell)"
+  - "Remove Fear (Spell)"
+  - "Rage (Spell)"
+  - "Remove Curse (Spell)"
+  - "Rainbow Pattern (Spell)"
+  - "Repel Vermin (Spell)"
+  - "Reincarnate (Spell)"
+  - "Revivify (Spell)"
+  - "Remove Blindness_Deafness (Spell)"
+  - "Regenerate (Spell)"
+  - "Ray of Retaliation"
+  - "Remove Venom (Spell)"
+  - "Resistance Item (Spell)"
+  - "Return to Nature (Spell)"
+  - "Ring of Lava (Spell)"
+  - "Righteous Exile (Spell)"
+  - "Rusting Fog (Spell)"
+  - "Reproval (Spell)"
+  - "Reproval, Final (Spell)"
+  - "Reproval, Greater (Spell)"
+  - "Rebuking Breath (Spell)"
+  - "Recitation (Spell)"
+  - "Red Tide (Spell)"
+  - "Reduce Person, Greater (Spell)"
+  - "Reflective Disguise (Spell)"
+  - "Reflective Disguise, Mass (Spell)"
+  - "Refusal (Spell)"
+  - "Regal Procession (Spell)"
+  - "Rejection (Spell)"
+  - "Rejuvenation Cocoon (Spell)"
+  - "Rejuvenative Corpse (Spell)"
+  - "Remove Scent (Spell)"
+  - "Reconstruct (Spell)"
+  - "Renewal Pact (Spell)"
+  - "Repair Light Damage (Spell)"
+  - "Repair Serious Damage (Spell)"
+  - "Repair Moderate Damage (Spell)"
+  - "Repair Minor Damage (Spell)"
+  - "Repair Critical Damage (Spell)"
+  - "Replicate Casting (Spell)"
+  - "Resist Energy, Mass (Spell)"
+  - "Resist Planar Alignment (Spell)"
+  - "Resistance, Greater (Spell)"
+  - "Resistance, Superior (Spell)"
+  - "Resonating Bolt (Spell)"
+  - "Restoration, Mass (Spell)"
+  - "Resurgence (Spell)"
+  - "Resurgence, Mass (Spell)"
+  - "Reveille (Spell)"
+  - "Revenance (Spell)"
+  - "Reverse Arrows (Spell)"
+  - "Revive Outsider (Spell)"
+  - "Revive Undead (Spell)"
+  - "Rhino's Rush (Spell)"
+  - "Righteous Aura (Spell)"
+  - "Righteous Fury (Spell)"
+  - "Righteous Wrath of the Faithful (Spell)"
+  - "Ruby Ray of Reversal (Spell)"
+  - "Ruin Delver's Fortune (Spell)"
+  - "Rushing Waters (Spell)"
+  - "Rust Ray (Spell)"
+  - "Radiant Assault (Spell)"
+  - "Raging Flame (Spell)"
+  - "Rainbow Beam (Spell)"
+  - "Rainbow Blast (Spell)"
+  - "Raise from the Deep (Spell)"
+  - "Ram's Might (Spell)"
+  - "Rapid Burrowing (Spell)"
+  - "Ray of Clumsiness (Spell)"
+  - "Ray of Deanimation (Spell)"
+  - "Ray Deflection (Spell)"
+  - "Ray of Dizziness (Spell)"
+  - "Ray of Entropy (Spell)"
+  - "Ray of Flame (Spell)"
+  - "Ray of Ice (Spell)"
+  - "Ray of Light (Spell)"
+  - "Ray of Sickness (Spell)"
+  - "Ray of Stupidity (Spell)"
+  - "Ray of Weakness (Spell)"
+  - "Razorfangs (Spell)"
+  - "Reality Maelstrom (Spell)"
+  - "Reaving Dispel (Spell)"
+  - "Red Hand of the Killer (Spell)"
+  - "Resilient Reservoir (Spell)"
+  - "Radiance (Spell)"
+  - "Ray of the Python (Spell)"
+  - "Regroup (Spell)"
+  - "Renewed Vigor (Spell)"
+  - "Righteous Burst (Spell)"
+  - "Rouse (Spell)"
+  - "Rooftop Strider (Spell)"
+  - "Reachwalker's Wariness (Spell)"
+  - "Repair Light Damage, Mass (Spell)"
+  - "Repair Moderate Damage, Mass (Spell)"
+  - "Ride of the Valenar (Spell)"
+  - "Raptor's Sight (Spell)"
+  - "Raptor Cloud (Spell)"
+  - "Razorscales (Spell)"
+  - "Redirect Spell (Spell)"
+  - "Rock Catch (Spell)"
+  - "Rockburst (Spell)"
+  - "Recharge Innate Magic (Spell)"
+  - "Recharge Innate Magic, Greater (Spell)"
+  - "Renew the Land (Spell)"
+  - "Return to the Sea, Greater (Spell)"
+  - "Revivify, Greater (Spell)"
+  - "Rogue's Stab, Greater (Spell)"
+  - "Radiant Burst (Spell)"
+  - "Ray of Frost (Spell)"
+  - "Read Magic (Spell)"
+  - "Rapture of Rupture (Spell)"
+  - "Reality Blind (Spell)"
+  - "Red Fester (Spell)"
+  - "Resonating Resistance (Spell)"
+  - "Rotting Curse of Urfestra (Spell)"
+  - "Ravage (Spell)"
+  - "Remorseless Charm (Spell)"
+  - "Rend Shadow Weave (Spell)"
+  - "Runic Marker (Spell)"
+  - "Rain of Needles (Spell)"
+  - "Reanimation (Spell)"
+  - "Ring of Blades (Spell)"
+  - "Ravenous Darkness (Spell)"
+  - "Rejuvenating Light (Spell)"
+  - "Rain of Spines (Spell)"
+  - "Reaving Aura (Spell)"
+  - "Rebirth of Iron (Spell)"
+  - "Repelling Shield (Spell)"
+  - "Resinous Tar (Spell)"
+  - "Resonating Agony (Spell)"
+  - "Resounding Thunder (Spell)"
+  - "Retributive Enervation (Spell)"
+  - "Retributive Image (Spell)"
+  - "Rusted Blade (Spell)"
+  - "Rot of Ages (Spell)"
+  - "Rankletaste (Spell)"
+  - "Ripcurrent (Spell)"
+  - "Raise Volcano (Spell)"
+  - "Radiant Fog (Spell)"
+  - "Radiant Shield (Spell)"
+  - "Rain of Black Tulips (Spell)"
+  - "Rain of Embers (Spell)"
+  - "Rain of Roses (Spell)"
+  - "Ray of Hope (Spell)"
+  - "Refreshment (Spell)"
+  - "Remove Addiction (Spell)"
+  - "Remove Fatigue (Spell)"
+  - "Remove Nausea (Spell)"
+  - "Restore Soul's Treasure (Spell)"
+  - "Righteous Glare (Spell)"
+  - "Righteous Smite (Spell)"
+  - "Retributive Strike (Spell)"
+  - "Reduce Animal (Spell)"
+  - "Ray of Enfeeblement (Spell)"
+  - "Reduce Person (Spell)"
+  - "Ray of Exhaustion (Spell)"
+  - "Reduce Person, Mass (Spell)"
+  - "Refuge (Spell)"
+  - "Remove Disease (Spell)"
+  - "Remove Paralysis (Spell)"
+  - "Repel Metal or Stone (Spell)"
+  - "Repel Wood (Spell)"
+  - "Repulsion (Spell)"
+  - "Resilient Sphere (Spell)"
+  - "Resist Energy (Spell)"
+  - "Restoration (Spell)"
+  - "Restoration, Lesser (Spell)"
+  - "Resurrection (Spell)"
+  - "Reverse Gravity (Spell)"
+  - "Rope Trick (Spell)"
+  - "Rusting Grasp (Spell)"
+  - "Righteous Might (Spell)"
+  - "Restoration, Greater (Spell)"
+  - "Reciprocal Gyre (Spell)"
+  - "Redemption From Evil Power (Spell)"
+  - "Resist Touch (Spell)"
+  - "Return and Avenge (Spell)"
+  - "Revivification (Spell)"
+  - "Roc's Form (Spell)"
+  - "Rogue's Stab (Spell)"
+  - "Rain of Arrows (Spell)"
+  - "Recharge Innate Magic, Lesser (Spell)"
+  - "Resilent Reservoir (Spell)"
+  - "Reactive Perception (Spell)"
+  - "Raging Rubble (Spell)"
+  - "Raise Ghost (Spell)"
+  - "Repel Ectoplasm (Spell)"
+  - "Resounding Voice (Spell)"
+  - "Resist Taint (Spell)"
+  - "Restful Slumber (Spell)"
+  - "Rigor Mortis (Spell)"
+  - "Ray of Resurgence"
+  - "Reinforce Construct (Spell)"
+  - "Redefine the Tools of War (Spell)"
+  - "Rend Essentia (Spell)"
+  - "Raise Ice Forest (Spell)"
+  - "Raise Dead (Spell)"
+  - "Restful Sleep (Spell)"
+RWtopicId: "Topic_15951"
+---
+# R
+## Overview
+---
+## Governed Content
+- [[Radiance (Spell)]]
+- [[Radiant Assault (Spell)]]
+- [[Radiant Burst (Spell)]]
+- [[Radiant Fog (Spell)]]
+- [[Radiant Shield (Spell)]]
+- [[Rage (Spell)]]
+- [[Raging Flame (Spell)]]
+- [[Raging Rubble (Spell)]]
+- [[Rain of Arrows (Spell)]]
+- [[Rain of Black Tulips (Spell)]]
+- [[Rain of Embers (Spell)]]
+- [[Rain of Needles (Spell)]]
+- [[Rain of Roses (Spell)]]
+- [[Rain of Spines (Spell)]]
+- [[Rainbow Beam (Spell)]]
+- [[Rainbow Blast (Spell)]]
+- [[Rainbow Pattern (Spell)]]
+- [[Raise Dead (Spell)]]
+- [[Raise from the Deep (Spell)]]
+- [[Raise Ghost (Spell)]]
+- [[Raise Ice Forest (Spell)]]
+- [[Raise Volcano (Spell)]]
+- [[Rally Point (Spell)]]
+- [[Rampart (Spell)]]
+- [[Ram's Might (Spell)]]
+- [[Rankletaste (Spell)]]
+- [[Rapid Burrowing (Spell)]]
+- [[Raptor Cloud (Spell)]]
+- [[Raptor's Sight (Spell)]]
+- [[Rapture of Rupture (Spell)]]
+- [[Rapture of the Deep (Spell)]]
+- [[Ravage (Spell)]]
+- [[Ravenous Darkness (Spell)]]
+- [[Ray Deflection (Spell)]]
+- [[Ray of Clumsiness (Spell)]]
+- [[Ray of Deanimation (Spell)]]
+- [[Ray of Dizziness (Spell)]]
+- [[Ray of Enfeeblement (Spell)]]
+- [[Ray of Entropy (Spell)]]
+- [[Ray of Exhaustion (Spell)]]
+- [[Ray of Flame (Spell)]]
+- [[Ray of Frost (Spell)]]
+- [[Ray of Hope (Spell)]]
+- [[Ray of Ice (Spell)]]
+- [[Ray of Light (Spell)]]
+- [[Ray of Resurgence]]
+- [[Ray of Retaliation]]
+- [[Ray of Sickness (Spell)]]
+- [[Ray of Stupidity (Spell)]]
+- [[Ray of the Python (Spell)]]
+- [[Ray of Weakness (Spell)]]
+- [[Razorfangs (Spell)]]
+- [[Razorscales (Spell)]]
+- [[Reachwalker's Wariness (Spell)]]
+- [[Reactive Perception (Spell)]]
+- [[Read Magic (Spell)]]
+- [[Reality Blind (Spell)]]
+- [[Reality Maelstrom (Spell)]]
+- [[Reanimation (Spell)]]
+- [[Reaving Aura (Spell)]]
+- [[Reaving Dispel (Spell)]]
+- [[Rebirth of Iron (Spell)]]
+- [[Rebuke (Spell)]]
+- [[Rebuking Breath (Spell)]]
+- [[Recharge Innate Magic (Spell)]]
+- [[Recharge Innate Magic, Greater (Spell)]]
+- [[Recharge Innate Magic, Lesser (Spell)]]
+- [[Reciprocal Gyre (Spell)]]
+- [[Recitation (Spell)]]
+- [[Reconstruct (Spell)]]
+- [[Red Fester (Spell)]]
+- [[Red Hand of the Killer (Spell)]]
+- [[Red Tide (Spell)]]
+- [[Redefine the Tools of War (Spell)]]
+- [[Redemption From Evil Power (Spell)]]
+- [[Redirect Spell (Spell)]]
+- [[Reduce Animal (Spell)]]
+- [[Reduce Person (Spell)]]
+- [[Reduce Person, Greater (Spell)]]
+- [[Reduce Person, Mass (Spell)]]
+- [[Refine Improvised Weapon (Spell)]]
+- [[Reflective Disguise (Spell)]]
+- [[Reflective Disguise, Mass (Spell)]]
+- [[Refreshment (Spell)]]
+- [[Refuge (Spell)]]
+- [[Refusal (Spell)]]
+- [[Regal Procession (Spell)]]
+- [[Regenerate (Spell)]]
+- [[Regroup (Spell)]]
+- [[Reincarnate (Spell)]]
+- [[Reinforce Construct (Spell)]]
+- [[Rejection (Spell)]]
+- [[Rejuvenate Eidolon (Spell)]]
+- [[Rejuvenate Eidolon, Greater (Spell)]]
+- [[Rejuvenate Eidolon, Lesser (Spell)]]
+- [[Rejuvenating Light (Spell)]]
+- [[Rejuvenation Cocoon (Spell)]]
+- [[Rejuvenative Corpse (Spell)]]
+- [[Remorseless Charm (Spell)]]
+- [[Remove Addiction (Spell)]]
+- [[Remove Blindness_Deafness (Spell)|Remove Blindness/Deafness (Spell)]]
+- [[Remove Curse (Spell)]]
+- [[Remove Disease (Spell)]]
+- [[Remove Fatigue (Spell)]]
+- [[Remove Fear (Spell)]]
+- [[Remove Nausea (Spell)]]
+- [[Remove Paralysis (Spell)]]
+- [[Remove Scent (Spell)]]
+- [[Remove Venom (Spell)]]
+- [[Rend Essentia (Spell)]]
+- [[Rend Shadow Weave (Spell)]]
+- [[Renew the Land (Spell)]]
+- [[Renewal Pact (Spell)]]
+- [[Renewed Vigor (Spell)]]
+- [[Renovation (Spell)]]
+- [[Repair Critical Damage (Spell)]]
+- [[Repair Light Damage (Spell)]]
+- [[Repair Light Damage, Mass (Spell)]]
+- [[Repair Minor Damage (Spell)]]
+- [[Repair Moderate Damage (Spell)]]
+- [[Repair Moderate Damage, Mass (Spell)]]
+- [[Repair Serious Damage (Spell)]]
+- [[Repair Undead (Spell)]]
+- [[Repair Undead, Mass (Spell)]]
+- [[Repel Ectoplasm (Spell)]]
+- [[Repel Metal or Stone (Spell)]]
+- [[Repel Vermin (Spell)]]
+- [[Repel Wood (Spell)]]
+- [[Repelling Shield (Spell)]]
+- [[Replicate Casting (Spell)]]
+- [[Reproval (Spell)]]
+- [[Reproval, Final (Spell)]]
+- [[Reproval, Greater (Spell)]]
+- [[Repulsion (Spell)]]
+- [[Residual Tracking (Spell)]]
+- [[Resilent Reservoir (Spell)]]
+- [[Resilient Reservoir (Spell)]]
+- [[Resilient Sphere (Spell)]]
+- [[Resinous Tar (Spell)]]
+- [[Resist Dweomer (Spell)]]
+- [[Resist Energy (Spell)]]
+- [[Resist Energy, Mass (Spell)]]
+- [[Resist Planar Alignment (Spell)]]
+- [[Resist Taint (Spell)]]
+- [[Resist Touch (Spell)]]
+- [[Resistance (Spell)]]
+- [[Resistance Item (Spell)]]
+- [[Resistance, Greater (Spell)]]
+- [[Resistance, Superior (Spell)]]
+- [[Resonating Agony (Spell)]]
+- [[Resonating Bolt (Spell)]]
+- [[Resonating Resistance (Spell)]]
+- [[Resounding Blow (Spell)]]
+- [[Resounding Thunder (Spell)]]
+- [[Resounding Voice (Spell)]]
+- [[Rest Eternal (Spell)]]
+- [[Restful Sleep (Spell)]]
+- [[Restful Slumber (Spell)]]
+- [[Restoration (Spell)]]
+- [[Restoration, Greater (Spell)]]
+- [[Restoration, Lesser (Spell)]]
+- [[Restoration, Mass (Spell)]]
+- [[Restore Soul's Treasure (Spell)]]
+- [[Resurgence (Spell)]]
+- [[Resurgence, Mass (Spell)]]
+- [[Resurgent Transformation (Spell)]]
+- [[Resurrection (Spell)]]
+- [[Retribution (Spell)]]
+- [[Retributive Enervation (Spell)]]
+- [[Retributive Image (Spell)]]
+- [[Retributive Strike (Spell)]]
+- [[Return and Avenge (Spell)]]
+- [[Return to Nature (Spell)]]
+- [[Return to the Sea, Greater (Spell)]]
+- [[Reveille (Spell)]]
+- [[Revenance (Spell)]]
+- [[Reverse Arrows (Spell)]]
+- [[Reverse Gravity (Spell)]]
+- [[Revitalize Legacy, Greater (Spell)]]
+- [[Revitalize Legacy, Least (Spell)]]
+- [[Revitalize Legacy, Lesser (Spell)]]
+- [[Revive Outsider (Spell)]]
+- [[Revive Undead (Spell)]]
+- [[Revivification (Spell)]]
+- [[Revivify (Spell)]]
+- [[Revivify, Greater (Spell)]]
+- [[Reviving Finale (Spell)]]
+- [[Rhino's Rush (Spell)]]
+- [[Ride of the Valenar (Spell)]]
+- [[Righteous Aura (Spell)]]
+- [[Righteous Burst (Spell)]]
+- [[Righteous Exile (Spell)]]
+- [[Righteous Fury (Spell)]]
+- [[Righteous Glare (Spell)]]
+- [[Righteous Might (Spell)]]
+- [[Righteous Smite (Spell)]]
+- [[Righteous Vigor (Spell)]]
+- [[Righteous Wrath of the Faithful (Spell)]]
+- [[Rigor Mortis (Spell)]]
+- [[Ring of Blades (Spell)]]
+- [[Ring of Lava (Spell)]]
+- [[Ripcurrent (Spell)]]
+- [[River of Wind (Spell)]]
+- [[River Whip (Spell)]]
+- [[Roar of the Waves (Spell)]]
+- [[Rock Catch (Spell)]]
+- [[Rockburst (Spell)]]
+- [[Roc's Form (Spell)]]
+- [[Rogue's Stab (Spell)]]
+- [[Rogue's Stab, Greater (Spell)]]
+- [[Rooftop Strider (Spell)]]
+- [[Rope Trick (Spell)]]
+- [[Rot of Ages (Spell)]]
+- [[Rotting Curse of Urfestra (Spell)]]
+- [[Rouse (Spell)]]
+- [[Ruby Ray of Reversal (Spell)]]
+- [[Ruin Delver's Fortune (Spell)]]
+- [[Runic Marker (Spell)]]
+- [[Rushing Waters (Spell)]]
+- [[Rust Ray (Spell)]]
+- [[Rusted Blade (Spell)]]
+- [[Rusting Fog (Spell)]]
+- [[Rusting Grasp (Spell)]]
+

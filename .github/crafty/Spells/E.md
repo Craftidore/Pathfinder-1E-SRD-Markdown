@@ -1,0 +1,391 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Category: "Spells"
+Tags:
+  - "Category/Spells"
+parent:
+  - "Spell Descriptions (Spells)"
+up:
+  - "Spell Descriptions (Spells)"
+prev:
+  - "D"
+next:
+  - "F"
+down:
+  - "Ease of Breath (Spell)"
+  - "Entomb (Spell)"
+  - "Evergreen (Spell)"
+  - "Energy Hack (Spell)"
+  - "Eagle Eye (Spell)"
+  - "Elemental Aura (Spell)"
+  - "Elemental Speech (Spell)"
+  - "Elemental Touch (Spell)"
+  - "Elude Time (Spell)"
+  - "Enemy Hammer (Spell)"
+  - "Enter Image (Spell)"
+  - "Euphoric Tranquility (Spell)"
+  - "Evolution Surge, Lesser (Spell)"
+  - "Evolution Surge (Spell)"
+  - "Evolution Surge, Greater (Spell)"
+  - "Expeditious Excavation (Spell)"
+  - "Expend (Spell)"
+  - "Eyes of the Void (Spell)"
+  - "Enhance Performance (Spell)"
+  - "Erase (Spell)"
+  - "Expeditious Retreat (Spell)"
+  - "Eagle's Splendor (Spell)"
+  - "Enthrall (Spell)"
+  - "Eagle's Splendor, Mass (Spell)"
+  - "Eyebite (Spell)"
+  - "Extend Tentacles (Spell)"
+  - "Entangling Dragonmark (Spell)"
+  - "Engulfing Terror (Spell)"
+  - "Energy Alteration (Spell)"
+  - "Enhancement Alteration (Spell)"
+  - "Embrace of Endless Day (Spell)"
+  - "Embrace the Dark Chaos (Spell)"
+  - "Exorcism, Lesser (Spell)"
+  - "Extract Gift (Spell)"
+  - "Explosive Pinecone (Spell)"
+  - "Ether Blast (Spell)"
+  - "Earth Lock (Spell)"
+  - "Earth Reaver (Spell)"
+  - "Earthbind (Spell)"
+  - "Earthen Grace (Spell)"
+  - "Earthen Grasp (Spell)"
+  - "Earthfast (Spell)"
+  - "Easy Climb (Spell)"
+  - "Easy Trail (Spell)"
+  - "Echo Skull (Spell)"
+  - "Ectoplasmic Armor (Spell)"
+  - "Ectoplasmic Feedback (Spell)"
+  - "Electric Jolt (Spell)"
+  - "Electric Loop (Spell)"
+  - "Elemental Corpus (Spell)"
+  - "Embrace the Wild (Spell)"
+  - "Emerald Flame Fist (Spell)"
+  - "Energized Shield, Lesser (Spell)"
+  - "Energized Shield (Spell)"
+  - "Energy Ebb (Spell)"
+  - "Energy Immunity (Spell)"
+  - "Energy Spheres (Spell)"
+  - "Energy Transformation Field (Spell)"
+  - "Energy Vortex (Spell)"
+  - "Enervating Breath (Spell)"
+  - "Enhance Familiar (Spell)"
+  - "Enhance Wild Shape (Spell)"
+  - "Enlarge Person, Greater (Spell)"
+  - "Enrage Animal (Spell)"
+  - "Entangling Staff (Spell)"
+  - "Entice Gift (Spell)"
+  - "Enveloping Cocoon (Spell)"
+  - "Eradicate Earth (Spell)"
+  - "Essence of the Raptor (Spell)"
+  - "Ethereal Breath (Spell)"
+  - "Ethereal Chamber (Spell)"
+  - "Ethereal Mount (Spell)"
+  - "Evil Glare (Spell)"
+  - "Exacting Shot (Spell)"
+  - "Excavate (Spell)"
+  - "Expeditious Retreat, Swift (Spell)"
+  - "Explosive Cascade (Spell)"
+  - "Extract Water Elemental (Spell)"
+  - "Eye of the Hurricane (Spell)"
+  - "Eye of Power (Spell)"
+  - "Eyes of the King (Spell)"
+  - "Enhanced Shifting (Spell)"
+  - "Extend Shifting (Spell)"
+  - "Earth Hammer (Spell)"
+  - "Eye of Stone (Spell)"
+  - "Essence of the Dragon (Spell)"
+  - "Enduring Flight (Spell)"
+  - "Erupt (Spell)"
+  - "Entropic Shield, Mass (Spell)"
+  - "Ease Pain (Spell)"
+  - "Eladrin Form (Spell)"
+  - "Elation (Spell)"
+  - "Emerald Burst (Spell)"
+  - "Empyreal Ecstasy (Spell)"
+  - "End to Strife (Spell)"
+  - "Energetic Healing (Spell)"
+  - "Energize Potion (Spell)"
+  - "Estanna's Stew (Spell)"
+  - "Exalted Fury (Spell)"
+  - "Eyes of the Avoral (Spell)"
+  - "Entropic Shield (Spell)"
+  - "Elemental Body I (Spell)"
+  - "Elemental Body II (Spell)"
+  - "Earthbolt (Spell)"
+  - "Elemental Burst (Spell)"
+  - "Elemental Ward (Spell)"
+  - "Entangling Scarf (Spell)"
+  - "Execration (Spell)"
+  - "Elemental Eye (Spell)"
+  - "Endless Slumber (Spell)"
+  - "Enduring Scrutiny (Spell)"
+  - "Energy Absorption, Greater (Spell)"
+  - "Escalating Enfeeblement (Spell)"
+  - "Enlarge Weapon (Spell)"
+  - "Evacuation Rune (Spell)"
+  - "Energized Blood (Spell)"
+  - "Eyes of the Oracle (Spell)"
+  - "Earthen Shield (Spell)"
+  - "Elemental Dart (Spell)"
+  - "Electrical Storm (Spell)"
+  - "Expeditious Excavation, Greater (Spell)"
+  - "Earthquake (Spell)"
+  - "Eagle's Grandeur (Spell)"
+  - "Embed Ioun Stone (Spell)"
+  - "Extend Arcana, Greater (Spell)"
+  - "Eyes of the Avoral, Greater (Spell)"
+  - "Exalted Raiment (Spell)"
+  - "Enchantment Foil (Spell)"
+  - "Elemental Body III (Spell)"
+  - "Elemental Body IV (Spell)"
+  - "Elemental Swarm (Spell)"
+  - "Endure Elements (Spell)"
+  - "Energy Drain (Spell)"
+  - "Enervation (Spell)"
+  - "Enlarge Person (Spell)"
+  - "Enlarge Person, Mass (Spell)"
+  - "Entangle (Spell)"
+  - "Ethereal Jaunt (Spell)"
+  - "Etherealness (Spell)"
+  - "Explosive Runes (Spell)"
+  - "Eagle's Form (Spell)"
+  - "Escape Death (Spell)"
+  - "Ectoplasmic Enhancement (Spell)"
+  - "Eternity of Torture (Spell)"
+  - "Evil Eye (Spell)"
+  - "Evil Weather (Spell)"
+  - "Extract Drug (Spell)"
+  - "Eye of the Beholder (Spell)"
+  - "Eyes of the Zombie (Spell)"
+  - "Eaglesoul (Spell)"
+  - "Eldritch Conduit (Spell)"
+  - "Eldritch Conduit, Greater (Spell)"
+  - "Earth Glide (Spell)"
+  - "Escaping Ward (Spell)"
+  - "Escaping Ward, Greater (Spell)"
+  - "Enemy's Heart (Spell)"
+  - "Early Twilight (Spell)"
+  - "Ebon Ray of Doom (Spell)"
+  - "Emerald Energy Shield (Spell)"
+  - "Elemental Prod (Spell)"
+  - "Expose the Dead (Spell)"
+  - "Essentia Lock (Spell)"
+  - "Earthbind, Mass (Spell)"
+  - "Enemy Insight (Spell)"
+  - "Euphoric Cloud (Spell)"
+  - "Extreme Flexibility (Spell)"
+  - "Ectoplasmic Decay (Spell)"
+  - "Ectoplasmic Web (Spell)"
+  - "Ethereal Alarm (Spell)"
+  - "Emergency Force Sphere (Spell)"
+  - "Elf Lord's Battle Armor (Spell)"
+  - "Effulgent Epuration (Spell)"
+  - "Enchantment Sight (Spell)"
+  - "Ebon Eyes (Spell)"
+  - "Eon of Sleep (Spell)"
+  - "Earthshards (Spell)"
+  - "Electric Vengeance (Spell)"
+  - "Electric Vengeance, Greater (Spell)"
+  - "Energy Aegis (Spell)"
+  - "Energy Surge, Lesser (Spell)"
+  - "Energy Surge (Spell)"
+  - "Energy Surge, Greater (Spell)"
+  - "Energy Vulnerability (Spell)"
+  - "Etherealness, Swift (Spell)"
+  - "Explosive Rune Field (Spell)"
+RWtopicId: "Topic_15908"
+---
+# E
+## Overview
+---
+## Governed Content
+- [[Eagle Eye (Spell)]]
+- [[Eagle's Form (Spell)]]
+- [[Eagle's Grandeur (Spell)]]
+- [[Eagle's Splendor (Spell)]]
+- [[Eagle's Splendor, Mass (Spell)]]
+- [[Eaglesoul (Spell)]]
+- [[Early Twilight (Spell)]]
+- [[Earth Glide (Spell)]]
+- [[Earth Hammer (Spell)]]
+- [[Earth Lock (Spell)]]
+- [[Earth Reaver (Spell)]]
+- [[Earthbind (Spell)]]
+- [[Earthbind, Mass (Spell)]]
+- [[Earthbolt (Spell)]]
+- [[Earthen Grace (Spell)]]
+- [[Earthen Grasp (Spell)]]
+- [[Earthen Shield (Spell)]]
+- [[Earthfast (Spell)]]
+- [[Earthquake (Spell)]]
+- [[Earthshards (Spell)]]
+- [[Ease of Breath (Spell)]]
+- [[Ease Pain (Spell)]]
+- [[Easy Climb (Spell)]]
+- [[Easy Trail (Spell)]]
+- [[Ebon Eyes (Spell)]]
+- [[Ebon Ray of Doom (Spell)]]
+- [[Echo Skull (Spell)]]
+- [[Ectoplasmic Armor (Spell)]]
+- [[Ectoplasmic Decay (Spell)]]
+- [[Ectoplasmic Enhancement (Spell)]]
+- [[Ectoplasmic Feedback (Spell)]]
+- [[Ectoplasmic Web (Spell)]]
+- [[Effulgent Epuration (Spell)]]
+- [[Eladrin Form (Spell)]]
+- [[Elation (Spell)]]
+- [[Eldritch Conduit (Spell)]]
+- [[Eldritch Conduit, Greater (Spell)]]
+- [[Electric Jolt (Spell)]]
+- [[Electric Loop (Spell)]]
+- [[Electric Vengeance (Spell)]]
+- [[Electric Vengeance, Greater (Spell)]]
+- [[Electrical Storm (Spell)]]
+- [[Elemental Aura (Spell)]]
+- [[Elemental Body I (Spell)]]
+- [[Elemental Body II (Spell)]]
+- [[Elemental Body III (Spell)]]
+- [[Elemental Body IV (Spell)]]
+- [[Elemental Burst (Spell)]]
+- [[Elemental Corpus (Spell)]]
+- [[Elemental Dart (Spell)]]
+- [[Elemental Eye (Spell)]]
+- [[Elemental Prod (Spell)]]
+- [[Elemental Speech (Spell)]]
+- [[Elemental Swarm (Spell)]]
+- [[Elemental Touch (Spell)]]
+- [[Elemental Ward (Spell)]]
+- [[Elf Lord's Battle Armor (Spell)]]
+- [[Elude Time (Spell)]]
+- [[Embed Ioun Stone (Spell)]]
+- [[Embrace of Endless Day (Spell)]]
+- [[Embrace the Dark Chaos (Spell)]]
+- [[Embrace the Wild (Spell)]]
+- [[Emerald Burst (Spell)]]
+- [[Emerald Energy Shield (Spell)]]
+- [[Emerald Flame Fist (Spell)]]
+- [[Emergency Force Sphere (Spell)]]
+- [[Empyreal Ecstasy (Spell)]]
+- [[Enchantment Foil (Spell)]]
+- [[Enchantment Sight (Spell)]]
+- [[End to Strife (Spell)]]
+- [[Endless Slumber (Spell)]]
+- [[Endure Elements (Spell)]]
+- [[Enduring Flight (Spell)]]
+- [[Enduring Scrutiny (Spell)]]
+- [[Enemy Hammer (Spell)]]
+- [[Enemy Insight (Spell)]]
+- [[Enemy's Heart (Spell)]]
+- [[Energetic Healing (Spell)]]
+- [[Energize Potion (Spell)]]
+- [[Energized Blood (Spell)]]
+- [[Energized Shield (Spell)]]
+- [[Energized Shield, Lesser (Spell)]]
+- [[Energy Absorption, Greater (Spell)]]
+- [[Energy Aegis (Spell)]]
+- [[Energy Alteration (Spell)]]
+- [[Energy Drain (Spell)]]
+- [[Energy Ebb (Spell)]]
+- [[Energy Hack (Spell)]]
+- [[Energy Immunity (Spell)]]
+- [[Energy Spheres (Spell)]]
+- [[Energy Surge (Spell)]]
+- [[Energy Surge, Greater (Spell)]]
+- [[Energy Surge, Lesser (Spell)]]
+- [[Energy Transformation Field (Spell)]]
+- [[Energy Vortex (Spell)]]
+- [[Energy Vulnerability (Spell)]]
+- [[Enervating Breath (Spell)]]
+- [[Enervation (Spell)]]
+- [[Engulfing Terror (Spell)]]
+- [[Enhance Familiar (Spell)]]
+- [[Enhance Performance (Spell)]]
+- [[Enhance Wild Shape (Spell)]]
+- [[Enhanced Shifting (Spell)]]
+- [[Enhancement Alteration (Spell)]]
+- [[Enlarge Person (Spell)]]
+- [[Enlarge Person, Greater (Spell)]]
+- [[Enlarge Person, Mass (Spell)]]
+- [[Enlarge Weapon (Spell)]]
+- [[Enrage Animal (Spell)]]
+- [[Entangle (Spell)]]
+- [[Entangling Dragonmark (Spell)]]
+- [[Entangling Scarf (Spell)]]
+- [[Entangling Staff (Spell)]]
+- [[Enter Image (Spell)]]
+- [[Enthrall (Spell)]]
+- [[Entice Gift (Spell)]]
+- [[Entomb (Spell)]]
+- [[Entropic Shield (Spell)]]
+- [[Entropic Shield, Mass (Spell)]]
+- [[Enveloping Cocoon (Spell)]]
+- [[Eon of Sleep (Spell)]]
+- [[Eradicate Earth (Spell)]]
+- [[Erase (Spell)]]
+- [[Erupt (Spell)]]
+- [[Escalating Enfeeblement (Spell)]]
+- [[Escape Death (Spell)]]
+- [[Escaping Ward (Spell)]]
+- [[Escaping Ward, Greater (Spell)]]
+- [[Essence of the Dragon (Spell)]]
+- [[Essence of the Raptor (Spell)]]
+- [[Essentia Lock (Spell)]]
+- [[Estanna's Stew (Spell)]]
+- [[Eternity of Torture (Spell)]]
+- [[Ether Blast (Spell)]]
+- [[Ethereal Alarm (Spell)]]
+- [[Ethereal Breath (Spell)]]
+- [[Ethereal Chamber (Spell)]]
+- [[Ethereal Jaunt (Spell)]]
+- [[Ethereal Mount (Spell)]]
+- [[Etherealness (Spell)]]
+- [[Etherealness, Swift (Spell)]]
+- [[Euphoric Cloud (Spell)]]
+- [[Euphoric Tranquility (Spell)]]
+- [[Evacuation Rune (Spell)]]
+- [[Evergreen (Spell)]]
+- [[Evil Eye (Spell)]]
+- [[Evil Glare (Spell)]]
+- [[Evil Weather (Spell)]]
+- [[Evolution Surge (Spell)]]
+- [[Evolution Surge, Greater (Spell)]]
+- [[Evolution Surge, Lesser (Spell)]]
+- [[Exacting Shot (Spell)]]
+- [[Exalted Fury (Spell)]]
+- [[Exalted Raiment (Spell)]]
+- [[Excavate (Spell)]]
+- [[Execration (Spell)]]
+- [[Exorcism, Lesser (Spell)]]
+- [[Expeditious Excavation (Spell)]]
+- [[Expeditious Excavation, Greater (Spell)]]
+- [[Expeditious Retreat (Spell)]]
+- [[Expeditious Retreat, Swift (Spell)]]
+- [[Expend (Spell)]]
+- [[Explosive Cascade (Spell)]]
+- [[Explosive Pinecone (Spell)]]
+- [[Explosive Rune Field (Spell)]]
+- [[Explosive Runes (Spell)]]
+- [[Expose the Dead (Spell)]]
+- [[Extend Arcana, Greater (Spell)]]
+- [[Extend Shifting (Spell)]]
+- [[Extend Tentacles (Spell)]]
+- [[Extract Drug (Spell)]]
+- [[Extract Gift (Spell)]]
+- [[Extract Water Elemental (Spell)]]
+- [[Extreme Flexibility (Spell)]]
+- [[Eye of Power (Spell)]]
+- [[Eye of Stone (Spell)]]
+- [[Eye of the Beholder (Spell)]]
+- [[Eye of the Hurricane (Spell)]]
+- [[Eyebite (Spell)]]
+- [[Eyes of the Avoral (Spell)]]
+- [[Eyes of the Avoral, Greater (Spell)]]
+- [[Eyes of the King (Spell)]]
+- [[Eyes of the Oracle (Spell)]]
+- [[Eyes of the Void (Spell)]]
+- [[Eyes of the Zombie (Spell)]]
+

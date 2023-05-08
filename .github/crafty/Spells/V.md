@@ -1,0 +1,143 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Category: "Spells"
+Tags:
+  - "Category/Spells"
+parent:
+  - "Spell Descriptions (Spells)"
+up:
+  - "Spell Descriptions (Spells)"
+prev:
+  - "U"
+next:
+  - "W"
+down:
+  - "Valiant Fury (Spell)"
+  - "Veil of Shadow (Spell)"
+  - "Virtue (Spell)"
+  - "Veil of Undeath (Spell)"
+  - "Veiled Vessel (Spell)"
+  - "Veiled Vessel, Greater (Spell)"
+  - "Vigor, Mass Lesser (Spell)"
+  - "Vigorous Circle (Spell)"
+  - "Vipergout (Spell)"
+  - "Visage of the Deity, Lesser (Spell)"
+  - "Visage of the Deity (Spell)"
+  - "Visage of the Deity, Greater (Spell)"
+  - "Viscid Glob (Spell)"
+  - "Vision of Glory (Spell)"
+  - "Vitriolic Sphere (Spell)"
+  - "Voice of the Wyrm (Spell)"
+  - "Vortex of Teeth (Spell)"
+  - "Vulnerability (Spell)"
+  - "Vanish (Spell)"
+  - "Ventriloquism (Spell)"
+  - "Veil (Spell)"
+  - "Vision of Entropy (Spell)"
+  - "Vine Mine (Spell)"
+  - "Vengeful Stinger (Spell)"
+  - "Village Veil (Spell)"
+  - "Vertigo (Spell)"
+  - "Vertigo Field (Spell)"
+  - "Visions of the Future (Spell)"
+  - "Verraketh's Shadow Crown (Spell)"
+  - "Vitrify (Spell)"
+  - "Vampiric Shadow Shield, Greater (Spell)"
+  - "Venom Bolt (Spell)"
+  - "Venomfire (Spell)"
+  - "Vampiric Lanthorn (Spell)"
+  - "Vile Lance (Spell)"
+  - "Vision of Punishment (Spell)"
+  - "Vigilant Slumber (Spell)"
+  - "Vital Strike (Spell)"
+  - "Vision of the Omniscient Eye (Spell)"
+  - "Volcanic Storm, Greater (Spell)"
+  - "Valiant Steed (Spell)"
+  - "Vanishing Weapon (Spell)"
+  - "Vengeance Halo (Spell)"
+  - "Vision of Heaven (Spell)"
+  - "Vampiric Shadow Shield (Spell)"
+  - "Vampiric Touch (Spell)"
+  - "Vision (Spell)"
+  - "Vengeful Spell Resistance (Spell)"
+  - "Veil of Positive Energy (Spell)"
+  - "Venomous Bolt (Spell)"
+  - "Versatile Weapon (Spell)"
+  - "Vomit Swarm (Spell)"
+  - "Vortex (Spell)"
+  - "Vengeful Comets (Spell)"
+  - "Vex Giant (Spell)"
+  - "Vile Death (Spell)"
+  - "Valiant Spirit (Spell)"
+  - "Valiant Spirit, Mass (Spell)"
+  - "Vigor, Lesser (Spell)"
+  - "Vigor, Greater (Spell)"
+  - "Vigor (Spell)"
+RWtopicId: "Topic_15954"
+---
+# V
+## Overview
+---
+## Governed Content
+- [[Valiant Fury (Spell)]]
+- [[Valiant Spirit (Spell)]]
+- [[Valiant Spirit, Mass (Spell)]]
+- [[Valiant Steed (Spell)]]
+- [[Vampiric Lanthorn (Spell)]]
+- [[Vampiric Shadow Shield (Spell)]]
+- [[Vampiric Shadow Shield, Greater (Spell)]]
+- [[Vampiric Touch (Spell)]]
+- [[Vanish (Spell)]]
+- [[Vanishing Weapon (Spell)]]
+- [[Veil (Spell)]]
+- [[Veil of Positive Energy (Spell)]]
+- [[Veil of Shadow (Spell)]]
+- [[Veil of Undeath (Spell)]]
+- [[Veiled Vessel (Spell)]]
+- [[Veiled Vessel, Greater (Spell)]]
+- [[Vengeance Halo (Spell)]]
+- [[Vengeful Comets (Spell)]]
+- [[Vengeful Spell Resistance (Spell)]]
+- [[Vengeful Stinger (Spell)]]
+- [[Venom Bolt (Spell)]]
+- [[Venomfire (Spell)]]
+- [[Venomous Bolt (Spell)]]
+- [[Ventriloquism (Spell)]]
+- [[Verraketh's Shadow Crown (Spell)]]
+- [[Versatile Weapon (Spell)]]
+- [[Vertigo (Spell)]]
+- [[Vertigo Field (Spell)]]
+- [[Vex Giant (Spell)]]
+- [[Vigilant Slumber (Spell)]]
+- [[Vigor (Spell)]]
+- [[Vigor, Greater (Spell)]]
+- [[Vigor, Lesser (Spell)]]
+- [[Vigor, Mass Lesser (Spell)]]
+- [[Vigorous Circle (Spell)]]
+- [[Vile Death (Spell)]]
+- [[Vile Lance (Spell)]]
+- [[Village Veil (Spell)]]
+- [[Vine Mine (Spell)]]
+- [[Vipergout (Spell)]]
+- [[Virtue (Spell)]]
+- [[Visage of the Deity (Spell)]]
+- [[Visage of the Deity, Greater (Spell)]]
+- [[Visage of the Deity, Lesser (Spell)]]
+- [[Viscid Glob (Spell)]]
+- [[Vision (Spell)]]
+- [[Vision of Entropy (Spell)]]
+- [[Vision of Glory (Spell)]]
+- [[Vision of Heaven (Spell)]]
+- [[Vision of Punishment (Spell)]]
+- [[Vision of the Omniscient Eye (Spell)]]
+- [[Visions of the Future (Spell)]]
+- [[Vital Strike (Spell)]]
+- [[Vitrify (Spell)]]
+- [[Vitriolic Sphere (Spell)]]
+- [[Voice of the Wyrm (Spell)]]
+- [[Volcanic Storm, Greater (Spell)]]
+- [[Vomit Swarm (Spell)]]
+- [[Vortex (Spell)]]
+- [[Vortex of Teeth (Spell)]]
+- [[Vulnerability (Spell)]]
+

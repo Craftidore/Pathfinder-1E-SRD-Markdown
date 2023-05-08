@@ -1,0 +1,145 @@
+```statblock
+
+image: [[.png]]
+Monster_CR: 
+name: 
+Monster_XP: 
+race: 
+class: 
+level: 
+alignment: 
+size: 
+type: 
+subtype: 
+
+INI: + 
+senses: 
+aura: 
+
+AK: 
+touch: 
+flat-footed: 
+AK-bonuses: ()
+
+HP: 
+HD: 
+saves:
+- Fort: 
+- Ref: 
+- Wil: 
+immune: 
+resist: 
+DR: 
+defensive_abillities: 
+SR: 
+weak: 
+
+speed: 
+melee: 
+damage_mel: 
+ranged: 
+damage_ran: 
+space: 
+reach: 
+special_attacks: 
+spell-like_abilities: 
+- name: - 
+  desc: - 
+- name: -
+  desc: - 
+- name: -
+  desc: -
+known_spells:
+- name: - 
+  desc: - 
+- name: -
+  desc: - 
+- name: -
+  desc: -
+spells_prepared:
+- name: - 
+  desc: - 
+- name: -
+  desc: - 
+- name: -
+  desc: -
+
+
+Tactics:
+- name: before fighting 
+  desc: -
+- name: fighting
+  desc: - 
+- name: moral
+  desc: -
+- name: base stats
+  desc: -
+  
+p1e_stats: [0, 0, 0, 0, 0, 0]
+
+battlestats:
+- name: BAB 
+  desc: + 
+- name: CMB
+  desc: + 
+- name: CMD
+  desc: 
+  
+feats:
+  - name: -
+    desc: -
+
+Acrobatics: 
+Appraise: 
+Bluff: 
+Climb: 
+Craft: 
+Diplomacy: 
+Disable_Device:
+Disguise: 
+Escape_Artist: 
+Fly: 
+Handle_Animal: 
+Heal: 
+Intimidate: 
+Knowledge_arcana: 
+Knowledge_dungeoneering: 
+Knowledge_engineering: 
+Knowledge_geography: 
+Knowledge_history: 
+Knowledge_local: 
+Knowledge_nature: 
+Knowledge_nobility: 
+Knowledge_planes: 
+Knowledge_religion: 
+Linguistics: 
+Perception: 
+Perform: 
+Profession: 
+Ride: 
+Sense_Motive:
+Sleight_of_Hand: 
+Spellcraft: 
+Stealth: 
+Survival: 
+Swim: 
+Use_Magic_Device: 
+
+racial_modifiers:
+- 
+  
+languages: 
+special_qualities:
+battleequipment: 
+
+ecology: 
+  - name: Environment
+    desc: 
+  - name: Organisation
+    desc:   
+  - name: Treasure
+    desc: 
+
+special_abilities:
+
+```

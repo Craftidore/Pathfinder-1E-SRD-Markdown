@@ -1,0 +1,25 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Aliases:
+  - "xxMG"
+Category: "eMRD"
+Suffix: "Trait"
+Tags:
+  - "Category/eMRD"
+parent:
+  - "Zobeck"
+up:
+  - "Zobeck"
+next:
+  - "xxMG Copy (Trait)"
+RWtopicId: "Topic_14824"
+---
+# xxMG (Trait)
+## Overview
+**Source:** Streets of Zobeck (Open Design), pg. 87
+
+
+---
+## Tags
+#Rule-System/Pathfinder #Rule/OGL #Rule/3PP #Publisher/Open-Design #Sources/Streets-of-Zobeck #Rule/Midgard #Rule/Trait--Regional-
+

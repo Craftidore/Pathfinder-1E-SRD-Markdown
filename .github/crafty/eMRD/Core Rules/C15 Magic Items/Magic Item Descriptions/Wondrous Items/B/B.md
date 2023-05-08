@@ -1,0 +1,141 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Category: "Wondrous Items"
+Tags:
+  - "Category/Wondrous-Items"
+parent:
+  - "Wondrous Items"
+up:
+  - "Wondrous Items"
+prev:
+  - "A"
+next:
+  - "E"
+down:
+  - "Bag of Holding Type I"
+  - "Bag of Holding Type II"
+  - "Bag of Holding Type III"
+  - "Bag of Holding Type IV"
+  - "Bag of Tricks, gray"
+  - "Bag of Tricks, rust"
+  - "Bag of Tricks, tan"
+  - "Bead of Force"
+  - "Belt of Dwarvenkind"
+  - "Belt of Giant Strength +2"
+  - "Belt of Giant Strength +4"
+  - "Belt of Giant Strength +6"
+  - "Belt of Incredible Dexterity +2"
+  - "Belt of Incredible Dexterity +4"
+  - "Belt of Incredible Dexterity +6"
+  - "Belt of Mighty Constitution +2"
+  - "Belt of Mighty Constitution +4"
+  - "Belt of Mighty Constitution +6"
+  - "Belt of Physical Might +2"
+  - "Belt of Physical Might +4"
+  - "Belt of Physical Might +6"
+  - "Belt of Physical Perfection +2"
+  - "Belt of Physical Perfection +4"
+  - "Belt of Physical Perfection +6"
+  - "Blessed Book"
+  - "Boat, Folding"
+  - "Boots of Elvenkind"
+  - "Boots of Levitation"
+  - "Boots of Speed"
+  - "Boots of Striding and Springing"
+  - "Boots of Teleportation"
+  - "Boots of the Winterlands"
+  - "Boots, Winged"
+  - "Bottle of Air"
+  - "Bracelet of Friends"
+  - "Bracers of Archery, Greater"
+  - "Bracers of Archery, Lesser"
+  - "Bracers of Armor +1"
+  - "Bracers of Armor +2"
+  - "Bracers of Armor +3"
+  - "Bracers of Armor +4"
+  - "Bracers of Armor +5"
+  - "Bracers of Armor +6"
+  - "Bracers of Armor +7"
+  - "Bracers of Armor +8"
+  - "Brooch of Shielding"
+  - "Broom of Flying"
+  - "Bracers of Wands, Greater"
+  - "Bowstring of Truedeath, Greater"
+  - "Bracers of Wands"
+  - "Bag of Holding Type V"
+  - "Bag of Holding Type VI"
+  - "Boots of the Cat"
+  - "Bottomless Money Pouch"
+  - "Blessed Book, Greater"
+  - "Brand of the Despot"
+  - "Bag of Endless Caltrops"
+  - "Bear Cloak of Bareicks"
+  - "Boots of Striding"
+  - "Brastlewark Brew"
+RWtopicId: "Topic_16460"
+---
+# B
+## Overview
+---
+## Governed Content
+- [[Bag of Endless Caltrops]]
+- [[Bag of Holding Type I]]
+- [[Bag of Holding Type II]]
+- [[Bag of Holding Type III]]
+- [[Bag of Holding Type IV]]
+- [[Bag of Holding Type V]]
+- [[Bag of Holding Type VI]]
+- [[Bag of Tricks, gray]]
+- [[Bag of Tricks, rust]]
+- [[Bag of Tricks, tan]]
+- [[Bead of Force]]
+- [[Bear Cloak of Bareicks]]
+- [[Belt of Dwarvenkind]]
+- [[Belt of Giant Strength +2]]
+- [[Belt of Giant Strength +4]]
+- [[Belt of Giant Strength +6]]
+- [[Belt of Incredible Dexterity +2]]
+- [[Belt of Incredible Dexterity +4]]
+- [[Belt of Incredible Dexterity +6]]
+- [[Belt of Mighty Constitution +2]]
+- [[Belt of Mighty Constitution +4]]
+- [[Belt of Mighty Constitution +6]]
+- [[Belt of Physical Might +2]]
+- [[Belt of Physical Might +4]]
+- [[Belt of Physical Might +6]]
+- [[Belt of Physical Perfection +2]]
+- [[Belt of Physical Perfection +4]]
+- [[Belt of Physical Perfection +6]]
+- [[Blessed Book]]
+- [[Blessed Book, Greater]]
+- [[Boat, Folding]]
+- [[Boots of Elvenkind]]
+- [[Boots of Levitation]]
+- [[Boots of Speed]]
+- [[Boots of Striding]]
+- [[Boots of Striding and Springing]]
+- [[Boots of Teleportation]]
+- [[Boots of the Cat]]
+- [[Boots of the Winterlands]]
+- [[Boots, Winged]]
+- [[Bottle of Air]]
+- [[Bottomless Money Pouch]]
+- [[Bowstring of Truedeath, Greater]]
+- [[Bracelet of Friends]]
+- [[Bracers of Archery, Greater]]
+- [[Bracers of Archery, Lesser]]
+- [[Bracers of Armor +1]]
+- [[Bracers of Armor +2]]
+- [[Bracers of Armor +3]]
+- [[Bracers of Armor +4]]
+- [[Bracers of Armor +5]]
+- [[Bracers of Armor +6]]
+- [[Bracers of Armor +7]]
+- [[Bracers of Armor +8]]
+- [[Bracers of Wands]]
+- [[Bracers of Wands, Greater]]
+- [[Brand of the Despot]]
+- [[Brastlewark Brew]]
+- [[Brooch of Shielding]]
+- [[Broom of Flying]]
+

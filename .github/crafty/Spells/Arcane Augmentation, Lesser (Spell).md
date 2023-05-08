@@ -1,0 +1,51 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Aliases:
+  - "Arcane Augmentation, Lesser"
+  - "lesser arcane augmentation"
+Category: "Spells"
+Tags:
+  - "Category/Spells"
+parent:
+  - "A"
+up:
+  - "A"
+prev:
+  - "Arcane Augmentation, Greater (Spell)"
+next:
+  - "Anathema, Greater (Spell)"
+RWtopicId: "Topic_15128"
+---
+# Arcane Augmentation, Lesser (Spell)
+## Overview
+[[Universal Spells|Universal]]
+
+**Level:** [[3rd Level Sorcerer Spells|Sorcerer 3]], [[3rd Level Wizard Spells|Wizard 3]]
+
+**BoXM:** [[BoXM 5th-Level Wizard Spells List|Wizard 5]]
+
+**Casting Time:** 1 standard action
+
+**Components:** V, S, F (Either an arcane bond or personal signet)
+
+**Range:** 0
+
+**Target:** Personal
+
+**Duration:** 1 round/level
+
+**Saving Throw:** None
+
+**Spell Resistance:** No
+
+**Source:** The Mage’s Tower website
+
+Upon casting this spell, the caster augments any spell of first- through second-level he casts that requires a roll to hit and/or does hit point damage by adding his primary casting attribute modifier to hit and damage rolls plus 1 point per caster level to damage.
+
+Any spell that already adds the primary casting modifier to attack or damage rolls or adds the caster level to damage ignores this augmentation completely.
+
+
+---
+## Tags
+#Rule/OGL #Spell-Rarity/Unique #Rule/Spell #Rule/3PP #Publisher/Mage-s-Tower #Rule/fm3 #Spell-Resistance/No #Rule-System/Pathfinder #Saving-Throws/None #Spell-Range/Other #Spell-Level/Sorcerer-Wizard-3 #Spell-School/Universal
+

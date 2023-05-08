@@ -1,0 +1,771 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Category: "Spells"
+Tags:
+  - "Category/Spells"
+parent:
+  - "Spell Descriptions (Spells)"
+up:
+  - "Spell Descriptions (Spells)"
+prev:
+  - "A"
+next:
+  - "B"
+down:
+  - "Control Temperature (Spell)"
+  - "Crack Ice (Spell)"
+  - "Crunchy Snow (Spell)"
+  - "Cacophonous Call (Spell)"
+  - "Cacophonous Call, Mass (Spell)"
+  - "Calcific Touch (Spell)"
+  - "Call Animal (Spell)"
+  - "Campfire Wall (Spell)"
+  - "Cast Out (Spell)"
+  - "Castigate (Spell)"
+  - "Castigate, Mass (Spell)"
+  - "Challenge Evil (Spell)"
+  - "Clashing Rocks (Spell)"
+  - "Cleanse (Spell)"
+  - "Cloak of Dreams (Spell)"
+  - "Cloak of Shade (Spell)"
+  - "Cloak of Winds (Spell)"
+  - "Confess (Spell)"
+  - "Coordinated Effort (Spell)"
+  - "Corruption Resistance (Spell)"
+  - "Coward's Lament (Spell)"
+  - "Crafter's Curse (Spell)"
+  - "Create Pit (Spell)"
+  - "Cup of Dust (Spell)"
+  - "Craftsmanship, Lesser (Spell)"
+  - "Control Currents (Spell)"
+  - "Changestones (Spell)"
+  - "Crowning Touch (Spell)"
+  - "Crystalbrittle (Spell)"
+  - "Cloak Ship (Spell)"
+  - "Cloud Shape (Spell)"
+  - "Commune with Birds (Spell)"
+  - "Conjure Deadfall (Spell)"
+  - "Create Holds (Spell)"
+  - "Cleansing Fire (Spell)"
+  - "Contest of Skill (Spell)"
+  - "Crimson Breath (Spell)"
+  - "Coward's Cowl (Spells)"
+  - "Caustic Safeguard (Spell)"
+  - "Chain of Shadows, Greater (Spell)"
+  - "Chain of Shadows (Spell)"
+  - "Causality Loop (Spell)"
+  - "Cat's Poise (Spell)"
+  - "Combat Fluidness, Greater (Spell)"
+  - "Combat Fluidness (Spell)"
+  - "Contingency (Spell)"
+  - "Confusion (Spell)"
+  - "Cause Fear (Spell)"
+  - "Confusion, Lesser (Spell)"
+  - "Cure Light Wounds (Spell)"
+  - "Calm Emotions (Spell)"
+  - "Cat's Grace (Spell)"
+  - "Cure Moderate Wounds (Spell)"
+  - "Clairaudience_Clairvoyance (Spell)"
+  - "Cure Serious Wounds (Spell)"
+  - "Cure Critical Wounds (Spell)"
+  - "Cure Light Wounds, Mass (Spell)"
+  - "Cat's Grace, Mass (Spell)"
+  - "Charm Monster, Mass (Spell)"
+  - "Cure Moderate Wounds, Mass (Spell)"
+  - "Capable Caravel (Spell)"
+  - "Crawling Darkness (Spell)"
+  - "Combat Precognition (Spell)"
+  - "Combat Prescience, Greater (Spell)"
+  - "Create Sanctum Sanctorum (Spell)"
+  - "Cursed Dragonmark (Spell)"
+  - "Chromatic Ray (Spell)"
+  - "Compel Breath (Spell)"
+  - "Cone of Euphoria (Spell)"
+  - "Combat Readiness (Spell)"
+  - "Construct Energy Ward (Spell)"
+  - "Construct Energy Ward, Greater (Spell)"
+  - "Control Deathless (Spell)"
+  - "Create Deathless (Spell)"
+  - "Create Greater Deathless (Spell)"
+  - "Crown of Courage (Spell)"
+  - "Construct Essence, Lesser (Spell)"
+  - "Construct Essence, Mass Lesser (Spell)"
+  - "Chill Ray (Spell)"
+  - "Call Avalanche (Spell)"
+  - "Column of Ice (Spell)"
+  - "Cometstrike (Spell)"
+  - "Conjure Ice Beast I (Spell)"
+  - "Conjure Ice Beast II (Spell)"
+  - "Conjure Ice Beast III (Spell)"
+  - "Conjure Ice Beast IV (Spell)"
+  - "Conjure Ice Beast V (Spell)"
+  - "Conjure Ice Beast VI (Spell)"
+  - "Conjure Ice Beast VII (Spell)"
+  - "Conjure Ice Beast VIII (Spell)"
+  - "Conjure Ice Beast IX (Spell)"
+  - "Conjure Ice Object (Spell)"
+  - "Control Snow and Ice (Spell)"
+  - "Create Sanctum (Spell)"
+  - "Cursed Blade (Spell)"
+  - "Cacophonic Burst (Spell)"
+  - "Cacophonic Shield (Spell)"
+  - "Call Kolyarut (Spell)"
+  - "Call Marut (Spell)"
+  - "Call Zelekhut (Spell)"
+  - "Caltrops (Spell)"
+  - "Camouflage (Spell)"
+  - "Camouflage, Mass (Spell)"
+  - "Capricious Zephyr (Spell)"
+  - "Cast in Stone (Spell)"
+  - "Celebration (Spell)"
+  - "Chain Missile (Spell)"
+  - "Chain of Eyes (Spell)"
+  - "Charge of the Triceratops (Spell)"
+  - "Cheat (Spell)"
+  - "Checkmate's Light (Spell)"
+  - "Chill of the Grave (Spell)"
+  - "Circle Dance (Spell)"
+  - "Clarity of Mind (Spell)"
+  - "Claws of the Bear (Spell)"
+  - "Claws of Darkness (Spell)"
+  - "Climb Walls (Spell)"
+  - "Cloak of Bravery (Spell)"
+  - "Cloak of Bravery, Greater (Spell)"
+  - "Cloak of Dark Power (Spell)"
+  - "Cloak of the Sea (Spell)"
+  - "Cloak Pool (Spell)"
+  - "Close Wounds (Spell)"
+  - "Cloud of Bewilderment (Spell)"
+  - "Cloud Wings (Spell)"
+  - "Cloudburst (Spell)"
+  - "Cloudwalkers (Spell)"
+  - "Clutch of Orcus (Spell)"
+  - "Cocoon (Spell)"
+  - "Cold Fire (Spell)"
+  - "Cold Snap (Spell)"
+  - "Combust (Spell)"
+  - "Cometfall (Spell)"
+  - "Cone of Dimness (Spell)"
+  - "Consumptive Field (Spell)"
+  - "Consumptive Field, Greater (Spell)"
+  - "Contagion, Mass (Spell)"
+  - "Contagious Fog (Spell)"
+  - "Contagious Touch (Spell)"
+  - "Contingent Energy Resistance (Spell)"
+  - "Conviction (Spell)"
+  - "Conviction, Mass (Spell)"
+  - "Corona of Cold (Spell)"
+  - "Corporeal Instability (Spell)"
+  - "Corpse Candle (Spell)"
+  - "Corrosive Grasp (Spell)"
+  - "Countermoon (Spell)"
+  - "Crabwalk (Spell)"
+  - "Creaking Cacophony (Spell)"
+  - "Create Magic Tattoo (Spell)"
+  - "Creeping Cold (Spell)"
+  - "Creeping Cold, Greater (Spell)"
+  - "Critical Strike (Spell)"
+  - "Crown of Glory (Spell)"
+  - "Crumble (Spell)"
+  - "Curse of Ill Fortune (Spell)"
+  - "Curse of Ill Fortune, Mass (Spell)"
+  - "Curse of Impending Blades (Spell)"
+  - "Curse of Impending Blades, Mass (Spell)"
+  - "Cutting Hand (Spell)"
+  - "Cyclonic Blast (Spell)"
+  - "Conjuration Foil (Spell)"
+  - "Conjure Carriage (Spell)"
+  - "Conversing Wind (Spell)"
+  - "Crafter's Gift (Spell)"
+  - "Choose Destiny (Spell)"
+  - "City Lights (Spell)"
+  - "City Stride (Spell)"
+  - "City's Might (Spell)"
+  - "Commune with City (Spell)"
+  - "Create Treasure Map (Spell)"
+  - "Construct Essence (Spell)"
+  - "Construct Essence, Greater (Spell)"
+  - "Commune with Earth (Spell)"
+  - "Create Trap (Spell)"
+  - "Cheat Death (Spell)"
+  - "Choking Sands (Spell)"
+  - "Control Sand (Spell)"
+  - "Create Soul Gem (Spell)"
+  - "Create Soul Gem, Greater (Spell)"
+  - "Contagious Flame (Spell)"
+  - "Channel the Gift (Spell)"
+  - "Channel the Gift, Greater (Spell)"
+  - "Circlet of Enervation (Spell)"
+  - "Coral Growth (Spell)"
+  - "Chilling Chamber (Spell)"
+  - "Cooling Breeze (Spell)"
+  - "Commune with Texts (Spell)"
+  - "Concealing Aura (Spell)"
+  - "Call Faithful Servants (Spell)"
+  - "Call Mount (Spell)"
+  - "Celestial Aspect (Spell)"
+  - "Celestial Blood (Spell)"
+  - "Celestial Brilliance (Spell)"
+  - "Channel Celestial (Spell)"
+  - "Channel Greater Celestial (Spell)"
+  - "Constricting Chains (Spell)"
+  - "Crown of Brilliance (Spell)"
+  - "Crown of Flame (Spell)"
+  - "Cry of Ysgard (Spell)"
+  - "Curtain of Light (Spell)"
+  - "Comprehend Languages (Spell)"
+  - "Crone's Grasp (Spell)"
+  - "Call Lightning (Spell)"
+  - "Control Darkness and Shadow (Spell)"
+  - "Celestial Fortress (Spell)"
+  - "Convert Wand (Spell)"
+  - "Create Lantern Archon (Spell)"
+  - "Cloak of Illusion (Spell)"
+  - "Cloud Chariot (Spell)"
+  - "Cobra's Breath (Spell)"
+  - "Commune with Lesser Spirit (Spell)"
+  - "Commune with Greater Spirit (Spell)"
+  - "Creeping Darkness (Spell)"
+  - "Conduit of Life (Spell)"
+  - "Confound (Spell)"
+  - "Cacophonous Alarm (Spell)"
+  - "Caterwaul (Spell)"
+  - "Catsfeet (Spell)"
+  - "Caustic Mire (Spell)"
+  - "Caustic Smoke (Spell)"
+  - "Channeled Lifetheft (Spell)"
+  - "Channeled Sound Blast (Spell)"
+  - "Choking Cobwebs (Spell)"
+  - "Climbing Tree (Spell)"
+  - "Coat of Arms (Spell)"
+  - "Combined Talent (Spell)"
+  - "Crucial Strike (Spell)"
+  - "Cryptwarden's Grasp (Spell)"
+  - "Crystalline Memories (Spell)"
+  - "Catapult, Lesser (Spell)"
+  - "Create Fetch (Spell)"
+  - "Call of the Twilight Defender (Spell)"
+  - "Channel the Dragon (Spell)"
+  - "Curse of the Elemental Lords (Spell)"
+  - "Crackling Sphere (Spell)"
+  - "Cubehop (Spell)"
+  - "Create Faux Human (Spell)"
+  - "Cloud Spear (Spell)"
+  - "Calm Earth (Spell)"
+  - "Command (Spell)"
+  - "Call Dretch Horde (Spell)"
+  - "Call Lemure Horde (Spell)"
+  - "Call Nightmare (Spell)"
+  - "Charnel Fire (Spell)"
+  - "Circle of Nausea (Spell)"
+  - "Call Lightning Storm (Spell)"
+  - "Calm Animals (Spell)"
+  - "Chain Lightning (Spell)"
+  - "Changestaff (Spell)"
+  - "Chaos Hammer (Spell)"
+  - "Charm Animal (Spell)"
+  - "Chill Metal (Spell)"
+  - "Chill Touch (Spell)"
+  - "Cynosure (Spell)"
+  - "Circle of Death (Spell)"
+  - "Clenched Fist (Spell)"
+  - "Cloak of Chaos (Spell)"
+  - "Clone (Spell)"
+  - "Cloudkill (Spell)"
+  - "Color Spray (Spell)"
+  - "Command, Greater (Spell)"
+  - "Command Plants (Spell)"
+  - "Command Undead (Spell)"
+  - "Commune (Spell)"
+  - "Contingent Action (Spell)"
+  - "Contingent Scroll (Spell)"
+  - "Crimson Confession (Spell)"
+  - "Commune with Nature (Spell)"
+  - "Cone of Cold (Spell)"
+  - "Consecrate (Spell)"
+  - "Contact Other Plane (Spell)"
+  - "Contagion (Spell)"
+  - "Control Plants (Spell)"
+  - "Control Undead (Spell)"
+  - "Control Water (Spell)"
+  - "Control Weather (Spell)"
+  - "Control Winds (Spell)"
+  - "Create Food and Water (Spell)"
+  - "Create Undead (Spell)"
+  - "Create Greater Undead (Spell)"
+  - "Create Water (Spell)"
+  - "Creeping Doom (Spell)"
+  - "Crushing Despair (Spell)"
+  - "Crushing Hand (Spell)"
+  - "Cure Critical Wounds, Mass (Spell)"
+  - "Curse Water (Spell)"
+  - "Cure Serious Wounds, Mass (Spell)"
+  - "Celerity, Lesser (Spell)"
+  - "Capture Soul (Spell)"
+  - "Castigate the Dead (Spell)"
+  - "Comatose (Spell)"
+  - "Compelling Question (Spell)"
+  - "Conditional Spell (Spell)"
+  - "Confutation of the Demon (Spell)"
+  - "Counterspell Shield (Spell)"
+  - "Crystal Eruption (Spell)"
+  - "Crystal of Reflection (Spell)"
+  - "Crystal Shard (Spell)"
+  - "Crystal Shield (Spell)"
+  - "Curse of Wounding (Spell)"
+  - "Claws of the Bebilith (Spell)"
+  - "Claws of the Savage (Spell)"
+  - "Cloud of the Achaierai (Spell)"
+  - "Consume Likeness (Spell)"
+  - "Cruel Disappointment (Spell)"
+  - "Crushing Fist of Spite (Spell)"
+  - "Curse of the Putrid Husk (Spell)"
+  - "Continual Flame (Spell)"
+  - "Call Weapon (Spell)"
+  - "Crusader's Edge (Spell)"
+  - "Calm Air (Spell)"
+  - "Circle of Muting (Spell)"
+  - "Caster's Keelboat (Spell)"
+  - "Caster's Caravel (Spell)"
+  - "Chains of Fire (Spell)"
+  - "Countless Eyes (Spell)"
+  - "Chains of Light (Spell)"
+  - "Consecrate Battlefield (Spell)"
+  - "Crisis of Confidence (Spell)"
+  - "Call Forth the Beast (Spell)"
+  - "Chain of Sorrow (Spell)"
+  - "Cloak of Hate (Spell)"
+  - "Clearstone (Spell)"
+  - "Crushing Sphere (Spell)"
+  - "Censure Elementals (Spell)"
+  - "Clothier's Closet (Spell)"
+  - "Concurrent Infusions (Spell)"
+  - "Control Elemental (Spell)"
+  - "Create Crossroads and Backroad (Spell)"
+  - "Channel the Mishtai (Spell)"
+  - "Channel the Mishtai, Greater (Spell)"
+  - "Conjure Lesser Midnight Construct (Spell)"
+  - "Conjure Midnight Construct (Spell)"
+  - "Conjure Greater Midnight Construct (Spell)"
+  - "Create Chosen One (Spell)"
+  - "Chameleon Stride (Spell)"
+  - "Chameleon Stride, Greater (Spell)"
+  - "Climbing Beanstalk (Spell)"
+  - "Companion Life Link (Spell)"
+  - "Creeping Ice (Spell)"
+  - "Curse of Burning Sleep (Spell)"
+  - "Circle of Flame (Spell)"
+  - "Create Spring (Spell)"
+  - "Charm Person or Ghost (Spell)"
+  - "Contingent Spell Lock (Spell)"
+  - "Create Ectoplasm (Spell)"
+  - "Charm Monster (Spell)"
+  - "Charm Person (Spell)"
+  - "Create Demiplane, Lesser (Spell)"
+  - "Crafter's Fortune (Spell)"
+  - "Create Demiplane (Spell)"
+  - "Create Demiplane, Greater (Spell)"
+  - "Crysteel (Spell)"
+  - "Cat Nap (Spell)"
+  - "Celerity (Spell)"
+  - "Canny Effort (Spell)"
+  - "Celerity, Greater (Spell)"
+  - "Chain Dispel (Spell)"
+  - "Comfortable Cabin (Spell)"
+  - "Call of Stone (Spell)"
+  - "Channeled Divine Health (Spell)"
+  - "Channeled Divine Shield (Spell)"
+  - "Channeled Pyroburst (Spell)"
+  - "Chasing Perfection (Spell)"
+  - "Cloud of Knives (Spell)"
+  - "Condemnation (Spell)"
+  - "Crown of Clarity (Spell)"
+  - "Crown of the Grave (Spell)"
+  - "Crown of Might (Spell)"
+  - "Crown of Protection (Spell)"
+  - "Crown of Smiting (Spell)"
+  - "Crown of Veils (Spell)"
+  - "Crushing Grip (Spell)"
+  - "Curse of Arrow Attraction (Spell)"
+RWtopicId: "Topic_15897"
+---
+# C
+## Overview
+---
+## Governed Content
+- [[Cacophonic Burst (Spell)]]
+- [[Cacophonic Shield (Spell)]]
+- [[Cacophonous Alarm (Spell)]]
+- [[Cacophonous Call (Spell)]]
+- [[Cacophonous Call, Mass (Spell)]]
+- [[Calcific Touch (Spell)]]
+- [[Call Animal (Spell)]]
+- [[Call Avalanche (Spell)]]
+- [[Call Dretch Horde (Spell)]]
+- [[Call Faithful Servants (Spell)]]
+- [[Call Forth the Beast (Spell)]]
+- [[Call Kolyarut (Spell)]]
+- [[Call Lemure Horde (Spell)]]
+- [[Call Lightning (Spell)]]
+- [[Call Lightning Storm (Spell)]]
+- [[Call Marut (Spell)]]
+- [[Call Mount (Spell)]]
+- [[Call Nightmare (Spell)]]
+- [[Call of Stone (Spell)]]
+- [[Call of the Twilight Defender (Spell)]]
+- [[Call Weapon (Spell)]]
+- [[Call Zelekhut (Spell)]]
+- [[Calm Air (Spell)]]
+- [[Calm Animals (Spell)]]
+- [[Calm Earth (Spell)]]
+- [[Calm Emotions (Spell)]]
+- [[Caltrops (Spell)]]
+- [[Camouflage (Spell)]]
+- [[Camouflage, Mass (Spell)]]
+- [[Campfire Wall (Spell)]]
+- [[Canny Effort (Spell)]]
+- [[Capable Caravel (Spell)]]
+- [[Capricious Zephyr (Spell)]]
+- [[Capture Soul (Spell)]]
+- [[Cast in Stone (Spell)]]
+- [[Cast Out (Spell)]]
+- [[Caster's Caravel (Spell)]]
+- [[Caster's Keelboat (Spell)]]
+- [[Castigate (Spell)]]
+- [[Castigate the Dead (Spell)]]
+- [[Castigate, Mass (Spell)]]
+- [[Cat Nap (Spell)]]
+- [[Catapult, Lesser (Spell)]]
+- [[Caterwaul (Spell)]]
+- [[Cat's Grace (Spell)]]
+- [[Cat's Grace, Mass (Spell)]]
+- [[Cat's Poise (Spell)]]
+- [[Catsfeet (Spell)]]
+- [[Causality Loop (Spell)]]
+- [[Cause Fear (Spell)]]
+- [[Caustic Mire (Spell)]]
+- [[Caustic Safeguard (Spell)]]
+- [[Caustic Smoke (Spell)]]
+- [[Celebration (Spell)]]
+- [[Celerity (Spell)]]
+- [[Celerity, Greater (Spell)]]
+- [[Celerity, Lesser (Spell)]]
+- [[Celestial Aspect (Spell)]]
+- [[Celestial Blood (Spell)]]
+- [[Celestial Brilliance (Spell)]]
+- [[Celestial Fortress (Spell)]]
+- [[Censure Elementals (Spell)]]
+- [[Chain Dispel (Spell)]]
+- [[Chain Lightning (Spell)]]
+- [[Chain Missile (Spell)]]
+- [[Chain of Eyes (Spell)]]
+- [[Chain of Shadows (Spell)]]
+- [[Chain of Shadows, Greater (Spell)]]
+- [[Chain of Sorrow (Spell)]]
+- [[Chains of Fire (Spell)]]
+- [[Chains of Light (Spell)]]
+- [[Challenge Evil (Spell)]]
+- [[Chameleon Stride (Spell)]]
+- [[Chameleon Stride, Greater (Spell)]]
+- [[Changestaff (Spell)]]
+- [[Changestones (Spell)]]
+- [[Channel Celestial (Spell)]]
+- [[Channel Greater Celestial (Spell)]]
+- [[Channel the Dragon (Spell)]]
+- [[Channel the Gift (Spell)]]
+- [[Channel the Gift, Greater (Spell)]]
+- [[Channel the Mishtai (Spell)]]
+- [[Channel the Mishtai, Greater (Spell)]]
+- [[Channeled Divine Health (Spell)]]
+- [[Channeled Divine Shield (Spell)]]
+- [[Channeled Lifetheft (Spell)]]
+- [[Channeled Pyroburst (Spell)]]
+- [[Channeled Sound Blast (Spell)]]
+- [[Chaos Hammer (Spell)]]
+- [[Charge of the Triceratops (Spell)]]
+- [[Charm Animal (Spell)]]
+- [[Charm Monster (Spell)]]
+- [[Charm Monster, Mass (Spell)]]
+- [[Charm Person (Spell)]]
+- [[Charm Person or Ghost (Spell)]]
+- [[Charnel Fire (Spell)]]
+- [[Chasing Perfection (Spell)]]
+- [[Cheat (Spell)]]
+- [[Cheat Death (Spell)]]
+- [[Checkmate's Light (Spell)]]
+- [[Chill Metal (Spell)]]
+- [[Chill of the Grave (Spell)]]
+- [[Chill Ray (Spell)]]
+- [[Chill Touch (Spell)]]
+- [[Chilling Chamber (Spell)]]
+- [[Choking Cobwebs (Spell)]]
+- [[Choking Sands (Spell)]]
+- [[Choose Destiny (Spell)]]
+- [[Chromatic Ray (Spell)]]
+- [[Circle Dance (Spell)]]
+- [[Circle of Death (Spell)]]
+- [[Circle of Flame (Spell)]]
+- [[Circle of Muting (Spell)]]
+- [[Circle of Nausea (Spell)]]
+- [[Circlet of Enervation (Spell)]]
+- [[City Lights (Spell)]]
+- [[City Stride (Spell)]]
+- [[City's Might (Spell)]]
+- [[Clairaudience_Clairvoyance (Spell)|Clairaudience/Clairvoyance (Spell)]]
+- [[Clarity of Mind (Spell)]]
+- [[Clashing Rocks (Spell)]]
+- [[Claws of Darkness (Spell)]]
+- [[Claws of the Bear (Spell)]]
+- [[Claws of the Bebilith (Spell)]]
+- [[Claws of the Savage (Spell)]]
+- [[Cleanse (Spell)]]
+- [[Cleansing Fire (Spell)]]
+- [[Clearstone (Spell)]]
+- [[Clenched Fist (Spell)]]
+- [[Climb Walls (Spell)]]
+- [[Climbing Beanstalk (Spell)]]
+- [[Climbing Tree (Spell)]]
+- [[Cloak of Bravery (Spell)]]
+- [[Cloak of Bravery, Greater (Spell)]]
+- [[Cloak of Chaos (Spell)]]
+- [[Cloak of Dark Power (Spell)]]
+- [[Cloak of Dreams (Spell)]]
+- [[Cloak of Hate (Spell)]]
+- [[Cloak of Illusion (Spell)]]
+- [[Cloak of Shade (Spell)]]
+- [[Cloak of the Sea (Spell)]]
+- [[Cloak of Winds (Spell)]]
+- [[Cloak Pool (Spell)]]
+- [[Cloak Ship (Spell)]]
+- [[Clone (Spell)]]
+- [[Close Wounds (Spell)]]
+- [[Clothier's Closet (Spell)]]
+- [[Cloud Chariot (Spell)]]
+- [[Cloud of Bewilderment (Spell)]]
+- [[Cloud of Knives (Spell)]]
+- [[Cloud of the Achaierai (Spell)]]
+- [[Cloud Shape (Spell)]]
+- [[Cloud Spear (Spell)]]
+- [[Cloud Wings (Spell)]]
+- [[Cloudburst (Spell)]]
+- [[Cloudkill (Spell)]]
+- [[Cloudwalkers (Spell)]]
+- [[Clutch of Orcus (Spell)]]
+- [[Coat of Arms (Spell)]]
+- [[Cobra's Breath (Spell)]]
+- [[Cocoon (Spell)]]
+- [[Cold Fire (Spell)]]
+- [[Cold Snap (Spell)]]
+- [[Color Spray (Spell)]]
+- [[Column of Ice (Spell)]]
+- [[Comatose (Spell)]]
+- [[Combat Fluidness (Spell)]]
+- [[Combat Fluidness, Greater (Spell)]]
+- [[Combat Precognition (Spell)]]
+- [[Combat Prescience, Greater (Spell)]]
+- [[Combat Readiness (Spell)]]
+- [[Combined Talent (Spell)]]
+- [[Combust (Spell)]]
+- [[Cometfall (Spell)]]
+- [[Cometstrike (Spell)]]
+- [[Comfortable Cabin (Spell)]]
+- [[Command (Spell)]]
+- [[Command Plants (Spell)]]
+- [[Command Undead (Spell)]]
+- [[Command, Greater (Spell)]]
+- [[Commune (Spell)]]
+- [[Commune with Birds (Spell)]]
+- [[Commune with City (Spell)]]
+- [[Commune with Earth (Spell)]]
+- [[Commune with Greater Spirit (Spell)]]
+- [[Commune with Lesser Spirit (Spell)]]
+- [[Commune with Nature (Spell)]]
+- [[Commune with Texts (Spell)]]
+- [[Companion Life Link (Spell)]]
+- [[Compel Breath (Spell)]]
+- [[Compelling Question (Spell)]]
+- [[Comprehend Languages (Spell)]]
+- [[Concealing Aura (Spell)]]
+- [[Concurrent Infusions (Spell)]]
+- [[Condemnation (Spell)]]
+- [[Conditional Spell (Spell)]]
+- [[Conduit of Life (Spell)]]
+- [[Cone of Cold (Spell)]]
+- [[Cone of Dimness (Spell)]]
+- [[Cone of Euphoria (Spell)]]
+- [[Confess (Spell)]]
+- [[Confound (Spell)]]
+- [[Confusion (Spell)]]
+- [[Confusion, Lesser (Spell)]]
+- [[Confutation of the Demon (Spell)]]
+- [[Conjuration Foil (Spell)]]
+- [[Conjure Carriage (Spell)]]
+- [[Conjure Deadfall (Spell)]]
+- [[Conjure Greater Midnight Construct (Spell)]]
+- [[Conjure Ice Beast I (Spell)]]
+- [[Conjure Ice Beast II (Spell)]]
+- [[Conjure Ice Beast III (Spell)]]
+- [[Conjure Ice Beast IV (Spell)]]
+- [[Conjure Ice Beast IX (Spell)]]
+- [[Conjure Ice Beast V (Spell)]]
+- [[Conjure Ice Beast VI (Spell)]]
+- [[Conjure Ice Beast VII (Spell)]]
+- [[Conjure Ice Beast VIII (Spell)]]
+- [[Conjure Ice Object (Spell)]]
+- [[Conjure Lesser Midnight Construct (Spell)]]
+- [[Conjure Midnight Construct (Spell)]]
+- [[Consecrate (Spell)]]
+- [[Consecrate Battlefield (Spell)]]
+- [[Constricting Chains (Spell)]]
+- [[Construct Energy Ward (Spell)]]
+- [[Construct Energy Ward, Greater (Spell)]]
+- [[Construct Essence (Spell)]]
+- [[Construct Essence, Greater (Spell)]]
+- [[Construct Essence, Lesser (Spell)]]
+- [[Construct Essence, Mass Lesser (Spell)]]
+- [[Consume Likeness (Spell)]]
+- [[Consumptive Field (Spell)]]
+- [[Consumptive Field, Greater (Spell)]]
+- [[Contact Other Plane (Spell)]]
+- [[Contagion (Spell)]]
+- [[Contagion, Mass (Spell)]]
+- [[Contagious Flame (Spell)]]
+- [[Contagious Fog (Spell)]]
+- [[Contagious Touch (Spell)]]
+- [[Contest of Skill (Spell)]]
+- [[Contingency (Spell)]]
+- [[Contingent Action (Spell)]]
+- [[Contingent Energy Resistance (Spell)]]
+- [[Contingent Scroll (Spell)]]
+- [[Contingent Spell Lock (Spell)]]
+- [[Continual Flame (Spell)]]
+- [[Control Currents (Spell)]]
+- [[Control Darkness and Shadow (Spell)]]
+- [[Control Deathless (Spell)]]
+- [[Control Elemental (Spell)]]
+- [[Control Plants (Spell)]]
+- [[Control Sand (Spell)]]
+- [[Control Snow and Ice (Spell)]]
+- [[Control Temperature (Spell)]]
+- [[Control Undead (Spell)]]
+- [[Control Water (Spell)]]
+- [[Control Weather (Spell)]]
+- [[Control Winds (Spell)]]
+- [[Conversing Wind (Spell)]]
+- [[Convert Wand (Spell)]]
+- [[Conviction (Spell)]]
+- [[Conviction, Mass (Spell)]]
+- [[Cooling Breeze (Spell)]]
+- [[Coordinated Effort (Spell)]]
+- [[Coral Growth (Spell)]]
+- [[Corona of Cold (Spell)]]
+- [[Corporeal Instability (Spell)]]
+- [[Corpse Candle (Spell)]]
+- [[Corrosive Grasp (Spell)]]
+- [[Corruption Resistance (Spell)]]
+- [[Countermoon (Spell)]]
+- [[Counterspell Shield (Spell)]]
+- [[Countless Eyes (Spell)]]
+- [[Coward's Cowl (Spells)]]
+- [[Coward's Lament (Spell)]]
+- [[Crabwalk (Spell)]]
+- [[Crack Ice (Spell)]]
+- [[Crackling Sphere (Spell)]]
+- [[Crafter's Curse (Spell)]]
+- [[Crafter's Fortune (Spell)]]
+- [[Crafter's Gift (Spell)]]
+- [[Craftsmanship, Lesser (Spell)]]
+- [[Crawling Darkness (Spell)]]
+- [[Creaking Cacophony (Spell)]]
+- [[Create Chosen One (Spell)]]
+- [[Create Crossroads and Backroad (Spell)]]
+- [[Create Deathless (Spell)]]
+- [[Create Demiplane (Spell)]]
+- [[Create Demiplane, Greater (Spell)]]
+- [[Create Demiplane, Lesser (Spell)]]
+- [[Create Ectoplasm (Spell)]]
+- [[Create Faux Human (Spell)]]
+- [[Create Fetch (Spell)]]
+- [[Create Food and Water (Spell)]]
+- [[Create Greater Deathless (Spell)]]
+- [[Create Greater Undead (Spell)]]
+- [[Create Holds (Spell)]]
+- [[Create Lantern Archon (Spell)]]
+- [[Create Magic Tattoo (Spell)]]
+- [[Create Pit (Spell)]]
+- [[Create Sanctum (Spell)]]
+- [[Create Sanctum Sanctorum (Spell)]]
+- [[Create Soul Gem (Spell)]]
+- [[Create Soul Gem, Greater (Spell)]]
+- [[Create Spring (Spell)]]
+- [[Create Trap (Spell)]]
+- [[Create Treasure Map (Spell)]]
+- [[Create Undead (Spell)]]
+- [[Create Water (Spell)]]
+- [[Creeping Cold (Spell)]]
+- [[Creeping Cold, Greater (Spell)]]
+- [[Creeping Darkness (Spell)]]
+- [[Creeping Doom (Spell)]]
+- [[Creeping Ice (Spell)]]
+- [[Crimson Breath (Spell)]]
+- [[Crimson Confession (Spell)]]
+- [[Crisis of Confidence (Spell)]]
+- [[Critical Strike (Spell)]]
+- [[Crone's Grasp (Spell)]]
+- [[Crown of Brilliance (Spell)]]
+- [[Crown of Clarity (Spell)]]
+- [[Crown of Courage (Spell)]]
+- [[Crown of Flame (Spell)]]
+- [[Crown of Glory (Spell)]]
+- [[Crown of Might (Spell)]]
+- [[Crown of Protection (Spell)]]
+- [[Crown of Smiting (Spell)]]
+- [[Crown of the Grave (Spell)]]
+- [[Crown of Veils (Spell)]]
+- [[Crowning Touch (Spell)]]
+- [[Crucial Strike (Spell)]]
+- [[Cruel Disappointment (Spell)]]
+- [[Crumble (Spell)]]
+- [[Crunchy Snow (Spell)]]
+- [[Crusader's Edge (Spell)]]
+- [[Crushing Despair (Spell)]]
+- [[Crushing Fist of Spite (Spell)]]
+- [[Crushing Grip (Spell)]]
+- [[Crushing Hand (Spell)]]
+- [[Crushing Sphere (Spell)]]
+- [[Cry of Ysgard (Spell)]]
+- [[Cryptwarden's Grasp (Spell)]]
+- [[Crystal Eruption (Spell)]]
+- [[Crystal of Reflection (Spell)]]
+- [[Crystal Shard (Spell)]]
+- [[Crystal Shield (Spell)]]
+- [[Crystalbrittle (Spell)]]
+- [[Crystalline Memories (Spell)]]
+- [[Crysteel (Spell)]]
+- [[Cubehop (Spell)]]
+- [[Cup of Dust (Spell)]]
+- [[Cure Critical Wounds (Spell)]]
+- [[Cure Critical Wounds, Mass (Spell)]]
+- [[Cure Light Wounds (Spell)]]
+- [[Cure Light Wounds, Mass (Spell)]]
+- [[Cure Moderate Wounds (Spell)]]
+- [[Cure Moderate Wounds, Mass (Spell)]]
+- [[Cure Serious Wounds (Spell)]]
+- [[Cure Serious Wounds, Mass (Spell)]]
+- [[Curse of Arrow Attraction (Spell)]]
+- [[Curse of Burning Sleep (Spell)]]
+- [[Curse of Ill Fortune (Spell)]]
+- [[Curse of Ill Fortune, Mass (Spell)]]
+- [[Curse of Impending Blades (Spell)]]
+- [[Curse of Impending Blades, Mass (Spell)]]
+- [[Curse of the Elemental Lords (Spell)]]
+- [[Curse of the Putrid Husk (Spell)]]
+- [[Curse of Wounding (Spell)]]
+- [[Curse Water (Spell)]]
+- [[Cursed Blade (Spell)]]
+- [[Cursed Dragonmark (Spell)]]
+- [[Curtain of Light (Spell)]]
+- [[Cutting Hand (Spell)]]
+- [[Cyclonic Blast (Spell)]]
+- [[Cynosure (Spell)]]
+

@@ -1,0 +1,42 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Category: "eMRD"
+Tags:
+  - "Category/eMRD"
+parent:
+  - "C12 Gamemastering"
+up:
+  - "C12 Gamemastering"
+prev:
+  - "Alternative Races"
+RWtopicId: "Topic_16875"
+---
+# Ending the Campaign
+## Overview
+In the Pathfinder Roleplaying Game, 20th level represents the top end of power most mortals can hope to achieve, yet this certainly doesn’t mean that your campaign needs to go all the way to 20th level. If you aren’t running an open-ended campaign where the PCs set the pace and the goals, you should pick a level at which you wish the campaign’s story arc to end. Talk this over with your players to make sure you’re picking a level range that they’re comfortable with as well. Note that you can also extend or shorten the length of a campaign by selecting a slow or fast XP progression. If you choose to run a campaign with a level cap of lower than 20th, consider placing your new level cap at a point where it feels like the last level achievable is something worthy. Odd-numbered levels are generally better than even-numbered ones, since most spellcasters achieve a new level of spell on odd-numbered levels. Multiples of 5 are good as well, since these multiples represent the last level before a new iterative attack. Stopping at 9th level is a good choice, since that allows the players to achieve capstone abilities like a bard’s inspire greatness, a druid’s venom immunity, a sorcerer’s 3rd bloodline power, and *[[Teleport (Spell)|teleport]]* and *[[Raise Dead (Spell)|raise dead]]* as capstone spells. Likewise, 13th level works well, giving capstone abilities like a monk’s spell resistance or spells like *[[Teleport, Greater (Spell)|greater teleport]]*, *[[Limited Wish (Spell)|limited wish]]*, and *[[Resurrection (Spell)|resurrection]]*. Setting level caps of lower than 20th allows you to use them as soft limits—if your campaign’s story arc goes beyond what you’d originally planned, your players can continue to gain levels and new abilities beyond what you estimated. Since the classes presented in Chapter 3  of the *PF Core Rulebook* don’t have additional rules provided beyond 20th level, setting a campaign arc to end at 20th level requires great timing and, invariably, some manipulation on your part as GM to make sure the story winds up before the PCs reach enough XP to theoretically hit 21st level.
+
+**Beyond 20th Level**
+
+Although Chapter 3 of the *PF Core Rulebook* doesn’t describe what happens after 20th level, this isn’t to say that there are no resources available to you should you wish to continue your campaign on to 21st level and beyond. Rules for epic-level play like this exist in numerous products that are compatible with the Pathfinder Roleplaying Game, although in many cases these alternative rules can provide unanticipated problems. For example, if your campaign world is populated by creatures and villains who, at the upper limit of power, can challenge a 20th-level character, where will epic-level PCs go for challenges? You might be looking at creating an entirely new campaign setting, one set on different planes, planets, or dimensions from the one where your players spent their first 20 levels, and that’s a lot of work. 
+
+Paizo Publishing may eventually publish rules to take your game into these epic realms, but if you can’t wait and would rather not use existing open content rules for epic-level play, you can use the following brief guidelines to continue beyond 20th level. Note that these guidelines aren’t robust enough to keep the game vibrant and interesting on their own for much longer past 20th level, but they should do in a pinch for a campaign that needs, say, 22 or 23 experience levels to wrap up. Likewise, you can use these rules to create super-powerful NPCs for 20th-level characters to face.
+
+**Experience Points**: To gain a level beyond 20th, a character must double the experience points needed to achieve the previous level. Thus, assuming the medium XP progression, a 20th-level character needs 2,100,000 XP to become 21st level, since he needed 1,050,000 XP to reach 20th level from 19th. He’d then need 4,200,000 XP to reach 22nd level, 8,400,000 XP to reach 23rd, and so on.
+
+**Scaling Powers**: Hit dice, base attack bonuses, and saving throws continue to increase at the same rate beyond 20th level, as appropriate for the class in question. Note that no character can have more than 4 attacks based on its base attack bonus. Note also that, before long, the difference between good saving throws and poor saving throws becomes awkwardly large—the further you get from 20th level, the more noticeable this difference grows, and for high-level characters, bolstering their poor saving throws should become increasingly important. Class abilities that have a set, increasing rate, such as a barbarian’s damage reduction, a fighter’s bonus feats and weapon training, a paladin’s smite evil, or a rogue’s sneak attack continue to progress at the appropriate rate.
+
+**Spells**: A spellcaster’s caster level continues to increase by one for each level beyond 20th level. Every odd-numbered level, a spellcaster gains access to a new level of spell one above his previous maximum level, gaining one spell slot in that new level. These spell slots can be used to prepare or cast spells adjusted by metamagic feats or any known spell of lower levels. Every even-numbered level, a spellcaster gains additional spell slots equal to the highest level spell he can currently cast. He can split these new slots any way he wants among the slots he currently has access to.
+
+For example, a 21st-level wizard gains a single 10th-level spell slot, in which he can prepare any spell of level 1st through 9th, or in which he can prepare a metamagic spell that results in an effective spell level of 10 (such as extended *[[Summon Monster IX (Spell)|summon monster IX]]*, or quickened *[[Disintegrate (Spell)|disintegrate]]*). At 22nd level he gains 10 spell-levels’ worth of new spell slots, and can gain 10 1st-level spells per day, two 5th-level spells per day, one 7th-level and one 3rd-level spell per day, or one more 10th-level spell per day. At 23rd level, he gains a single 11th-level spell slot, and so on.
+
+Spellcasters who have a limited number of spells known (such as bards and sorcerers) can opt out of the benefits they gain (either a new level of spells or a number of spell slots) for that level and in exchange learn two more spells of any level they can currently cast.
+
+You might want to further adjust the rate of spell level gain for classes (like paladins and rangers) who gain spells more slowly than more dedicated spellcaster classes.
+
+**Multiclassing/Prestige Classes**: The simplest way to progress beyond 20th level is to simply multiclass or take levels in a prestige class, in which case you gain all of the abilities of the new class level normally. This effectively treats 20th level as a hard limit for class level, but not as a hard limit for total character level.
+
+
+---
+## Tags
+#Rule/OGL #Sources/PF-Core-Rulebook #Publisher/Paizo #Rule/Core #Rule/fm3 #Rule-System/Pathfinder
+

@@ -1,0 +1,21 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Aliases:
+  - "Tatzlwyrm"
+  - "Tatzlwyrms"
+Category: "Creature"
+Suffix: "Bestiary 3"
+Tags:
+  - "Category/Creature"
+parent:
+  - "Creatures for Pathfinder Bestiary 3"
+up:
+  - "Creatures for Pathfinder Bestiary 3"
+prev:
+  - "Taotieh (Bestiary 3)"
+next:
+  - "Terra-Cotta Soldier (Bestiary 3)"
+RWtopicId: "Topic_10842"
+---
+# Tatzlwyrm (Bestiary 3)
+## Overview

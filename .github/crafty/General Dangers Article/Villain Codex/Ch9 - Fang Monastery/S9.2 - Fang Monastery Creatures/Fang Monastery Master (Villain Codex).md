@@ -1,0 +1,21 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Aliases:
+  - "Fang Monastery Master"
+  - "Fang Monastery Masters"
+Category: "Creature"
+Suffix: "Villain Codex"
+Tags:
+  - "Category/Creature"
+parent:
+  - "S9.2 - Fang Monastery Creatures"
+up:
+  - "S9.2 - Fang Monastery Creatures"
+prev:
+  - "Fang Monastery Infiltrator (Villain Codex)"
+next:
+  - "Fang Monastery Mystic (Villain Codex)"
+RWtopicId: "Topic_3639"
+---
+# Fang Monastery Master (Villain Codex)
+## Overview

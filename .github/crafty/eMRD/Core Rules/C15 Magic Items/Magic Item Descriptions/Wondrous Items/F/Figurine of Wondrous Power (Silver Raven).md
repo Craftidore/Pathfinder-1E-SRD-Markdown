@@ -1,0 +1,46 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Category: "Wondrous Items"
+Tags:
+  - "Category/Wondrous-Items"
+parent:
+  - "F"
+up:
+  - "F"
+prev:
+  - "Figurine of Wondrous Power (Serpentine Owl)"
+next:
+  - "Figurine of Wondrous Power (Golden Lions)"
+RWtopicId: "Topic_18128"
+---
+# Figurine of Wondrous Power (Silver Raven)
+## Overview
+**Aura** moderate enchantment and transmutation; **CL** 6th
+
+**Slot** —
+
+**Price** 3,800 gp
+
+**Weight** 1 lb.
+
+**Description**
+
+A *figurine of wondrous power* appears to be a miniature statuette of a creature an inch or so high (with one exception). When the figurine is tossed down and the correct command word spoken, it becomes a living creature of normal size (except when noted otherwise below). The creature obeys and serves its owner. Unless stated otherwise, the creature understands Common but does not speak.
+
+If a *figurine of wondrous power* is broken or destroyed in its statuette form, it is forever ruined. All magic is lost, its power departed. If slain in animal form, the figurine simply reverts to a statuette that can be used again at a later time.
+
+**Silver Raven:** This silver figurine turns into a raven on command (but it retains its metallic consistency, which gives it hardness 10). Another command sends it off into the air, bearing a message just like a creature affected by an *[[Animal Messenger (Spell)|animal messenger]]* spell. If not commanded to carry a message, the raven obeys the commands of its owner, although it has no special powers or telepathic abilities. It can maintain its nonfigurine status for only 24 hours per week, but the duration need not be continuous.
+
+**Construction**
+
+**Requirements** [[Craft Wondrous Item (Feat)|Craft Wondrous Item]], *[[Animate Objects (Spell)|animate objects]]*
+
+**Cost** 1,900 gp
+
+**Source:** PF Core Rulebook, pg. 514
+
+
+---
+## Tags
+#Rule-System/Pathfinder #Sources/PF-Core-Rulebook #Special-Item-Type/Magic-Item #Magic-Item-Type/Wondrous-Item #Rule/Wondrous-Item #Publisher/Paizo #Rule/Core #Magic-Item-Slot/None #Price-Band/2-001---4-000-gp
+

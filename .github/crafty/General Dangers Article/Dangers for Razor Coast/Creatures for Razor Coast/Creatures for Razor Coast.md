@@ -1,0 +1,195 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Category: "General Dangers Article"
+Tags:
+  - "Category/General-Dangers-Article"
+parent:
+  - "Dangers for Razor Coast"
+up:
+  - "Dangers for Razor Coast"
+next:
+  - "General Dangers Articles for Razor Coast"
+down:
+  - "Achimayen (RazorCoast)"
+  - "Albatross Sailor (RazorCoast)"
+  - "Angler Scrag (RazorCoast)"
+  - "Bale Shark (RazorCoast)"
+  - "Benthic Serpent (RazorCoast)"
+  - "Breath Taker (RazorCoast)"
+  - "Bronk Swarm (RazorCoast)"
+  - "Crabman (RazorCoast)"
+  - "Dajobas Worshipper (RazorCoast)"
+  - "Draconic Tyrant (RazorCoast)"
+  - "Dragonsmoke Pusher (RazorCoast)"
+  - "Dragoon (RazorCoast)"
+  - "Dragoon Sergeant (RazorCoast)"
+  - "Dragoon Sergeant (Human Form) (RazorCoast)"
+  - "Dragoon Sergeant (Hybrid Form) (RazorCoast)"
+  - "Dragoon Sergeant (Shark Form) (RazorCoast)"
+  - "Dragoon Sorcerer (RazorCoast)"
+  - "Dragoon Sorcerer (Animal Form) (RazorCoast)"
+  - "Dragoon Sorcerer (Human Form) (RazorCoast)"
+  - "Dragoon Sorcerer (Hybrid Form) (RazorCoast)"
+  - "Dread Lacedon (RazorCoast)"
+  - "Drolsharg (RazorCoast)"
+  - "Electric Eel, Dire (RazorCoast)"
+  - "Enforcer (RazorCoast)"
+  - "Fah-Jee (RazorCoast)"
+  - "Fah-Jee Huna (RazorCoast)"
+  - "Fah-Jee Totem Warrior (RazorCoast)"
+  - "Fanged Sea Serpent (RazorCoast)"
+  - "Flametooth (RazorCoast)"
+  - "Giant, Volcano (RazorCoast)"
+  - "Harpy Archer (RazorCoast)"
+  - "Hawani (RazorCoast)"
+  - "Hydrodaemon (RazorCoast)"
+  - "Iku-Tursas, Spawn of Dajobas (RazorCoast)"
+  - "Imandwa Ravager (RazorCoast)"
+  - "Kapoacinth (RazorCoast)"
+  - "Karikanti (RazorCoast)"
+  - "Kelp Devil, Giant Advanced (RazorCoast)"
+  - "Kelpie, Advanced (RazorCoast)"
+  - "Kraken, Sky (RazorCoast)"
+  - "Living Iceberg (RazorCoast)"
+  - "Locathah Warrior (RazorCoast)"
+  - "Manta-Core (RazorCoast)"
+  - "Necroworm (RazorCoast)"
+  - "Necroworm Queen (RazorCoast)"
+  - "Necroworm, Human Corpse Inhabited by (RazorCoast)"
+  - "Nightslink (Animal Form) (RazorCoast)"
+  - "Nightslink (Human Form) (RazorCoast)"
+  - "Nightslink (Hybrid Form) (RazorCoast)"
+  - "Omargwato Cyclops (RazorCoast)"
+  - "Orc, Girallon-Sired Greenskin (RazorCoast)"
+  - "Otyugh, Wave-Cursed (RazorCoast)"
+  - "Phasm (RazorCoast)"
+  - "Pirate (RazorCoast)"
+  - "Pirate Captain (RazorCoast)"
+  - "Qualmaga's Whale (RazorCoast)"
+  - "Razortooth Enforcer (Animal Form) (RazorCoast)"
+  - "Razortooth Enforcer (Human Form) (RazorCoast)"
+  - "Razortooth Enforcer (Hybrid Form) (RazorCoast)"
+  - "Razortooth Raider (Animal Form) (RazorCoast)"
+  - "Razortooth Raider (Human Form) (RazorCoast)"
+  - "Razortooth Raider (Hybrid Form) (RazorCoast)"
+  - "Sahuagin Acolyte (RazorCoast)"
+  - "Sahuagin General (RazorCoast)"
+  - "Sahuagin Greater Acolyte (RazorCoast)"
+  - "Sahuagin Raider (RazorCoast)"
+  - "Salty Dog (RazorCoast)"
+  - "Scorpion, Giant Emperor (RazorCoast)"
+  - "Shark, Fiendish Dire (RazorCoast)"
+  - "Shark, Huge (RazorCoast)"
+  - "Skeleton, Constrictor Snake (RazorCoast)"
+  - "Skeleton, Giant Advanced Whale (RazorCoast)"
+  - "Skeleton, Giant Constrictor Snake (RazorCoast)"
+  - "Slough Shade (RazorCoast)"
+  - "Smuggler (RazorCoast)"
+  - "Spriggan (RazorCoast)"
+  - "Spriggan, Enlarged (RazorCoast)"
+  - "Swarm, Roachlord (RazorCoast)"
+  - "Tulita Tribesman (RazorCoast)"
+  - "Tulita Warrior (RazorCoast)"
+  - "Tulita Warrior Fel Lycanthrope (Animal Form) (RazorCoast)"
+  - "Tulita Warrior Fel Lycanthrope (Human Form) (RazorCoast)"
+  - "Tulita Warrior Fel Lycanthrope (Hybrid Form) (RazorCoast)"
+  - "Whaler (RazorCoast)"
+  - "Zombie, Advanced Orca Fast (RazorCoast)"
+  - "Zombie, Minotaur (RazorCoast)"
+  - "1 - Bestiary"
+  - "Dragoon Guard (RazorCoast)"
+RWtopicId: "Topic_5868"
+---
+# Creatures for Razor Coast
+## Overview
+---
+## Governed Content
+- [[1 - Bestiary]]
+- [[Achimayen (RazorCoast)]]
+- [[Albatross Sailor (RazorCoast)]]
+- [[Angler Scrag (RazorCoast)]]
+- [[Bale Shark (RazorCoast)]]
+- [[Benthic Serpent (RazorCoast)]]
+- [[Breath Taker (RazorCoast)]]
+- [[Bronk Swarm (RazorCoast)]]
+- [[Crabman (RazorCoast)]]
+- [[Dajobas Worshipper (RazorCoast)]]
+- [[Draconic Tyrant (RazorCoast)]]
+- [[Dragonsmoke Pusher (RazorCoast)]]
+- [[Dragoon (RazorCoast)]]
+- [[Dragoon Guard (RazorCoast)]]
+- [[Dragoon Sergeant (Human Form) (RazorCoast)]]
+- [[Dragoon Sergeant (Hybrid Form) (RazorCoast)]]
+- [[Dragoon Sergeant (RazorCoast)]]
+- [[Dragoon Sergeant (Shark Form) (RazorCoast)]]
+- [[Dragoon Sorcerer (Animal Form) (RazorCoast)]]
+- [[Dragoon Sorcerer (Human Form) (RazorCoast)]]
+- [[Dragoon Sorcerer (Hybrid Form) (RazorCoast)]]
+- [[Dragoon Sorcerer (RazorCoast)]]
+- [[Dread Lacedon (RazorCoast)]]
+- [[Drolsharg (RazorCoast)]]
+- [[Electric Eel, Dire (RazorCoast)]]
+- [[Enforcer (RazorCoast)]]
+- [[Fah-Jee (RazorCoast)]]
+- [[Fah-Jee Huna (RazorCoast)]]
+- [[Fah-Jee Totem Warrior (RazorCoast)]]
+- [[Fanged Sea Serpent (RazorCoast)]]
+- [[Flametooth (RazorCoast)]]
+- [[Giant, Volcano (RazorCoast)]]
+- [[Harpy Archer (RazorCoast)]]
+- [[Hawani (RazorCoast)]]
+- [[Hydrodaemon (RazorCoast)]]
+- [[Iku-Tursas, Spawn of Dajobas (RazorCoast)]]
+- [[Imandwa Ravager (RazorCoast)]]
+- [[Kapoacinth (RazorCoast)]]
+- [[Karikanti (RazorCoast)]]
+- [[Kelp Devil, Giant Advanced (RazorCoast)]]
+- [[Kelpie, Advanced (RazorCoast)]]
+- [[Kraken, Sky (RazorCoast)]]
+- [[Living Iceberg (RazorCoast)]]
+- [[Locathah Warrior (RazorCoast)]]
+- [[Manta-Core (RazorCoast)]]
+- [[Necroworm (RazorCoast)]]
+- [[Necroworm Queen (RazorCoast)]]
+- [[Necroworm, Human Corpse Inhabited by (RazorCoast)]]
+- [[Nightslink (Animal Form) (RazorCoast)]]
+- [[Nightslink (Human Form) (RazorCoast)]]
+- [[Nightslink (Hybrid Form) (RazorCoast)]]
+- [[Omargwato Cyclops (RazorCoast)]]
+- [[Orc, Girallon-Sired Greenskin (RazorCoast)]]
+- [[Otyugh, Wave-Cursed (RazorCoast)]]
+- [[Phasm (RazorCoast)]]
+- [[Pirate (RazorCoast)]]
+- [[Pirate Captain (RazorCoast)]]
+- [[Qualmaga's Whale (RazorCoast)]]
+- [[Razortooth Enforcer (Animal Form) (RazorCoast)]]
+- [[Razortooth Enforcer (Human Form) (RazorCoast)]]
+- [[Razortooth Enforcer (Hybrid Form) (RazorCoast)]]
+- [[Razortooth Raider (Animal Form) (RazorCoast)]]
+- [[Razortooth Raider (Human Form) (RazorCoast)]]
+- [[Razortooth Raider (Hybrid Form) (RazorCoast)]]
+- [[Sahuagin Acolyte (RazorCoast)]]
+- [[Sahuagin General (RazorCoast)]]
+- [[Sahuagin Greater Acolyte (RazorCoast)]]
+- [[Sahuagin Raider (RazorCoast)]]
+- [[Salty Dog (RazorCoast)]]
+- [[Scorpion, Giant Emperor (RazorCoast)]]
+- [[Shark, Fiendish Dire (RazorCoast)]]
+- [[Shark, Huge (RazorCoast)]]
+- [[Skeleton, Constrictor Snake (RazorCoast)]]
+- [[Skeleton, Giant Advanced Whale (RazorCoast)]]
+- [[Skeleton, Giant Constrictor Snake (RazorCoast)]]
+- [[Slough Shade (RazorCoast)]]
+- [[Smuggler (RazorCoast)]]
+- [[Spriggan (RazorCoast)]]
+- [[Spriggan, Enlarged (RazorCoast)]]
+- [[Swarm, Roachlord (RazorCoast)]]
+- [[Tulita Tribesman (RazorCoast)]]
+- [[Tulita Warrior (RazorCoast)]]
+- [[Tulita Warrior Fel Lycanthrope (Animal Form) (RazorCoast)]]
+- [[Tulita Warrior Fel Lycanthrope (Human Form) (RazorCoast)]]
+- [[Tulita Warrior Fel Lycanthrope (Hybrid Form) (RazorCoast)]]
+- [[Whaler (RazorCoast)]]
+- [[Zombie, Advanced Orca Fast (RazorCoast)]]
+- [[Zombie, Minotaur (RazorCoast)]]
+

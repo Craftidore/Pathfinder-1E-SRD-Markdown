@@ -1,0 +1,32 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Category: "Special Materials"
+Tags:
+  - "Category/Special-Materials"
+parent:
+  - "Special Materials"
+up:
+  - "Special Materials"
+prev:
+  - "Darkwood"
+next:
+  - "Iron, Cold"
+RWtopicId: "Topic_16784"
+---
+# Dragonhide
+## Overview
+Armorsmiths can work with the hides of dragons to produce armor or shields of masterwork quality. One dragon produces enough hide for a single suit of masterwork hide armor for a creature one size category smaller than the dragon. By selecting only choice scales and bits of hide, an armorsmith can produce one suit of masterwork [[Banded Mail|banded mail]] for a creature two sizes smaller, one suit of masterwork half-plate for a creature three sizes smaller, or one masterwork breastplate or suit of full plate for a creature four sizes smaller. In each case, enough hide is available to produce a light or heavy masterwork shield in addition to the armor, provided that the dragon is Large or larger. If the dragonhide comes from a dragon that had immunity to an energy type, the armor is also immune to that energy type, although this does not confer any protection to the wearer. If the armor or shield is later given the ability to protect the wearer against that energy type, the cost to add such protection is reduced by 25%.
+
+Because dragonhide armor isn’t made of metal, druids can wear it without penalty.
+
+Dragonhide armor costs twice as much as masterwork armor of that type, but it takes no longer to make than ordinary armor of that type (double all Craft results).
+
+Dragonhide has 10 hit points per inch of thickness and hardness 10. The hide of a dragon is typically between 1/2 inch and 1 inch thick.
+
+**Source:** PF Core Rulebook, pg. 154
+
+
+---
+## Tags
+#Rule/OGL #Sources/PF-Core-Rulebook #Rule/Core #Rule/Special-Material #Publisher/Paizo #Rule-System/Pathfinder
+

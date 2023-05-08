@@ -1,0 +1,405 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Category: "Spells"
+Tags:
+  - "Category/Spells"
+parent:
+  - "Spell Descriptions (Spells)"
+up:
+  - "Spell Descriptions (Spells)"
+prev:
+  - "H"
+next:
+  - "J"
+down:
+  - "Imbue Hex (Spell)"
+  - "Ill Omen (Spell)"
+  - "Innocence (Spell)"
+  - "Instant Armor (Spell)"
+  - "Instant Enemy (Spell)"
+  - "Invigorate, Mass (Spell)"
+  - "Ilyykur's Mantle (Spell)"
+  - "Image Swap (Spell)"
+  - "Investigative Mind (Spell)"
+  - "Instant Knowledge (Spell)"
+  - "Invisibility Alarm (Spell)"
+  - "Instant Summons (Spell)"
+  - "Ice Assassin (Spell)"
+  - "Identify (Spell)"
+  - "Illusory Script (Spell)"
+  - "Invisibility, Greater (Spell)"
+  - "Irresistible Dance (Spell)"
+  - "Invigorate (Spell)"
+  - "Infallible Servant (Spell)"
+  - "Ignite Dragonmark (Spell)"
+  - "Icy Claw (Spell)"
+  - "Inflict Light Damage (Spell)"
+  - "Inflict Critical Damage (Spell)"
+  - "Inflict Moderate Damage (Spell)"
+  - "Inflict Serious Damage (Spell)"
+  - "Iron Construct (Spell)"
+  - "Item Alteration (Spell)"
+  - "Invoke Elemental (Spell)"
+  - "Intensify Manifest Zone (Spell)"
+  - "Inner Beauty (Spell)"
+  - "Investiture of the Amnizu (Spell)"
+  - "Investiture of the Barbed Devil (Spell)"
+  - "Investiture of the Bearded Devil (Spell)"
+  - "Investiture of the Chain Devil (Spell)"
+  - "Investiture of the Erinyes (Spell)"
+  - "Investiture of the Harvester Devil (Spell)"
+  - "Investiture of the Hellfire Engine (Spell)"
+  - "Investiture of the Horned Devil (Spell)"
+  - "Investiture of the Ice Devil (Spell)"
+  - "Investiture of the Malebranche (Spell)"
+  - "Investiture of the Narzugon (Spell)"
+  - "Investiture of the Orthon (Spell)"
+  - "Investiture of the Pit Fiend (Spell)"
+  - "Investiture of the Spined Devil (Spell)"
+  - "Investiture of the Steel Devil (Spell)"
+  - "Instant of Power (Spell)"
+  - "Infernal Healing (Spell)"
+  - "Infernal Healing, Greater (Spell)"
+  - "Ironpage (Spell)"
+  - "Ice Axe (Spell)"
+  - "Ice Claw (Spell)"
+  - "Ice Dagger (Spell)"
+  - "Ice Flowers (Spell)"
+  - "Ice Gauntlet (Spell)"
+  - "Ice Knife (Spell)"
+  - "Icelance (Spell)"
+  - "Illusory Feast (Spell)"
+  - "Illusory Pit (Spell)"
+  - "Imbue Familiar with Spell Ability (Spell)"
+  - "Imperious Glare (Spell)"
+  - "Implacable Pursuer (Spell)"
+  - "Improvisation (Spell)"
+  - "Incite (Spell)"
+  - "Incorporeal Enhancement (Spell)"
+  - "Incorporeal Nova (Spell)"
+  - "Indomitability (Spell)"
+  - "Infernal Threnody (Spell)"
+  - "Infernal Transformation, Lesser (Spell)"
+  - "Infernal Transformation (Spell)"
+  - "Infernal Wound (Spell)"
+  - "Inferno (Spell)"
+  - "Infestation of Maggots (Spell)"
+  - "Inhibit (Spell)"
+  - "Inky Cloud (Spell)"
+  - "Insidious Rhythm (Spell)"
+  - "Insightful Feint (Spell)"
+  - "Inspirational Boost (Spell)"
+  - "Instant Locksmith (Spell)"
+  - "Instant Search (Spell)"
+  - "Interplanar Message (Spell)"
+  - "Invisibility, Swift (Spell)"
+  - "Iron Bones (Spell)"
+  - "Iron Silence (Spell)"
+  - "Ironguts (Spell)"
+  - "Ironthunder Horn (Spell)"
+  - "Improved Unseen Servant (Spell)"
+  - "Insignia of Alarm (Spell)"
+  - "Insignia of Blessing (Spell)"
+  - "Insignia of Healing (Spell)"
+  - "Insignia of Warding (Spell)"
+  - "Illusion Purge (Spell)"
+  - "Inflict Light Damage, Mass (Spell)"
+  - "Inflict Moderate Damage, Mass (Spell)"
+  - "Insidious Insight (Spell)"
+  - "Insidious Suggestion (Spell)"
+  - "Involuntary Shapeshifting (Spell)"
+  - "Irian's Light (Spell)"
+  - "Instant Diversion (Spell)"
+  - "Impede Sun's Brilliance (Spell)"
+  - "Ironguard, Lesser (Spell)"
+  - "Ironguard (Spell)"
+  - "Impart Mind (Spell)"
+  - "Interplanar Telepathic Bond (Spell)"
+  - "Ioun Circuit (Spell)"
+  - "Incarnate Construct (Spell)"
+  - "Improve Poison, Greater (Spell)"
+  - "Inevitable Causality (Spell)"
+  - "Insightful Damage (Spell)"
+  - "Insightful Strikes (Spell)"
+  - "Invest Construct (Spell)"
+  - "Implosion (Spell)"
+  - "Imprisonment (Spell)"
+  - "Incendiary Cloud (Spell)"
+  - "Inflict Light Wounds (Spell)"
+  - "Inflict Critical Wounds (Spell)"
+  - "Inflict Critical Wounds, Mass (Spell)"
+  - "Inflict Light Wounds, Mass (Spell)"
+  - "Inflict Moderate Wounds (Spell)"
+  - "Inflict Moderate Wounds, Mass (Spell)"
+  - "Invisibility, Mass (Spell)"
+  - "Incite Animals (Spell)"
+  - "Impeding Stones (Spell)"
+  - "Ice Blast (Spell)"
+  - "Internal Fire (Spell)"
+  - "Iron Scarf (Spell)"
+  - "Iconic Manifestation (Spell)"
+  - "Impede (Spell)"
+  - "Interfaith Blessing (Spell)"
+  - "Immediate Assistance (Spell)"
+  - "Incendiary Slime (Spell)"
+  - "Incendiary Surge (Spell)"
+  - "Interminable Echo (Spell)"
+  - "Imperative Ambulation (Spell)"
+  - "Inquisition (Spell)"
+  - "Inspired Aim (Spell)"
+  - "Interposing Hand (Spell)"
+  - "Ice Storm (Spell)"
+  - "Illusory Wall (Spell)"
+  - "Imbue With Spell Ability (Spell)"
+  - "Inflict Serious Wounds (Spell)"
+  - "Inflict Serious Wounds, Mass ((Spell))"
+  - "Insect Plague (Spell)"
+  - "Invisibility Purge (Spell)"
+  - "Invisibility Sphere (Spell)"
+  - "Ironwood (Spell)"
+  - "Immortality, Greater (Spell)"
+  - "Incorporeal Defense (Spell)"
+  - "Identify Transgressor (Spell)"
+  - "Impotent Possessor (Spell)"
+  - "Imprison Possessor (Spell)"
+  - "Iron Body (Spell)"
+  - "Ice Spears (Spell)"
+  - "Ironbeard (Spell)"
+  - "Improve Trap (Spell)"
+  - "Incorporeal Disharmonics (Spell)"
+  - "I Smell Your Fear (Spell)"
+  - "Instant Refuge (Spell)"
+  - "Imprison Soul (Spell)"
+  - "Invoke the Cerulean Sign (Spell)"
+  - "Invoke Magic (Spell)"
+  - "Indisputable Possession (Spell)"
+  - "Incarnum Apotheosis (Spell)"
+  - "Incarnum Arc (Spell)"
+  - "Incarnum Bladestorm (S[e;;)"
+  - "Incarnum Vigor (Spell)"
+  - "Incarnum Weapon (Spell)"
+  - "Invisibility to Spirits (Spell)"
+  - "Invisibility to Enemies"
+  - "Ice Castle (Spell)"
+  - "Ice Darts (Spell)"
+  - "Ice Rift (Spell)"
+  - "Ice Shape (Spell)"
+  - "Ice Shield (Spell)"
+  - "Ice Ship (Spell)"
+  - "Ice Skate (Spell)"
+  - "Ice Slick (Spell)"
+  - "Ice Web (Spell)"
+  - "Iceberg (Spell)"
+  - "Icicle (Spell)"
+  - "Ivory Flesh, Lesser (Spell)"
+  - "Ice to Flesh (Spell)"
+  - "Invisibility (Spell)"
+  - "Insanity (Spell)"
+  - "Ironwood, Greater (Spell)"
+  - "Invisibility, Superior (Spell)"
+  - "Incite Riot (Spell)"
+  - "Increase Virulence (Spell)"
+  - "Inevitable Defeat (Spell)"
+  - "Insight of Good Fortune (Spell)"
+  - "Invest Light Protection (Spell)"
+  - "Invest Heavy Protection (Spell)"
+  - "Invest Moderate Protection (Spell)"
+RWtopicId: "Topic_16022"
+---
+# I
+## Overview
+---
+## Governed Content
+- [[I Smell Your Fear (Spell)]]
+- [[Ice Assassin (Spell)]]
+- [[Ice Axe (Spell)]]
+- [[Ice Blast (Spell)]]
+- [[Ice Castle (Spell)]]
+- [[Ice Claw (Spell)]]
+- [[Ice Dagger (Spell)]]
+- [[Ice Darts (Spell)]]
+- [[Ice Flowers (Spell)]]
+- [[Ice Gauntlet (Spell)]]
+- [[Ice Knife (Spell)]]
+- [[Ice Rift (Spell)]]
+- [[Ice Shape (Spell)]]
+- [[Ice Shield (Spell)]]
+- [[Ice Ship (Spell)]]
+- [[Ice Skate (Spell)]]
+- [[Ice Slick (Spell)]]
+- [[Ice Spears (Spell)]]
+- [[Ice Storm (Spell)]]
+- [[Ice to Flesh (Spell)]]
+- [[Ice Web (Spell)]]
+- [[Iceberg (Spell)]]
+- [[Icelance (Spell)]]
+- [[Icicle (Spell)]]
+- [[Iconic Manifestation (Spell)]]
+- [[Icy Claw (Spell)]]
+- [[Identify (Spell)]]
+- [[Identify Transgressor (Spell)]]
+- [[Ignite Dragonmark (Spell)]]
+- [[Ill Omen (Spell)]]
+- [[Illusion Purge (Spell)]]
+- [[Illusory Feast (Spell)]]
+- [[Illusory Pit (Spell)]]
+- [[Illusory Script (Spell)]]
+- [[Illusory Wall (Spell)]]
+- [[Ilyykur's Mantle (Spell)]]
+- [[Image Swap (Spell)]]
+- [[Imbue Familiar with Spell Ability (Spell)]]
+- [[Imbue Hex (Spell)]]
+- [[Imbue With Spell Ability (Spell)]]
+- [[Immediate Assistance (Spell)]]
+- [[Immortality, Greater (Spell)]]
+- [[Impart Mind (Spell)]]
+- [[Impede (Spell)]]
+- [[Impede Sun's Brilliance (Spell)]]
+- [[Impeding Stones (Spell)]]
+- [[Imperative Ambulation (Spell)]]
+- [[Imperious Glare (Spell)]]
+- [[Implacable Pursuer (Spell)]]
+- [[Implosion (Spell)]]
+- [[Impotent Possessor (Spell)]]
+- [[Imprison Possessor (Spell)]]
+- [[Imprison Soul (Spell)]]
+- [[Imprisonment (Spell)]]
+- [[Improve Poison, Greater (Spell)]]
+- [[Improve Trap (Spell)]]
+- [[Improved Unseen Servant (Spell)]]
+- [[Improvisation (Spell)]]
+- [[Incarnate Construct (Spell)]]
+- [[Incarnum Apotheosis (Spell)]]
+- [[Incarnum Arc (Spell)]]
+- [[Incarnum Bladestorm (S[e;;)]]
+- [[Incarnum Vigor (Spell)]]
+- [[Incarnum Weapon (Spell)]]
+- [[Incendiary Cloud (Spell)]]
+- [[Incendiary Slime (Spell)]]
+- [[Incendiary Surge (Spell)]]
+- [[Incite (Spell)]]
+- [[Incite Animals (Spell)]]
+- [[Incite Riot (Spell)]]
+- [[Incorporeal Defense (Spell)]]
+- [[Incorporeal Disharmonics (Spell)]]
+- [[Incorporeal Enhancement (Spell)]]
+- [[Incorporeal Nova (Spell)]]
+- [[Increase Virulence (Spell)]]
+- [[Indisputable Possession (Spell)]]
+- [[Indomitability (Spell)]]
+- [[Inevitable Causality (Spell)]]
+- [[Inevitable Defeat (Spell)]]
+- [[Infallible Servant (Spell)]]
+- [[Infernal Healing (Spell)]]
+- [[Infernal Healing, Greater (Spell)]]
+- [[Infernal Threnody (Spell)]]
+- [[Infernal Transformation (Spell)]]
+- [[Infernal Transformation, Lesser (Spell)]]
+- [[Infernal Wound (Spell)]]
+- [[Inferno (Spell)]]
+- [[Infestation of Maggots (Spell)]]
+- [[Inflict Critical Damage (Spell)]]
+- [[Inflict Critical Wounds (Spell)]]
+- [[Inflict Critical Wounds, Mass (Spell)]]
+- [[Inflict Light Damage (Spell)]]
+- [[Inflict Light Damage, Mass (Spell)]]
+- [[Inflict Light Wounds (Spell)]]
+- [[Inflict Light Wounds, Mass (Spell)]]
+- [[Inflict Moderate Damage (Spell)]]
+- [[Inflict Moderate Damage, Mass (Spell)]]
+- [[Inflict Moderate Wounds (Spell)]]
+- [[Inflict Moderate Wounds, Mass (Spell)]]
+- [[Inflict Serious Damage (Spell)]]
+- [[Inflict Serious Wounds (Spell)]]
+- [[Inflict Serious Wounds, Mass ((Spell))]]
+- [[Inhibit (Spell)]]
+- [[Inky Cloud (Spell)]]
+- [[Inner Beauty (Spell)]]
+- [[Innocence (Spell)]]
+- [[Inquisition (Spell)]]
+- [[Insanity (Spell)]]
+- [[Insect Plague (Spell)]]
+- [[Insidious Insight (Spell)]]
+- [[Insidious Rhythm (Spell)]]
+- [[Insidious Suggestion (Spell)]]
+- [[Insight of Good Fortune (Spell)]]
+- [[Insightful Damage (Spell)]]
+- [[Insightful Feint (Spell)]]
+- [[Insightful Strikes (Spell)]]
+- [[Insignia of Alarm (Spell)]]
+- [[Insignia of Blessing (Spell)]]
+- [[Insignia of Healing (Spell)]]
+- [[Insignia of Warding (Spell)]]
+- [[Inspirational Boost (Spell)]]
+- [[Inspired Aim (Spell)]]
+- [[Instant Armor (Spell)]]
+- [[Instant Diversion (Spell)]]
+- [[Instant Enemy (Spell)]]
+- [[Instant Knowledge (Spell)]]
+- [[Instant Locksmith (Spell)]]
+- [[Instant of Power (Spell)]]
+- [[Instant Refuge (Spell)]]
+- [[Instant Search (Spell)]]
+- [[Instant Summons (Spell)]]
+- [[Intensify Manifest Zone (Spell)]]
+- [[Interfaith Blessing (Spell)]]
+- [[Interminable Echo (Spell)]]
+- [[Internal Fire (Spell)]]
+- [[Interplanar Message (Spell)]]
+- [[Interplanar Telepathic Bond (Spell)]]
+- [[Interposing Hand (Spell)]]
+- [[Invest Construct (Spell)]]
+- [[Invest Heavy Protection (Spell)]]
+- [[Invest Light Protection (Spell)]]
+- [[Invest Moderate Protection (Spell)]]
+- [[Investigative Mind (Spell)]]
+- [[Investiture of the Amnizu (Spell)]]
+- [[Investiture of the Barbed Devil (Spell)]]
+- [[Investiture of the Bearded Devil (Spell)]]
+- [[Investiture of the Chain Devil (Spell)]]
+- [[Investiture of the Erinyes (Spell)]]
+- [[Investiture of the Harvester Devil (Spell)]]
+- [[Investiture of the Hellfire Engine (Spell)]]
+- [[Investiture of the Horned Devil (Spell)]]
+- [[Investiture of the Ice Devil (Spell)]]
+- [[Investiture of the Malebranche (Spell)]]
+- [[Investiture of the Narzugon (Spell)]]
+- [[Investiture of the Orthon (Spell)]]
+- [[Investiture of the Pit Fiend (Spell)]]
+- [[Investiture of the Spined Devil (Spell)]]
+- [[Investiture of the Steel Devil (Spell)]]
+- [[Invigorate (Spell)]]
+- [[Invigorate, Mass (Spell)]]
+- [[Invisibility (Spell)]]
+- [[Invisibility Alarm (Spell)]]
+- [[Invisibility Purge (Spell)]]
+- [[Invisibility Sphere (Spell)]]
+- [[Invisibility to Enemies]]
+- [[Invisibility to Spirits (Spell)]]
+- [[Invisibility, Greater (Spell)]]
+- [[Invisibility, Mass (Spell)]]
+- [[Invisibility, Superior (Spell)]]
+- [[Invisibility, Swift (Spell)]]
+- [[Invoke Elemental (Spell)]]
+- [[Invoke Magic (Spell)]]
+- [[Invoke the Cerulean Sign (Spell)]]
+- [[Involuntary Shapeshifting (Spell)]]
+- [[Ioun Circuit (Spell)]]
+- [[Irian's Light (Spell)]]
+- [[Iron Body (Spell)]]
+- [[Iron Bones (Spell)]]
+- [[Iron Construct (Spell)]]
+- [[Iron Scarf (Spell)]]
+- [[Iron Silence (Spell)]]
+- [[Ironbeard (Spell)]]
+- [[Ironguard (Spell)]]
+- [[Ironguard, Lesser (Spell)]]
+- [[Ironguts (Spell)]]
+- [[Ironpage (Spell)]]
+- [[Ironthunder Horn (Spell)]]
+- [[Ironwood (Spell)]]
+- [[Ironwood, Greater (Spell)]]
+- [[Irresistible Dance (Spell)]]
+- [[Item Alteration (Spell)]]
+- [[Ivory Flesh, Lesser (Spell)]]
+

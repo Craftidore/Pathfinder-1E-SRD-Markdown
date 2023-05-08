@@ -1,0 +1,4 @@
+# General Equipment Article
+
+## Overview
+

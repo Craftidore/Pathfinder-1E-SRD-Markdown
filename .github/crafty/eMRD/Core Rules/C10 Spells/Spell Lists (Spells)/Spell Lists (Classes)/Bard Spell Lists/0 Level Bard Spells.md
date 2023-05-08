@@ -1,0 +1,188 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Aliases:
+  - "bard 0"
+Category: "Bard Spell Lists"
+Tags:
+  - "Category/Bard-Spell-Lists"
+parent:
+  - "Bard Spell Lists"
+up:
+  - "Bard Spell Lists"
+prev:
+  - "Crawler in Darkness (Feat)"
+next:
+  - "3rd Level Bard Spells"
+RWtopicId: "Topic_15126"
+---
+# 0 Level Bard Spells
+## Overview
+An **<sup>M</sup>** or **<sup>F</sup>** appearing at the end of a spell’s name in the spell lists denotes a spell with a material or focus component, respectively, that is not normally included in a spell component pouch. An **<sup>X</sup>** denotes a spell with an XP component paid by the caster.
+
+**Order of Presentation:** In the spell lists and the spell descriptions that follow them, the spells are presented in alphabetical order by name except for those belonging to certain spell chains. When a spell’s name begins with “lesser,” “greater,” or “mass,” the spell description is alphabetized under the second word of the spell name instead.
+
+**Hit Dice:** The term “Hit Dice” is used synonymously with “character levels” for effects that affect a number of Hit Dice of creatures. Creatures with Hit Dice only from their race, not from classes, have character levels equal to their Hit Dice.
+
+**Caster Level:** A spell’s power often depends on caster level, which is defined as the caster’s class level for the purpose of casting a particular spell. A creature with no classes has a caster level equal to its Hit Dice unless otherwise specified. The word “level” in the spell lists that follow always refers to caster level.
+
+**Creatures and Characters:** The words “creature” and “character” are used synonymously in the spell descriptions.
+
+**<sup>F</sup>** This spell has a focus component not normally included in a spell component pouch.
+
+**<sup>M</sup>** This spell has a material component not normally included in a spell component pouch.
+
+**<sup>R</sup>** Spell requires a requisite religion or race. If religion, spellcaster must worship the listed deity to utilize the spell. If race, the spell might only target members of the listed race (the spell will say this if it does), but often are just the race's guarded secrets. Members of other races can learn to cast them with GM permission.
+
+**<sup>T</sup>** In order to prepare any of these spells, the caster must spend an hour performing a ritual in which he beseeches Torag (or a member of his family) for the aid of one of his divine family members. For 24 hours after the ritual, the caster may prepare spells of the requested deity. The caster may only attune himself to one additional deity at a time.
+
+**<sup>Y</sup>** This spell has a Mythic version.
+
+## A
+**A**
+
+## B
+**B**
+
+**[[Bolster Spirits (Spell)|Bolster Spirits]]:** Target receives a second Will save against a [[S3.1D-F - Universal Monster Rules D-F (Bestiary 6 Apx)|fear]] effect it is suffering.
+
+## C
+**C**
+
+**[[Canny Effort (Spell)|Canny Effort]]:** Caster gains a +2 competence bonus on next skill check.
+
+## D
+**D**
+
+**[[Dancing Lights (Spell)|Dancing Lights]]:** Creates torches or other lights.
+
+**[[Daze (Spell)|Daze]]:** Humanoid creature of 4 HD or less loses next action.
+
+**[[Detect Crossroads (Spell)|Detect Crossroads]]:** Detect fey crossroads within 60 ft.
+
+**[[Detect Ghost (Spell)|Detect Ghost]]:** Reveals ghosts within 60 ft.
+
+**[[Detect Magic (Spell)|Detect Magic]]:** Detects spells and magic items within 60 ft.
+
+## E
+**E**
+
+**[[Enhance Performance (Spell)|Enhance Performance]]:** Perform and gain +1 on your next Charisma check.
+
+## F
+**F**
+
+**[[Flare (Spell)|Flare]]:** Dazzles one creature (–1 on attack rolls).
+
+**[[Fleeting Fame (Spell)|Fleeting Fame]]:** Gives you a +2 bonus on [[Bluff (Skill)|Bluff]], [[Diplomacy (Skill)|Diplomacy]], and [[Intimidate (Skill)|Intimidate]] checks.
+
+## G
+**G**
+
+**[[Gasp (Spell)|Gasp]]:** Compel the subject of the spell to inhale deeply.
+
+**[[Ghost Sound (Spell)|Ghost Sound]]:** Figment sounds.
+
+**[[Ghostharp (Spell)|Ghostharp]]:** Object records, plays a song at your command.
+
+## H
+**H**
+
+## I
+**I**
+
+## J
+**J**
+
+## K
+**K**
+
+**[[Know Direction (Spell)|Know Direction]]:** You discern north.
+
+## L
+**L**
+
+**[[Light (Spell)|Light]]:** Object shines like a torch.
+
+**[[Lullaby (Spell)|Lullaby]]:** Makes subject drowsy: –5 on [[Perception (Skill)|Perception]] checks, –2 on Will saves against sleep.
+
+## M
+**M**
+
+**[[Mage Hand (Spell)|Mage Hand]]:** 5-pound telekinesis.
+
+**[[Mending (Spell)|Mending]]:** Makes minor repairs on an object.
+
+**[[Message (Spell)|Message]]:** Whisper conversation at distance.
+
+**[[Minor Disguise (Spell)|Minor Disguise]]:** Makes slight changes to your appearance.
+
+## N
+**N**
+
+## O
+**O**
+
+**[[Open_Close (Spell)|Open/Close]]:** Opens or closes small or light things.
+
+## P
+**P**
+
+**[[Prestidigitation (Spell)|Prestidigitation]]:** Performs minor tricks.
+
+## Q
+**Q**
+
+## R
+**R**
+
+**[[Read Magic (Spell)|Read Magic]]:** Read scrolls and spellbooks.
+
+**[[Remove Fear (Spell)|Remove Fear]]:** Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
+
+**[[Resistance (Spell)|Resistance]]:** Subject gains +1 on saving throws.
+
+## S
+**S**
+
+**[[Scrivener's Chant (Spell)|Scrivener's Chant]]:** Imbue a quill to rapidly transcribe words from one page to another.
+
+**[[Seeker's Chant (Spell)|Seeker's Chant]]****:** Gives you a +2 bonus on [[Perception (Skill)|Perception]] checks, but a -2 penalty on [[Stealth (Skill)|Stealth]] checks.
+
+**[[Sharing the Ancient Lore (Spell)|Sharing the Ancient Lore]]****:** Transfer a single memory from yourself to a target.
+
+**[[Sift (Spell)|Sift]]:** See area as though examining it.
+
+**[[Spark (Spell)|Spark]]:** Ignites flammable objects.
+
+**[[Stick (Spell)|Stick]]****:** Glues an object weighing 5 pounds or less to another object.
+
+**[[Summon Instrument (Spell)|Summon Instrument]]****:** Summons one musical instrument.
+
+## T
+**T**
+
+## U
+**U**
+
+**[[Unwitting Ally (Spell)|Unwitting Ally]]:** Subject is considered ally for 1 round.
+
+## V
+**V**
+
+## W
+**W**
+
+## X
+**X**
+
+## Y
+**Y**
+
+## Z
+**Z**
+
+
+---
+## Tags
+#Rule-System/Pathfinder #Rule/Spell-List
+

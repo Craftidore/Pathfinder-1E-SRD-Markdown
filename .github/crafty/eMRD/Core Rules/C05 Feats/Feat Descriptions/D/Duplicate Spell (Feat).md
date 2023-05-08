@@ -1,0 +1,33 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Aliases:
+  - "Duplicate Spell"
+Category: "Feats"
+Suffix: "Feat"
+Tags:
+  - "Category/Feats"
+parent:
+  - "D"
+up:
+  - "D"
+prev:
+  - "Dragon Sight (Feat)"
+next:
+  - "Dueling Mastery (Feat)"
+RWtopicId: "Topic_17593"
+---
+# Duplicate Spell (Feat)
+## Overview
+You can tap the power of ley lines to cast the same spell twice.
+
+**Prerequisite:** Caster level 9+
+
+**Benefit:** A duplicate spell will manifest itself twice, against two different targets (this feat cannot be used with “Personal” range spells). They cannot overlap in their area of effect or have the same targets, but in all other respects the spell happens twice. A duplicate spell uses up a spell slot twice its normal level.
+
+**Source:** Midgard Campaign Setting, pg. 19
+
+
+---
+## Tags
+#Rule/3PP #Publisher/Open-Design #Sources/Midgard-Campaign-Setting #Rule-System/Pathfinder #Rule/OGL #Rule/Feat--Metamagic-
+

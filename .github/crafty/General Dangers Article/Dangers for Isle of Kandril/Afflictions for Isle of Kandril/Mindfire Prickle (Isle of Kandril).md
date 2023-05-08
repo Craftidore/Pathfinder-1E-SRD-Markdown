@@ -1,0 +1,26 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Aliases:
+  - "Mindfire Prickle"
+  - "Mindfire Prickles"
+Category: "Affliction"
+Suffix: "Isle of Kandril"
+Tags:
+  - "Category/Affliction"
+parent:
+  - "Afflictions for Isle of Kandril"
+up:
+  - "Afflictions for Isle of Kandril"
+prev:
+  - "Bloodthorn Honeyrot (Isle of Kandril)"
+next:
+  - "Ropeburn Gangles (Isle of Kandril)"
+RWtopicId: "Topic_4059"
+---
+# Mindfire Prickle (Isle of Kandril)
+## Overview
+
+---
+## Tags
+#Setting-Scope/Isle-of-Kandril #Story-Scope/Legacy-of-the-Kraken-King
+

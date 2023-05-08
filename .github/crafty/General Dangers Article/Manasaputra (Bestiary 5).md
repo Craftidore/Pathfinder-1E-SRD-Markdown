@@ -1,0 +1,34 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Aliases:
+  - "Manasaputra"
+  - "Manasaputras"
+Category: "General Dangers Article"
+Tags:
+  - "Category/General-Dangers-Article"
+parent:
+  - "Creatures for Pathfinder Bestiary 5"
+up:
+  - "Creatures for Pathfinder Bestiary 5"
+prev:
+  - "House Spirit (Bestiary 5)"
+next:
+  - "Plague Swarm (Bestiary 5)"
+down:
+  - "Manasaputra, Maharishi Manu (Bestiary 5)"
+  - "Manasaputra, Manu (Bestiary 5)"
+  - "Manasaputra, Rishi Manu (Bestiary 5)"
+  - "Manasaputra, Solar Pitri (Bestiary 5)"
+  - "Manasaputra, Twilight Pitri (Bestiary 5)"
+RWtopicId: "Topic_1361"
+---
+# Manasaputra (Bestiary 5)
+## Overview
+---
+## Governed Content
+- [[Manasaputra, Maharishi Manu (Bestiary 5)]]
+- [[Manasaputra, Manu (Bestiary 5)]]
+- [[Manasaputra, Rishi Manu (Bestiary 5)]]
+- [[Manasaputra, Solar Pitri (Bestiary 5)]]
+- [[Manasaputra, Twilight Pitri (Bestiary 5)]]
+

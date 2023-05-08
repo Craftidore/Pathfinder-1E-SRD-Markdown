@@ -1,0 +1,34 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Category: "eMRD"
+Tags:
+  - "Category/eMRD"
+parent:
+  - "Focused Arcane Schools"
+up:
+  - "Focused Arcane Schools"
+prev:
+  - "Generation School"
+next:
+  - "Manipulator School"
+RWtopicId: "Topic_14910"
+---
+# Life School
+## Overview
+**Life School**
+
+**Associated School**: Necromancy.
+
+**Replacement Powers**: The following school powers replace the power over undead and grave touch powers of the necromancy school.
+
+**Healing Grace (Su)**: Whenever you cast a spell that has targets, affects creatures in an area, or requires an attack roll, you may heal creatures affected by the spell a total of 1 point of damage per level of the spell. This healing may be spread out between the targets of the spell in any way you choose. If you assign any of the healing to an undead creature, it instead takes 1 point of damage for each point assigned. At 11th level, the amount of damage cured increases to 2 points of damage per level of the spell. This healing occurs when the spell is cast and has no effect on creatures that enter its area after the spell is in place. At 20th level, the amount of damage cured increases to 3 points of damage per level of the spell.
+
+**Share Essence (Sp)**: As a standard action, you can share your vital energy with a living creature that you touch. You take 1d6 points of nonlethal damage + 1 for every two wizard levels you possess. You cannot take an amount of nonlethal damage equal to or greater than your current hit point total; any excess is prevented. The recipient gains a number of temporary hit points equal to the amount of damage you received (prevented damage is not counted). These temporary hit points disappear 1 hour later. You may not use this ability to grant yourself temporary hit points. You can use this ability a number of times per day equal to 3 + your Intelligence modifier. This ability has no effect if you are immune to nonlethal damage.
+
+**Source:** Advanced Player's Guide, pg. 146
+
+
+---
+## Tags
+#Sources/Advanced-Player-s-Guide #Rule-System/Pathfinder #Rule/OGL #Rule/Core #Publisher/Paizo #Rule/Wizard #Rule/Arcane-School--focused-
+

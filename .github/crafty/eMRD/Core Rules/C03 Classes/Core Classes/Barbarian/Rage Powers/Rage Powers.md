@@ -1,0 +1,340 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Category: "eMRD"
+Tags:
+  - "Category/eMRD"
+parent:
+  - "Barbarian"
+up:
+  - "Barbarian"
+prev:
+  - "Barbarian Archetypes"
+down:
+  - "Animal Fury (Ex)"
+  - "Clear Mind (Ex)"
+  - "Fearless Rage (Ex)"
+  - "Guarded Stance (Ex)"
+  - "Increased Damage Reduction (Ex)"
+  - "Internal Fortitude (Ex)"
+  - "Intimidating Glare (Ex)"
+  - "Knockback (Ex)"
+  - "Low-Light Vision (Ex)"
+  - "Mighty Swing (Ex)"
+  - "Moment of Clarity (Ex)"
+  - "Night Vision (Ex)"
+  - "No Escape (Ex)"
+  - "Powerful Blow (Ex)"
+  - "Quick Reflexes (Ex)"
+  - "Raging Climber (Ex)"
+  - "Raging Leaper (Ex)"
+  - "Raging Swimmer (Ex)"
+  - "Renewed Vigor (Ex)"
+  - "Rolling Dodge (Ex)"
+  - "Roused Anger (Ex)"
+  - "Scent (Ex)"
+  - "Strength Surge (Ex)"
+  - "Superstition (Ex)"
+  - "Surprise Accuracy (Ex)"
+  - "Swift Foot (Ex)"
+  - "Terrifying Howl (Ex)"
+  - "Unexpected Strike (Ex)"
+  - "Auspicious Mark (Su)"
+  - "Bestial Climber (Ex)"
+  - "Bestial Leaper (Ex)"
+  - "Bestial Swimmer (Ex)"
+  - "Bleeding Blow (Ex)"
+  - "Body Bludgeon (Ex)"
+  - "Crippling Blow (Ex)"
+  - "Deadly Accuracy (Ex)"
+  - "Dragon Totem (Su)"
+  - "Dragon Totem Resilience (Su)"
+  - "Dragon Totem Wings (Su)"
+  - "Eater of Magic (Su)"
+  - "Ghost Rager (Su)"
+  - "Ground Breaker, Greater (Ex)"
+  - "Beast Totem (Su)"
+  - "Beast Totem, Greater (Su)"
+  - "Beast Totem, Lesser (Su)"
+  - "Boasting Taunt (Ex)"
+  - "Brawler"
+  - "Brawler, Greater"
+  - "Chaos Totem, Lesser (Su)"
+  - "Chaos Totem (Su)"
+  - "Chaos Totem, Greater (Su)"
+  - "Come and Get Me (Ex)"
+  - "Fiend Totem, Lesser (Su)"
+  - "Fiend Totem (Su)"
+  - "Ferocious Trample (Ex)"
+  - "Disruptive"
+  - "Elemental Rage, Lesser (Su)"
+  - "Elemental Rage (Su)"
+  - "Elemental Rage, Greater (Su)"
+  - "Energy Absorption (Su)"
+  - "Energy Eruption (Su)"
+  - "Energy Resistance (Ex)"
+  - "Energy Resistance, Greater (Ex)"
+  - "Ferocious Mount (Ex)"
+  - "Ferocious Mount, Greater (Ex)"
+  - "Ferocious Trample, Greater (Ex)"
+  - "Fiend Totem, Greater (Su)"
+  - "Flesh Wound (Ex)"
+  - "Good for What Ails You (Ex)"
+  - "Ground Breaker (Ex)"
+  - "Guarded Life (Ex)"
+  - "Hurling (Ex)"
+  - "Hurling, Greater (Ex)"
+  - "Hurling, Lesser (Ex)"
+  - "Hurling Charge (Ex)"
+  - "Inspire Ferocity (Ex)"
+  - "Knockdown (Ex)"
+  - "Liquid Courage (Ex)"
+  - "Overbearing Advance (Ex)"
+  - "Overbearing Onslaught (Ex)"
+  - "Reckless Abandon (Ex)"
+  - "Roaring Drunk (Ex)"
+  - "Smasher (Ex)"
+  - "Spellbreaker"
+  - "Spirit Steed (Su)"
+  - "Spirit Totem, Lesser (Su)"
+  - "Spirit Totem (Su)"
+  - "Spirit Totem, Greater (Su)"
+  - "Staggering Drunk (Ex)"
+  - "Witch Hunter (Ex)"
+  - "Guarded Life, Greater (Ex)"
+  - "Hive Totem (Su)"
+  - "Hive Totem Resilience (Su)"
+  - "Hive Totem Toxicity (Su)"
+  - "Lethal Accuracy (Ex)"
+  - "Perfect Clarity (Ex)"
+  - "Primal Scent (Ex)"
+  - "Reflexive Dodge (Ex)"
+  - "Regenerative Vigor (Ex)"
+  - "Renewed Vitality (Ex)"
+  - "Renewed Life (Ex)"
+  - "Sharpened Accuracy (Ex)"
+  - "Spell Sunder (Su)"
+  - "Sprint (Ex)"
+  - "Sunder Enchantment (Su)"
+  - "World Serpent Totem (Su)"
+  - "World Serpent Spirit (Su)"
+  - "World Serpent Totem Unity (Su)"
+  - "Abyssal Blood (Su)"
+  - "Abyssal Blood, Greater (Su)"
+  - "Abyssal Blood, Lesser (Su)"
+  - "Celestial Blood (Su)"
+  - "Celestial Blood, Greater (Su)"
+  - "Celestial Blood, Lesser (Su)"
+  - "Draconic Blood (Su)"
+  - "Draconic Blood, Greater (Su)"
+  - "Draconic Blood, Lesser (Su)"
+  - "Elemental Blood (Su)"
+  - "Elemental Blood, Greater (Su)"
+  - "Elemental Blood, Lesser (Su)"
+  - "Fey Blood (Su)"
+  - "Fey Blood, Greater (Su)"
+  - "Fey Blood, Lesser (Su)"
+  - "Infernal Blood (Su)"
+  - "Infernal Blood, Greater (Su)"
+  - "Infernal Blood, Lesser (Su)"
+  - "Undead Blood (Su)"
+  - "Undead Blood, Greater (Su)"
+  - "Undead Blood, Lesser (Su)"
+  - "Battle Roar (Su)"
+  - "Fierce Fortitude (Ex)"
+  - "Linnorm Death Curse, Cairn (Su)"
+  - "Linnorm Death Curse, Crag (Su)"
+  - "Linnorm Death Curse, Fjord (Su)"
+  - "Linnorm Death Curse, Ice (Su)"
+  - "Linnorm Death Curse, Taiga (Su)"
+  - "Linnorm Death Curse, Tarn (Su)"
+  - "Linnorm Death Curse, Tor (Su)"
+  - "Raging Flier (Su)"
+  - "Ultimate Clarity (Su)"
+  - "Armor Ripper"
+  - "Boar's Charge"
+  - "Deathless Frenzy"
+  - "Disemboweling Tusks"
+  - "Fueled by Vengeance"
+  - "Savage Intuition"
+  - "Bloody Bite (Ex)"
+  - "Feasting Bite (Ex)"
+  - "Bloody Fist (Ex)"
+  - "Feast of Blood (Su)"
+  - "Breathtaker (Ex)"
+  - "Gearbreaker (Ex)"
+  - "Raging Grappler (Ex)"
+  - "Water Sense (Ex)"
+  - "Celestial Totem (Su)"
+  - "Celestial Totem, Greater (Su)"
+  - "Celestial Totem, Lesser (Su)"
+RWtopicId: "Topic_18692"
+---
+# Rage Powers
+## Overview
+As a barbarian gains levels, she learns to use her rage in new ways. Starting at 2nd level, a barbarian gains a rage power. She gains another rage power for every two levels of barbarian attained after 2nd level. A barbarian gains the benefits of rage powers only while raging, and some of these powers require the barbarian to take an action first. Unless otherwise noted, a barbarian cannot select an individual power more than once.
+
+---
+## Governed Content
+- [[Abyssal Blood (Su)]]
+- [[Abyssal Blood, Greater (Su)]]
+- [[Abyssal Blood, Lesser (Su)]]
+- [[Animal Fury (Ex)]]
+- [[Armor Ripper]]
+- [[Auspicious Mark (Su)]]
+- [[Battle Roar (Su)]]
+- [[Beast Totem (Su)]]
+- [[Beast Totem, Greater (Su)]]
+- [[Beast Totem, Lesser (Su)]]
+- [[Bestial Climber (Ex)]]
+- [[Bestial Leaper (Ex)]]
+- [[Bestial Swimmer (Ex)]]
+- [[Bleeding Blow (Ex)]]
+- [[Bloody Bite (Ex)]]
+- [[Bloody Fist (Ex)]]
+- [[Boar's Charge]]
+- [[Boasting Taunt (Ex)]]
+- [[Body Bludgeon (Ex)]]
+- [[Brawler]]
+- [[Brawler, Greater]]
+- [[Breathtaker (Ex)]]
+- [[Celestial Blood (Su)]]
+- [[Celestial Blood, Greater (Su)]]
+- [[Celestial Blood, Lesser (Su)]]
+- [[Celestial Totem (Su)]]
+- [[Celestial Totem, Greater (Su)]]
+- [[Celestial Totem, Lesser (Su)]]
+- [[Chaos Totem (Su)]]
+- [[Chaos Totem, Greater (Su)]]
+- [[Chaos Totem, Lesser (Su)]]
+- [[Clear Mind (Ex)]]
+- [[Come and Get Me (Ex)]]
+- [[Crippling Blow (Ex)]]
+- [[Deadly Accuracy (Ex)]]
+- [[Deathless Frenzy]]
+- [[Disemboweling Tusks]]
+- [[Disruptive]]
+- [[Draconic Blood (Su)]]
+- [[Draconic Blood, Greater (Su)]]
+- [[Draconic Blood, Lesser (Su)]]
+- [[Dragon Totem (Su)]]
+- [[Dragon Totem Resilience (Su)]]
+- [[Dragon Totem Wings (Su)]]
+- [[Eater of Magic (Su)]]
+- [[Elemental Blood (Su)]]
+- [[Elemental Blood, Greater (Su)]]
+- [[Elemental Blood, Lesser (Su)]]
+- [[Elemental Rage (Su)]]
+- [[Elemental Rage, Greater (Su)]]
+- [[Elemental Rage, Lesser (Su)]]
+- [[Energy Absorption (Su)]]
+- [[Energy Eruption (Su)]]
+- [[Energy Resistance (Ex)]]
+- [[Energy Resistance, Greater (Ex)]]
+- [[Fearless Rage (Ex)]]
+- [[Feast of Blood (Su)]]
+- [[Feasting Bite (Ex)]]
+- [[Ferocious Mount (Ex)]]
+- [[Ferocious Mount, Greater (Ex)]]
+- [[Ferocious Trample (Ex)]]
+- [[Ferocious Trample, Greater (Ex)]]
+- [[Fey Blood (Su)]]
+- [[Fey Blood, Greater (Su)]]
+- [[Fey Blood, Lesser (Su)]]
+- [[Fiend Totem (Su)]]
+- [[Fiend Totem, Greater (Su)]]
+- [[Fiend Totem, Lesser (Su)]]
+- [[Fierce Fortitude (Ex)]]
+- [[Flesh Wound (Ex)]]
+- [[Fueled by Vengeance]]
+- [[Gearbreaker (Ex)]]
+- [[Ghost Rager (Su)]]
+- [[Good for What Ails You (Ex)]]
+- [[Ground Breaker (Ex)]]
+- [[Ground Breaker, Greater (Ex)]]
+- [[Guarded Life (Ex)]]
+- [[Guarded Life, Greater (Ex)]]
+- [[Guarded Stance (Ex)]]
+- [[Hive Totem (Su)]]
+- [[Hive Totem Resilience (Su)]]
+- [[Hive Totem Toxicity (Su)]]
+- [[Hurling (Ex)]]
+- [[Hurling Charge (Ex)]]
+- [[Hurling, Greater (Ex)]]
+- [[Hurling, Lesser (Ex)]]
+- [[Increased Damage Reduction (Ex)]]
+- [[Infernal Blood (Su)]]
+- [[Infernal Blood, Greater (Su)]]
+- [[Infernal Blood, Lesser (Su)]]
+- [[Inspire Ferocity (Ex)]]
+- [[Internal Fortitude (Ex)]]
+- [[Intimidating Glare (Ex)]]
+- [[Knockback (Ex)]]
+- [[Knockdown (Ex)]]
+- [[Lethal Accuracy (Ex)]]
+- [[Linnorm Death Curse, Cairn (Su)]]
+- [[Linnorm Death Curse, Crag (Su)]]
+- [[Linnorm Death Curse, Fjord (Su)]]
+- [[Linnorm Death Curse, Ice (Su)]]
+- [[Linnorm Death Curse, Taiga (Su)]]
+- [[Linnorm Death Curse, Tarn (Su)]]
+- [[Linnorm Death Curse, Tor (Su)]]
+- [[Liquid Courage (Ex)]]
+- [[Low-Light Vision (Ex)]]
+- [[Mighty Swing (Ex)]]
+- [[Moment of Clarity (Ex)]]
+- [[Night Vision (Ex)]]
+- [[No Escape (Ex)]]
+- [[Overbearing Advance (Ex)]]
+- [[Overbearing Onslaught (Ex)]]
+- [[Perfect Clarity (Ex)]]
+- [[Powerful Blow (Ex)]]
+- [[Primal Scent (Ex)]]
+- [[Quick Reflexes (Ex)]]
+- [[Raging Climber (Ex)]]
+- [[Raging Flier (Su)]]
+- [[Raging Grappler (Ex)]]
+- [[Raging Leaper (Ex)]]
+- [[Raging Swimmer (Ex)]]
+- [[Reckless Abandon (Ex)]]
+- [[Reflexive Dodge (Ex)]]
+- [[Regenerative Vigor (Ex)]]
+- [[Renewed Life (Ex)]]
+- [[Renewed Vigor (Ex)]]
+- [[Renewed Vitality (Ex)]]
+- [[Roaring Drunk (Ex)]]
+- [[Rolling Dodge (Ex)]]
+- [[Roused Anger (Ex)]]
+- [[Savage Intuition]]
+- [[Scent (Ex)]]
+- [[Sharpened Accuracy (Ex)]]
+- [[Smasher (Ex)]]
+- [[Spell Sunder (Su)]]
+- [[Spellbreaker]]
+- [[Spirit Steed (Su)]]
+- [[Spirit Totem (Su)]]
+- [[Spirit Totem, Greater (Su)]]
+- [[Spirit Totem, Lesser (Su)]]
+- [[Sprint (Ex)]]
+- [[Staggering Drunk (Ex)]]
+- [[Strength Surge (Ex)]]
+- [[Sunder Enchantment (Su)]]
+- [[Superstition (Ex)]]
+- [[Surprise Accuracy (Ex)]]
+- [[Swift Foot (Ex)]]
+- [[Terrifying Howl (Ex)]]
+- [[Ultimate Clarity (Su)]]
+- [[Undead Blood (Su)]]
+- [[Undead Blood, Greater (Su)]]
+- [[Undead Blood, Lesser (Su)]]
+- [[Unexpected Strike (Ex)]]
+- [[Water Sense (Ex)]]
+- [[Witch Hunter (Ex)]]
+- [[World Serpent Spirit (Su)]]
+- [[World Serpent Totem (Su)]]
+- [[World Serpent Totem Unity (Su)]]
+
+
+---
+## Tags
+#Sources/PF-Core-Rulebook #Publisher/Paizo #Rule/Core #Rule/Barbarian
+

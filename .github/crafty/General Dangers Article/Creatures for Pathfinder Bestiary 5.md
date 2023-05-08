@@ -1,0 +1,495 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Category: "General Dangers Article"
+Tags:
+  - "Category/General-Dangers-Article"
+parent:
+  - "Dangers for Pathfinder Bestiary 5"
+up:
+  - "Dangers for Pathfinder Bestiary 5"
+next:
+  - "General Dangers Articles for Pathfinder Bestiary 5"
+down:
+  - "Aatheriexa (Bestiary 5)"
+  - "Aeon, Lipika (Bestiary 5)"
+  - "Aeon, Othaos (Bestiary 5)"
+  - "Aerial Servant (Bestiary 5)"
+  - "Agathion, Cervinal (Bestiary 5)"
+  - "Agathion, Reptial (Bestiary 5)"
+  - "Ahkhat (Bestiary 5)"
+  - "Ahool (Bestiary 5)"
+  - "Akaname (Bestiary 5)"
+  - "Amarok (Bestiary 5)"
+  - "Amphiptere (Bestiary 5)"
+  - "Android (Bestiary 5)"
+  - "Anemos (Bestiary 5)"
+  - "Angel, Balisse (Bestiary 5)"
+  - "Angel, Choral (Bestiary 5)"
+  - "Angel, Empyrean (Bestiary 5)"
+  - "Animate Hair (Bestiary 5)"
+  - "Ant, Knight (Bestiary 5)"
+  - "Ant, Megapon (Bestiary 5)"
+  - "Anunnaki (Bestiary 5)"
+  - "Apallie (Bestiary 5)"
+  - "Ape, Megaprimatus (Bestiary 5)"
+  - "Apkallu (Bestiary 5)"
+  - "Archon, Exscinder (Bestiary 5)"
+  - "Archon, Gate (Bestiary 5)"
+  - "Assassin Bug, Giant (Bestiary 5)"
+  - "Assassin Bug, Great (Bestiary 5)"
+  - "Astomoi (Bestiary 5)"
+  - "Azata, Gancanagh (Bestiary 5)"
+  - "Azata, Raelis (Bestiary 5)"
+  - "Bagiennik (Bestiary 5)"
+  - "Bear, Dire Polar (Bestiary 5)"
+  - "Bear, Polar (Bestiary 5)"
+  - "Bisha Ga Tsuku (Bestiary 5)"
+  - "Blightspawn (Bestiary 5)"
+  - "Bone Ship (Bestiary 5)"
+  - "Brain Mole (Bestiary 5)"
+  - "Brain Mole Monarch (Bestiary 5)"
+  - "Caller in Darkness (Bestiary 5)"
+  - "Cameroceras (Bestiary 5)"
+  - "Capramace (Bestiary 5)"
+  - "Caterpillar, Blood (Bestiary 5)"
+  - "Caterpillar, Horn (Bestiary 5)"
+  - "Celedon (Bestiary 5)"
+  - "Cerynitis (Bestiary 5)"
+  - "Cetus (Bestiary 5)"
+  - "Cherufe (Bestiary 5)"
+  - "Chuspiki (Bestiary 5)"
+  - "Clockwork Familiar (Bestiary 5)"
+  - "Colossus, Sphinx (Bestiary 5)"
+  - "Colossus, Wood (Bestiary 5)"
+  - "Corpse Lotus (Bestiary 5)"
+  - "Crone Queen (Bestiary 5)"
+  - "Cuero (Bestiary 5)"
+  - "Cursed King (Bestiary 5)"
+  - "Cyclops, Kabandha (Bestiary 5)"
+  - "Cytillipede (Bestiary 5)"
+  - "Dark Folk, Caligni (Bestiary 5)"
+  - "Death Coach (Bestiary 5)"
+  - "Deep One (Bestiary 5)"
+  - "Deep One Hybrid (Bestiary 5)"
+  - "Deep One, Elder (Bestiary 5)"
+  - "Delgeth (Bestiary 5)"
+  - "Demodand, Gristly (Bestiary 5)"
+  - "Demodand, Stringy (Bestiary 5)"
+  - "Demon, Abrikandilu (Bestiary 5)"
+  - "Demon, Cambion (Bestiary 5)"
+  - "Demon, Seraptis (Bestiary 5)"
+  - "Devastator (Bestiary 5)"
+  - "Devil, Apostate (Bestiary 5)"
+  - "Devil, Heresy (Bestiary 5)"
+  - "Devil, Warmonger (Bestiary 5)"
+  - "Digmaul (Bestiary 5)"
+  - "Dinosaur, Ceratosaurus (Bestiary 5)"
+  - "Dinosaur, Plesiosaurus (Bestiary 5)"
+  - "Dinosaur, Therizinosaurus (Bestiary 5)"
+  - "Dinosaur, Troodon (Bestiary 5)"
+  - "Doppeldrek (Bestiary 5)"
+  - "Dragonkin (Bestiary 5)"
+  - "Drake, Ether (Bestiary 5)"
+  - "Drake, Jungle (Bestiary 5)"
+  - "Duppy (Bestiary 5)"
+  - "Dwiergeth (Bestiary 5)"
+  - "Echeneis (Bestiary 5)"
+  - "Egregore (Bestiary 5)"
+  - "Emotion Ooze (Bestiary 5)"
+  - "Encantado (Bestiary 5)"
+  - "Etiainen (Bestiary 5)"
+  - "Fastachee (Bestiary 5)"
+  - "Fext (Bestiary 5)"
+  - "Firbolg (Bestiary 5)"
+  - "Frog Father (Bestiary 5)"
+  - "Frog, Goliath (Bestiary 5)"
+  - "Gegenees (Bestiary 5)"
+  - "Ghoran (Bestiary 5)"
+  - "Ghoul, Leng (Bestiary 5)"
+  - "Giant, Eclipse (Bestiary 5)"
+  - "Giant, Moon (Bestiary 5)"
+  - "Giant, Sun (Bestiary 5)"
+  - "Glaistig (Bestiary 5)"
+  - "Golem, Crystal (Bestiary 5)"
+  - "Golem, Lead (Bestiary 5)"
+  - "Gravebound (Bestiary 5)"
+  - "Gray (Bestiary 5)"
+  - "Gray Goo (Bestiary 5)"
+  - "Gremlin, Hobkins (Bestiary 5)"
+  - "Gremlin, Nuno (Bestiary 5)"
+  - "Griefgall (Bestiary 5)"
+  - "Grim Reaper (Bestiary 5)"
+  - "Grimslake (Bestiary 5)"
+  - "Grioth (Bestiary 5)"
+  - "Guardian Scroll (Bestiary 5)"
+  - "Gunpowder Ooze (Bestiary 5)"
+  - "Hag Eye Ooze (Bestiary 5)"
+  - "Heikegani (Bestiary 5)"
+  - "Hundun (Bestiary 5)"
+  - "Ichthyocentaur (Bestiary 5)"
+  - "Isonade (Bestiary 5)"
+  - "Karkadann (Bestiary 5)"
+  - "Kawa Akago (Bestiary 5)"
+  - "Ketesthius (Bestiary 5)"
+  - "Khala (Bestiary 5)"
+  - "Kikimora (Bestiary 5)"
+  - "Kurobozu (Bestiary 5)"
+  - "Lamhigyn (Bestiary 5)"
+  - "Leechroot (Bestiary 5)"
+  - "Leshy, Flytrap (Bestiary 5)"
+  - "Leshy, Lotus (Bestiary 5)"
+  - "Lesser Death (Bestiary 5)"
+  - "Liminal Sprite (Bestiary 5)"
+  - "Living Mirage (Bestiary 5)"
+  - "Lotus Tree (Bestiary 5)"
+  - "Lusca (Bestiary 5)"
+  - "Megafauna, Chalicotherium (Bestiary 5)"
+  - "Megafauna, Kaprosuchus (Bestiary 5)"
+  - "Megafauna, Moa (Bestiary 5)"
+  - "Megafauna, Uintatherium (Bestiary 5)"
+  - "Merfolk, Deep (Bestiary 5)"
+  - "Mngwa (Bestiary 5)"
+  - "Moon Dog (Bestiary 5)"
+  - "Muckdweller (Bestiary 5)"
+  - "Muckdweller, Giant (Bestiary 5)"
+  - "Mummy Lord (Bestiary 5)"
+  - "Mummy, Swamp (Bestiary 5)"
+  - "Muse (Bestiary 5)"
+  - "Mutant (Bestiary 5)"
+  - "Nemhain (Bestiary 5)"
+  - "Ningen (Bestiary 5)"
+  - "Nulmind (Bestiary 5)"
+  - "Ophiotaurus (Bestiary 5)"
+  - "Orang-Pendak (Bestiary 5)"
+  - "Ostovite (Bestiary 5)"
+  - "Papinijuwari (Bestiary 5)"
+  - "Peuchen (Bestiary 5)"
+  - "Phantom, Unfettered (Bestiary 5)"
+  - "Pharaonic Guardian (Bestiary 5)"
+  - "Plagued Beast (Bestiary 5)"
+  - "Plankta (Bestiary 5)"
+  - "Polong (Bestiary 5)"
+  - "Psychemental (Bestiary 5)"
+  - "Psychepore (Bestiary 5)"
+  - "Putrid Ooze (Bestiary 5)"
+  - "Pyrausta (Bestiary 5)"
+  - "Ramidreju (Bestiary 5)"
+  - "Reptoid (Bestiary 5)"
+  - "Rhu-Chalik (Bestiary 5)"
+  - "Riftcreeper (Bestiary 5)"
+  - "Roiling Oil (Bestiary 5)"
+  - "Rope Dragon (Bestiary 5)"
+  - "Sangoi (Bestiary 5)"
+  - "Saxra (Bestiary 5)"
+  - "Scarab Swarm (Bestiary 5)"
+  - "Scarab, Giant (Bestiary 5)"
+  - "Scitalis (Bestiary 5)"
+  - "Sea Urchin, Hunter (Bestiary 5)"
+  - "Sea Urchin, Spear (Bestiary 5)"
+  - "Seilenos (Bestiary 5)"
+  - "Sha (Bestiary 5)"
+  - "Shabti (Bestiary 5)"
+  - "Shadow Collector (Bestiary 5)"
+  - "Shasalqu (Bestiary 5)"
+  - "Shen (Bestiary 5)"
+  - "Shrimp, Giant Mantis (Bestiary 5)"
+  - "Skinwalker (Bestiary 5)"
+  - "Somalcygot (Bestiary 5)"
+  - "Storm Hag (Bestiary 5)"
+  - "Stormghost (Bestiary 5)"
+  - "Stranglereed (Bestiary 5)"
+  - "Su (Bestiary 5)"
+  - "Syricta (Bestiary 5)"
+  - "Taxidermic Creature (Bestiary 5)"
+  - "Termite Swarm (Bestiary 5)"
+  - "Termite, Giant (Bestiary 5)"
+  - "Thought Eater (Bestiary 5)"
+  - "Thriae Constructor (Bestiary 5)"
+  - "Thriae Dancer (Bestiary 5)"
+  - "Titan, Danava (Bestiary 5)"
+  - "Tiyanak (Bestiary 5)"
+  - "Tizheruk (Bestiary 5)"
+  - "Trench Mist (Bestiary 5)"
+  - "Tsaalgrend (Bestiary 5)"
+  - "Tulpa (Bestiary 5)"
+  - "Turul (Bestiary 5)"
+  - "Undigested (Bestiary 5)"
+  - "Undigested Swarm (Bestiary 5)"
+  - "Uraeus (Bestiary 5)"
+  - "Urannag (Bestiary 5)"
+  - "Ursikka (Bestiary 5)"
+  - "Vahana (Bestiary 5)"
+  - "Ved (Bestiary 5)"
+  - "Vescavor Queen (Bestiary 5)"
+  - "Vescavor Swarm (Bestiary 5)"
+  - "Vilderavn (Bestiary 5)"
+  - "Vishap (Bestiary 5)"
+  - "Vukodlak (Bestiary 5)"
+  - "Wakandagi (Bestiary 5)"
+  - "Warmonger Wasp (Bestiary 5)"
+  - "Water Leaper (Bestiary 5)"
+  - "Whale, Blue (Bestiary 5)"
+  - "Whale, Narwhal (Bestiary 5)"
+  - "Witchcrow (Bestiary 5)"
+  - "Wizard's Shackle (Bestiary 5)"
+  - "Wolliped (Bestiary 5)"
+  - "Wyrmwraith (Bestiary 5)"
+  - "Xiao (Bestiary 5)"
+  - "Yangethe (Bestiary 5)"
+  - "Zygomind (Bestiary 5)"
+  - "Dragon, Esoteric (Bestiary 5)"
+  - "Elemental, Aether (Bestiary 5)"
+  - "Familiar (Bestiary 5)"
+  - "House Spirit (Bestiary 5)"
+  - "Manasaputra (Bestiary 5)"
+  - "Plague Swarm (Bestiary 5)"
+  - "Robot (Bestiary 5)"
+  - "Sahkil (Bestiary 5)"
+  - "Tsukumogami (Bestiary 5)"
+  - "Veela (Bestiary 5)"
+  - "Wysp (Bestiary 5)"
+RWtopicId: "Topic_1094"
+---
+# Creatures for Pathfinder Bestiary 5
+## Overview
+---
+## Governed Content
+- [[Aatheriexa (Bestiary 5)]]
+- [[Aeon, Lipika (Bestiary 5)]]
+- [[Aeon, Othaos (Bestiary 5)]]
+- [[Aerial Servant (Bestiary 5)]]
+- [[Agathion, Cervinal (Bestiary 5)]]
+- [[Agathion, Reptial (Bestiary 5)]]
+- [[Ahkhat (Bestiary 5)]]
+- [[Ahool (Bestiary 5)]]
+- [[Akaname (Bestiary 5)]]
+- [[Amarok (Bestiary 5)]]
+- [[Amphiptere (Bestiary 5)]]
+- [[Android (Bestiary 5)]]
+- [[Anemos (Bestiary 5)]]
+- [[Angel, Balisse (Bestiary 5)]]
+- [[Angel, Choral (Bestiary 5)]]
+- [[Angel, Empyrean (Bestiary 5)]]
+- [[Animate Hair (Bestiary 5)]]
+- [[Ant, Knight (Bestiary 5)]]
+- [[Ant, Megapon (Bestiary 5)]]
+- [[Anunnaki (Bestiary 5)]]
+- [[Apallie (Bestiary 5)]]
+- [[Ape, Megaprimatus (Bestiary 5)]]
+- [[Apkallu (Bestiary 5)]]
+- [[Archon, Exscinder (Bestiary 5)]]
+- [[Archon, Gate (Bestiary 5)]]
+- [[Assassin Bug, Giant (Bestiary 5)]]
+- [[Assassin Bug, Great (Bestiary 5)]]
+- [[Astomoi (Bestiary 5)]]
+- [[Azata, Gancanagh (Bestiary 5)]]
+- [[Azata, Raelis (Bestiary 5)]]
+- [[Bagiennik (Bestiary 5)]]
+- [[Bear, Dire Polar (Bestiary 5)]]
+- [[Bear, Polar (Bestiary 5)]]
+- [[Bisha Ga Tsuku (Bestiary 5)]]
+- [[Blightspawn (Bestiary 5)]]
+- [[Bone Ship (Bestiary 5)]]
+- [[Brain Mole (Bestiary 5)]]
+- [[Brain Mole Monarch (Bestiary 5)]]
+- [[Caller in Darkness (Bestiary 5)]]
+- [[Cameroceras (Bestiary 5)]]
+- [[Capramace (Bestiary 5)]]
+- [[Caterpillar, Blood (Bestiary 5)]]
+- [[Caterpillar, Horn (Bestiary 5)]]
+- [[Celedon (Bestiary 5)]]
+- [[Cerynitis (Bestiary 5)]]
+- [[Cetus (Bestiary 5)]]
+- [[Cherufe (Bestiary 5)]]
+- [[Chuspiki (Bestiary 5)]]
+- [[Clockwork Familiar (Bestiary 5)]]
+- [[Colossus, Sphinx (Bestiary 5)]]
+- [[Colossus, Wood (Bestiary 5)]]
+- [[Corpse Lotus (Bestiary 5)]]
+- [[Crone Queen (Bestiary 5)]]
+- [[Cuero (Bestiary 5)]]
+- [[Cursed King (Bestiary 5)]]
+- [[Cyclops, Kabandha (Bestiary 5)]]
+- [[Cytillipede (Bestiary 5)]]
+- [[Dark Folk, Caligni (Bestiary 5)]]
+- [[Death Coach (Bestiary 5)]]
+- [[Deep One (Bestiary 5)]]
+- [[Deep One Hybrid (Bestiary 5)]]
+- [[Deep One, Elder (Bestiary 5)]]
+- [[Delgeth (Bestiary 5)]]
+- [[Demodand, Gristly (Bestiary 5)]]
+- [[Demodand, Stringy (Bestiary 5)]]
+- [[Demon, Abrikandilu (Bestiary 5)]]
+- [[Demon, Cambion (Bestiary 5)]]
+- [[Demon, Seraptis (Bestiary 5)]]
+- [[Devastator (Bestiary 5)]]
+- [[Devil, Apostate (Bestiary 5)]]
+- [[Devil, Heresy (Bestiary 5)]]
+- [[Devil, Warmonger (Bestiary 5)]]
+- [[Digmaul (Bestiary 5)]]
+- [[Dinosaur, Ceratosaurus (Bestiary 5)]]
+- [[Dinosaur, Plesiosaurus (Bestiary 5)]]
+- [[Dinosaur, Therizinosaurus (Bestiary 5)]]
+- [[Dinosaur, Troodon (Bestiary 5)]]
+- [[Doppeldrek (Bestiary 5)]]
+- [[Dragon, Esoteric (Bestiary 5)]]
+- [[Dragonkin (Bestiary 5)]]
+- [[Drake, Ether (Bestiary 5)]]
+- [[Drake, Jungle (Bestiary 5)]]
+- [[Duppy (Bestiary 5)]]
+- [[Dwiergeth (Bestiary 5)]]
+- [[Echeneis (Bestiary 5)]]
+- [[Egregore (Bestiary 5)]]
+- [[Elemental, Aether (Bestiary 5)]]
+- [[Emotion Ooze (Bestiary 5)]]
+- [[Encantado (Bestiary 5)]]
+- [[Etiainen (Bestiary 5)]]
+- [[Familiar (Bestiary 5)]]
+- [[Fastachee (Bestiary 5)]]
+- [[Fext (Bestiary 5)]]
+- [[Firbolg (Bestiary 5)]]
+- [[Frog Father (Bestiary 5)]]
+- [[Frog, Goliath (Bestiary 5)]]
+- [[Gegenees (Bestiary 5)]]
+- [[Ghoran (Bestiary 5)]]
+- [[Ghoul, Leng (Bestiary 5)]]
+- [[Giant, Eclipse (Bestiary 5)]]
+- [[Giant, Moon (Bestiary 5)]]
+- [[Giant, Sun (Bestiary 5)]]
+- [[Glaistig (Bestiary 5)]]
+- [[Golem, Crystal (Bestiary 5)]]
+- [[Golem, Lead (Bestiary 5)]]
+- [[Gravebound (Bestiary 5)]]
+- [[Gray (Bestiary 5)]]
+- [[Gray Goo (Bestiary 5)]]
+- [[Gremlin, Hobkins (Bestiary 5)]]
+- [[Gremlin, Nuno (Bestiary 5)]]
+- [[Griefgall (Bestiary 5)]]
+- [[Grim Reaper (Bestiary 5)]]
+- [[Grimslake (Bestiary 5)]]
+- [[Grioth (Bestiary 5)]]
+- [[Guardian Scroll (Bestiary 5)]]
+- [[Gunpowder Ooze (Bestiary 5)]]
+- [[Hag Eye Ooze (Bestiary 5)]]
+- [[Heikegani (Bestiary 5)]]
+- [[House Spirit (Bestiary 5)]]
+- [[Hundun (Bestiary 5)]]
+- [[Ichthyocentaur (Bestiary 5)]]
+- [[Isonade (Bestiary 5)]]
+- [[Karkadann (Bestiary 5)]]
+- [[Kawa Akago (Bestiary 5)]]
+- [[Ketesthius (Bestiary 5)]]
+- [[Khala (Bestiary 5)]]
+- [[Kikimora (Bestiary 5)]]
+- [[Kurobozu (Bestiary 5)]]
+- [[Lamhigyn (Bestiary 5)]]
+- [[Leechroot (Bestiary 5)]]
+- [[Leshy, Flytrap (Bestiary 5)]]
+- [[Leshy, Lotus (Bestiary 5)]]
+- [[Lesser Death (Bestiary 5)]]
+- [[Liminal Sprite (Bestiary 5)]]
+- [[Living Mirage (Bestiary 5)]]
+- [[Lotus Tree (Bestiary 5)]]
+- [[Lusca (Bestiary 5)]]
+- [[Manasaputra (Bestiary 5)]]
+- [[Megafauna, Chalicotherium (Bestiary 5)]]
+- [[Megafauna, Kaprosuchus (Bestiary 5)]]
+- [[Megafauna, Moa (Bestiary 5)]]
+- [[Megafauna, Uintatherium (Bestiary 5)]]
+- [[Merfolk, Deep (Bestiary 5)]]
+- [[Mngwa (Bestiary 5)]]
+- [[Moon Dog (Bestiary 5)]]
+- [[Muckdweller (Bestiary 5)]]
+- [[Muckdweller, Giant (Bestiary 5)]]
+- [[Mummy Lord (Bestiary 5)]]
+- [[Mummy, Swamp (Bestiary 5)]]
+- [[Muse (Bestiary 5)]]
+- [[Mutant (Bestiary 5)]]
+- [[Nemhain (Bestiary 5)]]
+- [[Ningen (Bestiary 5)]]
+- [[Nulmind (Bestiary 5)]]
+- [[Ophiotaurus (Bestiary 5)]]
+- [[Orang-Pendak (Bestiary 5)]]
+- [[Ostovite (Bestiary 5)]]
+- [[Papinijuwari (Bestiary 5)]]
+- [[Peuchen (Bestiary 5)]]
+- [[Phantom, Unfettered (Bestiary 5)]]
+- [[Pharaonic Guardian (Bestiary 5)]]
+- [[Plague Swarm (Bestiary 5)]]
+- [[Plagued Beast (Bestiary 5)]]
+- [[Plankta (Bestiary 5)]]
+- [[Polong (Bestiary 5)]]
+- [[Psychemental (Bestiary 5)]]
+- [[Psychepore (Bestiary 5)]]
+- [[Putrid Ooze (Bestiary 5)]]
+- [[Pyrausta (Bestiary 5)]]
+- [[Ramidreju (Bestiary 5)]]
+- [[Reptoid (Bestiary 5)]]
+- [[Rhu-Chalik (Bestiary 5)]]
+- [[Riftcreeper (Bestiary 5)]]
+- [[Robot (Bestiary 5)]]
+- [[Roiling Oil (Bestiary 5)]]
+- [[Rope Dragon (Bestiary 5)]]
+- [[Sahkil (Bestiary 5)]]
+- [[Sangoi (Bestiary 5)]]
+- [[Saxra (Bestiary 5)]]
+- [[Scarab Swarm (Bestiary 5)]]
+- [[Scarab, Giant (Bestiary 5)]]
+- [[Scitalis (Bestiary 5)]]
+- [[Sea Urchin, Hunter (Bestiary 5)]]
+- [[Sea Urchin, Spear (Bestiary 5)]]
+- [[Seilenos (Bestiary 5)]]
+- [[Sha (Bestiary 5)]]
+- [[Shabti (Bestiary 5)]]
+- [[Shadow Collector (Bestiary 5)]]
+- [[Shasalqu (Bestiary 5)]]
+- [[Shen (Bestiary 5)]]
+- [[Shrimp, Giant Mantis (Bestiary 5)]]
+- [[Skinwalker (Bestiary 5)]]
+- [[Somalcygot (Bestiary 5)]]
+- [[Storm Hag (Bestiary 5)]]
+- [[Stormghost (Bestiary 5)]]
+- [[Stranglereed (Bestiary 5)]]
+- [[Su (Bestiary 5)]]
+- [[Syricta (Bestiary 5)]]
+- [[Taxidermic Creature (Bestiary 5)]]
+- [[Termite Swarm (Bestiary 5)]]
+- [[Termite, Giant (Bestiary 5)]]
+- [[Thought Eater (Bestiary 5)]]
+- [[Thriae Constructor (Bestiary 5)]]
+- [[Thriae Dancer (Bestiary 5)]]
+- [[Titan, Danava (Bestiary 5)]]
+- [[Tiyanak (Bestiary 5)]]
+- [[Tizheruk (Bestiary 5)]]
+- [[Trench Mist (Bestiary 5)]]
+- [[Tsaalgrend (Bestiary 5)]]
+- [[Tsukumogami (Bestiary 5)]]
+- [[Tulpa (Bestiary 5)]]
+- [[Turul (Bestiary 5)]]
+- [[Undigested (Bestiary 5)]]
+- [[Undigested Swarm (Bestiary 5)]]
+- [[Uraeus (Bestiary 5)]]
+- [[Urannag (Bestiary 5)]]
+- [[Ursikka (Bestiary 5)]]
+- [[Vahana (Bestiary 5)]]
+- [[Ved (Bestiary 5)]]
+- [[Veela (Bestiary 5)]]
+- [[Vescavor Queen (Bestiary 5)]]
+- [[Vescavor Swarm (Bestiary 5)]]
+- [[Vilderavn (Bestiary 5)]]
+- [[Vishap (Bestiary 5)]]
+- [[Vukodlak (Bestiary 5)]]
+- [[Wakandagi (Bestiary 5)]]
+- [[Warmonger Wasp (Bestiary 5)]]
+- [[Water Leaper (Bestiary 5)]]
+- [[Whale, Blue (Bestiary 5)]]
+- [[Whale, Narwhal (Bestiary 5)]]
+- [[Witchcrow (Bestiary 5)]]
+- [[Wizard's Shackle (Bestiary 5)]]
+- [[Wolliped (Bestiary 5)]]
+- [[Wyrmwraith (Bestiary 5)]]
+- [[Wysp (Bestiary 5)]]
+- [[Xiao (Bestiary 5)]]
+- [[Yangethe (Bestiary 5)]]
+- [[Zygomind (Bestiary 5)]]
+

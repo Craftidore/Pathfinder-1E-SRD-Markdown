@@ -1,0 +1,135 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Category: "eMRD"
+Tags:
+  - "Category/eMRD"
+parent:
+  - "Weapons"
+up:
+  - "Weapons"
+next:
+  - "Ranged"
+down:
+  - "Long Knife, Elven"
+  - "Lightblade, Elven"
+  - "Light spear, elven (MeleeWpn)"
+  - "Branched Spear, Elven"
+  - "Spiked Armor"
+  - "Spear"
+  - "Siangham"
+  - "Shortsword"
+  - "Shortspear"
+  - "Kama"
+  - "Hammer, Gnome Hooked"
+  - "Longspear"
+  - "Longsword"
+  - "Lance"
+  - "Kukri"
+  - "Hook hand"
+  - "Harpoon"
+  - "Boarding Gaff"
+  - "Cutlass"
+  - "Cat-o'-nine-tails"
+  - "Axe, Boarding"
+  - "Boarding Pike"
+  - "Bayonet"
+  - "Brass knife"
+  - "Nunchaku"
+  - "Morningstar"
+  - "Mace, Heavy"
+  - "Mace, Light"
+  - "Sai"
+  - "Rapier"
+  - "Ranseur"
+  - "Quarterstaff"
+  - "Shield, Heavy"
+  - "Shield, Light"
+  - "Greatsword"
+  - "Guisarme"
+  - "Halberd"
+  - "Poleax, Tijino"
+  - "Estoc"
+  - "Greataxe, Nordmansch"
+  - "Poniard Sword"
+  - "Bolas, Windrunner"
+  - "Whip, Sundering"
+  - "Talon Blades"
+  - "Axe, Orc Double"
+  - "Flail, Dire"
+  - "Scorpion Chain, Drow"
+  - "Sword, Dueling"
+  - "Greatspear"
+  - "Curve Blade, Elven"
+  - "Dagger"
+  - "Dagger, Punching"
+  - "Chain, Spiked"
+  - "Flail"
+  - "Flail, Heavy"
+  - "Gauntlet"
+  - "Gauntlet, Spiked"
+  - "Glaive"
+RWtopicId: "Topic_15338"
+---
+# Melee
+## Overview
+---
+## Governed Content
+- [[Axe, Boarding]]
+- [[Axe, Orc Double]]
+- [[Bayonet]]
+- [[Boarding Gaff]]
+- [[Boarding Pike]]
+- [[Bolas, Windrunner]]
+- [[Branched Spear, Elven]]
+- [[Brass knife]]
+- [[Cat-o'-nine-tails]]
+- [[Chain, Spiked]]
+- [[Curve Blade, Elven]]
+- [[Cutlass]]
+- [[Dagger]]
+- [[Dagger, Punching]]
+- [[Estoc]]
+- [[Flail]]
+- [[Flail, Dire]]
+- [[Flail, Heavy]]
+- [[Gauntlet]]
+- [[Gauntlet, Spiked]]
+- [[Glaive]]
+- [[Greataxe, Nordmansch]]
+- [[Greatspear]]
+- [[Greatsword]]
+- [[Guisarme]]
+- [[Halberd]]
+- [[Hammer, Gnome Hooked]]
+- [[Harpoon]]
+- [[Hook hand]]
+- [[Kama]]
+- [[Kukri]]
+- [[Lance]]
+- [[Light spear, elven (MeleeWpn)]]
+- [[Lightblade, Elven]]
+- [[Long Knife, Elven]]
+- [[Longspear]]
+- [[Longsword]]
+- [[Mace, Heavy]]
+- [[Mace, Light]]
+- [[Morningstar]]
+- [[Nunchaku]]
+- [[Poleax, Tijino]]
+- [[Poniard Sword]]
+- [[Quarterstaff]]
+- [[Ranseur]]
+- [[Rapier]]
+- [[Sai]]
+- [[Scorpion Chain, Drow]]
+- [[Shield, Heavy]]
+- [[Shield, Light]]
+- [[Shortspear]]
+- [[Shortsword]]
+- [[Siangham]]
+- [[Spear]]
+- [[Spiked Armor]]
+- [[Sword, Dueling]]
+- [[Talon Blades]]
+- [[Whip, Sundering]]
+

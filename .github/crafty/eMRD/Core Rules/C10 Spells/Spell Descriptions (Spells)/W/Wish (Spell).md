@@ -1,0 +1,74 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Aliases:
+  - "Wish"
+Category: "Spells"
+Suffix: "Spell"
+Tags:
+  - "Category/Spells"
+parent:
+  - "W"
+up:
+  - "W"
+prev:
+  - "Wyvern's Form (Spell)"
+next:
+  - "Wall of Force (Spell)"
+RWtopicId: "Topic_17046"
+---
+# Wish (Spell)
+## Overview
+[[Universal Spells|Universal]]
+
+**Level:** [[9th Level Sorcerer Spells|Sorcerer 9]], [[9th Level Wizard Spells|Wizard 9]]
+
+**BoXM:** [[BoXM 20th-Level Wizard Spells List|Wizard 20]]
+
+**Casting Time:** 1 standard action
+
+**Components:** V, S, M (diamond worth 25,000 gp)
+
+**Range:** See text
+
+**Target, Effect, Area:** See text
+
+**Duration:** See text
+
+**Saving Throw:** None, see text
+
+**Spell Resistance:** Yes
+
+**Source:** PF Core Rulebook, pg. 370
+
+*Wish* is the mightiest spell a wizard or sorcerer can cast. By simply speaking aloud, you can alter reality to better suit you. Even *wish*, however, has its limits. A *wish* can produce any one of the following effects.
+
+- Duplicate any sorcerer/wizard spell of 8th level or lower, provided the spell does not belong to one of your opposition schools.
+- Duplicate any non-sorcerer/wizard spell of 7th level or lower, provided the spell does not belong to one of your opposition schools.
+- Duplicate any sorcerer/wizard spell of 7th level or lower, even if it belongs to one of your opposition schools.
+- Duplicate any non-sorcerer/wizard spell of 6th level or lower, even if it belongs to one of your opposition schools.
+- Undo the harmful effects of many other spells, such as *[[Geas_Quest (Spell)|geas/quest]]* or *[[Insanity (Spell)|insanity]]*.
+- Grant a creature a +1 inherent bonus to an ability score. Two to five *wish* spells cast in immediate succession can grant a creature a +2 to +5 inherent bonus to an ability score (two *wishes* for a +2 inherent bonus, three *wishes* for a +3 inherent bonus, and so on). Inherent bonuses are instantaneous, so they cannot be dispelled. *Note*: An inherent bonus may not exceed +5 for a single ability score, and inherent bonuses to a particular ability score do not stack, so only the best one applies.
+- Remove injuries and afflictions. A single *wish* can aid one creature per caster level, and all subjects are cured of the same kind of affliction. For example, you could heal all the damage you and your companions have taken, or remove all poison effects from everyone in the party, but not do both with the same *wish*.
+- Revive the dead. A *wish* can bring a dead creature back to life by duplicating a *[[Resurrection (Spell)|resurrection]]* spell. A *wish* can revive a dead creature whose body has been destroyed, but the task takes two *wishes*: one to recreate the body and another to infuse the body with life again. A *wish* cannot prevent a character who was brought back to life from gaining a permanent negative level.
+- Transport travelers. A *wish* can lift one creature per caster level from anywhere on any plane and place those creatures anywhere else on any plane regardless of local conditions. An unwilling target gets a Will save to negate the effect, and spell resistance (if any) applies.
+- Undo misfortune. A *wish* can undo a single recent event. The *wish* forces a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a *wish* could undo an opponent’s successful save, a foe’s successful critical hit (either the attack roll or the critical roll), a friend’s failed save, and so on. The reroll, however, may be as bad as or worse than the original roll. An unwilling target gets a Will save to negate the effect, and spell resistance (if any) applies.
+
+You may try to use a *wish* to produce greater effects than these, but doing so is dangerous. (The *wish* may pervert your intent into a literal but undesirable fulfillment or only a partial fulfillment, at the GM’s discretion.)
+
+Duplicated spells allow saves and spell resistance as normal (but save DCs are for 9th-level spells).
+
+When a *wish* duplicates a spell with a material component that costs more than 10,000 gp, you must provide that component (in addition to the 25,000 gp diamond component for this spell).
+
+**GM Note**
+
+*House Rule:* A *wish* can be used to make a spell not on the *[[Permanency (Spell)|permanency]]* spell list permanent on a spell by spell basis. Such use of a *wish* is, of course, adjudicated by the GM and should be recorded in the house rules for the group for consistency and continuity.
+
+Spells that can be made permanent by a properly worded wish include:
+
+*[[Arcane Sight, Greater (Spell)|greater arcane sight]]*
+
+
+---
+## Tags
+#Saving-Throws/See-text #Spell-Resistance/Yes #Rule-System/Pathfinder #Saving-Throws/None #Spell-Range/Other #Spell-Level/Sorcerer-Wizard-9 #Rule/OGL #Spell-School/Universal #Rule/House-Rule #Rule/fm3 #Sources/PF-Core-Rulebook #Rule/Spell #Publisher/Paizo #Rule/Core #Spell-Rarity/Common
+

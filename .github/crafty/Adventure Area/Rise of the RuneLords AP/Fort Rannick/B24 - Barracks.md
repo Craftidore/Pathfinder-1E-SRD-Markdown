@@ -1,0 +1,26 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Aliases:
+  - "Barracks"
+  - "B24"
+Category: "Scene"
+Prefix: "B24"
+Tags:
+  - "Category/Scene"
+parent:
+  - "Fort Rannick"
+up:
+  - "Fort Rannick"
+prev:
+  - "B19 - Armory"
+next:
+  - "B36a - B36h - Cells"
+RWtopicId: "Topic_12011"
+---
+# B24 - Barracks
+## Overview
+
+---
+## Tags
+#Story-Scope/RotRL-Ch3-The-Hook-Mountain-Massacre
+

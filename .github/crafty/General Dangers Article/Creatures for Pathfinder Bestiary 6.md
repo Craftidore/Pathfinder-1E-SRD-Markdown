@@ -1,0 +1,397 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Category: "General Dangers Article"
+Tags:
+  - "Category/General-Dangers-Article"
+parent:
+  - "Dangers for Pathfinder Bestiary 6"
+up:
+  - "Dangers for Pathfinder Bestiary 6"
+next:
+  - "General Dangers Articles for Pathfinder Bestiary 6"
+down:
+  - "Alp (Bestiary 6)"
+  - "Alter Ego (Bestiary 6)"
+  - "Animus Shade (Bestiary 6)"
+  - "Aquatic Insect, Belostomatid (Bestiary 6)"
+  - "Aquatic Insect, Hellgrammite (Bestiary 6)"
+  - "Atuikakura (Bestiary 6)"
+  - "Azata, Uinuja (Bestiary 6)"
+  - "Azata, Veranallia (Bestiary 6)"
+  - "Azata, Yamah (Bestiary 6)"
+  - "Banelight (Bestiary 6)"
+  - "Blighted Fey (Bestiary 6)"
+  - "Blood Bramble (Bestiary 6)"
+  - "Bloody Bones (Bestiary 6)"
+  - "Boggart (Bestiary 6)"
+  - "Boggle (Bestiary 6)"
+  - "Bonethorn (Bestiary 6)"
+  - "Calpina (Bestiary 6)"
+  - "Charnel God (Bestiary 6)"
+  - "Cipactli (Bestiary 6)"
+  - "Clockwork Angel (Bestiary 6)"
+  - "Clockwork Assassin (Bestiary 6)"
+  - "Clockwork Fiend (Bestiary 6)"
+  - "Clockwork Guardian (Bestiary 6)"
+  - "Clockwork Hound (Bestiary 6)"
+  - "Combusted (Bestiary 6)"
+  - "Conqueror Worm (Bestiary 6)"
+  - "Coral Capuchin (Bestiary 6)"
+  - "Crypt Flower (Bestiary 6)"
+  - "Cryptguard (Bestiary 6)"
+  - "Cutlass Spider (Bestiary 6)"
+  - "Daemon, Erodaemon (Bestiary 6)"
+  - "Daemon, Lacridaemon (Bestiary 6)"
+  - "Daemon, Obcisidaemon (Bestiary 6)"
+  - "Daemon, Phasmadaemon (Bestiary 6)"
+  - "Daemon, Sangudaemon (Bestiary 6)"
+  - "Daemon, Suspiridaemon (Bestiary 6)"
+  - "Daemon, Temerdaemon (Bestiary 6)"
+  - "Daemon, Venedaemon (Bestiary 6)"
+  - "Daitengu (Bestiary 6)"
+  - "Danthienne (Bestiary 6)"
+  - "Deathsnatcher (Bestiary 6)"
+  - "Deep Walker (Bestiary 6)"
+  - "Demon, Brimorak (Bestiary 6)"
+  - "Demon, Lilitu (Bestiary 6)"
+  - "Demon, Oolioddroo (Bestiary 6)"
+  - "Demon, Vavakia (Bestiary 6)"
+  - "Demon, Vermlek (Bestiary 6)"
+  - "Demon, Yaenit (Bestiary 6)"
+  - "Derro Magister (Bestiary 6)"
+  - "Devil Monkey (Bestiary 6)"
+  - "Dinosaur, Amargasaurus (Bestiary 6)"
+  - "Dinosaur, Giganotosaurus (Bestiary 6)"
+  - "Dinosaur, Kentrosaurus (Bestiary 6)"
+  - "Dinosaur, Quetzalcoatlus (Bestiary 6)"
+  - "Elder Wyrm (Bestiary 6)"
+  - "Empyreal Lord, Arshea (Bestiary 6)"
+  - "Empyreal Lord, Black Butterfly (Bestiary 6)"
+  - "Empyreal Lord, Ragathiel (Bestiary 6)"
+  - "Euryale (Bestiary 6)"
+  - "Eurypterid, Common (Bestiary 6)"
+  - "Eurypterid, Spiny (Bestiary 6)"
+  - "Exiled Shade (Bestiary 6)"
+  - "Fallen (Bestiary 6)"
+  - "Fen Mauler (Bestiary 6)"
+  - "Fire Whale (Bestiary 6)"
+  - "Fish, Dunkleosteus (Bestiary 6)"
+  - "Fish, Piranha Swarm (Bestiary 6)"
+  - "Fungus Queen (Bestiary 6)"
+  - "Ghole (Bestiary 6)"
+  - "Giant, Mountain (Bestiary 6)"
+  - "Giant, Plague (Bestiary 6)"
+  - "Giant, Shadow (Bestiary 6)"
+  - "Giant, Tomb (Bestiary 6)"
+  - "Gluttongrass (Bestiary 6)"
+  - "Goblin, Monkey (Bestiary 6)"
+  - "Goezspall (Bestiary 6)"
+  - "Golem, Gold (Bestiary 6)"
+  - "Golem, Obsidian (Bestiary 6)"
+  - "Golem, Quintessence (Bestiary 6)"
+  - "Golem, Viridium (Bestiary 6)"
+  - "Gowrow (Bestiary 6)"
+  - "Gravesludge (Bestiary 6)"
+  - "Great Old One, Rhan-Tegoth (Bestiary 6)"
+  - "Great Old One, Tawil at'Umr (Bestiary 6)"
+  - "Great Old One, Yig (Bestiary 6)"
+  - "Green Man (Bestiary 6)"
+  - "Herecite (Bestiary 6)"
+  - "Hivemind Swarm (Bestiary 6)"
+  - "Horla (Bestiary 6)"
+  - "Hupia (Bestiary 6)"
+  - "Jellyfish, Crimson (Bestiary 6)"
+  - "Jellyfish, Whaler (Bestiary 6)"
+  - "Kaiju, Varklops (Bestiary 6)"
+  - "Kaiju, Vorgozen (Bestiary 6)"
+  - "Kaiju, Yarthoon (Bestiary 6)"
+  - "Kamaitachi (Bestiary 6)"
+  - "Kikituk (Bestiary 6)"
+  - "Krampus (Bestiary 6)"
+  - "Leng Hound (Bestiary 6)"
+  - "Llorona (Bestiary 6)"
+  - "Lovelorn (Bestiary 6)"
+  - "Mapinguari (Bestiary 6)"
+  - "Megafauna, Brontotherium (Bestiary 6)"
+  - "Megafauna, Deinotherium (Bestiary 6)"
+  - "Megafauna, Elasmotherium (Bestiary 6)"
+  - "Megafauna, Titanoboa (Bestiary 6)"
+  - "Mezlan (Bestiary 6)"
+  - "Mire Nettle (Bestiary 6)"
+  - "Mockingfey (Bestiary 6)"
+  - "Mokele-Mbembe (Bestiary 6)"
+  - "Moldwretch (Bestiary 6)"
+  - "Mongrel Giant (Bestiary 6)"
+  - "Mosslord (Bestiary 6)"
+  - "Muhuru (Bestiary 6)"
+  - "Munavri (Bestiary 6)"
+  - "Naga, Dream (Bestiary 6)"
+  - "Naga, Slime (Bestiary 6)"
+  - "Naiad (Bestiary 6)"
+  - "Nekomata (Bestiary 6)"
+  - "Oblivion (Bestiary 6)"
+  - "Omnipath (Bestiary 6)"
+  - "Ouroboros (Bestiary 6)"
+  - "Protean, Azuretzi (Bestiary 6)"
+  - "Protean, Hegessik (Bestiary 6)"
+  - "Protean, Izfiitar (Bestiary 6)"
+  - "Protean, Oshageros (Bestiary 6)"
+  - "Protean, Ourdivar (Bestiary 6)"
+  - "Protean, Pelagastr (Bestiary 6)"
+  - "Psoglav (Bestiary 6)"
+  - "Psychic Stalker (Bestiary 6)"
+  - "Psychopomp, Algea (Bestiary 6)"
+  - "Psychopomp, Esobok (Bestiary 6)"
+  - "Psychopomp, Memitim (Bestiary 6)"
+  - "Psychopomp, Olethros (Bestiary 6)"
+  - "Psychopomp, Shoki (Bestiary 6)"
+  - "Psychopomp, Viduus (Bestiary 6)"
+  - "Qlippoth, Behimiron (Bestiary 6)"
+  - "Qlippoth, Cataboligne (Bestiary 6)"
+  - "Qlippoth, Gongorinan (Bestiary 6)"
+  - "Qlippoth, Gorgoros (Bestiary 6)"
+  - "Qlippoth, Hydraggon (Bestiary 6)"
+  - "Qlippoth, Utukku (Bestiary 6)"
+  - "Raven Swarm (Bestiary 6)"
+  - "Raven, Giant (Bestiary 6)"
+  - "Rawhead (Bestiary 6)"
+  - "Rougarou (Bestiary 6)"
+  - "Sahkil, Ichkoh (Bestiary 6)"
+  - "Sahkil, Ximtal (Bestiary 6)"
+  - "Sahkil, Zohanil (Bestiary 6)"
+  - "Saurian (Bestiary 6)"
+  - "Sea Anemone, Coffin Anemone (Bestiary 6)"
+  - "Sea Anemone, Siren's Bed (Bestiary 6)"
+  - "Sea Worm, Giant Tube Worm (Bestiary 6)"
+  - "Sea Worm, Hookfang (Bestiary 6)"
+  - "Siabrae (Bestiary 6)"
+  - "Skincrawler (Bestiary 6)"
+  - "Skrimsl (Bestiary 6)"
+  - "Slithering Pit (Bestiary 6)"
+  - "Solifugid, Duneshaker (Bestiary 6)"
+  - "Solifugid, Razormouth (Bestiary 6)"
+  - "Starfish, Giant (Bestiary 6)"
+  - "Sundew, Giant (Bestiary 6)"
+  - "Taniwha (Bestiary 6)"
+  - "Tarantula Tree (Bestiary 6)"
+  - "Targotha (Bestiary 6)"
+  - "Tenome (Bestiary 6)"
+  - "Thessalhydra (Bestiary 6)"
+  - "Trailgaunt (Bestiary 6)"
+  - "Unrisen (Bestiary 6)"
+  - "Urhag (Bestiary 6)"
+  - "Veiled Master (Bestiary 6)"
+  - "Vespergaunt (Bestiary 6)"
+  - "Vrykolakas (Bestiary 6)"
+  - "Warmonger (Bestiary 6)"
+  - "Whip Spider, Titanic (Bestiary 6)"
+  - "Whisperer (Bestiary 6)"
+  - "Yaddithian (Bestiary 6)"
+  - "Yurei (Bestiary 6)"
+  - "Zombie, Spore (Bestiary 6)"
+  - "Archdevil (Bestiary 6)"
+  - "Blight (Bestiary 6)"
+  - "Dragon, Planar (Bestiary 6)"
+  - "Entothrope (Bestiary 6)"
+  - "Exoskeleton (Bestiary 6)"
+  - "Horseman of the Apocalypse (Bestiary 6)"
+  - "Qlippoth Lord (Bestiary 6)"
+  - "Troop (Bestiary 6)"
+  - "Wild Hunt (Bestiary 6)"
+  - "Apocalypse Horse (Bestiary 6)"
+RWtopicId: "Topic_1402"
+---
+# Creatures for Pathfinder Bestiary 6
+## Overview
+---
+## Governed Content
+- [[Alp (Bestiary 6)]]
+- [[Alter Ego (Bestiary 6)]]
+- [[Animus Shade (Bestiary 6)]]
+- [[Apocalypse Horse (Bestiary 6)]]
+- [[Aquatic Insect, Belostomatid (Bestiary 6)]]
+- [[Aquatic Insect, Hellgrammite (Bestiary 6)]]
+- [[Archdevil (Bestiary 6)]]
+- [[Atuikakura (Bestiary 6)]]
+- [[Azata, Uinuja (Bestiary 6)]]
+- [[Azata, Veranallia (Bestiary 6)]]
+- [[Azata, Yamah (Bestiary 6)]]
+- [[Banelight (Bestiary 6)]]
+- [[Blight (Bestiary 6)]]
+- [[Blighted Fey (Bestiary 6)]]
+- [[Blood Bramble (Bestiary 6)]]
+- [[Bloody Bones (Bestiary 6)]]
+- [[Boggart (Bestiary 6)]]
+- [[Boggle (Bestiary 6)]]
+- [[Bonethorn (Bestiary 6)]]
+- [[Calpina (Bestiary 6)]]
+- [[Charnel God (Bestiary 6)]]
+- [[Cipactli (Bestiary 6)]]
+- [[Clockwork Angel (Bestiary 6)]]
+- [[Clockwork Assassin (Bestiary 6)]]
+- [[Clockwork Fiend (Bestiary 6)]]
+- [[Clockwork Guardian (Bestiary 6)]]
+- [[Clockwork Hound (Bestiary 6)]]
+- [[Combusted (Bestiary 6)]]
+- [[Conqueror Worm (Bestiary 6)]]
+- [[Coral Capuchin (Bestiary 6)]]
+- [[Crypt Flower (Bestiary 6)]]
+- [[Cryptguard (Bestiary 6)]]
+- [[Cutlass Spider (Bestiary 6)]]
+- [[Daemon, Erodaemon (Bestiary 6)]]
+- [[Daemon, Lacridaemon (Bestiary 6)]]
+- [[Daemon, Obcisidaemon (Bestiary 6)]]
+- [[Daemon, Phasmadaemon (Bestiary 6)]]
+- [[Daemon, Sangudaemon (Bestiary 6)]]
+- [[Daemon, Suspiridaemon (Bestiary 6)]]
+- [[Daemon, Temerdaemon (Bestiary 6)]]
+- [[Daemon, Venedaemon (Bestiary 6)]]
+- [[Daitengu (Bestiary 6)]]
+- [[Danthienne (Bestiary 6)]]
+- [[Deathsnatcher (Bestiary 6)]]
+- [[Deep Walker (Bestiary 6)]]
+- [[Demon, Brimorak (Bestiary 6)]]
+- [[Demon, Lilitu (Bestiary 6)]]
+- [[Demon, Oolioddroo (Bestiary 6)]]
+- [[Demon, Vavakia (Bestiary 6)]]
+- [[Demon, Vermlek (Bestiary 6)]]
+- [[Demon, Yaenit (Bestiary 6)]]
+- [[Derro Magister (Bestiary 6)]]
+- [[Devil Monkey (Bestiary 6)]]
+- [[Dinosaur, Amargasaurus (Bestiary 6)]]
+- [[Dinosaur, Giganotosaurus (Bestiary 6)]]
+- [[Dinosaur, Kentrosaurus (Bestiary 6)]]
+- [[Dinosaur, Quetzalcoatlus (Bestiary 6)]]
+- [[Dragon, Planar (Bestiary 6)]]
+- [[Elder Wyrm (Bestiary 6)]]
+- [[Empyreal Lord, Arshea (Bestiary 6)]]
+- [[Empyreal Lord, Black Butterfly (Bestiary 6)]]
+- [[Empyreal Lord, Ragathiel (Bestiary 6)]]
+- [[Entothrope (Bestiary 6)]]
+- [[Euryale (Bestiary 6)]]
+- [[Eurypterid, Common (Bestiary 6)]]
+- [[Eurypterid, Spiny (Bestiary 6)]]
+- [[Exiled Shade (Bestiary 6)]]
+- [[Exoskeleton (Bestiary 6)]]
+- [[Fallen (Bestiary 6)]]
+- [[Fen Mauler (Bestiary 6)]]
+- [[Fire Whale (Bestiary 6)]]
+- [[Fish, Dunkleosteus (Bestiary 6)]]
+- [[Fish, Piranha Swarm (Bestiary 6)]]
+- [[Fungus Queen (Bestiary 6)]]
+- [[Ghole (Bestiary 6)]]
+- [[Giant, Mountain (Bestiary 6)]]
+- [[Giant, Plague (Bestiary 6)]]
+- [[Giant, Shadow (Bestiary 6)]]
+- [[Giant, Tomb (Bestiary 6)]]
+- [[Gluttongrass (Bestiary 6)]]
+- [[Goblin, Monkey (Bestiary 6)]]
+- [[Goezspall (Bestiary 6)]]
+- [[Golem, Gold (Bestiary 6)]]
+- [[Golem, Obsidian (Bestiary 6)]]
+- [[Golem, Quintessence (Bestiary 6)]]
+- [[Golem, Viridium (Bestiary 6)]]
+- [[Gowrow (Bestiary 6)]]
+- [[Gravesludge (Bestiary 6)]]
+- [[Great Old One, Rhan-Tegoth (Bestiary 6)]]
+- [[Great Old One, Tawil at'Umr (Bestiary 6)]]
+- [[Great Old One, Yig (Bestiary 6)]]
+- [[Green Man (Bestiary 6)]]
+- [[Herecite (Bestiary 6)]]
+- [[Hivemind Swarm (Bestiary 6)]]
+- [[Horla (Bestiary 6)]]
+- [[Horseman of the Apocalypse (Bestiary 6)]]
+- [[Hupia (Bestiary 6)]]
+- [[Jellyfish, Crimson (Bestiary 6)]]
+- [[Jellyfish, Whaler (Bestiary 6)]]
+- [[Kaiju, Varklops (Bestiary 6)]]
+- [[Kaiju, Vorgozen (Bestiary 6)]]
+- [[Kaiju, Yarthoon (Bestiary 6)]]
+- [[Kamaitachi (Bestiary 6)]]
+- [[Kikituk (Bestiary 6)]]
+- [[Krampus (Bestiary 6)]]
+- [[Leng Hound (Bestiary 6)]]
+- [[Llorona (Bestiary 6)]]
+- [[Lovelorn (Bestiary 6)]]
+- [[Mapinguari (Bestiary 6)]]
+- [[Megafauna, Brontotherium (Bestiary 6)]]
+- [[Megafauna, Deinotherium (Bestiary 6)]]
+- [[Megafauna, Elasmotherium (Bestiary 6)]]
+- [[Megafauna, Titanoboa (Bestiary 6)]]
+- [[Mezlan (Bestiary 6)]]
+- [[Mire Nettle (Bestiary 6)]]
+- [[Mockingfey (Bestiary 6)]]
+- [[Mokele-Mbembe (Bestiary 6)]]
+- [[Moldwretch (Bestiary 6)]]
+- [[Mongrel Giant (Bestiary 6)]]
+- [[Mosslord (Bestiary 6)]]
+- [[Muhuru (Bestiary 6)]]
+- [[Munavri (Bestiary 6)]]
+- [[Naga, Dream (Bestiary 6)]]
+- [[Naga, Slime (Bestiary 6)]]
+- [[Naiad (Bestiary 6)]]
+- [[Nekomata (Bestiary 6)]]
+- [[Oblivion (Bestiary 6)]]
+- [[Omnipath (Bestiary 6)]]
+- [[Ouroboros (Bestiary 6)]]
+- [[Protean, Azuretzi (Bestiary 6)]]
+- [[Protean, Hegessik (Bestiary 6)]]
+- [[Protean, Izfiitar (Bestiary 6)]]
+- [[Protean, Oshageros (Bestiary 6)]]
+- [[Protean, Ourdivar (Bestiary 6)]]
+- [[Protean, Pelagastr (Bestiary 6)]]
+- [[Psoglav (Bestiary 6)]]
+- [[Psychic Stalker (Bestiary 6)]]
+- [[Psychopomp, Algea (Bestiary 6)]]
+- [[Psychopomp, Esobok (Bestiary 6)]]
+- [[Psychopomp, Memitim (Bestiary 6)]]
+- [[Psychopomp, Olethros (Bestiary 6)]]
+- [[Psychopomp, Shoki (Bestiary 6)]]
+- [[Psychopomp, Viduus (Bestiary 6)]]
+- [[Qlippoth Lord (Bestiary 6)]]
+- [[Qlippoth, Behimiron (Bestiary 6)]]
+- [[Qlippoth, Cataboligne (Bestiary 6)]]
+- [[Qlippoth, Gongorinan (Bestiary 6)]]
+- [[Qlippoth, Gorgoros (Bestiary 6)]]
+- [[Qlippoth, Hydraggon (Bestiary 6)]]
+- [[Qlippoth, Utukku (Bestiary 6)]]
+- [[Raven Swarm (Bestiary 6)]]
+- [[Raven, Giant (Bestiary 6)]]
+- [[Rawhead (Bestiary 6)]]
+- [[Rougarou (Bestiary 6)]]
+- [[Sahkil, Ichkoh (Bestiary 6)]]
+- [[Sahkil, Ximtal (Bestiary 6)]]
+- [[Sahkil, Zohanil (Bestiary 6)]]
+- [[Saurian (Bestiary 6)]]
+- [[Sea Anemone, Coffin Anemone (Bestiary 6)]]
+- [[Sea Anemone, Siren's Bed (Bestiary 6)]]
+- [[Sea Worm, Giant Tube Worm (Bestiary 6)]]
+- [[Sea Worm, Hookfang (Bestiary 6)]]
+- [[Siabrae (Bestiary 6)]]
+- [[Skincrawler (Bestiary 6)]]
+- [[Skrimsl (Bestiary 6)]]
+- [[Slithering Pit (Bestiary 6)]]
+- [[Solifugid, Duneshaker (Bestiary 6)]]
+- [[Solifugid, Razormouth (Bestiary 6)]]
+- [[Starfish, Giant (Bestiary 6)]]
+- [[Sundew, Giant (Bestiary 6)]]
+- [[Taniwha (Bestiary 6)]]
+- [[Tarantula Tree (Bestiary 6)]]
+- [[Targotha (Bestiary 6)]]
+- [[Tenome (Bestiary 6)]]
+- [[Thessalhydra (Bestiary 6)]]
+- [[Trailgaunt (Bestiary 6)]]
+- [[Troop (Bestiary 6)]]
+- [[Unrisen (Bestiary 6)]]
+- [[Urhag (Bestiary 6)]]
+- [[Veiled Master (Bestiary 6)]]
+- [[Vespergaunt (Bestiary 6)]]
+- [[Vrykolakas (Bestiary 6)]]
+- [[Warmonger (Bestiary 6)]]
+- [[Whip Spider, Titanic (Bestiary 6)]]
+- [[Whisperer (Bestiary 6)]]
+- [[Wild Hunt (Bestiary 6)]]
+- [[Yaddithian (Bestiary 6)]]
+- [[Yurei (Bestiary 6)]]
+- [[Zombie, Spore (Bestiary 6)]]
+

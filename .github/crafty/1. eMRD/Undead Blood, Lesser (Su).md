@@ -1,0 +1,26 @@
+---
+ImportedOn: "Friday, January 27, 2023 12:02:47 AM"
+Category: "eMRD"
+Tags:
+  - "Category/eMRD"
+parent:
+  - "Rage Powers"
+up:
+  - "Rage Powers"
+prev:
+  - "Undead Blood, Greater (Su)"
+next:
+  - "Battle Roar (Su)"
+RWtopicId: "Topic_18724"
+---
+# Undead Blood, Lesser (Su)
+## Overview
+*Undead Blood, Lesser (Su)*: While raging, when the barbarian hits a creature with a charge attack, the creature she hit becomes [[Shaken|shaken]] for a number of rounds equal to 1/2 her barbarian level (minimum 1). This effect does not stack with other fear effects to cause a stronger condition. 
+
+**Source:** Advanced Class Guide, pg. 80
+
+
+---
+## Tags
+#Sources/Advanced-Class-Guide #Rule-System/Pathfinder #Publisher/Paizo #Rule/Core #Rule/Barbarian
+

@@ -1,0 +1,267 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Category: "Spells"
+Tags:
+  - "Category/Spells"
+parent:
+  - "Spell Descriptions (Spells)"
+up:
+  - "Spell Descriptions (Spells)"
+prev:
+  - "F"
+next:
+  - "H"
+down:
+  - "Gelid Blood (Spell)"
+  - "Glacial Globe of Invulnerability (Spell)"
+  - "Gallant Inspiration (Spell)"
+  - "Geyser (Spell)"
+  - "Grace (Spell)"
+  - "Gravity Bow (Spell)"
+  - "Gravity Bow, Greater (Spell)"
+  - "Grove of Respite (Spell)"
+  - "Guiding Star (Spell)"
+  - "Glamerwall (Spell)"
+  - "Greenfire (Spell)"
+  - "Glassee (Spell)"
+  - "Gentle Breeze (Spell)"
+  - "Glue Seal (Spell)"
+  - "Guardian of Faith (Spell)"
+  - "Ghost Ward (Spell)"
+  - "Gasp (Spell)"
+  - "Ghost Sound (Spell)"
+  - "Ghostharp (Spell)"
+  - "Grease (Spell)"
+  - "Glitterdust (Spell)"
+  - "Geas, Lesser (Spell)"
+  - "Glibness (Spell)"
+  - "Good Hope (Spell)"
+  - "Geas_Quest (Spell)"
+  - "Gaze Screen (Spell)"
+  - "Gem Tracer (Spell)"
+  - "Glossolalia (Spell)"
+  - "Glimpse of Eternity (Spell)"
+  - "Golem Strike (Spell)"
+  - "Grave Strike (Spell)"
+  - "Graymantle (Spell)"
+  - "Great Thunderclap (Spell)"
+  - "Guided Shot (Spell)"
+  - "Guiding Light (Spell)"
+  - "Gutsnake (Spell)"
+  - "G'Elsewhere Chant (Spell)"
+  - "Gembomb (Spell)"
+  - "Gemjump (Spell)"
+  - "General of Undeath (Spell)"
+  - "Ghost Touch Weapon (Spell)"
+  - "Ghost Trap (Spell)"
+  - "Ghostform (Spell)"
+  - "Ghoul Gauntlet (Spell)"
+  - "Ghoul Gesture (Spell)"
+  - "Ghoul Glyph (Spell)"
+  - "Ghoul Light (Spell)"
+  - "Giant's Wrath (Spell)"
+  - "Girallon's Blessing (Spell)"
+  - "Glass Strike (Spell)"
+  - "Golden Barding (Spell)"
+  - "Grimoire Symbiosis (Spell)"
+  - "Glowing Orb (Spell)"
+  - "Golem Immunity (Spell)"
+  - "Ghostly Reload (Spell)"
+  - "Ghostly Tail (Spell)"
+  - "Gnome Blight (Spell)"
+  - "Getaway (Spell)"
+  - "Guidance of the Avatar (Spell)"
+  - "Globe Against the Divine (Spell)"
+  - "Guide Craft, Greater (Spell)"
+  - "Greatberry (Spell)"
+  - "Gaseous Form (Spell)"
+  - "Ghost-Ash Wagon (Spell)"
+  - "Glasteel (Spell)"
+  - "Golden Dragonmail (Spell)"
+  - "Ghost Light (Spell)"
+  - "Giant Size (Spell)"
+  - "Genius Loci (Spell)"
+  - "Ghost Lantern (Spell)"
+  - "Great Worm of the Earth (Spell)"
+  - "Guided Path (Spell)"
+  - "Grasping Wall (Spell)"
+  - "Genesis (Spell)"
+  - "Glorious Master of the Elements (Spell)"
+  - "Ghost Storm (Spell)"
+  - "Giant's Wrath, Greater (Spell)"
+  - "Glorious Raiment (Spell)"
+  - "Globe of Invulnerability, Lesser (Spell)"
+  - "Gate (Spell)"
+  - "Gentle Repose (Spell)"
+  - "Ghoul Touch (Spell)"
+  - "Giant Form I (Spell)"
+  - "Giant Form II (Spell)"
+  - "Giant Vermin (Spell)"
+  - "Globe of Invulnerability (Spell)"
+  - "Glyph of Warding (Spell)"
+  - "Glyph of Warding, Greater (Spell)"
+  - "Goodberry (Spell)"
+  - "Grasping Hand (Spell)"
+  - "Guards and Wards (Spell)"
+  - "Guidance (Spell)"
+  - "Gust of Wind (Spell)"
+  - "Gird Against the Enemy (Spell)"
+  - "Glory of the Beast (Spell)"
+  - "Godspeed (Spell)"
+  - "Grant Quarter (Spell)"
+  - "Guide Craft (Spell)"
+  - "Glimpse of Truth (Spell)"
+  - "Grim Revenge (Spell)"
+  - "Gutwrench (Spell)"
+  - "Geb's Hammer (Spell)"
+  - "Geniekind (Spell)"
+  - "Groundswell (Spell)"
+  - "Ghost Wolf (Spell)"
+  - "Gloomblind Bolts (Spell)"
+  - "Ghostdweomer (Spell)"
+  - "Ghost Touch Armor (Spell)"
+  - "Ghost Venom (Spell)"
+  - "Glyph of Warding, Elder (Spell)"
+  - "Ghost Pipes (Spell)"
+  - "Guardian Spirit (Spell)"
+  - "Guardian Spirit, Mass (Spell)"
+  - "Glacial Ward, Greater (Spell)"
+  - "Glacial Ward (Spell)"
+  - "Glacier (Spell)"
+  - "Glaze Lock (Spell)"
+  - "Ghost Bane Weapon (Spell)"
+  - "Ghost Companion (Spell)"
+  - "Glyph of Turning (Spell)"
+  - "Ghostbane Dirge (Spell)"
+  - "Ghostbane Dirge, Mass (Spell)"
+  - "Glide (Spell)"
+RWtopicId: "Topic_16020"
+---
+# G
+## Overview
+---
+## Governed Content
+- [[Gallant Inspiration (Spell)]]
+- [[Gaseous Form (Spell)]]
+- [[Gasp (Spell)]]
+- [[Gate (Spell)]]
+- [[Gaze Screen (Spell)]]
+- [[Geas, Lesser (Spell)]]
+- [[Geas_Quest (Spell)|Geas/Quest (Spell)]]
+- [[Geb's Hammer (Spell)]]
+- [[Gelid Blood (Spell)]]
+- [[G'Elsewhere Chant (Spell)]]
+- [[Gem Tracer (Spell)]]
+- [[Gembomb (Spell)]]
+- [[Gemjump (Spell)]]
+- [[General of Undeath (Spell)]]
+- [[Genesis (Spell)]]
+- [[Geniekind (Spell)]]
+- [[Genius Loci (Spell)]]
+- [[Gentle Breeze (Spell)]]
+- [[Gentle Repose (Spell)]]
+- [[Getaway (Spell)]]
+- [[Geyser (Spell)]]
+- [[Ghost Bane Weapon (Spell)]]
+- [[Ghost Companion (Spell)]]
+- [[Ghost Lantern (Spell)]]
+- [[Ghost Light (Spell)]]
+- [[Ghost Pipes (Spell)]]
+- [[Ghost Sound (Spell)]]
+- [[Ghost Storm (Spell)]]
+- [[Ghost Touch Armor (Spell)]]
+- [[Ghost Touch Weapon (Spell)]]
+- [[Ghost Trap (Spell)]]
+- [[Ghost Venom (Spell)]]
+- [[Ghost Ward (Spell)]]
+- [[Ghost Wolf (Spell)]]
+- [[Ghost-Ash Wagon (Spell)]]
+- [[Ghostbane Dirge (Spell)]]
+- [[Ghostbane Dirge, Mass (Spell)]]
+- [[Ghostdweomer (Spell)]]
+- [[Ghostform (Spell)]]
+- [[Ghostharp (Spell)]]
+- [[Ghostly Reload (Spell)]]
+- [[Ghostly Tail (Spell)]]
+- [[Ghoul Gauntlet (Spell)]]
+- [[Ghoul Gesture (Spell)]]
+- [[Ghoul Glyph (Spell)]]
+- [[Ghoul Light (Spell)]]
+- [[Ghoul Touch (Spell)]]
+- [[Giant Form I (Spell)]]
+- [[Giant Form II (Spell)]]
+- [[Giant Size (Spell)]]
+- [[Giant Vermin (Spell)]]
+- [[Giant's Wrath (Spell)]]
+- [[Giant's Wrath, Greater (Spell)]]
+- [[Girallon's Blessing (Spell)]]
+- [[Gird Against the Enemy (Spell)]]
+- [[Glacial Globe of Invulnerability (Spell)]]
+- [[Glacial Ward (Spell)]]
+- [[Glacial Ward, Greater (Spell)]]
+- [[Glacier (Spell)]]
+- [[Glamerwall (Spell)]]
+- [[Glass Strike (Spell)]]
+- [[Glassee (Spell)]]
+- [[Glasteel (Spell)]]
+- [[Glaze Lock (Spell)]]
+- [[Glibness (Spell)]]
+- [[Glide (Spell)]]
+- [[Glimpse of Eternity (Spell)]]
+- [[Glimpse of Truth (Spell)]]
+- [[Glitterdust (Spell)]]
+- [[Globe Against the Divine (Spell)]]
+- [[Globe of Invulnerability (Spell)]]
+- [[Globe of Invulnerability, Lesser (Spell)]]
+- [[Gloomblind Bolts (Spell)]]
+- [[Glorious Master of the Elements (Spell)]]
+- [[Glorious Raiment (Spell)]]
+- [[Glory of the Beast (Spell)]]
+- [[Glossolalia (Spell)]]
+- [[Glowing Orb (Spell)]]
+- [[Glue Seal (Spell)]]
+- [[Glyph of Turning (Spell)]]
+- [[Glyph of Warding (Spell)]]
+- [[Glyph of Warding, Elder (Spell)]]
+- [[Glyph of Warding, Greater (Spell)]]
+- [[Gnome Blight (Spell)]]
+- [[Godspeed (Spell)]]
+- [[Golden Barding (Spell)]]
+- [[Golden Dragonmail (Spell)]]
+- [[Golem Immunity (Spell)]]
+- [[Golem Strike (Spell)]]
+- [[Good Hope (Spell)]]
+- [[Goodberry (Spell)]]
+- [[Grace (Spell)]]
+- [[Grant Quarter (Spell)]]
+- [[Grasping Hand (Spell)]]
+- [[Grasping Wall (Spell)]]
+- [[Grave Strike (Spell)]]
+- [[Gravity Bow (Spell)]]
+- [[Gravity Bow, Greater (Spell)]]
+- [[Graymantle (Spell)]]
+- [[Grease (Spell)]]
+- [[Great Thunderclap (Spell)]]
+- [[Great Worm of the Earth (Spell)]]
+- [[Greatberry (Spell)]]
+- [[Greenfire (Spell)]]
+- [[Grim Revenge (Spell)]]
+- [[Grimoire Symbiosis (Spell)]]
+- [[Groundswell (Spell)]]
+- [[Grove of Respite (Spell)]]
+- [[Guardian of Faith (Spell)]]
+- [[Guardian Spirit (Spell)]]
+- [[Guardian Spirit, Mass (Spell)]]
+- [[Guards and Wards (Spell)]]
+- [[Guidance (Spell)]]
+- [[Guidance of the Avatar (Spell)]]
+- [[Guide Craft (Spell)]]
+- [[Guide Craft, Greater (Spell)]]
+- [[Guided Path (Spell)]]
+- [[Guided Shot (Spell)]]
+- [[Guiding Light (Spell)]]
+- [[Guiding Star (Spell)]]
+- [[Gust of Wind (Spell)]]
+- [[Gutsnake (Spell)]]
+- [[Gutwrench (Spell)]]
+

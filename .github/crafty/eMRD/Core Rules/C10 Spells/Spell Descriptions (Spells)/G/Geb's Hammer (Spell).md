@@ -1,0 +1,55 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Aliases:
+  - "Geb's Hammer"
+Category: "Spells"
+Suffix: "Spell"
+Tags:
+  - "Category/Spells"
+parent:
+  - "G"
+up:
+  - "G"
+prev:
+  - "Gutwrench (Spell)"
+next:
+  - "Geniekind (Spell)"
+RWtopicId: "Topic_17130"
+---
+# Geb's Hammer (Spell)
+## Overview
+[[Necromancy Spells|Necromancy]]
+
+**Level:** [[4th Level Sorcerer Spells|Sorcerer 4]], [[4th Level Witch Spells|Witch 4]], [[4th Level Wizard Spells|Wizard 4]]
+
+**BoXM:** [[BoXM 7th-Level Wizard Spells List|Wizard 7]]
+
+**Casting Time:** 1 standard action
+
+**Components:** V, S, M (a leather glove coated in dried embalming herbs)
+
+**Range:** Close (25 ft. + 5 ft./2 levels)
+
+**Effect:** Sphere of undead remains composed of 3 or more destroyed undead
+
+**Duration:** 1 round/level
+
+**Saving Throw:** None
+
+**Spell Resistance:** Yes
+
+**Source:** Inner Sea Magic, pg. 55
+
+Centuries of war with Nex trained the necromancers of Geb to extract every last resource from the mindless undead that make up most of Geb’s rank-and-file troops.
+
+When you cast this spell, you draw the remains of nearby destroyed undead together and fuse them into a mass of flesh and bone you can then hurl at any foes within range. Three corpses within range of the spell are required for the spell to function. *Geb’s hammer* can be directed to attack one foe within range per round as a move action. It uses your caster level as its base attack bonus, modified by your Intelligence, Wisdom, or Charisma modifier (whichever one is highest). On a hit, the corpse hammer deals 1d6 points of damage per three caster levels (to a maximum of 6d6 points of damage).
+
+*Geb’s hammer* also has secondary effects based on the nature of the three bodies you use to create it. If the majority used to create *Geb’s hammer* (at least two) were skeletal, the jagged bits of bone cause the corpse hammer to deal slashing damage and increase *Geb’s hammer’s* critical threat range to 19–20. On the other hand, if the majority were fleshy (at least two), the increased mass causes *Geb’s hammer* to deal bludgeoning damage and increase its critical hit damage to ×3.
+
+Undead that have been destroyed by positive energy or a similar effect that does not leave a corpse, like a *[[Disintegrate (Spell)|disintegrate]]* spell, cannot be used to form *Geb’s hammer*.
+
+
+---
+## Tags
+#Spell-Resistance/Yes #Sources/Inner-Sea-Magic #Rule-System/Pathfinder #Saving-Throws/None #Rule/OGL #Rule/Spell #Rule/Core #Publisher/Paizo #Spell-Rarity/Uncommon #Spell-Range/Close--25-ft----5-ft--2-levels- #Spell-School/Necromancy #Spell-Level/Sorcerer-Wizard-4 #Spell-Level/Witch-4
+

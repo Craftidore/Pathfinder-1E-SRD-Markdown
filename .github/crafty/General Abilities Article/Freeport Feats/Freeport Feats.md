@@ -1,0 +1,228 @@
+---
+ImportedOn: "Thursday, February 16, 2023 6:10:23 PM"
+Category: "General Abilities Article"
+Tags:
+  - "Category/General-Abilities-Article"
+parent:
+  - "General Abilities Article"
+up:
+  - "General Abilities Article"
+prev:
+  - "Freeport Classes"
+next:
+  - "Freeport Skills"
+down:
+  - "Acrobatic Attack (PF Freeport Comp)"
+  - "Agile Riposte (PF Freeport Comp)"
+  - "Aligned Summoning (PF Freeport Comp)"
+  - "Armed to the Teeth (PF Freeport Comp)"
+  - "Armlock (PF Freeport Comp)"
+  - "Blasphemous Aura (PF Freeport Comp)"
+  - "Blinding Strike (PF Freeport Comp)"
+  - "Blood of Pirates (PF Freeport Comp)"
+  - "Bloody Fists (PF Freeport Comp)"
+  - "Body Shield (PF Freeport Comp)"
+  - "Born Marine (PF Freeport Comp)"
+  - "Brilliant Tactician (PF Freeport Comp)"
+  - "Burst of Activity (PF Freeport Comp)"
+  - "Canny Charge (PF Freeport Comp)"
+  - "Cheat Death (PF Freeport Comp)"
+  - "Chill Hand (PF Freeport Comp)"
+  - "Combat Surge (PF Freeport Comp)"
+  - "Combat Throw (PF Freeport Comp)"
+  - "Counterstrike (PF Freeport Comp)"
+  - "Crab's Rush (PF Freeport Comp)"
+  - "Crack Shot (PF Freeport Comp)"
+  - "Dark Lady's Kiss (PF Freeport Comp)"
+  - "Dead-Eye Shot (PF Freeport Comp)"
+  - "Desperate Lunge (PF Freeport Comp)"
+  - "Dimension Drop (PF Freeport Comp)"
+  - "Dirty Spellcasting (PF Freeport Comp)"
+  - "Disciplined Warrior (PF Freeport Comp)"
+  - "Divine Blessing (PF Freeport Comp)"
+  - "Domain Specialization (PF Freeport Comp)"
+  - "Double Kick (PF Freeport Comp)"
+  - "Drac Bloodline (PF Freeport Comp)"
+  - "Dreadful Blow (PF Freeport Comp)"
+  - "Entangle Weapon (PF Freeport Comp)"
+  - "Evasive Maneuvers (PF Freeport Comp)"
+  - "Eyes in the Back of Your Head (PF Freeport Comp)"
+  - "False Attack (PF Freeport Comp)"
+  - "Fearsome Glare (PF Freeport Comp)"
+  - "Filthy (PF Freeport Comp)"
+  - "Firearms Drill (PF Freeport Comps)"
+  - "Firearms Proficiency (PF Freeport Comp)"
+  - "Flamboyant Display (PF Freeport Comp)"
+  - "Fool's Fortune (PF Freeport Comp)"
+  - "Font of Life (PF Freeport Comp)"
+  - "Formation Fighting (PF Freeport Comp)"
+  - "Fortified Mind (PF Freeport Comp)"
+  - "Francisco's Bloodline (PF Freeport Comp)"
+  - "Frenzied Resilience (PF Freeport Comp)"
+  - "Fueled by Hate (PF Freeport Comp)"
+  - "Furious Strike (PF Freeport Comp)"
+  - "Greater Bond (PF Freeport Comp)"
+  - "Greater Combat Throw (PF Freeport Comp)"
+  - "Gut Shot (PF Freeport Comp)"
+  - "Hardy Stock (PF Freeport Comp)"
+  - "Harrowing Surge (PF Freeport Comp)"
+  - "Heroic Effort (PF Freeport Comp)"
+  - "Horrific Summoning (PF Freeport Comp)"
+  - "Improved Dodge (PF Freeport Comp)"
+  - "Improved Fleet (PF Freeport Comp)"
+  - "Improved Spell Mastery (PF Freeport Comp)"
+  - "Insane Casting (PF Freeport Comp)"
+  - "Insightful Strike (PF Freeport Comp)"
+  - "Inspire Terror (PF Freeport Comp)"
+  - "Instinctive Rage (PF Freeport Comp)"
+  - "Item Affinity (PF Freeport Comp)"
+  - "Juggernaut Charge (PF Freeport Comp)"
+  - "Knife Trick (PF Freeport Comp)"
+  - "Last Ditch Effort (PF Freeport Comp)"
+  - "Life-Fueled Casting (PF Freeport Comp)"
+  - "Lightning Parry (PF Freeport Comp)"
+  - "Lingering Enchantment (PF Freeport Comp)"
+  - "Merchant's Blood (PF Freeport Comp)"
+  - "Necromantic Resonance (PF Freeport Comp)"
+  - "Overpowering Attack (PF Freeport Comp)"
+  - "Pearl Diver (PF Freeport Comp)"
+  - "Persistent Threat (PF Freeport Comp)"
+  - "Press Ganger (PF Freeport Comp)"
+  - "Preternatural Instincts (PF Freeport Comp)"
+  - "Quick Study (PF Freeport Comp)"
+  - "Rallying Cry (PF Freeport Comp)"
+  - "Razor Tongue (PF Freeport Comp)"
+  - "Read Soul (PF Freeport Comp)"
+  - "Reckless Attack (PF Freeport Comp)"
+  - "Resounding Strike (PF Freeport Comp)"
+  - "Restless Mind (PF Freeport Comp)"
+  - "Rope Monkey (PF Freeport Comp)"
+  - "Run 'im Through (PF Freeport Comp)"
+  - "Scoundrel's Luck (PF Freeport Comp)"
+  - "Sea Legs (PF Freeport Comp)"
+  - "Second Wind (PF Freeport Comp)"
+  - "Shadowcaster (PF Freeport Comp)"
+  - "Shanghai (PF Freeport Comp)"
+  - "Shrug it Off (PF Freeport Comp)"
+  - "Skill Expertise (PF Freeport Comp)"
+  - "Spontaneous Transmutation (PF Freeport Comp)"
+  - "Superior Expertise (PF Freeport Comp)"
+  - "Swashbuckling (PF Freeport Comp)"
+  - "Troll Blood (PF Freeport Comp)"
+  - "Uncanny Instincts (PF Freeport Comp)"
+  - "Unhinged (PF Freeport Comp)"
+  - "Weapon Display (PF Freeport Comp)"
+  - "Words of Power (PF Freeport Comp)"
+RWtopicId: "Topic_11101"
+---
+# Freeport Feats
+## Overview
+---
+## Governed Content
+- [[Acrobatic Attack (PF Freeport Comp)]]
+- [[Agile Riposte (PF Freeport Comp)]]
+- [[Aligned Summoning (PF Freeport Comp)]]
+- [[Armed to the Teeth (PF Freeport Comp)]]
+- [[Armlock (PF Freeport Comp)]]
+- [[Blasphemous Aura (PF Freeport Comp)]]
+- [[Blinding Strike (PF Freeport Comp)]]
+- [[Blood of Pirates (PF Freeport Comp)]]
+- [[Bloody Fists (PF Freeport Comp)]]
+- [[Body Shield (PF Freeport Comp)]]
+- [[Born Marine (PF Freeport Comp)]]
+- [[Brilliant Tactician (PF Freeport Comp)]]
+- [[Burst of Activity (PF Freeport Comp)]]
+- [[Canny Charge (PF Freeport Comp)]]
+- [[Cheat Death (PF Freeport Comp)]]
+- [[Chill Hand (PF Freeport Comp)]]
+- [[Combat Surge (PF Freeport Comp)]]
+- [[Combat Throw (PF Freeport Comp)]]
+- [[Counterstrike (PF Freeport Comp)]]
+- [[Crab's Rush (PF Freeport Comp)]]
+- [[Crack Shot (PF Freeport Comp)]]
+- [[Dark Lady's Kiss (PF Freeport Comp)]]
+- [[Dead-Eye Shot (PF Freeport Comp)]]
+- [[Desperate Lunge (PF Freeport Comp)]]
+- [[Dimension Drop (PF Freeport Comp)]]
+- [[Dirty Spellcasting (PF Freeport Comp)]]
+- [[Disciplined Warrior (PF Freeport Comp)]]
+- [[Divine Blessing (PF Freeport Comp)]]
+- [[Domain Specialization (PF Freeport Comp)]]
+- [[Double Kick (PF Freeport Comp)]]
+- [[Drac Bloodline (PF Freeport Comp)]]
+- [[Dreadful Blow (PF Freeport Comp)]]
+- [[Entangle Weapon (PF Freeport Comp)]]
+- [[Evasive Maneuvers (PF Freeport Comp)]]
+- [[Eyes in the Back of Your Head (PF Freeport Comp)]]
+- [[False Attack (PF Freeport Comp)]]
+- [[Fearsome Glare (PF Freeport Comp)]]
+- [[Filthy (PF Freeport Comp)]]
+- [[Firearms Drill (PF Freeport Comps)]]
+- [[Firearms Proficiency (PF Freeport Comp)]]
+- [[Flamboyant Display (PF Freeport Comp)]]
+- [[Font of Life (PF Freeport Comp)]]
+- [[Fool's Fortune (PF Freeport Comp)]]
+- [[Formation Fighting (PF Freeport Comp)]]
+- [[Fortified Mind (PF Freeport Comp)]]
+- [[Francisco's Bloodline (PF Freeport Comp)]]
+- [[Frenzied Resilience (PF Freeport Comp)]]
+- [[Fueled by Hate (PF Freeport Comp)]]
+- [[Furious Strike (PF Freeport Comp)]]
+- [[Greater Bond (PF Freeport Comp)]]
+- [[Greater Combat Throw (PF Freeport Comp)]]
+- [[Gut Shot (PF Freeport Comp)]]
+- [[Hardy Stock (PF Freeport Comp)]]
+- [[Harrowing Surge (PF Freeport Comp)]]
+- [[Heroic Effort (PF Freeport Comp)]]
+- [[Horrific Summoning (PF Freeport Comp)]]
+- [[Improved Dodge (PF Freeport Comp)]]
+- [[Improved Fleet (PF Freeport Comp)]]
+- [[Improved Spell Mastery (PF Freeport Comp)]]
+- [[Insane Casting (PF Freeport Comp)]]
+- [[Insightful Strike (PF Freeport Comp)]]
+- [[Inspire Terror (PF Freeport Comp)]]
+- [[Instinctive Rage (PF Freeport Comp)]]
+- [[Item Affinity (PF Freeport Comp)]]
+- [[Juggernaut Charge (PF Freeport Comp)]]
+- [[Knife Trick (PF Freeport Comp)]]
+- [[Last Ditch Effort (PF Freeport Comp)]]
+- [[Life-Fueled Casting (PF Freeport Comp)]]
+- [[Lightning Parry (PF Freeport Comp)]]
+- [[Lingering Enchantment (PF Freeport Comp)]]
+- [[Merchant's Blood (PF Freeport Comp)]]
+- [[Necromantic Resonance (PF Freeport Comp)]]
+- [[Overpowering Attack (PF Freeport Comp)]]
+- [[Pearl Diver (PF Freeport Comp)]]
+- [[Persistent Threat (PF Freeport Comp)]]
+- [[Press Ganger (PF Freeport Comp)]]
+- [[Preternatural Instincts (PF Freeport Comp)]]
+- [[Quick Study (PF Freeport Comp)]]
+- [[Rallying Cry (PF Freeport Comp)]]
+- [[Razor Tongue (PF Freeport Comp)]]
+- [[Read Soul (PF Freeport Comp)]]
+- [[Reckless Attack (PF Freeport Comp)]]
+- [[Resounding Strike (PF Freeport Comp)]]
+- [[Restless Mind (PF Freeport Comp)]]
+- [[Rope Monkey (PF Freeport Comp)]]
+- [[Run 'im Through (PF Freeport Comp)]]
+- [[Scoundrel's Luck (PF Freeport Comp)]]
+- [[Sea Legs (PF Freeport Comp)]]
+- [[Second Wind (PF Freeport Comp)]]
+- [[Shadowcaster (PF Freeport Comp)]]
+- [[Shanghai (PF Freeport Comp)]]
+- [[Shrug it Off (PF Freeport Comp)]]
+- [[Skill Expertise (PF Freeport Comp)]]
+- [[Spontaneous Transmutation (PF Freeport Comp)]]
+- [[Superior Expertise (PF Freeport Comp)]]
+- [[Swashbuckling (PF Freeport Comp)]]
+- [[Troll Blood (PF Freeport Comp)]]
+- [[Uncanny Instincts (PF Freeport Comp)]]
+- [[Unhinged (PF Freeport Comp)]]
+- [[Weapon Display (PF Freeport Comp)]]
+- [[Words of Power (PF Freeport Comp)]]
+
+
+---
+## Tags
+#Source/Pathfinder-Freeport-Companion
+
