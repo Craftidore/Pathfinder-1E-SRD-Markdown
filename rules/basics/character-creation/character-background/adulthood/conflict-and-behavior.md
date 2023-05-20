@@ -1,0 +1,4 @@
+## Duty and Responsibilities
+
+**Source** [_Ultimate Campaign pg. 13_](http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign)  
+As you grew from a child into someone more physically capable and psychologically aware, your family may have requested more of your help. What duties and responsibilities did you gain? Were these tasks primarily physical or mental in nature? Were they focused toward a profession or were you asked to take on responsibilities of a different or unusual nature? In what way did these activities improve your mind, body, or spirit? If other creatures (such as beasts or monsters) raised you, what was expected of you in that culture?

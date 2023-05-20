@@ -1,0 +1,6 @@
+## First Love
+
+**Source** [_Ultimate Campaign pg. 13_](http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign)  
+As adolescents start to physically mature, they make their first experimental attempts at courtship. These attempts are often deeply felt, passionate, awkward, and unforgettable. Your first experience with courtship may grant you enormous confidence or sap it all away, giving rise to feelings of shame and inadequacy. Maybe you never recovered from the emotional scars of adolescence, always after bearing the pain and humiliation, barricading your heart against emotion. Or maybe you dismissed your own crushed feelings and become a careless charmer or philanderer, always courting one or more lovers, but remaining emotionally distant from all.  
+  
+Who was your first love? Did you hold mutual admiration for one another, or did you pine from afar? What profession and social class were his or her parents? How long did it last? Do you know where this person is now, and do you still think about him or her? What lessons did you learn from the experience, and was it a source of joy or pain? Did you court many others after this relationship?

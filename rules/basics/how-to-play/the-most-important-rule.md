@@ -1,0 +1,4 @@
+## The Most Important Rule
+
+**Source** [_PRPG Core Rulebook pg. 9_](http://paizo.com/pathfinderRPG/v5748btpy88yj)  
+The rules in this book are here to help you breathe life into your characters and the world they explore. While they are designed to make your game easy and exciting, you might find that some of them do not suit the style of play that your gaming group enjoys. Remember that these rules are yours. You can change them to fit your needs. Most Game Masters have a number of “house rules” that they use in their games. The Game Master and players should always discuss any rules changes to make sure that everyone understands how the game will be played. Although the Game Master is the final arbiter of the rules, the Pathfinder RPG is a shared experience, and all of the players should contribute their thoughts when the rules are in doubt.

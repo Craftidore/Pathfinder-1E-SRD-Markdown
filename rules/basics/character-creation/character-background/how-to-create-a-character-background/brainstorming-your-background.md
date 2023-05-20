@@ -1,0 +1,6 @@
+## Brainstorming Your Background
+
+**Source** [_Ultimate Campaign pg. 8_](http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign)  
+Before you start working on your background, roll your ability scores and select your race and class. With this basic information determined, you can focus on creating a backstory consistent with those key elements, brainstorming the details of your background in a way that makes sense with your race, class, and attributes.  
+  
+The following sections of this chapter examine your life leading up to the beginning of the campaign, starting from your birth, proceeding through the formative experiences of childhood and adolescence, and ending with the development of your worldview in early adulthood. Each section poses a number of questions to consider. You don’t need to know the answers to all of these questions, and some things you might prefer to discover as the game proceeds. However, you may find it easier to step into your character’s head if you spend some time contemplating these questions, simply because you’ll have more information to draw from. These questions are prompts to focus your imagination toward certain points in your life in order to create strong roleplaying and story hooks for you, your group, and your GM.
