@@ -4,7 +4,7 @@
 - [[items]]
 - [[exploration]]
 - [[combat]]
-- [[magic]]
+- [[magic-rules]]
 - [[gamemastering]]
 - [[environment]]
 - [[misc]]
