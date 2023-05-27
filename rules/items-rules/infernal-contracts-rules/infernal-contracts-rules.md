@@ -1,0 +1,15 @@
+# Infernal Contracts
+
+**Source** [_Book of the Damned pg. 5_](http://paizo.com/products/btpy9tok)  
+The best known and most direct form of diabolical corruption, infernal contracts form a binding tie between a devil and a mortal. Such contracts take a variety of forms, typically parodying the laws and terminology of the mortal's society. An infernal contract takes the form of an offer, usually for extravagant goods or seemingly impossible services, presented by a devil to a mortal who has summoned it for exactly such a purpose. These contracts are exceptionally powerful and can alter lives—or even reality—in diverse ways for those who agree to sign such hellish documents. In return for fulfilling the terms of the contract, the devil receives the mortal's soul when the signer dies or at whatever time the contract specifies. While a mortal's soul is nearly always the target of such contracts, oftentimes devils occlude their desires, either within confusing legalese, sub-articles, and addenda, or by tailoring their fulfillment of the contract to provide the contractee with the means to damn himself. Thus, some infernal contracts are simple accounts of a blasphemous exchange, while others are rambling documents cloaking diabolical intentions. While more complex agreements are better at hiding a devil's desires, they might offer clever mortals opportunities to escape damnation.  
+  
+Infernal contracts are an expression of a timeless truth: mortals always desire more. Many mortals dream of worldly wealth and otherworldly power, but in the vast planar scheme, their existences are brief and their bargaining power limited. The devils of Hell offer a way around such limitations. Banking on mortals' ignorance of how the multiverse works and the true value of their intangible souls, devils offer mortals the fulfillment of this dream for what appears to be no price at all. To seal the bargain and prove their honesty, they create officious infernal contracts—elaborate written promises no less binding than the chains of Hell.  
+  
+Of Hell's contract makers, [phistophiluses](https://www.aonprd.com/MonsterDisplay.aspx?ItemName=Contract%20Devil%20(Phistophilus))-also called contract devils—are considered the finest authors of infernal bargains. The rulers of Hell—Asmodeus, the archdevils, the infernal dukes, and the malebranche—are also storied deal makers. But infernal contracts are not the purview of contract writers alone. The forces of Hell stand as a largely unified threat against mortal life, and most specimens among the legions of devilkind can requisition tools from a vast, treacherous arsenal. Thus, a mortal encounter with nearly any devil has the potential to end in an offer: What would you give for greatness?
+
+- [[variant-contracts|Variant Contracts]]
+- [[negotiating-contracts|Negotiating Contracts]]
+- [[creating-contracts|Creating Contracts]]
+- [[researching-contracts|Researching Contracts]]
+- [[escaping-contracts|Escaping Contracts]]
+- [[sample-contracts|Sample Contracts]]

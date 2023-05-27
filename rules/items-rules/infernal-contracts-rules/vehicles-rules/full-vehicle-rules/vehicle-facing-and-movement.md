@@ -1,0 +1,10 @@
+## Vehicle Facing and Movement
+
+**Source** [_Ultimate Combat pg. 172_](http://paizo.com/pathfinderRPG/v5748btpy8mcz)  
+Vehicles do not move like creatures, even when they use creatures as propulsion. They tend to move in the direction of their forward facing, and do so quickly.  
+  
+**Facing**: Unlike creatures, most vehicles have a forward facing. The facing of the vehicle determines its best path of propulsion. Vehicles are very good at moving in the direction of their forward facing, but it takes time and skill to move them in other directions. A horse-pulled wagon moves forward quickly and with ease, but turning a corner requires proper timing and a crack of the whip. A ship propelled by an air current can take a great deal of effort to stop, especially once it has reached top speed. Vehicle facing represents the effect of inertia on vehicles.  
+  
+When driven correctly, vehicles can move straight ahead, diagonally, or a mix of both within the same movement. Skilled drivers can make a vehicle zigzag in a forward direction with ease.  
+  
+**Movement**: Vehicles have a maximum speed and an acceleration listing. The speed is the fastest rate the vehicle can travel. When a creature or creatures pull a vehicle, the vehicle’s maximum speed is equal to twice the speed of the creature providing the propulsion, and its acceleration is the creature’s speed. (Teams of mixed creature types use the slowest creature’s speed.) A vehicle cannot start at its maximum speed, unless it has some form of high-level magic propulsion. Each round, the driver can attempt to accelerate the vehicle or decelerate it by a rate equal to its acceleration (see Driving Vehicles below). The rate at which a vehicle is currently moving is called its current speed. 

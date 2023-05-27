@@ -1,0 +1,4 @@
+## Extradimensional Spaces
+
+**Source** [_PRPG Core Rulebook pg. 501_](http://paizo.com/pathfinderRPG/v5748btpy88yj)  
+A number of spells and magic items utilize extradimensional spaces, such as [[rope-trick|rope trick]], a [[bag-of-holding|bag of holding]], a [[handy-haversack|handy haversack]], and a [[portable-hole|portable hole]]. These spells and magic items create a tiny pocket space that does not exist in any dimension. Such items do not function, however, inside another extradimensional space. If placed inside such a space, they cease to function until removed from the extradimensional space. For example, if a _bag of holding_ is brought into a _rope trick_, the contents of the _bag of holding_ become inaccessible until the _bag of holding_ is taken outside the rope trick. The only exception to this is when a _bag of holding_ and a _portable hole_ interact, forming a rift to the [[astral-plane|Astral Plane]], as noted in their descriptions.
