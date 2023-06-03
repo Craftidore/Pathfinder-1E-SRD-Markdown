@@ -1,7 +1,7 @@
 
 - [[basics]]
 - [[skills]]
-- [[items]]
+- [[items-rules]]
 - [[exploration]]
 - [[combat]]
 - [[magic-rules]]
